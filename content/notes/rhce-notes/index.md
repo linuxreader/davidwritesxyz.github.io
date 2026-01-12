@@ -31,7 +31,7 @@ summary: "Red Hat RHCE 8 Cert Guide RHCE notes"
 - [Loops and Items](loopsanditems/)
 - [Optimizing Ansible Processing](optimizingansibleprocessing/)
 - [Packages, Repositories, and Subscriptions](packagesrepositoriesandsubscriptions/)
-- [Storage, Partitions, and LVM](storagepartitionsandlvm/index.md)
+- [Storage, Partitions, and LVM](storagepartitionsandlvm/)
 - [Playbooks](playbooks/)
 - [Roles](roles/)
 - [SeLinux](selinux/)

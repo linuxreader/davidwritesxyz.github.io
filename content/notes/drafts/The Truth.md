@@ -5,7 +5,6 @@ draft: true
 
 ![The Truth](https://m.media-amazon.com/images/I/61IVFSjZE5L._SL1500_.jpg?classes=inline&height=175px)
 
-This was a very insightful book. Knowing the balance between pain and pleasure is essential to living in modern day society. Where scarcity is no longer an issue. Our brains are not adapted for a world of abundance. So the forces that kept us alive for thousands of years, are now making us miserable. Consider this a primer into understanding addiction and over consumption. And steps you can take to mitigate this. 
 
 ---
 

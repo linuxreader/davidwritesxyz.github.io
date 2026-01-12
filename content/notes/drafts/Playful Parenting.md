@@ -28,15 +28,15 @@ Use play to help solve Problem behaviors.
 
 Play is one of the best ways available to heal from those hurts and to process that new information.
 
-Happy play can spontaneously heal minor upsets, but when children are stuck inside their emotional distress, they have trouble playing happily.
+xHappy play can spontaneously heal minor upsets, but when children are stuck inside their emotional distress, they have trouble playing happily.
 
-Even the healthiest, best-loved children will retreat into these two fortresses when they feel scared, overwhelmed, or abandoned.
+xEven the healthiest, best-loved children will retreat into these two fortresses when they feel scared, overwhelmed, or abandoned.
 
 Signs of isolation and powerlessness.
-- play is wilder than usual, or more reckless.
+- Play is wilder than usual, or more reckless.
 - Seem unable to play happily, and instead resort to hiding or attacking or annoying you.
 - Just going through the motions of life, without any real joy or spark.
-- Repeating the same words or games over and over without any fresh ide as and without having much fun.
+- Repeating the same words or games over and over without any fresh ideas and without having much fun.
 
 Play is one of the best ways to engage with children, pulling them out of emotional shutdown or misbehavior, to a place of connection and confidence.
 
@@ -84,7 +84,7 @@ Playfulness helps them think for themselves, even about serious topics.
 
 When young people have had effective adult participation in play, they can then get even more enjoyment from playing on their own.
 
-WHY IT\'S HARD FOR ADULTS TO PLAY
+## WHY IT'S HARD FOR ADULTS TO PLAY
 
 We have lost much of our ability to play—through lack of practice, and through adult preoccupations and worries.
 
@@ -104,7 +104,7 @@ Then, just when they need us most—when they act up and misbehave and call us n
 
 We momentarily forget how fragile our little ones are, just as they forget about cooperation or sharing or calming down or following the rules.
 
-I CALL IT FATHERING
+## I CALL IT FATHERING
 
 If men do not keep on speaking terms with children, they cease to be men, and become merely machines for eating and for earning money.
 
@@ -118,8 +118,7 @@ And children benefit from a thoughtful, respectful adult who can be seen as an a
 
 The first thing to notice is what children need.
 
-Do they need help figuring something out? Are they too sleepy or hungry to think clearly? Do two
-children need a break from each other for a while? Do they need to be outside where they can be louder and wilder? Maybe they need more attention.
+Do they need help figuring something out? Are they too sleepy or hungry to think clearly? Do two children need a break from each other for a while? Do they need to be outside where they can be louder and wilder? Maybe they need more attention.
 
 Tell an interesting story from your day; they might respond with a story of their own.
 
@@ -141,8 +140,9 @@ They retreat into towers of isolation when they feel lonely, afraid, or overwhel
 
 When everything is going smoothly, Playful Parenting is about having fun together. The rest of the time, Playful Parenting is all about drawing children out of their isolation.
 
-The child\'s need for attachment with them is like a cup that is emptied by being hungry,
-tired, lonely, or hurt. The cup is refilled by being loved, fed, comforted, and nurtured.
+## Empty cup
+
+The child\'s need for attachment with them is like a cup that is emptied by being hungry, tired, lonely, or hurt. The cup is refilled by being loved, fed, comforted, and nurtured.
 
 Insecurely attached children are more likely to be reckless than truly adventurous. Their cup is empty, or nearly empty.
 
@@ -150,8 +150,7 @@ Between return visits for refills, children with a secure attachment can soothe 
 
 When they are with strangers or day-care providers, securely attached children “save up” their bad feelings for when they reunite with their primary attachment figure.
 
-Securely attached children can get their cup refilled from friendships, from having fun, or from
-learning something new and interesting in school.
+Securely attached children can get their cup refilled from friendships, from having fun, or from learning something new and interesting in school.
 
 When children are bouncing off the walls think of them as racing around trying desperately to get a refill.
 
@@ -161,6 +160,7 @@ Acting up and getting punished can be a way of getting a bit of a refill when it
 
 The usual response, to ignore these children, makes them only more desperate for a refill.
 
+## Leaky cups
 Children who seem to have leaky cups are annoying to adults.
 
 The more you cuddle them, the more they cling to you; the more you give, the more they seem to need. They never get a full refill because their leaky cup can\'t contain everything they get and store it up for later.
@@ -195,88 +195,9 @@ Engage their children age three, or six, or even older, in soulful eye contact.
 
 Persist through the initial rejections, and get to that deeper level of closeness, they find it to be one of the most rewarding exercises.
 
-Climbed onto my lap and sat there. Neither of us said a word for more than half an hour.
+You'll not only have fun, you'll notice an improvement in your relationship with them. 
 
-We were truly close. When everyone else came down for breakfast, I said, “Great talking to you.” We both laughed, but I meant it.
-
-With no pressure to communicate my way—using words—we were able to connect just fine.
-
-Boys are especially prone to feeling isolated. And, of course, their aggressive play tends to isolate them more.
-
-Hey, you found the love gun. when I get shot with that gun, I just have to *love* the person who shot me.
-
-And I opened up my arms wide and took a step toward him with a big, goofy, lovestruck grin on my face.
-
-Putting my hand to my heart and making up bad poetry about my lifelong devotion to her.
-
-When children\'s play turns to kicking, punching, biting, or spitting. “You got me with a love kick, now I have to hug you.
-
-Sometimes they\'ll say, “No, this is a hate gun.” I just say, “Oh, it must be broken because it\'s making me love you.”
-
-This approach is only for aggressive *play*, not for situations when children want to directly express their feelings of anger or frustration.
-
-In these cases, it is very important to hear them out, to allow the feelings to come out, rather than try to cheer them up or cajole them out of feeling bad.
-
-Holding them close rather than by sending them away.
-
-Whether playing or listening or holding, the key is to push for a close and meaningful connection.
-
-Love gun has infinite variations: If they barricade themselves in a room, I slip love notes under the door and beg and plead to be allowed in. If they laugh and start sending messages back, I know I\'m
-on the right track. If they come at me with both arms swinging, I say, “Oh, you want to dance, I\'d love to dance,” and I take both their hands and start dancing and singing.
-
-All of those behaviors adults find so annoying or threatening are just attempts to make a human connection, but this game shows how true it is.
-
-Chase, tag, follow the leader, and hide-and-seek are obvious examples. Play these games with your child—you\'ll not only have fun, you\'ll notice an improvement in your relationship with them. 
-
-### Game: you'll never get away
-
-Say, “You\'ll never be able to get away from me, never in a million years!” The child comes over to check this out. I hold on to them, and after a little struggle I let them escape.
-
-To make it more interesting, I pretend not to notice.
-
-For a minute that they have escaped: “You see, you\'ll never get away…. Hey, how did you do that?
-
-If they like it (and I have had success with this game with two-year-olds up to eleven-year-olds), I keep it up, saying, “Okay, you think you\'re so strong. This time I will use the famous Franklinheimer Maneuver; no one has ever gotten out of that,”
-
-With some children, I gradually increase the resistance so they must increase the effort it takes them to get away.
-
-They seem to thrive on the growing challenge.
-
-If they don\'t like to be held, I pretend to hold them with my “psychic powers” and dare them to try to escape.
-
-It works best when the adult provides the insistence on connecting, but the child actually sets the terms of how the two are going to connect.
-
-Mother pointed out the need to connect but didn\'t impose any particular way. Instead she listed some vague possibilities, just to explain the concept, until her son jumped in with an idea.
-
-Shhh, don\'t tell anyone my secret name—only my closest friends call me Stinker.”
-
-Hey, you gave away my secret name, waaah!”
-
-You\'re a stinker, and I hate you.
-
-Oh, I had a great time playing with you, too, and I really like you, too. It\'s hard to say good-bye.
-
-The key to unlocking the tower was just translating his insult into a request for some connection.
-
-Wrote love notes and passed them under the door.
-
-Read them out loud to him. I would say, “I love you; please come out and play,”
-
-Reconnection takes persistence. One of my nieces and I have a little ritual when I see her. I say hi to her, and she ignores me. I keep saying hi, in a relaxed and cheerful tone, until she says hi back. We then laugh about how many times it took. 
-
-Sometimes I'll try saying it in funny voices. I insist on contact, but it is a gentle insistence, not a harsh and punitive one.
-
-This is a good game for us because I love her feistiness (her favorite expression last year was “I don\'t want to, I don\'t have to!”), but I also want to make sure we connect. Eventually, we always do.
-
-When a child pretends to shoot you and says “You\'re dead,” try falling over dead, in a dramatic death scene, right on top of him.
-
-Grab his leg and beg him to bring you to a doctor. If the child squirms away, go into even more dramatic death throes that bring you right back on top (as long as the young person giggles and enjoys the game, of course).
-
-If your daughter calls you a stupid idiot, try being so stupid you can't tell her from a pillow, and try to take a nap on top of her.
-
-When preteens act cool, pretending you don\'t exist, ask them if you can have the gum they are chewing so you can get close to them any way you possibly can. That\'s guaranteed to get a rise out of them. (You don\'t have to really chew it if they do hand it over, unless you are a stickler for full authenticity.
-
-Or start a pillow fight with them or a wrestling match
+Reconnection takes persistence. 
 
 Even the most disconnected behavior usually leaves some window open somewhere for connection.
 
@@ -284,31 +205,11 @@ They need to feel connected and confident before they can make any positive chan
 
 Get down on the floor and play what they want to play.
 
-With older children, tuning in may mean sitting with them and listening to the music they like and watching the movies they rent.
-
-Our first step was to have family cuddles.
-
 Play creates an opportunity to express love and nurturing, gently repairing the wounds of earlier conflicts or upsets.
 
-The mom could say things to the stuffed animals she might not be able to say directly to the child, such as, “We had a hard day; I hope you have sweet dreams.
+## Powerlessness
 
-The child might say to one of them, “You've been very naughty; you have to sleep under the bed,”
-allowing her mom the chance to say, “Oh, I think she feels real sorry and she could be in bed with the others; what do you think?
-
-At the same time that I was trying to get her to exert her power and build her physical confidence, I was also encouraging her not getting so caught up in the competition that you forget whose side
-you are on (theirs!).
-
-Using an exaggerated, obnoxious voice, saying, “Why don\'t you just give up? You'll never make it to the couch.”
-
-I went to the power room and got more power.
-
-She had discovered a self-sustaining source of confidence and power.
-
-The power room is an example of using play—in this case, wrestling—to promote confidence.
-
-Playful Parenting helps children out of the traps of powerlessness and pseudo-power, tipping the balance in favor of true power, confidence, and competence.
-
-Recognize and even enjoy the burst in independence, while providing the safety and structure of clear limits.
+Playful Parenting helps children out of the traps of powerlessness and pseudo-power, tipping the balance in favor of true power, confidence, and competence
 
 Powerlessness creeps in as a result of the setbacks children experience as they strive to feel confident and self-assured.
 
@@ -319,18 +220,13 @@ The combined effect of these feelings leads children to retreat to the fortress 
 Games to play with these themes:
 
 - When I am called a poopyhead, I say, “Shhh, don't tell everybody my secret name
-	- Like clockwork, they shout out, to whoever may be listening, “Larry's secret name is Poopyhead!” I say, “Ha-ha—I was just kidding, my *real* secret name is Rice Krispies Cake”
-	- The sillier the better, since the object is to break the tension about name-calling with some serious giggling).
-	- “Larry's secret name is Rice Krispies Cake!” “No, no, I beg you, *pleeeease* don't tell anyone!” I've played this game with some  children for hours.
 
 - The poopyhead game: 
-	- The child says some word that mom or dad doesn't want him or her to say—usually a body part or a bathroom word or an obscenity. 
-	- I say, “Well, you can say that all you want, but if you say Bobbledyboo you're gonna be in big trouble.” “Bob-bledyboo!” “Oh, ho, ho,” I say, “now you\'re in trouble.” I say this lightly, not in a mean, scary way, as I chase the child around the room.
-	- They not only giggle like crazy and love the game, but they actually stop being so obsessed with saying those other words.
+	- The child says some word that mom or dad doesn't want him or her to say. I say, “Well, you can say that all you want, but if you say Bobbledyboo you're gonna be in big trouble.” 
 	- Lets children experiment with power—the power of words and the power to break rules. Instead of having them experiment on other children, which always causes hurt feelings, let them try out that name-calling and bathroom humor on you. This helps us step out of the power struggle and into play.
 
 Stop and go game:
-- Dad started a few feet away, holding the nail scissors. He told her that when she said “stop,” he would stop immediately and he wouldn't go again until she said “go.” If she didn't say “go” after a short while, he could say it himself 
+- Dad started a few feet away, holding the nail scissors. He told her that when she said “stop,” he would stop immediately and he wouldn't go again until she said “go.” If she didn't say “go” after a short while, he could say it himself.
 - But he would still have to stop when she said “stop.” She couldn't just say “stop-stop-stop-stop” real fast (this rule was added later, as she tried to test the limits of the game). When she said “stop,” he would stop in his tracks as if he were frozen.
 - Which always brought a giggle or two (already they were way ahead, since nail-cutting had never been associated with giggles before).
 - When she said “go” he would inch toward her.
@@ -341,9 +237,11 @@ Stop and go game:
 
 They conveniently forget the amount of time they are already spending fighting or pleading or being annoyed.
 
-I believe it is always worth the investment of time up front, even if your ultimate goal is to have to spend less time on these mundane activities
+It is always worth the investment of time up front, even if your ultimate goal is to have to spend less time on these mundane activities.
 
 It can become such a fun game that it no longer counts as a chore.
+
+## Competition
 
 Not protected from every little bump and bruise, but not toughened up either.
 
@@ -381,6 +279,8 @@ Any game where the idea is to have fun with me losing or you losing or pretendin
 
 Extreme emphasis on winning, losing, success, and failure has pervaded childhood, even childhood play.
 
+## Criticism
+
 Adults are famous for taking all the fun and playfulness out of learning swimming or math. Even worse is our tendency to criticize children.
 
 Criticism is a nasty habit, difficult to break. We feel as if we are being so helpful, but it is really no help. All it does is install a little voice in their head—or sometimes a very loud voice—that will criticize them ruthlessly and relentlessly for the rest of their lives.
@@ -389,8 +289,7 @@ Children do this all the time—putting down their own work or their own abiliti
 
 A smile or a nod. This lets them ignore the critical voice and go on with their creative flow or their learning process.
 
-If the critical voice inside stops them from even trying, if it convinces them to give up on drawing or soccer or math or horseback riding or writing poetry, then we have to do more. We have to insist
-that they keep at it.
+If the critical voice inside stops them from even trying, if it convinces them to give up on drawing or soccer or math or horseback riding or writing poetry, then we have to do more. We have to insist that they keep at it.
 
 That the critical voice is *not* the truth or the last word. Faced with a firm contradiction—“I know you can do it… you're a great artist”—the critical voice will often make a last gasp for control.
 
@@ -398,8 +297,7 @@ When we say this to children, they often cry or yell at us or insist they are st
 
 All we have to do is listen, and maintain our confidence in them, while they release these feelings. 
 
-This may not sound too playful, but listening patiently to these outbursts is a crucial part of Playful
-Parenting.
+This may not sound too playful, but listening patiently to these outbursts is a crucial part of Playful Parenting.
 
 The process of growing up and learning things and mastering new skills brings lots of frustration, and this frustration is released by giggles (when you're lucky) or by tears (when it's too strong a feeling to come out in laughter).
 
@@ -483,14 +381,13 @@ Sometimes all you have to do to get giggles is say “thank you” when you get 
 
 In spite of how well we may love them, they often feel unloved or unlovable.
 
-Funny exaggerations of love and affection are a good way for many parents and children to express
-their deep feelings for each other. It fills the empty cup, because the goofiness of it catches them off guard.
+Funny exaggerations of love and affection are a good way for many parents and children to express their deep feelings for each other. It fills the empty cup, because the goofiness of it catches them off guard.
 
 Imitation, if it is done thoughtfully, can bring a terrific sense of closeness. If done in a mean-spirited way, it builds walls between people.
 
 You can tell which way it is leaning by whether the child giggles or not. Don't imitate children to annoy them or teach them a lesson. Instead, do it to join them, to follow their lead and express your deep desire to be close to them.
 
-### Laugh together
+## Laugh together
 
 If we invite children to laugh at *us* during playtimes, they are less likely to laugh at other people in a rude way. So fall down a lot and pretend to cry loudly, “Waaah".
 
@@ -513,6 +410,8 @@ That usually ends in conflicts and upsets. No one comes out ahead when one child
 By making their escape harder and harder, but still letting them get away in the end, I am playing at the edge of the child's development.
 
 If the real bathroom words or swear words bother you, make up your own words, make them “forbidden,” and then play at being shocked and horrified when you hear them.
+
+## Mock threats
 
 One thing I do when I start to get a little bit frustrated with a young person, as an alternative to saying “I'm going to send you to your room” or something like that, is to make a mock threat that lightens up the situation and turns it into play.
 
@@ -553,29 +452,28 @@ For most difficulties between parents and children, the real problem is lack of 
 - When children play the good guy, they don't want the bad guy to be *too* powerful. So I started singing a song: “I'm Captain Lex von Vader Hook, I'm the dumbest bad guy in town….” 
 - I made it clear that no matter what powers I had, or no matter what character he was, I would *try* to get him, but he would *always* win.
 
-I realize I am asking a lot of parents when I suggest that we lose our dignity. A lot of adults have a hard time just loosening up. We're expected to be serious at work and just about everywhere else, but our children are begging for us to snap out of it and have some fun.
+A lot of adults have a hard time just loosening up. We're expected to be serious at work and just about everywhere else, but our children are begging for us to snap out of it and have some fun.
 
 ### Game: ha-ha
 - Standing very close, face-to-face, heels off the ground, bouncing lightly on the balls of your feet. Each person takes a turn saying “Ha!” in a friendly voice, back and forth, until both are howling with real laughter.
 
 Try to have fun.
 
-Setting aside time for high energy fun, complete with giggles, can be a new way to meet
-everyone\'s needs. The hardworking mom or dad gets to unwind, the child gets some exuberant playtime, and everyone gets to reconnect.
+Setting aside time for high energy fun, complete with giggles, can be a new way to meet everyone\'s needs. The hardworking mom or dad gets to unwind, the child gets some exuberant playtime, and everyone gets to reconnect.
 
 Your children will be forgiving and patient, but they do want you to loosen up.
 
 She's over saying she hates us, but we're not.” Saying this out loud eased our tensions, and we laughed about it.
 
+## When feelings pile up
+
 Sudden shifts—from giggles to tears or tantrums—happen because the child has a pile of backed-up feelings. She keeps the door to these feelings tightly shut. The fun play opens the emotional door to let out the giggles, and a flood of other feelings come pouring out after.
 
 Once the tears start, they may last a long time. Very few parents realize how healthy it is for children to get this chance to shed some of that backed-up supply of uncried tears.
 
-We make the mistake of fussing or yelling at the child, because the tears or outbursts seem
-to be over nothing.
+We make the mistake of fussing or yelling at the child, because the tears or outbursts seem to be over nothing.
 
-But old feelings latch on to the littlest excuse to come out from hiding, especially after a long fun playtime. If we can just sit with them while they are releasing these feelings, they will eventually
-emerge happier children.
+But old feelings latch on to the littlest excuse to come out from hiding, especially after a long fun playtime. If we can just sit with them while they are releasing these feelings, they will eventually emerge happier children.
 
 All the child needs is to be cuddled (if she is crying) or listened to quietly (if she is tantruming), or held gently but firmly (if she is kicking and fighting in a way that might hurt somebody). 
 
@@ -589,8 +487,7 @@ She is using that bump as an opportunity to release old unfelt feelings, now tha
 
 Often, all that is necessary is a brief pause to pay attention to that burst of feelings, then back to fun play—which becomes even more fun now that the child is no longer carrying that load of painful emotion.
 
-Alexandra! I'm going to look at you!” I proceeded to put my eyes close to her elbow and her head (“So I can look at you really closely”), and to make my eyes bug out from the exertion of looking at
-her so hard. Both of us giggled the whole time.
+Alexandra! I'm going to look at you!” I proceeded to put my eyes close to her elbow and her head (“So I can look at you really closely”), and to make my eyes bug out from the exertion of looking at her so hard. Both of us giggled the whole time.
 
 A good school is one where you hear giggling and laughter in the halls and in the classrooms.
 
@@ -600,8 +497,6 @@ Children learn best when they are happy.
 
 Children who are less physically active need roughhousing with adults so they can explore their physical power and develop their confidence and assertiveness.
 
-Story, in which a holy man, Milarepa, is not upset or scared by the presence of demons in his cave; he just casually offers them tea until they disappear. When children show us their wild and scary sides, we need to be as persistent as Jacob and as calm as Milarepa. 
-
 If we can stay with them, physically and emotionally, we will find the cooperative, loving, joyful human being who may have been buried under a pile of angry or scary or sad or lonely feelings.
 
 Wrestling with them can help them find their true selves again.
@@ -610,7 +505,7 @@ They may need you to lose your dignity and be totally incompetent so they can fe
 
 Or you match your strength to theirs.
 
-RULES OF WRESTLING
+### RULES OF WRESTLING
 
 1.  Provide basic safety.
 2.  Find every opportunity for connection.
@@ -634,18 +529,11 @@ Look for every opportunity to increase their confidence and sense of power.
 
 Use every opportunity to play through old hurts. 
 
-If a child faced a difficult challenge earlier in the day and was not pleased with the outcome, she can replay it with you.
-
-Provide just the right level of resistance to the children\'s needs.
-
 Signs that something is amiss are lack of eye contact, giving up, blind rage, or the child's actually trying to hurt you.
 
-When the feelings are done most children exhibit a remarkable change. They look deeply into your
-eyes, they smile and laugh, they want to try something that before they felt was too difficult.
+When the feelings are done most children exhibit a remarkable change. They look deeply into your eyes, they smile and laugh, they want to try something that before they felt was too difficult.
 
 Very minor scrape or bump can make some children (and adults) want to give up. They need respectful and gentle encouragement to give it another go.
-
-Even if you think the child is pretending to be hurt, it is still important to stop—in this case, to regroup and go slower or provide less resistance.
 
 Fake cries and whimpers of pain are signs that the child feels overwhelmed and that things need to be toned down a notch or two.
 
@@ -655,17 +543,10 @@ Move toward them as if you're about to tickle, and then back off—you'll get th
 
 Aim more for giggles from the child than for superhuman physical prowess.
 
-# Left off here
-
-If you have feelings that you can't set aside, be honest about them (but be humorously honest, not *brutally* honest). In fact, the best thing to do is exaggerate them. “I am so tired, I can't stay awake
-another second. You'll have to get me onto the couch. If I wrestle one more second, I will surely
-
-die.” “Waaah, that hurt, boo-hoo! You stepped on my toe. I will never
+If you have feelings that you can't set aside, be honest about them (but be humorously honest, not *brutally* honest). In fact, the best thing to do is exaggerate them. “I am so tired, I can't stay awake another second. You'll have to get me onto the couch. If I wrestle one more second, I will surely die.” “Waaah, that hurt, boo-hoo! You stepped on my toe. I will never
 be your friend again….” “If I don\'t win, I am going to sulk all day.”
 
-you could kneel on the floor and say, “Try to knock me over.”
-
-pretended to be an ox
+You could kneel on the floor and say, “Try to knock me over.”
 
 I stood at one end of the room bragging about how strong and powerful
 and smart I was, insisting that she could never, ever get past me.
@@ -676,33 +557,25 @@ Part of the fun of this game was my taking a few seconds to keep
 bragging after she had already gotten past me. Children love it when
 you continue to brag after they\'ve beaten you, especially if you
 exaggerate a double take of shock and dismay that *somehow* they have
-once again eluded your
+once again eluded your grasp.
 
-grasp
+When young humans especially boys, play fight. They aren\'t just practicing aggression, they are practicing restraint and control as well.
 
-when young humans
-
-especially boys, play fight. They aren\'t just practicing aggression,
-they are practicing restraint and control as well
-
-death scenes when the child says “Bang bang, you\'re dead,” or to
+Death scenes when the child says “Bang bang, you\'re dead,” or to
 introduce themes of nurturing (the army medic) and caring (the devoted
 soldier buddy) into the play.
 
-some parents allow magical weapons such as wands and dragons\' teeth,
-but not imaginary guns and bullets. Trying
+Some parents allow magical weapons such as wands and dragons\' teeth,
+but not imaginary guns and bullets. 
 
-to eradicate all aggressive play always backfires. Unable to play out
-the aggressive feelings that
-
-they have inside, they may think that something is wrong with them,
-because they aren\'t ever supposed to feel angry or violent
+Trying to eradicate all aggressive play always backfires. Unable to play out
+the aggressive feelings that they have inside, they may think that something is wrong with them, because they aren't ever supposed to feel angry or violent.
 
 Billy Goats Gruff—she takes great delight in butting and kicking the
 troll off the bridge
 
 Games like Simon says, red light/green light, and so on aren\'t about
-aggression, but they *are* about control over impulses
+aggression, but they *are* about control over impulses.
 
 Another idea is to have her bite something like a rag or a doll. Then
 the parent can say, “Okay, bite harder, bite softer, bite quickly,
@@ -715,119 +588,79 @@ don\'t need more hours of sitting in front of a screen
 In rare instances, TV can be a simple resting spot, and then the child
 can return to more interesting and creative play
 
-saps the energy and enthusiasm and creativity out of children and
+Saps the energy and enthusiasm and creativity out of children and
 leaves them semicomatose on the couch
 
-bones heal faster than timidity and fearful-ness
+Bones heal faster than timidity and fearful-ness.
 
-how much better psychologically it was to give children piles of sand,
+How much better psychologically it was to give children piles of sand,
 sticks, hammers, nails, and wood, instead of games and store-bought
 toys (he would surely have railed against TV), despite the risk of
-injury
+injury.
 
-examples of how active physical play can help children:
+Examples of how active physical play can help children:
 
 *Self-soothing.* Self-soothing is the ability to comfort and calm
 yourself even if you are alone, and it is a major accomplishment of
-in-fancy—though many of us still have
-
-difficulty with it
+in-fancy—though many of us still have difficulty with it.
 
 When children have a general difficulty in calming down or recovering
 from an upset, they need lots of cuddling time. But look at what
 happens: If children can\'t settle down, they can\'t get the cuddling
-they need. Boys are especially unlikely to get all the comfort
+they need. Boys are especially unlikely to get all the comfort and cuddling they need because they don't sit still for it. 
 
-and cuddling they need because they don\'t sit still for it. Wrestling
-often helps them, since active children may do better with active
-cuddling than the sit-quietly-on-the-lap type of cuddling
+Wrestling often helps them, since active children may do better with active
+cuddling than the sit-quietly-on-the-lap type of cuddling.
 
 When children have a hard time calming down, parents are often
-hesitant about
-
-roughhousing. They are afraid that it will escalate, and that children
-won\'t be able to settle down. But these are the children who need it
+hesitant about roughhousing. They are afraid that it will escalate, and that children won't be able to settle down. But these are the children who need it
 most. You can\'t learn to settle down if you never get revved up
 
 Children with lots of energy who never get to roughhouse end up going
-wild when they do get the chance
+wild when they do get the chance.
 
-because they don\'t have any practice with calming down
+Because they don\'t have any practice with calming down.
 
-If you start to wrestle regularly, both parent and child will learn to
-do a better job of winding down
+If you start to wrestle regularly, both parent and child will learn to do a better job of winding down.
 
-three deep breaths. I find it helps to do it with them. It helps them
-breathe more deeply, and it helps adults relax, too
+Three deep breaths. I find it helps to do it with them. It helps them
+breathe more deeply, and it helps adults relax, too.
 
-Children with difficulties in self-soothing also benefit from pretend
-play with dolls, where they practice soothing the doll when it gets
-upset, by cuddling it or laying it down
+Children with difficulties in self-soothing also benefit from pretend play with dolls, where they practice soothing the doll when it gets upset, by cuddling it or laying it down for a nap.
 
-for a nap
+The parent can help by pretending to be the cranky baby, or by modeling nurturing, soothing behavior for children.
 
-The parent can help by pretending to be the cranky baby, or by
-modeling nurturing, soothing behavior for children
-
-setting aside several periods per day for a certain kind of play that
-he calls self-regulation. The basic idea is to have the child jump,
-run, swing, dance, do jumping jacks, or engage in any repeated
-rhythmic movement. Then you call out frequent, rapid changes: “Go
-faster, slower, slower, faster, superfast
+Setting aside several periods per day for a certain kind of play that he calls self-regulation. The basic idea is to have the child jump, run, swing, dance, do jumping jacks, or engage in any repeated rhythmic movement. Then you call out frequent, rapid changes: “Go faster, slower, slower, faster, superfast.
 
 Go right, go left, go right, go left…. Hop on your left foot, now hop
-on your right foot, now hop on both feet
+on your right foot, now hop on both feet.
 
 This game, which most children find fun and which works very well in
 groups, is one of the best ways to make up for deficits in emotional
-regulation
+regulation.
 
-innumerable variations. Hand a child a pile of blocks and say, very
+Innumerable variations. Hand a child a pile of blocks and say, very
 fast, “Sort by shape. Now sort by color. Now use your left hand.” If
 they like to sing, say, “Sing louder, now softer.” If they scream, ask
-them to scream their loudest, then a little softer, then a little
-softer, then
-
-whisper, and so on
+them to scream their loudest, then a little softer, then a little softer, then whisper, and so on.
 
 Self-soothing and paying attention are actually quite closely related.
-For example, it may look like Jed\'s problem is that he can\'t sit
-still in his fourth-grade class. He may join the ranks of boys
-diagnosed with attention deficit disorder. But perhaps the real
-
-problem is that he can\'t soothe himself when he feels anxious or
-frustrated
+For example, it may look like Jed's problem is that he can't sit still in his fourth-grade class. He may join the ranks of boys diagnosed with attention deficit disorder. But perhaps the real problem is that he can't soothe himself when he feels anxious or frustrated.
 
 *Motor planning and sequencing.* Some children have problems with what
-is called motor planning and sequencing, which may be seen in
-difficulty getting organized for school in the morning, or keeping
-track of assignments, or seeing a project through to
-
-the end. To help this problem through the use of physical play, create
-an obstacle course, starting simple and making it harder as children
-master it
+is called motor planning and sequencing, which may be seen in difficulty getting organized for school in the morning, or keeping track of assignments, or seeing a project through to the end. To help this problem through the use of physical play, create an obstacle course, starting simple and making it harder as children master it.
 
 For older children, make a treasure hunt, with clues that lead to more
 clues. Once again, some activities that are more commonly played by
-girls, like
+girls, like complicated hand-clapping songs or jump-rope games, are helpful in developing these skills.
 
-complicated hand-clapping songs or jump-rope games, are helpful in
-developing these skills.
+*Impulse control.* Children learn to control their impulses through play.
 
-*Impulse control.* Children learn to control their impulses through
-play
+Play out the situations where your child is impulsive. Just say “Let\'s play school.” “Let\'s play getting dressed and ready.” “Let\'s play that you want this toy real bad, and won\'t share it with you.” “Let\'s play crossing the street—oh no, the little bunny almost got hit by a car.”
 
-play out the situations where your child is impulsive. Just say
-“Let\'s play school.” “Let\'s play getting dressed and ready.” “Let\'s
-play that you want this toy real bad, and
+Let\'s pretend that you\'re the dad and I\'m the daughter, and you\'re mad at me.”
 
-won\'t share it with you.” “Let\'s play crossing the street—oh no, the
-little bunny almost got hit by a car.”
-
-Let\'s pretend that you\'re the dad and I\'m the daughter, and you\'re
-mad at me.”
-
-lots of playtime that reverses the roles, suspends reality, and lets
+Lots of playtime that reverses the roles, suspends reality, and lets
 them be in charge
 
 They need to take on the more powerful role—the hero, the princess,
