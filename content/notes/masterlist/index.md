@@ -15,7 +15,7 @@ These are all the books I have read from start to finish.
 - 5/3/1: The Simplest and Most Effective Training System for Raw Strength
 - Skinny Bitch: A No-Nonsense, Tough-Love Guide for Savvy Girls Who Want to Stop Eating Crap and Start Looking Fabulous!
 - The Starch Solution: Eat the Foods You Love, Regain Your Health, and Lose the Weight for Good!
-- The Trigger Point Therapy Workbook: Your Self-Treatment Guide for Pain Relief]
+- The Trigger Point Therapy Workbook: Your Self-Treatment Guide for Pain Relief
 - Becoming a Supple Leopard: The Ultimate Guide to Resolving Pain, Preventing Injury, and Optimizing Athletic Performance
 - How Not to Die: Discover the Foods Scientifically Proven to Prevent and Reverse Disease
 - Becoming a Supple Leopard 2nd Edition: The Ultimate Guide to Resolving Pain, Preventing Injury, and Optimizing Athletic Performance
@@ -91,6 +91,7 @@ These are all the books I have read from start to finish.
 - Cashvertising: How to Use More Than 100 Secrets of Ad-Agency Psychology to Make Big Money Selling Anything to Anyone
 - The Boron Letters
 - Scientific Advertising
+- The Practice of Shipping Creative Work
 ### Personal Development
 - Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones
 - The 5AM Club: Own Your Morning. Elevate Your Life.

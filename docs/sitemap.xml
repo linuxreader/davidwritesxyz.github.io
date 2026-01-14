@@ -15,24 +15,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://davidwrites.xyz/articles/</loc>
-    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://davidwrites.xyz/articles/crippling-migraines-vertigo-heres-how-to-reduce-headaches-naturally/</loc>
-    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://davidwrites.xyz/articles/the-negative-effects-of-caffeine-addiction/</loc>
-    <lastmod>2025-12-30T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://davidwrites.xyz/tech/networking/</loc>
     <lastmod>2023-11-06T06:20:36-07:00</lastmod>
     <changefreq>daily</changefreq>
@@ -255,6 +237,11 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://davidwrites.xyz/articles/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://davidwrites.xyz/tech/bash/bash-shell/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -311,6 +298,11 @@
   </url>
   <url>
     <loc>https://davidwrites.xyz/tech/networking/consoling_in_to_mx80_from_linux/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://davidwrites.xyz/contact/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>

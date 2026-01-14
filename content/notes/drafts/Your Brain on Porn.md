@@ -28,6 +28,7 @@ Psychiatrist Norman Doidge explains in his bestseller "The Brain That
 Changes Itself":
 
 This is how chronic overconsumption can have unexpected effects. It can make us hyper-aroused by our favourite enticements, such that immediate wants weigh heavier than they should relative to longer term desires. It can also sour our enjoyment of – and responsiveness to – everyday pleasures. It can drive us to seek more extreme stimulation.
+
 Or cause withdrawal symptoms so severe that they send even the most strong-minded of us bolting for relief.
 
 It can also alter our mood, perception and priorities – all without our conscious awareness.
@@ -110,7 +111,7 @@ Addiction neuroscientists have repeatedly shown that internet addiction produces
 
 My mind became very clear, thoughts easily controllable, and I became much more relaxed in general.
 
-I can retain and remember information a lot better. I remember events in my past life a lot better.
+I can retain and remember information a lot better. 
 
 I am not irritable, and am more focused. I can execute tasks a lot faster.
 
@@ -142,8 +143,7 @@ from the use of the substance or behavior.
 Loss of control in using the substance or engaging in the behavior
 with increasing frequency or duration.
 
-Larger amounts or intensity, or in increasing the risk in use and behavior to obtain
-the desired effect; and negative consequences in physical, social, occupational, financial and psychological domains.
+Larger amounts or intensity, or in increasing the risk in use and behavior to obtain the desired effect; and negative consequences in physical, social, occupational, financial and psychological domains.
 
 Dutch researchers found that online erotica has the highest addictive potential of all online applications (with online gaming second).
 
@@ -193,7 +193,7 @@ symptoms, but some do.
 
 The brain's reward centre doesn't know what porn is. It only registers levels of stimulation through dopamine spikes.
 
-Dopamine is odd. It shoots up when something is better than expected (violates expectations), but drops when expectations are not met.
+Dopamine is odd. It shoots up when something is better than expected, but drops when expectations are not met.
 
 With sex, it's nearly impossible to match internet porn\'s level of surprise variety and novelty.
 
@@ -292,7 +292,7 @@ Cue extinction. You weaken the link or pathway between a stimulus and a habitual
 
 If extinction training (sometimes known as Exposure Response Prevention Therapy) is too risky for you because glimpses of porn sites throw you into a binge, try an indirect approach to strengthening your willpower first (or any beneficial stressor) and meditation are good choices.
 
-Support
+**Support**
 
 Join a forum, get an accountability partner.
 
@@ -372,9 +372,7 @@ You don't let that urge go anywhere. You say ‘no’, that one time, and
 you do that every one time that it comes up. That\'s it. Not X days of constant willpower, just a subtle lifestyle change, a quiet ‘no’ whenever the random desire flickers up and tries to take hold.
 
 Common withdrawal symptoms include: irritability, anxiety or even
-panic, unaccustomed tears, restlessness, lethargy, headaches, brain fog, depression, mood
-swings, desire to isolate, muscle tightness, insomnia, and severe
-cravings to use porn.
+panic, unaccustomed tears, restlessness, lethargy, headaches, brain fog, depression, mood swings, desire to isolate, muscle tightness, insomnia, and severe cravings to use porn.
 
 **Insomnia**
 
