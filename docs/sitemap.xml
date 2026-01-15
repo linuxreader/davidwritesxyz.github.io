@@ -27,14 +27,122 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://davidwrites.xyz/notes/</loc>
+    <lastmod>2026-01-03T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://davidwrites.xyz/notes/rhce-notes/</loc>
+    <lastmod>2026-01-03T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://davidwrites.xyz/articles/how-to-reduce-headaches-naturally/</loc>
     <lastmod>2026-01-01T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://davidwrites.xyz/notes/theeasywaytoquitcaffeine/</loc>
+    <lastmod>2025-12-30T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://davidwrites.xyz/articles/the-negative-effects-of-caffeine-addiction/</loc>
     <lastmod>2025-12-30T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://davidwrites.xyz/notes/tribes/</loc>
+    <lastmod>2025-12-28T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://davidwrites.xyz/notes/caffeineblues/</loc>
+    <lastmod>2025-10-07T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://davidwrites.xyz/notes/thewillpowerinstinct/</loc>
+    <lastmod>2025-09-24T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://davidwrites.xyz/notes/nonviolentcommunication/</loc>
+    <lastmod>2025-08-15T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://davidwrites.xyz/notes/milliondollarweekend/</loc>
+    <lastmod>2025-08-02T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://davidwrites.xyz/notes/meditations/</loc>
+    <lastmod>2025-07-17T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://davidwrites.xyz/notes/anythingyouwant/</loc>
+    <lastmod>2025-05-05T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://davidwrites.xyz/notes/rhcsa-notes/</loc>
+    <lastmod>2025-03-03T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://davidwrites.xyz/notes/rhcsacertguide/</loc>
+    <lastmod>2025-03-03T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://davidwrites.xyz/notes/dopaminenation/</loc>
+    <lastmod>2025-02-22T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://davidwrites.xyz/notes/goodinside/</loc>
+    <lastmod>2025-02-22T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://davidwrites.xyz/notes/therelationshiphandbook/</loc>
+    <lastmod>2025-02-01T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://davidwrites.xyz/notes/the12weekyear/</loc>
+    <lastmod>2024-03-12T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://davidwrites.xyz/notes/theblogstartup/</loc>
+    <lastmod>2024-03-12T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://davidwrites.xyz/notes/the-magic-of-thinking-big/</loc>
+    <lastmod>2024-03-12T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -47,6 +155,24 @@
   <url>
     <loc>https://davidwrites.xyz/tech/</loc>
     <lastmod>2023-11-06T06:20:36-07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://davidwrites.xyz/notes/thepowerofpositivedogtraining/</loc>
+    <lastmod>2022-06-01T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://davidwrites.xyz/notes/thepsychologyofmoney/</loc>
+    <lastmod>2022-06-01T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://davidwrites.xyz/notes/123magic/</loc>
+    <lastmod>2022-05-16T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -271,7 +397,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://davidwrites.xyz/notes/</loc>
+    <loc>https://davidwrites.xyz/notes/bookgraveyard/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -381,6 +507,11 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://davidwrites.xyz/notes/drafts/fiction/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://davidwrites.xyz/tech/tools/how-to-build-a-website-with-hugo/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -447,6 +578,11 @@
   </url>
   <url>
     <loc>https://davidwrites.xyz/tech/linux/desktop/learning-touch-typing/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://davidwrites.xyz/notes/masterlist/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
