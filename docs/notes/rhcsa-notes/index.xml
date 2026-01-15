@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My RHCSA Notes on </title>
-    <link>https://davidwrites.xyz/notes/rhcsa-notes/</link>
+    <link>http://localhost:1313/notes/rhcsa-notes/</link>
     <description>Recent content in My RHCSA Notes on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2026 </copyright>
-    <lastBuildDate>Mon, 03 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://davidwrites.xyz/notes/rhcsa-notes/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 03 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/notes/rhcsa-notes/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Advanced File Management</title>
-      <link>https://davidwrites.xyz/notes/rhcsa-notes/advancedfilemanagement/</link>
+      <link>http://localhost:1313/notes/rhcsa-notes/advancedfilemanagement/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/notes/rhcsa-notes/advancedfilemanagement/</guid>
+      <guid>http://localhost:1313/notes/rhcsa-notes/advancedfilemanagement/</guid>
       <description>&lt;h2 class=&#34;relative group&#34;&gt;Permission Classes and Types
     &lt;div id=&#34;permission-classes-and-types&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -37,10 +37,10 @@
     
     <item>
       <title>Advanced Package Management</title>
-      <link>https://davidwrites.xyz/notes/rhcsa-notes/advancedpackagemanagement/</link>
+      <link>http://localhost:1313/notes/rhcsa-notes/advancedpackagemanagement/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/notes/rhcsa-notes/advancedpackagemanagement/</guid>
+      <guid>http://localhost:1313/notes/rhcsa-notes/advancedpackagemanagement/</guid>
       <description>&lt;h2 class=&#34;relative group&#34;&gt;Package Groups
     &lt;div id=&#34;packagegroups&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -71,10 +71,10 @@
     
     <item>
       <title>Advanced User Management</title>
-      <link>https://davidwrites.xyz/notes/rhcsa-notes/advancedusermanagement/</link>
+      <link>http://localhost:1313/notes/rhcsa-notes/advancedusermanagement/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/notes/rhcsa-notes/advancedusermanagement/</guid>
+      <guid>http://localhost:1313/notes/rhcsa-notes/advancedusermanagement/</guid>
       <description>&lt;h2 class=&#34;relative group&#34;&gt;Local User Authentication Files
     &lt;div id=&#34;local-user-authentication-files&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -408,10 +408,10 @@
     
     <item>
       <title>AutoFS</title>
-      <link>https://davidwrites.xyz/notes/rhcsa-notes/autofs/</link>
+      <link>http://localhost:1313/notes/rhcsa-notes/autofs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/notes/rhcsa-notes/autofs/</guid>
+      <guid>http://localhost:1313/notes/rhcsa-notes/autofs/</guid>
       <description>&lt;h2 class=&#34;relative group&#34;&gt;AutoFS
     &lt;div id=&#34;autofs&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -459,10 +459,10 @@ logging = none&lt;/p&gt;</description>
     
     <item>
       <title>Bash</title>
-      <link>https://davidwrites.xyz/notes/rhcsa-notes/bashshell/</link>
+      <link>http://localhost:1313/notes/rhcsa-notes/bashshell/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/notes/rhcsa-notes/bashshell/</guid>
+      <guid>http://localhost:1313/notes/rhcsa-notes/bashshell/</guid>
       <description>&lt;h2 class=&#34;relative group&#34;&gt;My name is Marcel and I&amp;rsquo;m partially a shell..
     &lt;div id=&#34;my-name-is-marcel-and-im-partially-a-shell&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -486,10 +486,10 @@ logging = none&lt;/p&gt;</description>
     
     <item>
       <title>Basic File Managment</title>
-      <link>https://davidwrites.xyz/notes/rhcsa-notes/filemanagement/</link>
+      <link>http://localhost:1313/notes/rhcsa-notes/filemanagement/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/notes/rhcsa-notes/filemanagement/</guid>
+      <guid>http://localhost:1313/notes/rhcsa-notes/filemanagement/</guid>
       <description>&lt;h2 class=&#34;relative group&#34;&gt;7 File types
     &lt;div id=&#34;7-file-types&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -514,10 +514,10 @@ logging = none&lt;/p&gt;</description>
     
     <item>
       <title>Basic Package Management</title>
-      <link>https://davidwrites.xyz/notes/rhcsa-notes/basicpackagemanagement/</link>
+      <link>http://localhost:1313/notes/rhcsa-notes/basicpackagemanagement/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/notes/rhcsa-notes/basicpackagemanagement/</guid>
+      <guid>http://localhost:1313/notes/rhcsa-notes/basicpackagemanagement/</guid>
       <description>&lt;h2 class=&#34;relative group&#34;&gt;RPM (Redhat Package Manager)
     &lt;div id=&#34;rpm-redhat-package-manager&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -565,10 +565,10 @@ logging = none&lt;/p&gt;</description>
     
     <item>
       <title>Basic User Management</title>
-      <link>https://davidwrites.xyz/notes/rhcsa-notes/basicusermanagement/</link>
+      <link>http://localhost:1313/notes/rhcsa-notes/basicusermanagement/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/notes/rhcsa-notes/basicusermanagement/</guid>
+      <guid>http://localhost:1313/notes/rhcsa-notes/basicusermanagement/</guid>
       <description>&lt;h2 class=&#34;relative group&#34;&gt;Listing Logged-In Users
     &lt;div id=&#34;listing-logged-in-users&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -584,10 +584,10 @@ logging = none&lt;/p&gt;</description>
     
     <item>
       <title>Boot Process, Grub2, and Kernel</title>
-      <link>https://davidwrites.xyz/notes/rhcsa-notes/bootprocessgrub2kernel/</link>
+      <link>http://localhost:1313/notes/rhcsa-notes/bootprocessgrub2kernel/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/notes/rhcsa-notes/bootprocessgrub2kernel/</guid>
+      <guid>http://localhost:1313/notes/rhcsa-notes/bootprocessgrub2kernel/</guid>
       <description>&lt;h2 class=&#34;relative group&#34;&gt;Linux Kernel
     &lt;div id=&#34;linux-kernel&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -619,10 +619,10 @@ logging = none&lt;/p&gt;</description>
     
     <item>
       <title>Containers</title>
-      <link>https://davidwrites.xyz/notes/rhcsa-notes/containers/</link>
+      <link>http://localhost:1313/notes/rhcsa-notes/containers/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/notes/rhcsa-notes/containers/</guid>
+      <guid>http://localhost:1313/notes/rhcsa-notes/containers/</guid>
       <description>&lt;h2 class=&#34;relative group&#34;&gt;Introduction to Containers
     &lt;div id=&#34;introduction-to-containers&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -642,10 +642,10 @@ logging = none&lt;/p&gt;</description>
     
     <item>
       <title>DNS</title>
-      <link>https://davidwrites.xyz/notes/rhcsa-notes/dns/</link>
+      <link>http://localhost:1313/notes/rhcsa-notes/dns/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/notes/rhcsa-notes/dns/</guid>
+      <guid>http://localhost:1313/notes/rhcsa-notes/dns/</guid>
       <description>&lt;h2 class=&#34;relative group&#34;&gt;DNS and Name Resolution
     &lt;div id=&#34;dns-and-name-resolution&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -717,10 +717,10 @@ root of the name space is represented by a period (	- redhat.com is a second-lev
     
     <item>
       <title>Installing RHEL Linux</title>
-      <link>https://davidwrites.xyz/notes/rhcsa-notes/installation/</link>
+      <link>http://localhost:1313/notes/rhcsa-notes/installation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/notes/rhcsa-notes/installation/</guid>
+      <guid>http://localhost:1313/notes/rhcsa-notes/installation/</guid>
       <description>&lt;h2 class=&#34;relative group&#34;&gt;About RHEL9
     &lt;div id=&#34;about-rhel9&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -755,10 +755,10 @@ root of the name space is represented by a period (	- redhat.com is a second-lev
     
     <item>
       <title>Interaction</title>
-      <link>https://davidwrites.xyz/notes/rhcsa-notes/interaction/</link>
+      <link>http://localhost:1313/notes/rhcsa-notes/interaction/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/notes/rhcsa-notes/interaction/</guid>
+      <guid>http://localhost:1313/notes/rhcsa-notes/interaction/</guid>
       <description>&lt;p&gt;Looking to get started using Fedora or Red Hat operating systems?&lt;/p&gt;
 &lt;p&gt;This guide with get you started with the RHEL Graphical environment, file system, and essential commands to get started using Fedora, Red Hat, or other RHEL based systems.&lt;/p&gt;</description>
       
@@ -766,10 +766,10 @@ root of the name space is represented by a period (	- redhat.com is a second-lev
     
     <item>
       <title>Local File Systems and Swap</title>
-      <link>https://davidwrites.xyz/notes/rhcsa-notes/localfilesystemsandswap/</link>
+      <link>http://localhost:1313/notes/rhcsa-notes/localfilesystemsandswap/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/notes/rhcsa-notes/localfilesystemsandswap/</guid>
+      <guid>http://localhost:1313/notes/rhcsa-notes/localfilesystemsandswap/</guid>
       <description>&lt;h2 class=&#34;relative group&#34;&gt;File Systems and File System Types
     &lt;div id=&#34;file-systems-and-file-system-types&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -797,10 +797,10 @@ root of the name space is represented by a period (	- redhat.com is a second-lev
     
     <item>
       <title>Network File System (NFS)</title>
-      <link>https://davidwrites.xyz/notes/rhcsa-notes/networkfilesystemnfs/</link>
+      <link>http://localhost:1313/notes/rhcsa-notes/networkfilesystemnfs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/notes/rhcsa-notes/networkfilesystemnfs/</guid>
+      <guid>http://localhost:1313/notes/rhcsa-notes/networkfilesystemnfs/</guid>
       <description>&lt;h2 class=&#34;relative group&#34;&gt;NFS Basics and Configuration
     &lt;div id=&#34;nfs-basics-and-configuration&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -1016,10 +1016,10 @@ sudo firewall-cmd --reload
     
     <item>
       <title>Networking Devices and Connections</title>
-      <link>https://davidwrites.xyz/notes/rhcsa-notes/networkdevicesandconnections/</link>
+      <link>http://localhost:1313/notes/rhcsa-notes/networkdevicesandconnections/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/notes/rhcsa-notes/networkdevicesandconnections/</guid>
+      <guid>http://localhost:1313/notes/rhcsa-notes/networkdevicesandconnections/</guid>
       <description>&lt;h2 class=&#34;relative group&#34;&gt;Hostname
     &lt;div id=&#34;hostname&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -1041,10 +1041,10 @@ sudo firewall-cmd --reload
     
     <item>
       <title>Partitioning, MBR, and GPT</title>
-      <link>https://davidwrites.xyz/notes/rhcsa-notes/partitioningmbrandgpt/</link>
+      <link>http://localhost:1313/notes/rhcsa-notes/partitioningmbrandgpt/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/notes/rhcsa-notes/partitioningmbrandgpt/</guid>
+      <guid>http://localhost:1313/notes/rhcsa-notes/partitioningmbrandgpt/</guid>
       <description>&lt;h2 class=&#34;relative group&#34;&gt;Partition Information (MBR and GPT)
     &lt;div id=&#34;partition-information-mbr-and-gpt&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -1089,10 +1089,10 @@ sudo firewall-cmd --reload
     
     <item>
       <title>Process and Task Scheduling</title>
-      <link>https://davidwrites.xyz/notes/rhcsa-notes/processandtaskscheduling/</link>
+      <link>http://localhost:1313/notes/rhcsa-notes/processandtaskscheduling/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/notes/rhcsa-notes/processandtaskscheduling/</guid>
+      <guid>http://localhost:1313/notes/rhcsa-notes/processandtaskscheduling/</guid>
       <description>&lt;h2 class=&#34;relative group&#34;&gt;Processes and Priorities
     &lt;div id=&#34;processes-and-priorities&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -1613,10 +1613,10 @@ sudo firewall-cmd --reload
     
     <item>
       <title>Remove a filesystem from a partition</title>
-      <link>https://davidwrites.xyz/notes/rhcsa-notes/removeafilesystemfromapartition/</link>
+      <link>http://localhost:1313/notes/rhcsa-notes/removeafilesystemfromapartition/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/notes/rhcsa-notes/removeafilesystemfromapartition/</guid>
+      <guid>http://localhost:1313/notes/rhcsa-notes/removeafilesystemfromapartition/</guid>
       <description>&lt;h2 class=&#34;relative group&#34;&gt;Remove a filesystem from a partition
     &lt;div id=&#34;remove-a-filesystem-from-a-partition&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -1632,10 +1632,10 @@ sudo firewall-cmd --reload
     
     <item>
       <title>RHCSA Exam Environment Guide</title>
-      <link>https://davidwrites.xyz/notes/rhcsa-notes/rhcsaexamenvironment/</link>
+      <link>http://localhost:1313/notes/rhcsa-notes/rhcsaexamenvironment/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/notes/rhcsa-notes/rhcsaexamenvironment/</guid>
+      <guid>http://localhost:1313/notes/rhcsa-notes/rhcsaexamenvironment/</guid>
       <description>&lt;p&gt;&lt;a
   href=&#34;https://www.youtube.com/watch?v=Me6Y12-sux8&amp;amp;list=PLz70mC333bic8uSAtRaB31CPUr6Ixi5SX&amp;amp;index=2&#34;
     target=&#34;_blank&#34;
@@ -1647,10 +1647,10 @@ sudo firewall-cmd --reload
     
     <item>
       <title>Security Enhanced Linux</title>
-      <link>https://davidwrites.xyz/notes/rhcsa-notes/securityenhancedlinux/</link>
+      <link>http://localhost:1313/notes/rhcsa-notes/securityenhancedlinux/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/notes/rhcsa-notes/securityenhancedlinux/</guid>
+      <guid>http://localhost:1313/notes/rhcsa-notes/securityenhancedlinux/</guid>
       <description>&lt;h2 class=&#34;relative group&#34;&gt;SELinux Terminology
     &lt;div id=&#34;selinux-terminology&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -1695,10 +1695,10 @@ sudo firewall-cmd --reload
     
     <item>
       <title>Shell Scripting</title>
-      <link>https://davidwrites.xyz/notes/rhcsa-notes/shellscripting/</link>
+      <link>http://localhost:1313/notes/rhcsa-notes/shellscripting/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/notes/rhcsa-notes/shellscripting/</guid>
+      <guid>http://localhost:1313/notes/rhcsa-notes/shellscripting/</guid>
       <description>&lt;h2 class=&#34;relative group&#34;&gt;Shell Scripts
     &lt;div id=&#34;shell-scripts&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -1716,10 +1716,10 @@ sudo firewall-cmd --reload
     
     <item>
       <title>System Initialization, Message Logging, and System Tuning</title>
-      <link>https://davidwrites.xyz/notes/rhcsa-notes/systeminitloggingandtuning/</link>
+      <link>http://localhost:1313/notes/rhcsa-notes/systeminitloggingandtuning/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/notes/rhcsa-notes/systeminitloggingandtuning/</guid>
+      <guid>http://localhost:1313/notes/rhcsa-notes/systeminitloggingandtuning/</guid>
       <description>&lt;h2 class=&#34;relative group&#34;&gt;System Initialization and Service Management
     &lt;div id=&#34;system-initialization-and-service-management&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -1741,10 +1741,10 @@ sudo firewall-cmd --reload
     
     <item>
       <title>The Linux Firewall</title>
-      <link>https://davidwrites.xyz/notes/rhcsa-notes/thelinuxfirewall/</link>
+      <link>http://localhost:1313/notes/rhcsa-notes/thelinuxfirewall/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/notes/rhcsa-notes/thelinuxfirewall/</guid>
+      <guid>http://localhost:1313/notes/rhcsa-notes/thelinuxfirewall/</guid>
       <description>&lt;h2 class=&#34;relative group&#34;&gt;firewalld Zones
     &lt;div id=&#34;firewalld-zones&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -1800,10 +1800,10 @@ sudo firewall-cmd --reload
     
     <item>
       <title>The Secure Shell Service</title>
-      <link>https://davidwrites.xyz/notes/rhcsa-notes/thesecureshellservice/</link>
+      <link>http://localhost:1313/notes/rhcsa-notes/thesecureshellservice/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/notes/rhcsa-notes/thesecureshellservice/</guid>
+      <guid>http://localhost:1313/notes/rhcsa-notes/thesecureshellservice/</guid>
       <description>&lt;h2 class=&#34;relative group&#34;&gt;The OpenSSH Service
     &lt;div id=&#34;the-openssh-service&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -1844,10 +1844,10 @@ sudo firewall-cmd --reload
     
     <item>
       <title>Thin Provisioning and LVM</title>
-      <link>https://davidwrites.xyz/notes/rhcsa-notes/thinprovisioning/</link>
+      <link>http://localhost:1313/notes/rhcsa-notes/thinprovisioning/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/notes/rhcsa-notes/thinprovisioning/</guid>
+      <guid>http://localhost:1313/notes/rhcsa-notes/thinprovisioning/</guid>
       <description>&lt;h2 class=&#34;relative group&#34;&gt;Thin Provisioning
     &lt;div id=&#34;thin-provisioning&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -1892,7 +1892,7 @@ sudo firewall-cmd --reload
     decoding=&#34;async&#34;
     fetchpriority=&#34;low&#34;
     alt=&#34;&#34;
-    src=&#34;https://davidwrites.xyz/images/image-0A8W8M1U.jpg&#34;
+    src=&#34;http://localhost:1313/images/image-0A8W8M1U.jpg&#34;
     &gt;&lt;/figure&gt;
 &lt;ul&gt;
 &lt;li&gt;Made up of three key objects called physical volume, volume group, and logical volume.&lt;/li&gt;
@@ -1904,10 +1904,10 @@ sudo firewall-cmd --reload
     
     <item>
       <title>Time Synchronization</title>
-      <link>https://davidwrites.xyz/notes/rhcsa-notes/timesynchronization/</link>
+      <link>http://localhost:1313/notes/rhcsa-notes/timesynchronization/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/notes/rhcsa-notes/timesynchronization/</guid>
+      <guid>http://localhost:1313/notes/rhcsa-notes/timesynchronization/</guid>
       <description>&lt;h2 class=&#34;relative group&#34;&gt;Network Time Protocol (NTP)
     &lt;div id=&#34;network-time-protocol-ntp&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -1945,10 +1945,10 @@ sudo firewall-cmd --reload
     
     <item>
       <title>Virtual Data Optimizer (VDO)</title>
-      <link>https://davidwrites.xyz/notes/rhcsa-notes/virtual-data-optimizer-vdo/</link>
+      <link>http://localhost:1313/notes/rhcsa-notes/virtual-data-optimizer-vdo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/notes/rhcsa-notes/virtual-data-optimizer-vdo/</guid>
+      <guid>http://localhost:1313/notes/rhcsa-notes/virtual-data-optimizer-vdo/</guid>
       <description>&lt;h2 class=&#34;relative group&#34;&gt;What is VDO?
     &lt;div id=&#34;what-is-vdo&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     

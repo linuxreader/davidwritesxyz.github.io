@@ -3,6 +3,7 @@ title: 'The Willpower Instinct Summary and Notes'
 date: 2025-09-24
 description: "The Willpower Instinct Summary and Notes"
 summary: "The Willpower Instinct Summary and Notes"
+list: never
 ---
 <div style="display:flex; gap:1rem; align-items:flex-start;">
   <img src="willpowerinstinct.png" style="width:25%; height:auto;" />
