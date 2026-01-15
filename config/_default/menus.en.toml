@@ -7,26 +7,31 @@ none = "none"
   weight = 10
 
 [[main]]
-  name = "Notes"
-  pageRef = "notes"
+  name = "Articles"
+  pageRef = "articles"
+  identifier = "TmCySnU7d5"
   weight = 20
 
 [[main]]
-  name = "Articles"
-  pageRef = "Articles"
-  identifier = "TmCySnU7d5"
+  name = "Micro"
+  pageRef = "micro"
   weight = 30
+
+[[main]]
+  name = "Notes"
+  pageRef = "notes"
+  weight = 40
 
 [[main]]
   name = "Now"
   pageRef = "Now"
   identifier = "76cUaCSiy6"
-  weight = 40
+  weight = 50
 
 [[main]]
   name = "Contact"
   pageRef = "contact"
-  weight = 50
+  weight = 60
 
 [[main]]
   identifier = "github"

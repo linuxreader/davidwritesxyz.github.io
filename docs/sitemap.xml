@@ -451,6 +451,11 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://davidwrites.xyz/micro/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://davidwrites.xyz/tech/desktop/my-fedora-setup/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
