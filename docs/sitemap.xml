@@ -105,12 +105,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://davidwrites.xyz/notes/rhcsacertguide/</loc>
-    <lastmod>2025-03-03T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://davidwrites.xyz/notes/dopaminenation/</loc>
     <lastmod>2025-02-22T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -352,7 +346,27 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://davidwrites.xyz/notes/rhce-notes/adhoccommands/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://davidwrites.xyz/notes/rhcsa-notes/advancedfilemanagement/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://davidwrites.xyz/tech/files/advanced-file-management/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://davidwrites.xyz/notes/rhcsa-notes/advancedpackagemanagement/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://davidwrites.xyz/notes/rhcsa-notes/advancedusermanagement/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -382,7 +396,47 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://davidwrites.xyz/notes/rhce-notes/ansibledocumentation/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://davidwrites.xyz/notes/rhce-notes/inventory/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://davidwrites.xyz/notes/rhce-notes/playbooks/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://davidwrites.xyz/notes/rhce-notes/roles/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://davidwrites.xyz/notes/rhce-notes/ansiblevault/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://davidwrites.xyz/tech/networking/ccna-notes/ansiblepuppetchef/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://davidwrites.xyz/notes/rhce-notes/ansibleconfig/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://davidwrites.xyz/notes/rhcsa-notes/autofs/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://davidwrites.xyz/notes/rhcsa-notes/bashshell/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -392,12 +446,37 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://davidwrites.xyz/notes/rhcsa-notes/filemanagement/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://davidwrites.xyz/tech/files/file-management/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://davidwrites.xyz/notes/rhcsa-notes/basicpackagemanagement/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://davidwrites.xyz/notes/rhcsa-notes/basicusermanagement/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://davidwrites.xyz/notes/bookgraveyard/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://davidwrites.xyz/notes/rhce-notes/bootprocess/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://davidwrites.xyz/notes/rhcsa-notes/bootprocessgrub2kernel/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -447,6 +526,11 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://davidwrites.xyz/notes/rhcsa-notes/containers/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://davidwrites.xyz/tech/containers/containers/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -477,6 +561,11 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://davidwrites.xyz/notes/rhce-notes/deployingfiles/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://davidwrites.xyz/tech/networking/ccna-notes/device-management-protocols/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -488,6 +577,11 @@
   </url>
   <url>
     <loc>https://davidwrites.xyz/tech/networking/ccna-notes/dhcp-snooping-and-arp-inspection/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://davidwrites.xyz/notes/rhcsa-notes/dns/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -512,6 +606,16 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://davidwrites.xyz/notes/rhce-notes/handlers/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://davidwrites.xyz/notes/rhce-notes/hostnamepatterns/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://davidwrites.xyz/tech/tools/how-to-build-a-website-with-hugo/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -523,6 +627,21 @@
   </url>
   <url>
     <loc>https://davidwrites.xyz/tech/tools/how-to-set-up-hugo-relearn-theme/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://davidwrites.xyz/notes/rhce-notes/includingandimportingfiles/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://davidwrites.xyz/notes/rhcsa-notes/installation/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://davidwrites.xyz/notes/rhcsa-notes/interaction/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -557,6 +676,11 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://davidwrites.xyz/notes/rhce-notes/jinja2templates/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://davidwrites.xyz/tech/networking/juniper_cli_basics/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -582,6 +706,31 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://davidwrites.xyz/notes/rhcsa-notes/localfilesystemsandswap/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://davidwrites.xyz/notes/rhce-notes/usersandgroups/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://davidwrites.xyz/notes/rhce-notes/packagesrepositoriesandsubscriptions/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://davidwrites.xyz/notes/rhce-notes/storagepartitionsandlvm/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://davidwrites.xyz/notes/rhce-notes/services/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://davidwrites.xyz/notes/masterlist/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -602,12 +751,27 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://davidwrites.xyz/notes/rhcsa-notes/networkfilesystemnfs/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://davidwrites.xyz/notes/rhcsa-notes/networkdevicesandconnections/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://davidwrites.xyz/tech/tools/nextcloud-on-rhel-based-systems/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://davidwrites.xyz/tech/ansible/nfs-setup/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://davidwrites.xyz/notes/rhce-notes/optimizingansibleprocessing/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -623,6 +787,11 @@
   </url>
   <url>
     <loc>https://davidwrites.xyz/tech/networking/ccna-notes/ospfnetworktypesandneighbors/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://davidwrites.xyz/notes/rhcsa-notes/partitioningmbrandgpt/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -657,6 +826,16 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://davidwrites.xyz/notes/rhcsa-notes/processandtaskscheduling/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://davidwrites.xyz/notes/rhcsa-notes/removeafilesystemfromapartition/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://davidwrites.xyz/tech/networking/resources-for-passing-ccna/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -668,6 +847,11 @@
   </url>
   <url>
     <loc>https://davidwrites.xyz/tech/ansible/rhce-practice-exam-lab/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://davidwrites.xyz/notes/rhcsa-notes/rhcsaexamenvironment/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -707,12 +891,27 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://davidwrites.xyz/notes/rhcsa-notes/securityenhancedlinux/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://davidwrites.xyz/tech/cybersecurity/security-enhanced-linux/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://davidwrites.xyz/tech/tools/setting-up-a-self-hosted-nextcloud-server/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://davidwrites.xyz/notes/rhce-notes/selinux/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://davidwrites.xyz/notes/rhcsa-notes/shellscripting/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -762,6 +961,11 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://davidwrites.xyz/notes/rhcsa-notes/systeminitloggingandtuning/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://davidwrites.xyz/tech/boot/system-initialization-message-logging-and-system-tuning/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -772,12 +976,32 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://davidwrites.xyz/notes/rhcsa-notes/thelinuxfirewall/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://davidwrites.xyz/tech/cybersecurity/the-linux-firewall/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://davidwrites.xyz/notes/rhcsa-notes/thesecureshellservice/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://davidwrites.xyz/tech/cybersecurity/the-secure-shell-service/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://davidwrites.xyz/notes/rhcsa-notes/thinprovisioning/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://davidwrites.xyz/notes/rhcsa-notes/timesynchronization/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -792,12 +1016,42 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://davidwrites.xyz/notes/rhce-notes/tags/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://davidwrites.xyz/notes/rhce-notes/loopsanditems/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://davidwrites.xyz/notes/rhce-notes/troubleshooting/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://davidwrites.xyz/tech/tools/using-vagrant-on-linux/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://davidwrites.xyz/notes/rhce-notes/variables/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://davidwrites.xyz/notes/rhce-notes/when/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://davidwrites.xyz/tech/tools/vimguide/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://davidwrites.xyz/notes/rhcsa-notes/virtual-data-optimizer-vdo/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>

@@ -10,16 +10,6 @@
     <lastBuildDate>Sat, 03 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://davidwrites.xyz/notes/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>My RHCE Notes</title>
-      <link>https://davidwrites.xyz/notes/rhce-notes/</link>
-      <pubDate>Sat, 03 Jan 2026 00:00:00 +0000</pubDate>
-      
-      <guid>https://davidwrites.xyz/notes/rhce-notes/</guid>
-      <description>Red Hat RHCE 8 Cert Guide RHCE notes</description>
-      
-    </item>
-    
-    <item>
       <title>The Easy Way to Quit Caffeine Summary and Notes</title>
       <link>https://davidwrites.xyz/notes/theeasywaytoquitcaffeine/</link>
       <pubDate>Tue, 30 Dec 2025 00:00:00 +0000</pubDate>
@@ -96,26 +86,6 @@
       
       <guid>https://davidwrites.xyz/notes/anythingyouwant/</guid>
       <description>Anything You Want Summary and Notes</description>
-      
-    </item>
-    
-    <item>
-      <title>My RHCSA Notes</title>
-      <link>https://davidwrites.xyz/notes/rhcsa-notes/</link>
-      <pubDate>Mon, 03 Mar 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://davidwrites.xyz/notes/rhcsa-notes/</guid>
-      <description>My RHCSA Notes</description>
-      
-    </item>
-    
-    <item>
-      <title>My RHCSA Notes</title>
-      <link>https://davidwrites.xyz/notes/rhcsacertguide/</link>
-      <pubDate>Mon, 03 Mar 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://davidwrites.xyz/notes/rhcsacertguide/</guid>
-      <description>My RHCSA Notes</description>
       
     </item>
     
