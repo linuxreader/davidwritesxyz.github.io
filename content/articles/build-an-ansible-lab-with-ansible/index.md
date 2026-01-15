@@ -1,7 +1,18 @@
-+++
-title = 'Building an Ansible lab with Ansible'
-description = 'Building an Ansible lab with Ansible using Ansible and Libvirt'
-+++
+---
+title: 'Building local Virtual Machines with Ansible and LibVirt'
+description: 'How to build local virtual machines using Ansible and Libvirt'
+draft: true
+---
+
+- Set up two Alma Linux 10 virtual machines using ansible and libvirt
+
+Download kvm_provision role
+Add variables
+Add VM template
+add tasks
+create playbook
+provisioning script
+
 
 When I started studying for RHCE, the study guide had me manually set up virtual machines for the Ansible lab environment. I thought.. Why not start my automation journey right, and automate them using Vagrant. 
 
@@ -36,7 +47,7 @@ Vagrant.configure("2") do |config|
 end
 ```
 
-I could run this Vagrant file and Build and destroy the lab in seconds. But there was a problem. The Libvirt plugin, or Vagrant itself, I'm not sure which, kept me from doing a couple important things. 
+I could run this Vagrant file and build and destroy the lab in seconds. But there was a problem. The Libvirt plugin, or Vagrant itself, I'm not sure which, kept me from doing a couple important things. 
 
 First, I could not specify the initial disk creation size. I could add additional disks of varying sizes but, if I wanted to change the size of the first disk, I would have to go back in after the fact and expand it manually...
 
@@ -54,7 +65,7 @@ I'll rehash the steps here:
 3. Install and start a VM
 4. Access the VM
 
-### Creating the role
+## Creating the role
 
 Move to roles directory
 `cd roles`
@@ -68,7 +79,7 @@ Switch into the role directory
 Remove unused directories
 `rm -r files handlers vars`
 
-### Define variables
+## Define variables
 
 Add default variables to main.yml
 `cd defaults/ && vim main.yml`
@@ -95,7 +106,7 @@ vm_disksize: 20
 
 ```
 
-### Defining a VM template
+## Defining a VM template
 
 The community.libvirt.virt module is used to provision a KVM VM. This module uses a VM definition in XML format with libvirt syntax. You can dump a VM definition of a current VM and then convert it to a template from there. Or you can just use this:
 

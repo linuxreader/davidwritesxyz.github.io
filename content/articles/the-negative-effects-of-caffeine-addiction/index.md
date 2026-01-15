@@ -2,9 +2,9 @@
 draft: false
 date: 2025-12-30
 categories: "health"
-title: "The Negative Effects of Caffeine Addiction are Worse Than You Think"
+title: "The Negative Effects of Caffeine Addiction"
 tags: ["articles"]
-summary: "These are the negative effects of caffeine addiction. A look into the most overlooked drug addiction on the planet."
+summary: "These are the negative effects of caffeine addiction."
 ---
 
 Look at this bird.

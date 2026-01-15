@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2026 </copyright>
-    <lastBuildDate>Wed, 07 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://davidwrites.xyz/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 14 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://davidwrites.xyz/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>How to Study for the CCNA Exam</title>
+      <link>https://davidwrites.xyz/articles/how-to-study-for-ccna-exam/</link>
+      <pubDate>Wed, 14 Jan 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://davidwrites.xyz/articles/how-to-study-for-ccna-exam/</guid>
+      <description>Guide to how you should approach studying for the CCNA exam</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://davidwrites.xyz/articles/how-to-study-for-ccna-exam/featured.png" />
+    </item>
     
     <item>
       <title>Now</title>
@@ -22,6 +32,26 @@
 &lt;p&gt;I am currently studying to get RHCE certified. I plan to pass the exam before April.&lt;/p&gt;
 &lt;p&gt;When I&amp;rsquo;m not working or spending time with the family, I am practicing drum rudiments, fiddling with a Rubix cube, or playing Starcraft 2. Also focused on eating healthy, running daily, and doing mobility work.&lt;/p&gt;</description>
       
+    </item>
+    
+    <item>
+      <title>How to Reduce Headaches Naturally</title>
+      <link>https://davidwrites.xyz/articles/how-to-reduce-headaches-naturally/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://davidwrites.xyz/articles/how-to-reduce-headaches-naturally/</guid>
+      <description>How to reduce headaches naturally by relaxing tense muscles.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://davidwrites.xyz/articles/how-to-reduce-headaches-naturally/featured.png" />
+    </item>
+    
+    <item>
+      <title>The Negative Effects of Caffeine Addiction</title>
+      <link>https://davidwrites.xyz/articles/the-negative-effects-of-caffeine-addiction/</link>
+      <pubDate>Tue, 30 Dec 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://davidwrites.xyz/articles/the-negative-effects-of-caffeine-addiction/</guid>
+      <description>These are the negative effects of caffeine addiction.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://davidwrites.xyz/articles/the-negative-effects-of-caffeine-addiction/featured.png" />
     </item>
     
     <item>
@@ -981,23 +1011,6 @@ Centralized Configuration Files and Version Control&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>Articles</title>
-      <link>https://davidwrites.xyz/articles/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://davidwrites.xyz/articles/</guid>
-      <description>&lt;ul&gt;
-&lt;li&gt;&lt;a
-  href=&#34;how-to-study-for-ccna-exam/&#34;&gt;How to Study for the CCNA Exam&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a
-  href=&#34;how-to-reduce-headaches-naturally/&#34;&gt;How to Reduce Headaches Naturally&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a
-  href=&#34;the-negative-effects-of-caffeine-addiction/&#34;&gt;The Negative Effects of Caffeine Addiction&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description>
-      
-    </item>
-    
-    <item>
       <title>Bash</title>
       <link>https://davidwrites.xyz/tech/bash/bash-shell/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -1096,16 +1109,6 @@ Centralized Configuration Files and Version Control&lt;/p&gt;</description>
 &lt;li&gt;regulates access to the system&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;handles&lt;/p&gt;</description>
-      
-    </item>
-    
-    <item>
-      <title>Building an Ansible lab with Ansible</title>
-      <link>https://davidwrites.xyz/tech/ansible/building-an-ansible-lab-with-ansible/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://davidwrites.xyz/tech/ansible/building-an-ansible-lab-with-ansible/</guid>
-      <description>&lt;p&gt;When I started studying for RHCE, the study guide had me manually set up virtual machines for the Ansible lab environment. I thought.. Why not start my automation journey right, and automate them using Vagrant.&lt;/p&gt;</description>
       
     </item>
     

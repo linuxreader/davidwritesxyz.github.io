@@ -38,16 +38,6 @@
     </item>
     
     <item>
-      <title>Building an Ansible lab with Ansible</title>
-      <link>https://davidwrites.xyz/tech/ansible/building-an-ansible-lab-with-ansible/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://davidwrites.xyz/tech/ansible/building-an-ansible-lab-with-ansible/</guid>
-      <description>&lt;p&gt;When I started studying for RHCE, the study guide had me manually set up virtual machines for the Ansible lab environment. I thought.. Why not start my automation journey right, and automate them using Vagrant.&lt;/p&gt;</description>
-      
-    </item>
-    
-    <item>
       <title>Execution Environments</title>
       <link>https://davidwrites.xyz/tech/ansible/archive/execution-environments/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
