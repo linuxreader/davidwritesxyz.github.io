@@ -139,7 +139,7 @@ These are all the books I have read from start to finish.
 - The Cautious Canine
 ### Tech
 - CompTIA A+ Certification All-in-One Exam Guide, Tenth Edition (Exams 220-1001 & 220-1002)
-- CNA Certification Study Guide, Volume 2: Exam 200-301
+- CCNA Certification Study Guide, Volume 2: Exam 200-301
 - Understanding Cisco Networking Technologies, Volume 1: Exam 200-301 (CCNA Certification)
 - CCNA OCG
 - RHCSA 9 Training and Exam Preparation Guide

@@ -14,9 +14,15 @@ create playbook
 provisioning script
 
 
-When I started studying for RHCE, the study guide had me manually set up virtual machines for the Ansible lab environment. I thought.. Why not start my automation journey right, and automate them using Vagrant. 
+When I started studying for RHCE, the study guide had me manually set up virtual machines for the Ansible lab environment. I thought.. 
 
-I use Libvirt to manage KVM/QEMU Virtual Machines and the Virt-Manager app to set them up. I figured I could use Vagrant to automatically build this lab from a file. And I got part of the way. I ended up with this Vagrant file:
+Why not start my automation journey right, and automate them using Vagrant?
+
+## The problem with Vagrant
+
+I use Libvirt to manage KVM/QEMU Virtual Machines and the Virt-Manager app to deploy them. I figured I could use Vagrant to automatically build this lab from a file. And I got part of the way. 
+
+I ended up with this Vagrant file:
 
 ```bash
 Vagrant.configure("2") do |config|
@@ -47,39 +53,27 @@ Vagrant.configure("2") do |config|
 end
 ```
 
-I could run this Vagrant file and build and destroy the lab in seconds. But there was a problem. The Libvirt plugin, or Vagrant itself, I'm not sure which, kept me from doing a couple important things. 
+I could run this Vagrant file and build and destroy the lab in seconds. But there was a problem. The Libvirt Vagrant plugin, or Vagrant itself, I'm not sure which, kept me from doing a couple important things. 
 
 First, I could not specify the initial disk creation size. I could add additional disks of varying sizes but, if I wanted to change the size of the first disk, I would have to go back in after the fact and expand it manually...
 
 Second, the Libvirt plugin networking settings were a bit confusing. When you add the private network option as seen in the Vagrant file, it would add this as a secondary connection, and route everything through a different public connection. 
 
-Now I couldn't get the VMs to run using the public connection for whatever reason, and it seems the only workaround was to make DHCP reservations for the guests Mac addresses which gave me even more problems to solve. But I won't go there..
+I couldn't get the VMs to run using the public connection for whatever reason, and it seems the only workaround was to make DHCP reservations for the guests Mac addresses which gave me even more problems to solve. But I won't go there..
 
 So why not get my feet wet and learn how to deploy VMs with Ansible? This way, I would get the granularity and control that Ansible gives me, some extra practice with Ansible, and not having to use software that has just enough abstraction to get in the way. 
 
 The guide I followed to set this up can be found on Redhat's blog [here.](https://www.redhat.com/en/blog/build-VM-fast-ansible) And it was pretty easy to set up all things considered. 
 
-I'll rehash the steps here:
-1. Download a cloud image
-2. Customize the image
-3. Install and start a VM
-4. Access the VM
+## Creating the role template
 
-## Creating the role
+Initialize the role:  
+`cd roles && ansible-galaxy role init kvm_provision && cd kvm_provision/`
 
-Move to roles directory
-`cd roles`
-
-Initialize the role
-`ansible-galaxy role init kvm_provision`
-
-Switch into the role directory
-`cd kvm_provision/`
-
-Remove unused directories
+Remove unused directories:  
 `rm -r files handlers vars`
 
-## Define variables
+## Define role variables
 
 Add default variables to main.yml
 `cd defaults/ && vim main.yml`
@@ -106,11 +100,40 @@ vm_disksize: 20
 
 ```
 
+```yaml
+#SPDX-License-Identifier: MIT-0
+---
+# defaults file for kvm_provision
+
+base_image_name: AlmaLinux-10-GenericCloud-latest.x86_64.qcow2
+base_image_url: https://repo.almalinux.org/almalinux/10/cloud/x86_64/images/{{ base_image_name }}
+base_image_sha: 8729862a9e2d93c478c2334b33d01d7ee21934a795a9b68550cc1c63ffd0efae 
+libvirt_pool_dir: "/var/lib/libvirt/images"
+vm_name: Alma10-dev
+vm_vcpus: 2
+vm_ram_mb: 2048
+vm_net: default
+vm_root_pass: root
+cleanup_tmp: no
+ssh_key: /root/.ssh/id_rsa.pub
+# Added option to configure ip address
+ip_addr: 192.168.124.250
+gw_addr: 192.168.124.1
+# Added option to configure disk size
+vm_disksize: 20
+
+```
 ## Defining a VM template
 
-The community.libvirt.virt module is used to provision a KVM VM. This module uses a VM definition in XML format with libvirt syntax. You can dump a VM definition of a current VM and then convert it to a template from there. Or you can just use this:
+The community.libvirt.virt Ansible module is used to provision a KVM Virtual Machine. This module uses a VM definition file in XML format with libvirt syntax. You can dump a VM definition of a current VM and then convert it to a template from there. 
 
-`cd templates/ && vim vm-template.xml.j2`
+In order to specify disk size, I added this to the file from the guide:  
+```
+<!-- Added: Specify the disk size using a variable -->
+<size unit='GiB'>{{ disk_size }}</size>
+```
+
+Here is templates/vm-template.xml.j2 now:  
 
 ```xml
 <domain type='kvm'>
@@ -173,7 +196,19 @@ The template uses some of the variables from earlier. This allows flexibility to
 
 ## Define tasks for the role to perform
 
-`cd ../tasks/ && vim main.yml`
+There are a couple tasks we need to add that isn't in the guide. 
+- Add Ansible user and ssh keys
+- Configure networking
+
+Add this to the options for the "Configure the image" task.
+```yaml
+      --firstboot-command "nmcli c m eth0 con-name eth0 ip4 {{ ip_addr }}/24 gw4 {{ gw_addr }} ipv4.method manual && nmcli c d eth0 && nmcli c u eth0" \
+      --run-command 'id {{ ansible_user }} 2>/dev/null || (useradd -m {{ ansible_user }} && echo "{{ ansible_password }}" | passwd --stdin {{ ansible_user }})' \
+      --ssh-inject {{ ansible_user }}:file:{{ ssh_key }}
+```
+
+
+`cat tasks/main.yml`  
 
 ```yaml
 ---
