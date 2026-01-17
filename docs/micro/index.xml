@@ -11,10 +11,10 @@
     
     <item>
       <title>Proxmox PfSense HaProxy Setup</title>
-      <link>https://davidwrites.xyz/micro/drafts/proxmox-pfsense-haproxy-setup/</link>
+      <link>https://davidwrites.xyz/micro/proxmox-pfsense-haproxy-setup/</link>
       <pubDate>Sat, 17 Jan 2026 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/micro/drafts/proxmox-pfsense-haproxy-setup/</guid>
+      <guid>https://davidwrites.xyz/micro/proxmox-pfsense-haproxy-setup/</guid>
       <description>Access Proxmox PVE GUI through HaProxy on PfSense</description>
       
     </item>
