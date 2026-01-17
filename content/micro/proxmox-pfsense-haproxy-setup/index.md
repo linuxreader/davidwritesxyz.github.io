@@ -36,4 +36,4 @@ General HaProxy setup pretty much matches the LS video here: https://www.youtube
 ![](Pasted%20image%2020260117042031.png)
 
 ## It's working finally!
-![](Pasted%20image%2020260117044255.png)
+![](featured.png)
