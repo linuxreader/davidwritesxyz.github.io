@@ -12,99 +12,35 @@ Add VM template
 add tasks
 create playbook
 provisioning script
+set up a dhcp reservation
 
+When I started studying for RHCE, I was spending tons of time deploying and destroying virtual machines. 
 
-When I started studying for RHCE, the study guide had me manually set up virtual machines for the Ansible lab environment. I thought.. 
+I thought.. 
 
-Why not start my automation journey right, and automate them using Vagrant?
+Why not start my automation journey right? I had four goals:
+1. Create a Virtual Machine using an Alma 10 Cloud init image. 
+2. Have RAM, Storage, etc. defined in a file. 
+3. Set up the root password and ssh keys.
+4. Assign an IP address.
 
-## The problem with Vagrant
+This guide uses [Libvirt](https://libvirt.org/index.html) to manage [KVM/QEMU](https://www.qemu.org/) Virtual Machines and the Ansible deploy them. 
 
-I use Libvirt to manage KVM/QEMU Virtual Machines and the Virt-Manager app to deploy them. I figured I could use Vagrant to automatically build this lab from a file. And I got part of the way. 
+## Creating the role
 
-I ended up with this Vagrant file:
+First, Initialize the role and remove unused directories:  
+`cd roles && ansible-galaxy role init kvm_provision && cd kvm_provision/ && rm -r files handlers vars`
 
-```bash
-Vagrant.configure("2") do |config|
-  config.vm.box = "almalinux/9"
+## Defining role variables
 
-  config.vm.provider :libvirt do |libvirt|
-    libvirt.uri = "qemu:///system"
-    libvirt.cpus = 2
-    libvirt.memory = 2048
-  end
+Add these default variables to main.yml. You can to a web search for cloud images if you want a different OS and sha. Here, you also define hardware specs, root password information, and ip addressing. 
 
-   config.vm.define "control" do |control|
-    control.vm.network "private_network", ip: "192.168.124.200"
-    control.vm.hostname = "control.example.com"
-  end
+We'll override some of this in our deployment script later:
 
-  config.vm.define "ansible1" do |ansible1|
-    ansible1.vm.network "private_network", ip: "192.168.124.201"
-    ansible1.vm.hostname = "ansible1.example.com"
-
-  end
-
-  config.vm.define "ansible2" do |ansible2|
-    ansible2.vm.network "private_network", ip: "192.168.124.202"
-    ansible2.vm.hostname = "ansible2.example.com"
-  end
-
-end
-```
-
-I could run this Vagrant file and build and destroy the lab in seconds. But there was a problem. The Libvirt Vagrant plugin, or Vagrant itself, I'm not sure which, kept me from doing a couple important things. 
-
-First, I could not specify the initial disk creation size. I could add additional disks of varying sizes but, if I wanted to change the size of the first disk, I would have to go back in after the fact and expand it manually...
-
-Second, the Libvirt plugin networking settings were a bit confusing. When you add the private network option as seen in the Vagrant file, it would add this as a secondary connection, and route everything through a different public connection. 
-
-I couldn't get the VMs to run using the public connection for whatever reason, and it seems the only workaround was to make DHCP reservations for the guests Mac addresses which gave me even more problems to solve. But I won't go there..
-
-So why not get my feet wet and learn how to deploy VMs with Ansible? This way, I would get the granularity and control that Ansible gives me, some extra practice with Ansible, and not having to use software that has just enough abstraction to get in the way. 
-
-The guide I followed to set this up can be found on Redhat's blog [here.](https://www.redhat.com/en/blog/build-VM-fast-ansible) And it was pretty easy to set up all things considered. 
-
-## Creating the role template
-
-Initialize the role:  
-`cd roles && ansible-galaxy role init kvm_provision && cd kvm_provision/`
-
-Remove unused directories:  
-`rm -r files handlers vars`
-
-## Define role variables
-
-Add default variables to main.yml
-`cd defaults/ && vim main.yml`
+`cat defaults/main.yml`
 
 ```yaml
 ---
-# defaults file for kvm_provision
-base_image_name: AlmaLinux-9-GenericCloud-9.5-20241120.x86_64.qcow2
-base_image_url: https://repo.almalinux.org/almalinux/9/cloud/x86_64/images/{{ base_image_name }}
-base_image_sha: abddf01589d46c841f718cec239392924a03b34c4fe84929af5d543c50e37e37
-libvirt_pool_dir: "/var/lib/libvirt/images"
-vm_name: f34-dev
-vm_vcpus: 2
-vm_ram_mb: 2048
-vm_net: default
-vm_root_pass: test123
-cleanup_tmp: no
-ssh_key: /root/.ssh/id_rsa.pub
-# Added option to configure ip address
-ip_addr: 192.168.124.250
-gw_addr: 192.168.124.1
-# Added option to configure disk size
-vm_disksize: 20
-
-```
-
-```yaml
-#SPDX-License-Identifier: MIT-0
----
-# defaults file for kvm_provision
-
 base_image_name: AlmaLinux-10-GenericCloud-latest.x86_64.qcow2
 base_image_url: https://repo.almalinux.org/almalinux/10/cloud/x86_64/images/{{ base_image_name }}
 base_image_sha: 8729862a9e2d93c478c2334b33d01d7ee21934a795a9b68550cc1c63ffd0efae 
@@ -113,27 +49,24 @@ vm_name: Alma10-dev
 vm_vcpus: 2
 vm_ram_mb: 2048
 vm_net: default
-vm_root_pass: root
+vm_root_pass: test123
 cleanup_tmp: no
 ssh_key: /root/.ssh/id_rsa.pub
-# Added option to configure ip address
-ip_addr: 192.168.124.250
-gw_addr: 192.168.124.1
-# Added option to configure disk size
-vm_disksize: 20
-
+ip_addr: 192.168.122.250
+gw_addr: 192.168.122.1
+vm_mac: 52:54:00:a0:b0:00
+disk_size: 20
 ```
+
 ## Defining a VM template
 
-The community.libvirt.virt Ansible module is used to provision a KVM Virtual Machine. This module uses a VM definition file in XML format with libvirt syntax. You can dump a VM definition of a current VM and then convert it to a template from there. 
+The [community.libvirt.virt ](https://docs.ansible.com/projects/ansible/latest/collections/community/libvirt/virt_module.html)Ansible module will be used to provision our KVM Virtual Machine. This module uses a VM definition file in XML format with [libvirt syntax](https://libvirt.org/formatdomain.html). You can get a template from a current VM and edit from there. 
 
-In order to specify disk size, I added this to the file from the guide:  
-```
-<!-- Added: Specify the disk size using a variable -->
-<size unit='GiB'>{{ disk_size }}</size>
-```
+The power of using a [Jinja template](https://www.davidwrites.xyz/notes/rhce-notes/jinja2templates/) is that we can insert variables to the template for re-usability. 
 
-Here is templates/vm-template.xml.j2 now:  
+```bash
+cat templates/vm-template.xml.j2 
+```
 
 ```xml
 <domain type='kvm'>
@@ -152,12 +85,15 @@ Here is templates/vm-template.xml.j2 now:
       <source file='{{ libvirt_pool_dir }}/{{ vm_name }}.qcow2'/>
       <target dev='vda' bus='virtio'/>
       <address type='pci' domain='0x0000' bus='0x05' slot='0x00' function='0x0'/>
-       <!-- Added: Specify the disk size using a variable -->
+      <!-- Specify the disk size using a variable -->
       <size unit='GiB'>{{ disk_size }}</size>
     </disk>
     <interface type='network'>
       <source network='{{ vm_net }}'/>
       <model type='virtio'/>
+      <target dev='eth0'/>
+      <!-- Specify the mac address using a variable -->
+      <mac address="{{ vm_mac }}" />
       <address type='pci' domain='0x0000' bus='0x01' slot='0x00' function='0x0'/>
     </interface>
     <channel type='unix'>
@@ -192,55 +128,36 @@ Here is templates/vm-template.xml.j2 now:
 </domain>
 ```
 
-The template uses some of the variables from earlier. This allows flexibility to changes things by just changing the variables.
+## Defining role tasks
 
-## Define tasks for the role to perform
-
-There are a couple tasks we need to add that isn't in the guide. 
-- Add Ansible user and ssh keys
-- Configure networking
-
-Add this to the options for the "Configure the image" task.
-```yaml
-      --firstboot-command "nmcli c m eth0 con-name eth0 ip4 {{ ip_addr }}/24 gw4 {{ gw_addr }} ipv4.method manual && nmcli c d eth0 && nmcli c u eth0" \
-      --run-command 'id {{ ansible_user }} 2>/dev/null || (useradd -m {{ ansible_user }} && echo "{{ ansible_password }}" | passwd --stdin {{ ansible_user }})' \
-      --ssh-inject {{ ansible_user }}:file:{{ ssh_key }}
-```
-
-
-`cat tasks/main.yml`  
+Here is the task list for this playbook. 
 
 ```yaml
 ---
-# tasks file for kvm_provision
+# Commented out on my setup. Using an immutable distro with this stuff already set up.
+#- name: Requirements
+#  package:
+#    name:
+#      - guestfs-tools
+#      - python3-libvirt
+#    state: present
+#  become: yes
 
-# ensure the required package dependencies `guestfs-tools` and `python3-libvirt` are installed. This role requires these packages to connect to `libvirt` and to customize the virtual image in a later step. These package names work on Fedora Linux. If you're using RHEL 8 or CentOS, use `libguestfs-tools` instead of `guestfs-tools`. For other distributions, adjust accordingly.
-
-- name: Ensure requirements in place
-  package:
-    name:
-      - guestfs-tools
-      - python3-libvirt
-    state: present
-  become: yes
-
-# obtain a list of existing VMs so that you don't overwrite an existing VM on accident. uses the `virt` module from the collection `community.libvirt`, which interacts with a running instance of KVM with `libvirt`. It obtains the list of VMs by specifying the parameter `command: list_vms` and saves the results in a variable `existing_vms`. `changed_when: no` for this task to ensure that it's not marked as changed in the playbook results. This task doesn't make any change in the machine; it only checks the existing VMs. This is a good practice when developing Ansible automation to prevent false reports of changes.
-- name: Get VMs list
+- name: List existing VMS
   community.libvirt.virt:
     command: list_vms
   register: existing_vms
   changed_when: no
 
-#execute only when the VM name the user provides doesn't exist. And uses the module `get_url` to download the base cloud image into the `/tmp` directory
-- name: Create VM if not exists
+- name: Create VM if its does not exist
   block:
   - name: Download base image
     get_url:
       url: "{{ base_image_url }}"
       dest: "/tmp/{{ base_image_name }}"
+      force: yes
       checksum: "sha256:{{ base_image_sha }}"
       
-# copy the file to libvirt's pool directory so we don't edit the original, which can be used to provision other VMS later
   - name: Copy base image to libvirt directory
     copy:
       dest: "{{ libvirt_pool_dir }}/{{ vm_name }}.qcow2"
@@ -249,68 +166,70 @@ Add this to the options for the "Configure the image" task.
       remote_src: yes 
       mode: 0660
     register: copy_results
-  - 
-# Resize the VM disk
-  - name: Resize VM disk
-    command: qemu-img resize "{{ libvirt_pool_dir }}/{{ vm_name }}.qcow2" "{{ disk_size }}G"
-    when: copy_results is changed
 
-# uses command module to run virt-customize to customize the image
   - name: Configure the image
     command: |
       virt-customize -a {{ libvirt_pool_dir }}/{{ vm_name }}.qcow2 \
       --hostname {{ vm_name }} \
       --root-password password:{{ vm_root_pass }} \
       --ssh-inject 'root:file:{{ ssh_key }}' \
-      --uninstall cloud-init --selinux-relabel
-# Added option to configure an IP address
-      --firstboot-command "nmcli c m eth0 con-name eth0 ip4 {{ ip_addr }}/24 gw4 {{ gw_addr }} ipv4.method manual && nmcli c d eth0 && nmcli c u eth0"
+      --uninstall cloud-init 
+    # Compatibility options for Fedora BlueFin, not needed on non-immutable distros.
+    register: image_result  
+    failed_when:
+      - image_result.rc != 0
+      - "'SELinux relabelling' not in image_result.stdout"
 
-    when: copy_results is changed
-
+# Use the xml template to define the vm settings.
   - name: Define vm
     community.libvirt.virt:
       command: define
       xml: "{{ lookup('template', 'vm-template.xml.j2') }}"
     when: "vm_name not in existing_vms.list_vms"
 
-- name: Ensure VM is started
-  community.libvirt.virt:
-    name: "{{ vm_name }}"
-    state: running
-  register: vm_start_results
-  until: "vm_start_results is success"
-  retries: 15
-  delay: 2
+  - name: Ensure VM is started
+    community.libvirt.virt:
+      name: "{{ vm_name }}"
+      state: running
+    register: vm_start_results
+    until: "vm_start_results is success"
+    retries: 15
+    delay: 2
 
-- name: Ensure temporary file is deleted
-  file:
-    path: "/tmp/{{ base_image_name }}"
-    state: absent
-  when: cleanup_tmp | bool
+  - name: Ensure temporary file is deleted
+    file:
+      path: "/tmp/{{ base_image_name }}"
+      state: absent
+    when: cleanup_tmp | bool
 ```
 
+## Creating the playbook
 Changed my user to own the libvirt directory:
 `chown -R david:david /var/lib/libvirt/images`
 
 Create playbook `kvm_provision.yaml`
 ```yml
 ---
-- name: Deploys VM based on cloud image
+# Example useage: ansible-playbook kvm_provision.yaml -K -e vm=testvm-01 -e ip_addr=192.168.122.3 -e disk_size=31 -e vm_mac=52:54:00:a0:b0:01
+
+- name: Deploy VM based on cloud image
   hosts: localhost
   gather_facts: yes
   become: yes
   vars:
     pool_dir: "/var/lib/libvirt/images"
-    vm: control
-    vcpus: 2
-    ram_mb: 2048
     cleanup: no
     net: default
-    ssh_pub_key: "/home/davidt/.ssh/id_ed25519.pub"
-    disksize: 20
+    ssh_pub_key: "/var/home/david/.ssh/id_ed25519.pub"
+    ansible_password: "{{ ansible_user_pass }}"
 
   tasks:
+    - name: Get VMs list
+      community.libvirt.virt:
+        command: list_vms
+      register: existing_vms
+      changed_when: no
+
     - name: KVM Provision role
       include_role:
         name: kvm_provision
@@ -322,6 +241,7 @@ Create playbook `kvm_provision.yaml`
         vm_net: "{{ net }}"
         cleanup_tmp: "{{ cleanup }}"
         ssh_key: "{{ ssh_pub_key }}"
+      when: "vm_name not in existing_vms.list_vms"
 ```
 
 Add the libvirt collection
@@ -330,47 +250,17 @@ Add the libvirt collection
 Create a VM with a new name
 `ansible-playbook -K kvm_provision.yaml -e vm=ansible1`
 
- --run-command 'nmcli c a type Ethernet ifname eth0 con-name eth0 ip4 192.168.124.200 gw4 192.168.124.1'
 
-parted /dev/vda resizepargit t 4 100%
-Warning: Partition /dev/vda4 is being used. Are you sure you want to continue?
-Yes/No? y                                                                 
-Information: You may need to update /etc/fstab.
-
-lsblk
-NAME   MAJ:MIN RM  SIZE RO TYPE MOUNTPOINTS
-vda    252:0    0   20G  0 disk 
-├─vda2 252:2    0  200M  0 part /boot/efi
-├─vda3 252:3    0    1G  0 part /boot
-└─vda4 252:4    0  8.8G  0 part /
-
-variables
-{{ ansible_user }}
-{{ ansible_password }}
-{{ gw_addr }}
-{{ ip_addr }}
-
-; useradd -m -p {{ ansible_user }} ; chage -d 0 {{ ansible_user }} ; cat {{ ansible_password }} > passwd {{ ansible_user }} --stdin" \
 
 ```
-  - name: Configure the image
-    command: |
-      virt-customize -a {{ libvirt_pool_dir }}/{{ vm_name }}.qcow2 \
-      --hostname {{ vm_name }} \
-      --root-password password:{{ vm_root_pass }} \
-      --uninstall cloud-init --selinux-relabel \
-      --firstboot-command "nmcli c m eth0 con-name eth0 ip4 \
-                           {{ ip_addr }}/24 gw4 {{ gw_addr }} \
-                           ipv4.method manual && nmcli c d eth0 \
-                           && nmcli c u eth0 && adduser \
-                           {{ ansible_user }} && echo \
-                           "{{ ansible_password }}" | passwd \
-                           --stdin {{ ansible_user }}"
-    when: copy_results is changed
-
+ --run-command 'useradd -m -p {{ ansible_user }} ; chage -d 0 {{ ansible_user }} ; cat {{ ansible_password }} > passwd {{ ansible_user }} --stdin"'
+ 
   - name: Add ssh keys
     command: |
       virt-customize -a {{ libvirt_pool_dir }}/{{ vm_name }}.qcow2 \
       --ssh-inject '{{ ansible_user }}:file:{{ ssh_key }}'
 
 ```
+
+## Assigning static IP 
+https://www.cyberciti.biz/faq/linux-kvm-libvirt-dnsmasq-dhcp-static-ip-address-configuration-for-guest-os/

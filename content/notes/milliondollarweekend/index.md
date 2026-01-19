@@ -21,22 +21,13 @@ summary: "Million Dollar Weekend Summary and Notes"
 
 ## My Notes
 
-Ordinary people start profitable businesses every single day.
+Choose the three ideas you think will be the most fun to work with.
 
-You do have problems, and so do your friends and every other person in this world. That’s all you need to generate million-dollar business
-ideas.
-
-Choose the three you think will be the most fun to work with.
-
-In the early mornings, evenings, and weekends. Once you’ve validated an idea, and you’re pulling in enough to cover your minimum monthly
-expenses—aka the Freedom Number—then you can quit.
-
-I’ve started a few different businesses. They do okay and then I lose interest
+In the early mornings, evenings, and weekends. Once you’ve validated an idea, and you’re pulling in enough to cover your minimum monthly expenses—aka the Freedom Number—then you can quit.
 
 But how will it scale? Focus on starting. Then figure out how to scale.
 
-You will never feel 100 percent ready to start. You just need to start. Don’t buy another book or watch another video until you’ve
-worked through THIS process and started your million-dollar business.
+You will never feel 100 percent ready to start. You just need to start.
 
 Marketing is easy when you have a product people want.
 
@@ -46,11 +37,10 @@ Craft an irresistible solution whose million-dollar-plus potential is backed by 
 
 Spend NO MONEY to quickly validate whether your idea is the real deal (or not) by preselling it before you build it.
 
-Derailed by the same two fears:
+## Fears that can derail you
 
 **FEAR OF STARTING**
-At some point people are told entrepreneurship is a huge risk, and you believed it. You figured more preparation, more
-planning, and more talking to friends Would help you overcome your insecurities. But that inaction only breeds more doubt and fear.
+At some point people are told entrepreneurship is a huge risk, and you believed it. You figured more preparation, more planning, and more talking to friends Would help you overcome your insecurities. But that inaction only breeds more doubt and fear.
 
 The best way to learn what we need to know—and become who we want to be—is by just getting started. Small EXPERIMENTS, repeated over time, are the recipe for transformation in business, and life.
 
@@ -59,22 +49,18 @@ Soon after starting, the fear of rejection emerges.
 
 You have some impressive skills, an amazing product, every advantage in the world, and you’ll never sell a thing if you can’t face another person and ask for what you want. Whether you want them to buy what you’re selling or help in another way, you have to be able to ask in order to get. Once you reframe rejection as something desirable, the act of asking becomes a power all its own.
 
-Everything you do in this book, and after, should be viewed as an experiment
-
-Experiments are supposed to fail.
+## Business is experimentation
+Everything you do should be viewed as an experiment. Experiments are supposed to fail.
 
 And should they fail, you just take what you’ve learned and try again a little bit differently.
 
-Most people never pick up the phone, most people never ask. And that’s what separates, sometimes, the people that do things from the people
-that just dream about them. You gotta act. And you gotta be willing to fail.
+Most people never pick up the phone, most people never ask. And that’s what separates, sometimes, the people that do things from the people that just dream about them. You gotta act. And you gotta be willing to fail.
 
-Business is just a never-ending cycle of starting and trying new things, asking whether people will pay for those things, and then
-trying it again based on what you’ve learned. If you’re afraid to start or ask, you can’t experiment.
+Business is just a never-ending cycle of starting and trying new things, asking whether people will pay for those things, and then trying it again based on what you’ve learned. If you’re afraid to start or ask, you can’t experiment.
 
 And if you can’t experiment, you can’t do business.
 
-Business is an amazing opportunity to learn about yourself, play with ideas, solve your own problems, help other people, and get paid all
-the while.
+Business is an amazing opportunity to learn about yourself, play with ideas, solve your own problems, help other people, and get paid all the while.
 
 Approaching it this way will free up your imagination, make you less judgy and critical of yourself, and allow you to open yourself up to playful experimentation.
 
@@ -82,22 +68,17 @@ Limiting time to a weekend forces you to become inventive, focuses your attentio
 
 The most powerful growth tool today for solopreneurs is a system of content creation, audience building, and email marketing.
 
-You’ll need a different approach and different system to organize your days—one that optimizes for your overall happiness above all else. (Or
-why do any of it, right?)
-
-There are two mistakes one can make along the road to truth . . . not going all the way, and not starting. —Buddha
+"There are two mistakes one can make along the road to truth . . . not going all the way, and not starting." —Buddha
 
 Focus above all else on being a starter, an experimenter, a learner.
 
-Defining yourself by the things you do each day (the process) will get you to where you want to be quicker and more joyfully than measuring
-yourself against others.
+Defining yourself by the things you do each day (the process) will get you to where you want to be quicker and more joyfully than measuring yourself against others.
 
 ## The Magic of NOW, Not How.
 
-Fully embrace what I call the NOW, Not How Habit.
+Most people: Overthink first, act later.
 
-1.  Most people: Overthink first, act later.
-2.  Every successful entrepreneur: Act first, figure it out later.
+Every successful entrepreneur: Act first, figure it out later.
 
 Any analysis ahead of action is purely speculation.
 
@@ -117,6 +98,7 @@ Start by choosing a short-term monthly revenue goal—your Freedom Number—and 
 
 Who you are, what you have, and what you know right now are more than enough to get going.
 
+## Try to get rejected
 Love rejections! Collect them like treasure! Set rejection goals. I shoot for a hundred rejections each week, because if you work that hard to get so many noes, in them you will find a few yeses, too.
 
 The upside of asking is unlimited and the downside is minimal.
@@ -126,14 +108,13 @@ actually a “not now.”
 
 Follow Up! Studies show that if you initially get a no, your follow-up ask is TWICE as likely to get a yes.
 
-Selling is helping. 
+## Selling is helping
 
 If you believe your product or service improves the lives of your customers, sales is just education.
 
 If you believe your product or service can fulfill a true need, it’s your moral obligation to sell it.—Zig Ziglar
 
 Three Ws of business:
-
 * Who you are selling to
 * What problem you’re solving
 * Where they are
@@ -141,8 +122,7 @@ Three Ws of business:
 Sell ideas to a small early adopter group before you’ve built the product (or spent a cent) in order to validate that
 there is a market that will pay. 
 
-When in doubt, solve your own problems. If you are willing to pay for a solution, it’s likely others are, too. And at least you’ll have one
-happy customer—yourself.
+When in doubt, solve your own problems. If you are willing to pay for a solution, it’s likely others are, too. And at least you’ll have one happy customer—yourself.
 
 Minimum viable product or MVP. Create the simplest possible version of what you’re offering and start selling it right away.
 
@@ -155,27 +135,27 @@ Validation process begins with potential customers in the entrepreneur’s orbit
 
 Who do you have easy access to that you’d be EXCITED to help? 
 
-The better you understand your target group, the better you can speak to them. The more specifically you can speak to their problems, the
-better and easier you can sell or test products.
+The better you understand your target group, the better you can speak to them. The more specifically you can speak to their problems, the better and easier you can sell or test products.
 
-This process prioritizes communication with people, through starting (taking the first iteration of your solution straight to customers)
-and asking (engaging them in a conversation to determine how your solution can best fix their problem). Business creation should always
-be a conversation.
+This process prioritizes communication with people, through starting (taking the first iteration of your solution straight to customers) and asking (engaging them in a conversation to determine how your solution can best fix their problem). 
+
+Business creation should always be a conversation.
 
 ## Become a Problem Seeker
 
 The best entrepreneurs are the most dissatisfied. They’re always thinking of how things can be better.
 
-Your frustrations—and the frustrations of others—are your business opportunities
+Your frustrations—and the frustrations of others—are your business opportunities.
 
-The crucial first step toward entrepreneurship is to study your own unhappiness and to think of solutions (aka business opportunities) for
-you to sell.
+The crucial first step toward entrepreneurship is to study your own unhappiness and to think of solutions (aka business opportunities) for you to sell.
 
 What’s the most painful (aka valuable) problem you can solve for people . . .
+
 That you also have passion for and/or unique expertise in . . .
+
 For the largest niche possible that you belong to and understand.
 
-Focus on your Zone of Influence here (your existing community): 
+Focus on your Zone of Influence here (your existing community).
 
 ### Solve Your Own Problems
 
@@ -198,7 +178,7 @@ Write down all the bad, crazy, and nonsense ideas that come into your mind.
 
 Studying the marketplaces where people are TRYING to spend money
 
-Search Engine Queries
+### Search Engine Queries
 
 It’s much easier to sell something when people ALREADY want it. There are 3 billion Google searches every day, giving you a direct line to customers’ thoughts and needs
 
