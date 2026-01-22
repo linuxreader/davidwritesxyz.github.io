@@ -4,7 +4,7 @@ description: Stuff I have written
 showViews: false
 showLikes: false
 cascade:
-  showDate: false
+  showDate: true
   showAuthor: false
   invertPagination: true
   showSummary: false

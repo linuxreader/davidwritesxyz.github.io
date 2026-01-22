@@ -378,6 +378,28 @@ Creates an app launcher icon for the container&lt;/p&gt;
     
     <item>
       <title></title>
+      <link>https://davidwrites.xyz/tech/tools/libvirt-kvm-qemu/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://davidwrites.xyz/tech/tools/libvirt-kvm-qemu/</guid>
+      <description>&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;libvirt is the most mature and proven virtualization stack in the world&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;proxmox is just a management layer on top of it&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;so is kubevirt&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;so are like a dozen other things
+qemu is a general purpose linux virtualization swiss army knife CLI, the way most people use it most of the time is as an interface to KVM which is just built into the kernel&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://davidwrites.xyz/tech/tools/libvirt/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
