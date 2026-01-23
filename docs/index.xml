@@ -2,69 +2,69 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title></title>
-    <link>https://davidwrites.xyz/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2026 </copyright>
-    <lastBuildDate>Thu, 22 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://davidwrites.xyz/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 22 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Using Libvirt and Ansible to Automate KVM Virtual Machine Deployments</title>
-      <link>https://davidwrites.xyz/articles/build-an-ansible-lab-with-ansible/</link>
+      <link>http://localhost:1313/articles/build-an-ansible-lab-with-ansible/</link>
       <pubDate>Thu, 22 Jan 2026 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/articles/build-an-ansible-lab-with-ansible/</guid>
+      <guid>http://localhost:1313/articles/build-an-ansible-lab-with-ansible/</guid>
       <description>How to build local KVM virtual machines using Ansible and Libvirt</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://davidwrites.xyz/articles/build-an-ansible-lab-with-ansible/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/articles/build-an-ansible-lab-with-ansible/featured.png" />
     </item>
     
     <item>
       <title>Proxmox PfSense HaProxy Setup</title>
-      <link>https://davidwrites.xyz/micro/proxmox-pfsense-haproxy-setup/</link>
+      <link>http://localhost:1313/micro/proxmox-pfsense-haproxy-setup/</link>
       <pubDate>Sat, 17 Jan 2026 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/micro/proxmox-pfsense-haproxy-setup/</guid>
+      <guid>http://localhost:1313/micro/proxmox-pfsense-haproxy-setup/</guid>
       <description>Access Proxmox PVE GUI through HaProxy on PfSense</description>
       
     </item>
     
     <item>
       <title>Stop Using AI so Much</title>
-      <link>https://davidwrites.xyz/micro/stop-using-ai/</link>
+      <link>http://localhost:1313/micro/stop-using-ai/</link>
       <pubDate>Fri, 16 Jan 2026 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/micro/stop-using-ai/</guid>
+      <guid>http://localhost:1313/micro/stop-using-ai/</guid>
       <description>Benefits of not using AI</description>
       
     </item>
     
     <item>
       <title>How to Install Ansible Using uv</title>
-      <link>https://davidwrites.xyz/micro/install-ansible-using-uv/</link>
+      <link>http://localhost:1313/micro/install-ansible-using-uv/</link>
       <pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/micro/install-ansible-using-uv/</guid>
+      <guid>http://localhost:1313/micro/install-ansible-using-uv/</guid>
       <description>Insall ansible using uv</description>
       
     </item>
     
     <item>
       <title>How to Study for the CCNA Exam</title>
-      <link>https://davidwrites.xyz/articles/how-to-study-for-ccna-exam/</link>
+      <link>http://localhost:1313/articles/how-to-study-for-ccna-exam/</link>
       <pubDate>Wed, 14 Jan 2026 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/articles/how-to-study-for-ccna-exam/</guid>
+      <guid>http://localhost:1313/articles/how-to-study-for-ccna-exam/</guid>
       <description>Guide to how you should approach studying for the CCNA exam</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://davidwrites.xyz/articles/how-to-study-for-ccna-exam/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/articles/how-to-study-for-ccna-exam/featured.png" />
     </item>
     
     <item>
       <title>Now</title>
-      <link>https://davidwrites.xyz/now/</link>
+      <link>http://localhost:1313/now/</link>
       <pubDate>Wed, 07 Jan 2026 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/now/</guid>
+      <guid>http://localhost:1313/now/</guid>
       <description>&lt;p&gt;What I am up to &lt;a
   href=&#34;https://nownownow.com/about&#34;
     target=&#34;_blank&#34;
@@ -76,30 +76,30 @@
     
     <item>
       <title>How to Reduce Headaches Naturally</title>
-      <link>https://davidwrites.xyz/articles/how-to-reduce-headaches-naturally/</link>
+      <link>http://localhost:1313/articles/how-to-reduce-headaches-naturally/</link>
       <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/articles/how-to-reduce-headaches-naturally/</guid>
+      <guid>http://localhost:1313/articles/how-to-reduce-headaches-naturally/</guid>
       <description>How to reduce headaches naturally by relaxing tense muscles.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://davidwrites.xyz/articles/how-to-reduce-headaches-naturally/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/articles/how-to-reduce-headaches-naturally/featured.png" />
     </item>
     
     <item>
       <title>The Negative Effects of Caffeine Addiction</title>
-      <link>https://davidwrites.xyz/articles/the-negative-effects-of-caffeine-addiction/</link>
+      <link>http://localhost:1313/articles/the-negative-effects-of-caffeine-addiction/</link>
       <pubDate>Tue, 30 Dec 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/articles/the-negative-effects-of-caffeine-addiction/</guid>
+      <guid>http://localhost:1313/articles/the-negative-effects-of-caffeine-addiction/</guid>
       <description>These are the negative effects of caffeine addiction.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://davidwrites.xyz/articles/the-negative-effects-of-caffeine-addiction/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/articles/the-negative-effects-of-caffeine-addiction/featured.png" />
     </item>
     
     <item>
       <title></title>
-      <link>https://davidwrites.xyz/tech/bluefin-setup/</link>
+      <link>http://localhost:1313/tech/bluefin-setup/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/tech/bluefin-setup/</guid>
+      <guid>http://localhost:1313/tech/bluefin-setup/</guid>
       <description>&lt;p&gt;Run command
 &lt;code&gt;ujust devmode&lt;/code&gt;&lt;/p&gt;
 &lt;p&gt;Add yourself to the right groups
@@ -170,10 +170,10 @@
     
     <item>
       <title></title>
-      <link>https://davidwrites.xyz/tech/desktop-yml/</link>
+      <link>http://localhost:1313/tech/desktop-yml/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/tech/desktop-yml/</guid>
+      <guid>http://localhost:1313/tech/desktop-yml/</guid>
       <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-yaml&#34; data-lang=&#34;yaml&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nn&#34;&gt;---&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;&lt;/span&gt;- &lt;span class=&#34;nt&#34;&gt;name&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;Setup Development Environment&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;  &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;hosts&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;localhost&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
@@ -231,10 +231,10 @@
     
     <item>
       <title></title>
-      <link>https://davidwrites.xyz/tech/desktop/silverblue-1/</link>
+      <link>http://localhost:1313/tech/desktop/silverblue-1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/tech/desktop/silverblue-1/</guid>
+      <guid>http://localhost:1313/tech/desktop/silverblue-1/</guid>
       <description>&lt;p&gt;Automated setup &lt;a
   href=&#34;https://universal-blue.org/&#34;
     target=&#34;_blank&#34;
@@ -273,10 +273,10 @@ Separates system level packages from applications.&lt;/p&gt;
     
     <item>
       <title></title>
-      <link>https://davidwrites.xyz/tech/linux/desktop/silverblue-1/</link>
+      <link>http://localhost:1313/tech/linux/desktop/silverblue-1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/tech/linux/desktop/silverblue-1/</guid>
+      <guid>http://localhost:1313/tech/linux/desktop/silverblue-1/</guid>
       <description>&lt;p&gt;Automated setup &lt;a
   href=&#34;https://universal-blue.org/&#34;
     target=&#34;_blank&#34;
@@ -315,10 +315,10 @@ Separates system level packages from applications.&lt;/p&gt;
     
     <item>
       <title></title>
-      <link>https://davidwrites.xyz/tech/networking/ccna-notes/management/</link>
+      <link>http://localhost:1313/tech/networking/ccna-notes/management/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/tech/networking/ccna-notes/management/</guid>
+      <guid>http://localhost:1313/tech/networking/ccna-notes/management/</guid>
       <description>&lt;p&gt;Quick Commands&lt;/p&gt;
 
 &lt;h1 class=&#34;relative group&#34;&gt;Basic Device Management
@@ -389,10 +389,10 @@ Separates system level packages from applications.&lt;/p&gt;
     
     <item>
       <title></title>
-      <link>https://davidwrites.xyz/tech/networking/ccna-notes/nat/</link>
+      <link>http://localhost:1313/tech/networking/ccna-notes/nat/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/tech/networking/ccna-notes/nat/</guid>
+      <guid>http://localhost:1313/tech/networking/ccna-notes/nat/</guid>
       <description>&lt;h2 class=&#34;relative group&#34;&gt;10 NAT
     &lt;div id=&#34;10-nat&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -411,10 +411,10 @@ IP addresses statically mapped to each other.&lt;/p&gt;</description>
     
     <item>
       <title></title>
-      <link>https://davidwrites.xyz/tech/networking/ccna-notes/qos/</link>
+      <link>http://localhost:1313/tech/networking/ccna-notes/qos/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/tech/networking/ccna-notes/qos/</guid>
+      <guid>http://localhost:1313/tech/networking/ccna-notes/qos/</guid>
       <description>&lt;p&gt;Friday, October 8, 2021 11:48 AM&lt;/p&gt;
 &lt;p&gt;Quality of Experience (QoE) -users’ perception of their use of the application on the&lt;br&gt;
 network.&lt;br&gt;
@@ -433,10 +433,10 @@ Step 4. The phone sends the packet to the destination IP phone.&lt;/p&gt;</descr
     
     <item>
       <title></title>
-      <link>https://davidwrites.xyz/tech/rhce-exam/</link>
+      <link>http://localhost:1313/tech/rhce-exam/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/tech/rhce-exam/</guid>
+      <guid>http://localhost:1313/tech/rhce-exam/</guid>
       <description>&lt;figure&gt;&lt;img
     class=&#34;my-0 rounded-md&#34;
     loading=&#34;lazy&#34;
@@ -450,10 +450,10 @@ Step 4. The phone sends the packet to the destination IP phone.&lt;/p&gt;</descr
     
     <item>
       <title></title>
-      <link>https://davidwrites.xyz/tech/tools/apache/</link>
+      <link>http://localhost:1313/tech/tools/apache/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/tech/tools/apache/</guid>
+      <guid>http://localhost:1313/tech/tools/apache/</guid>
       <description>&lt;h4 class=&#34;relative group&#34;&gt;Rhel
     &lt;div id=&#34;rhel&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -474,10 +474,10 @@ User: apache&lt;/p&gt;</description>
     
     <item>
       <title></title>
-      <link>https://davidwrites.xyz/tech/tools/calibre_server/</link>
+      <link>http://localhost:1313/tech/tools/calibre_server/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/tech/tools/calibre_server/</guid>
+      <guid>http://localhost:1313/tech/tools/calibre_server/</guid>
       <description>&lt;p&gt;Install Calibre and Rsync&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;apt install -y calibre rsync
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Make a directory for your library&lt;/p&gt;
@@ -491,10 +491,10 @@ User: apache&lt;/p&gt;</description>
     
     <item>
       <title></title>
-      <link>https://davidwrites.xyz/tech/tools/desktop/</link>
+      <link>http://localhost:1313/tech/tools/desktop/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/tech/tools/desktop/</guid>
+      <guid>http://localhost:1313/tech/tools/desktop/</guid>
       <description>&lt;p&gt;%% Zoottelkeeper: Beginning of the autogenerated index file list  %%&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;[[tech/desktop/_index|_index]]&lt;/li&gt;
@@ -509,10 +509,10 @@ User: apache&lt;/p&gt;</description>
     
     <item>
       <title></title>
-      <link>https://davidwrites.xyz/tech/tools/distrobox/</link>
+      <link>http://localhost:1313/tech/tools/distrobox/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/tech/tools/distrobox/</guid>
+      <guid>http://localhost:1313/tech/tools/distrobox/</guid>
       <description>&lt;p&gt;Github: &lt;a
   href=&#34;https://github.com/89luca89/distrobox&#34;
     target=&#34;_blank&#34;
@@ -525,10 +525,10 @@ Creates an app launcher icon for the container&lt;/p&gt;
     
     <item>
       <title></title>
-      <link>https://davidwrites.xyz/tech/tools/editing-foliate-highlights-with-vim/</link>
+      <link>http://localhost:1313/tech/tools/editing-foliate-highlights-with-vim/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/tech/tools/editing-foliate-highlights-with-vim/</guid>
+      <guid>http://localhost:1313/tech/tools/editing-foliate-highlights-with-vim/</guid>
       <description>&lt;p&gt;Get rid of lines with color reference:
 &lt;code&gt;:g/^**rgb/d&lt;/code&gt;&lt;/p&gt;
 &lt;p&gt;get rid of the &lt;code&gt;&amp;gt; &lt;/code&gt; on each line:
@@ -542,10 +542,10 @@ Creates an app launcher icon for the container&lt;/p&gt;
     
     <item>
       <title></title>
-      <link>https://davidwrites.xyz/tech/tools/gitea-setup/</link>
+      <link>http://localhost:1313/tech/tools/gitea-setup/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/tech/tools/gitea-setup/</guid>
+      <guid>http://localhost:1313/tech/tools/gitea-setup/</guid>
       <description>&lt;p&gt;Following this guide: &lt;a
   href=&#34;https://blog.while-true-do.io/podman-setup-gitea/&#34;
     target=&#34;_blank&#34;
@@ -570,10 +570,10 @@ Creates an app launcher icon for the container&lt;/p&gt;
     
     <item>
       <title></title>
-      <link>https://davidwrites.xyz/tech/tools/gitguide/</link>
+      <link>http://localhost:1313/tech/tools/gitguide/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/tech/tools/gitguide/</guid>
+      <guid>http://localhost:1313/tech/tools/gitguide/</guid>
       <description>&lt;h1 class=&#34;relative group&#34;&gt;Commands
     &lt;div id=&#34;commands&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -599,10 +599,10 @@ Creates an app launcher icon for the container&lt;/p&gt;
     
     <item>
       <title></title>
-      <link>https://davidwrites.xyz/tech/tools/iphonemigrate/</link>
+      <link>http://localhost:1313/tech/tools/iphonemigrate/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/tech/tools/iphonemigrate/</guid>
+      <guid>http://localhost:1313/tech/tools/iphonemigrate/</guid>
       <description>&lt;h2 class=&#34;relative group&#34;&gt;Convert .MOV to MP4
     &lt;div id=&#34;convert-mov-to-mp4&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -623,10 +623,10 @@ Creates an app launcher icon for the container&lt;/p&gt;
     
     <item>
       <title></title>
-      <link>https://davidwrites.xyz/tech/tools/libvirt-kvm-qemu/</link>
+      <link>http://localhost:1313/tech/tools/libvirt-kvm-qemu/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/tech/tools/libvirt-kvm-qemu/</guid>
+      <guid>http://localhost:1313/tech/tools/libvirt-kvm-qemu/</guid>
       <description>&lt;ol&gt;
 &lt;li&gt;
 &lt;p&gt;libvirt is the most mature and proven virtualization stack in the world&lt;/p&gt;
@@ -645,10 +645,10 @@ qemu is a general purpose linux virtualization swiss army knife CLI, the way mos
     
     <item>
       <title></title>
-      <link>https://davidwrites.xyz/tech/tools/libvirt/</link>
+      <link>http://localhost:1313/tech/tools/libvirt/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/tech/tools/libvirt/</guid>
+      <guid>http://localhost:1313/tech/tools/libvirt/</guid>
       <description>&lt;p&gt;Commands to manage Libvirt:&lt;/p&gt;
 &lt;p&gt;&lt;code&gt;virsh&lt;/code&gt;&lt;/p&gt;
 &lt;ul&gt;
@@ -659,10 +659,10 @@ qemu is a general purpose linux virtualization swiss army knife CLI, the way mos
     
     <item>
       <title></title>
-      <link>https://davidwrites.xyz/tech/tools/migrate-nextcloud-to-podman/</link>
+      <link>http://localhost:1313/tech/tools/migrate-nextcloud-to-podman/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/tech/tools/migrate-nextcloud-to-podman/</guid>
+      <guid>http://localhost:1313/tech/tools/migrate-nextcloud-to-podman/</guid>
       <description>&lt;p&gt;To migrate a standard nextcloud setup to Podman/Docker, you need to create the container setup and copy data from the old system to the new.&lt;/p&gt;
 &lt;p&gt;I am going to start with a new Alma 10 VM for my setup.&lt;/p&gt;</description>
       
@@ -670,20 +670,20 @@ qemu is a general purpose linux virtualization swiss army knife CLI, the way mos
     
     <item>
       <title></title>
-      <link>https://davidwrites.xyz/tech/tools/obsidian-hugo-github-website-stack-ohg/</link>
+      <link>http://localhost:1313/tech/tools/obsidian-hugo-github-website-stack-ohg/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/tech/tools/obsidian-hugo-github-website-stack-ohg/</guid>
+      <guid>http://localhost:1313/tech/tools/obsidian-hugo-github-website-stack-ohg/</guid>
       <description>&lt;p&gt;First, you&amp;rsquo;ll need to create a github account. If you won&amp;rsquo;t be using a custom domain (You can add one later), make sure you name the account what you want your website to be. The domain will be {{ account-name.github.io }}&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title></title>
-      <link>https://davidwrites.xyz/tech/tools/obsidian-site-setup/</link>
+      <link>http://localhost:1313/tech/tools/obsidian-site-setup/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/tech/tools/obsidian-site-setup/</guid>
+      <guid>http://localhost:1313/tech/tools/obsidian-site-setup/</guid>
       <description>&lt;p&gt;Sync obsidian dirs to hugo dirs:
 &lt;code&gt;rsync -av --delete source destination&lt;/code&gt;
 &amp;ndash;delete flag deletes files in the destination directory if they do not exist in the source&lt;/p&gt;
@@ -728,10 +728,10 @@ rsync -rtvzP ~/Documents/blog/docs/ {username}@{ip-address}:/var/www/public
     
     <item>
       <title></title>
-      <link>https://davidwrites.xyz/tech/tools/pandoc/</link>
+      <link>http://localhost:1313/tech/tools/pandoc/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/tech/tools/pandoc/</guid>
+      <guid>http://localhost:1313/tech/tools/pandoc/</guid>
       <description>&lt;h1 class=&#34;relative group&#34;&gt;Pandoc
     &lt;div id=&#34;pandoc&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -755,10 +755,10 @@ rsync -rtvzP ~/Documents/blog/docs/ {username}@{ip-address}:/var/www/public
     
     <item>
       <title></title>
-      <link>https://davidwrites.xyz/tech/tools/projects/</link>
+      <link>http://localhost:1313/tech/tools/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/tech/tools/projects/</guid>
+      <guid>http://localhost:1313/tech/tools/projects/</guid>
       <description>&lt;p&gt;Fedora SilverBlue
 Vimwiki
 Switch to Firefox?
@@ -775,10 +775,10 @@ Switch to Android or graphene os&lt;/p&gt;
     
     <item>
       <title></title>
-      <link>https://davidwrites.xyz/tech/tools/proxmox_setup/</link>
+      <link>http://localhost:1313/tech/tools/proxmox_setup/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/tech/tools/proxmox_setup/</guid>
+      <guid>http://localhost:1313/tech/tools/proxmox_setup/</guid>
       <description>&lt;p&gt;Add the following to the end of /etc/apt/sources.list&lt;/p&gt;
 &lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;# not for production use
 deb http://download.proxmox.com/debian/pve bullseye pve-no-subscription
@@ -792,10 +792,10 @@ deb http://download.proxmox.com/debian/pve bullseye pve-no-subscription
     
     <item>
       <title></title>
-      <link>https://davidwrites.xyz/tech/tools/rsync/</link>
+      <link>http://localhost:1313/tech/tools/rsync/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/tech/tools/rsync/</guid>
+      <guid>http://localhost:1313/tech/tools/rsync/</guid>
       <description>&lt;h1 class=&#34;relative group&#34;&gt;Using Rsync to sync a folder between two hosts
     &lt;div id=&#34;using-rsync-to-sync-a-folder-between-two-hosts&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -811,10 +811,10 @@ deb http://download.proxmox.com/debian/pve bullseye pve-no-subscription
     
     <item>
       <title></title>
-      <link>https://davidwrites.xyz/tech/tools/serial-in-on-linux/</link>
+      <link>http://localhost:1313/tech/tools/serial-in-on-linux/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/tech/tools/serial-in-on-linux/</guid>
+      <guid>http://localhost:1313/tech/tools/serial-in-on-linux/</guid>
       <description>&lt;p&gt;Using GTKterm app&lt;/p&gt;
 &lt;p&gt;Find out what port your serial cable is plugged into:&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;dthomas@lgfedora:~$ dmesg &lt;span class=&#34;p&#34;&gt;|&lt;/span&gt; grep tty
@@ -835,10 +835,10 @@ deb http://download.proxmox.com/debian/pve bullseye pve-no-subscription
     
     <item>
       <title></title>
-      <link>https://davidwrites.xyz/tech/tools/skaffold/</link>
+      <link>http://localhost:1313/tech/tools/skaffold/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/tech/tools/skaffold/</guid>
+      <guid>http://localhost:1313/tech/tools/skaffold/</guid>
       <description>&lt;p&gt;Skaffold watches for code changes in a repo and builds, tests, and deployes and application in Kubernetes&lt;/p&gt;
 
 &lt;h3 class=&#34;relative group&#34;&gt;What questions are they asking? Headline melding.
@@ -856,10 +856,10 @@ deb http://download.proxmox.com/debian/pve bullseye pve-no-subscription
     
     <item>
       <title></title>
-      <link>https://davidwrites.xyz/tech/tools/tmuxbook/</link>
+      <link>http://localhost:1313/tech/tools/tmuxbook/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/tech/tools/tmuxbook/</guid>
+      <guid>http://localhost:1313/tech/tools/tmuxbook/</guid>
       <description>&lt;p&gt;Links:
 &lt;a
   href=&#34;https://git.jharmison.com/james/dotfiles/src/branch/master/.tmux.conf&#34;
@@ -921,30 +921,30 @@ deb http://download.proxmox.com/debian/pve bullseye pve-no-subscription
     
     <item>
       <title></title>
-      <link>https://davidwrites.xyz/tech/tools/vagrant-what-is-it-for/</link>
+      <link>http://localhost:1313/tech/tools/vagrant-what-is-it-for/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/tech/tools/vagrant-what-is-it-for/</guid>
+      <guid>http://localhost:1313/tech/tools/vagrant-what-is-it-for/</guid>
       <description>&lt;p&gt;We are sick of manually setting up virtual machines and configuring them. You can use Ansible to automate the configuration of a server. But what about setting up a server before it&amp;rsquo;s configured? Let&amp;rsquo;s stop doing that manually as well by using Vagrant.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title></title>
-      <link>https://davidwrites.xyz/tech/tools/vm-creation-using-ansible/</link>
+      <link>http://localhost:1313/tech/tools/vm-creation-using-ansible/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/tech/tools/vm-creation-using-ansible/</guid>
+      <guid>http://localhost:1313/tech/tools/vm-creation-using-ansible/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title></title>
-      <link>https://davidwrites.xyz/tech/tools/vs_codium/</link>
+      <link>http://localhost:1313/tech/tools/vs_codium/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/tech/tools/vs_codium/</guid>
+      <guid>http://localhost:1313/tech/tools/vs_codium/</guid>
       <description>&lt;p&gt;&lt;a
   href=&#34;https://github.com/VSCodium&#34;title=&#34;https://github.com/VSCodium&#34;
     target=&#34;_blank&#34;
@@ -969,10 +969,10 @@ deb http://download.proxmox.com/debian/pve bullseye pve-no-subscription
     
     <item>
       <title> AWX RPM Install</title>
-      <link>https://davidwrites.xyz/tech/ansible/archive/awx-rpm-install/</link>
+      <link>http://localhost:1313/tech/ansible/archive/awx-rpm-install/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/tech/ansible/archive/awx-rpm-install/</guid>
+      <guid>http://localhost:1313/tech/ansible/archive/awx-rpm-install/</guid>
       <description>&lt;p&gt;&lt;a
   href=&#34;https://awx.wiki/installation&#34;
     target=&#34;_blank&#34;
@@ -987,10 +987,10 @@ deb http://download.proxmox.com/debian/pve bullseye pve-no-subscription
     
     <item>
       <title>Advanced File Management</title>
-      <link>https://davidwrites.xyz/tech/files/advanced-file-management/</link>
+      <link>http://localhost:1313/tech/files/advanced-file-management/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/tech/files/advanced-file-management/</guid>
+      <guid>http://localhost:1313/tech/files/advanced-file-management/</guid>
       <description>&lt;h2 class=&#34;relative group&#34;&gt;Permission Classes and Types
     &lt;div id=&#34;permission-classes-and-types&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -1013,10 +1013,10 @@ deb http://download.proxmox.com/debian/pve bullseye pve-no-subscription
     
     <item>
       <title>Ansible and Podman</title>
-      <link>https://davidwrites.xyz/tech/containers/ansible-and-podman/</link>
+      <link>http://localhost:1313/tech/containers/ansible-and-podman/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/tech/containers/ansible-and-podman/</guid>
+      <guid>http://localhost:1313/tech/containers/ansible-and-podman/</guid>
       <description>&lt;p&gt;If you&amp;rsquo;re used to managing packages installed on VMs, it&amp;rsquo;s definitely a step up to run containers in podman via quadlet units&lt;/p&gt;
 &lt;p&gt;ansible + podman is pretty close to k8s in terms of overall &amp;ldquo;how easy is this to manage&amp;rdquo;-ness, just not in terms of your RTO times or your overall scalability or resiliency&lt;/p&gt;</description>
       
@@ -1024,10 +1024,10 @@ deb http://download.proxmox.com/debian/pve bullseye pve-no-subscription
     
     <item>
       <title>Ansible and Podman</title>
-      <link>https://davidwrites.xyz/tech/linux/containers/ansible-and-podman/</link>
+      <link>http://localhost:1313/tech/linux/containers/ansible-and-podman/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/tech/linux/containers/ansible-and-podman/</guid>
+      <guid>http://localhost:1313/tech/linux/containers/ansible-and-podman/</guid>
       <description>&lt;p&gt;If you&amp;rsquo;re used to managing packages installed on VMs, it&amp;rsquo;s definitely a step up to run containers in podman via quadlet units&lt;/p&gt;
 &lt;p&gt;ansible + podman is pretty close to k8s in terms of overall &amp;ldquo;how easy is this to manage&amp;rdquo;-ness, just not in terms of your RTO times or your overall scalability or resiliency&lt;/p&gt;</description>
       
@@ -1035,10 +1035,10 @@ deb http://download.proxmox.com/debian/pve bullseye pve-no-subscription
     
     <item>
       <title>Ansible and Podman</title>
-      <link>https://davidwrites.xyz/tech/podman/ansible-and-podman/</link>
+      <link>http://localhost:1313/tech/podman/ansible-and-podman/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/tech/podman/ansible-and-podman/</guid>
+      <guid>http://localhost:1313/tech/podman/ansible-and-podman/</guid>
       <description>&lt;p&gt;If you&amp;rsquo;re used to managing packages installed on VMs, it&amp;rsquo;s definitely a step up to run containers in podman via quadlet units&lt;/p&gt;
 &lt;p&gt;ansible + podman is pretty close to k8s in terms of overall &amp;ldquo;how easy is this to manage&amp;rdquo;-ness, just not in terms of your RTO times or your overall scalability or resiliency&lt;/p&gt;</description>
       
@@ -1046,20 +1046,20 @@ deb http://download.proxmox.com/debian/pve bullseye pve-no-subscription
     
     <item>
       <title>Ansible Builder</title>
-      <link>https://davidwrites.xyz/tech/ansible/archive/ansible-builder/</link>
+      <link>http://localhost:1313/tech/ansible/archive/ansible-builder/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/tech/ansible/archive/ansible-builder/</guid>
+      <guid>http://localhost:1313/tech/ansible/archive/ansible-builder/</guid>
       <description>Using Ansible Builder to build an Execution Environment</description>
       
     </item>
     
     <item>
       <title>Ansible, Puppet, and Chef</title>
-      <link>https://davidwrites.xyz/tech/networking/ccna-notes/ansiblepuppetchef/</link>
+      <link>http://localhost:1313/tech/networking/ccna-notes/ansiblepuppetchef/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/tech/networking/ccna-notes/ansiblepuppetchef/</guid>
+      <guid>http://localhost:1313/tech/networking/ccna-notes/ansiblepuppetchef/</guid>
       <description>&lt;p&gt;6.0 Automation and Programmability
 6.6 Recognize the capabilities of configuration mechanisms Puppet, Chef, and Ansible&lt;/p&gt;
 &lt;p&gt;Configuration Drift&lt;/p&gt;
@@ -1074,10 +1074,10 @@ Centralized Configuration Files and Version Control&lt;/p&gt;</description>
     
     <item>
       <title>Bash</title>
-      <link>https://davidwrites.xyz/tech/bash/bash-shell/</link>
+      <link>http://localhost:1313/tech/bash/bash-shell/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/tech/bash/bash-shell/</guid>
+      <guid>http://localhost:1313/tech/bash/bash-shell/</guid>
       <description>&lt;h2 class=&#34;relative group&#34;&gt;My name is Marcel and I&amp;rsquo;m partially a shell..
     &lt;div id=&#34;my-name-is-marcel-and-im-partially-a-shell&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -1101,10 +1101,10 @@ Centralized Configuration Files and Version Control&lt;/p&gt;</description>
     
     <item>
       <title>Basic File Managment</title>
-      <link>https://davidwrites.xyz/tech/files/file-management/</link>
+      <link>http://localhost:1313/tech/files/file-management/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/tech/files/file-management/</guid>
+      <guid>http://localhost:1313/tech/files/file-management/</guid>
       <description>&lt;h2 class=&#34;relative group&#34;&gt;7 File types
     &lt;div id=&#34;7-file-types&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -1129,10 +1129,10 @@ Centralized Configuration Files and Version Control&lt;/p&gt;</description>
     
     <item>
       <title>Book Notes &amp; Reviews</title>
-      <link>https://davidwrites.xyz/notes/</link>
+      <link>http://localhost:1313/notes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/notes/</guid>
+      <guid>http://localhost:1313/notes/</guid>
       <description>&lt;p&gt;These are the summaries and notes of books I have read. I also keep a &lt;a
   href=&#34;masterlist&#34;&gt;Master Reading list&lt;/a&gt; of all of the books I have read. And a &lt;a
   href=&#34;bookgraveyard/&#34;&gt;Book Graveyard&lt;/a&gt; for books that I did not finish.&lt;/p&gt;</description>
@@ -1141,10 +1141,10 @@ Centralized Configuration Files and Version Control&lt;/p&gt;</description>
     
     <item>
       <title>Boot Process, Grub2, and Kernel</title>
-      <link>https://davidwrites.xyz/tech/boot/boot-process-grub2-and-kernel/</link>
+      <link>http://localhost:1313/tech/boot/boot-process-grub2-and-kernel/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/tech/boot/boot-process-grub2-and-kernel/</guid>
+      <guid>http://localhost:1313/tech/boot/boot-process-grub2-and-kernel/</guid>
       <description>&lt;h2 class=&#34;relative group&#34;&gt;Linux Kernel
     &lt;div id=&#34;linux-kernel&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -1176,10 +1176,10 @@ Centralized Configuration Files and Version Control&lt;/p&gt;</description>
     
     <item>
       <title>Calibre Web with Docker and NGINX</title>
-      <link>https://davidwrites.xyz/tech/tools/calibre-web-with-docker-and-nginx/</link>
+      <link>http://localhost:1313/tech/tools/calibre-web-with-docker-and-nginx/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/tech/tools/calibre-web-with-docker-and-nginx/</guid>
+      <guid>http://localhost:1313/tech/tools/calibre-web-with-docker-and-nginx/</guid>
       <description>&lt;p&gt;I couldn’t find a guide on how to set up Calibre web step-by-step as a Docker container. Especially not one that used Nginx as a reverse proxy.&lt;/p&gt;
 &lt;p&gt;The good news is that it is really fast and simple. You’ll need a few tools to get this done:&lt;/p&gt;</description>
       
@@ -1187,10 +1187,10 @@ Centralized Configuration Files and Version Control&lt;/p&gt;</description>
     
     <item>
       <title>Cisco ACLs</title>
-      <link>https://davidwrites.xyz/tech/networking/ccna-notes/ciscoacls/</link>
+      <link>http://localhost:1313/tech/networking/ccna-notes/ciscoacls/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/tech/networking/ccna-notes/ciscoacls/</guid>
+      <guid>http://localhost:1313/tech/networking/ccna-notes/ciscoacls/</guid>
       <description>&lt;p&gt;Can be used to match packets for applying Quality of Service (QoS) features.&lt;br&gt;
 ACL Location and Direction&lt;/p&gt;
 &lt;ul&gt;
@@ -1208,10 +1208,10 @@ ACL Location and Direction&lt;/p&gt;
     
     <item>
       <title>Cisco CLI</title>
-      <link>https://davidwrites.xyz/tech/networking/ccna-notes/ciscocli/</link>
+      <link>http://localhost:1313/tech/networking/ccna-notes/ciscocli/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/tech/networking/ccna-notes/ciscocli/</guid>
+      <guid>http://localhost:1313/tech/networking/ccna-notes/ciscocli/</guid>
       <description>&lt;p&gt;Reload&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Tells the system to reboot IOS&lt;br&gt;
@@ -1233,10 +1233,10 @@ Right Arrow or Ctrl+F- Move cursor (forward)
     
     <item>
       <title>Classful IPv4</title>
-      <link>https://davidwrites.xyz/tech/networking/ccna-notes/classfulipv4/</link>
+      <link>http://localhost:1313/tech/networking/ccna-notes/classfulipv4/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/tech/networking/ccna-notes/classfulipv4/</guid>
+      <guid>http://localhost:1313/tech/networking/ccna-notes/classfulipv4/</guid>
       <description>&lt;p&gt;IPv4 Address Classes Based on First Octet Values&lt;/p&gt;
 &lt;p&gt;Class      First Octet Values      Purpose&lt;/p&gt;
 &lt;p&gt;A            1–126                         Unicast (large networks)&lt;/p&gt;
@@ -1248,10 +1248,10 @@ Right Arrow or Ctrl+F- Move cursor (forward)
     
     <item>
       <title>Cloud Architecture</title>
-      <link>https://davidwrites.xyz/tech/networking/ccna-notes/cloudarchitecture/</link>
+      <link>http://localhost:1313/tech/networking/ccna-notes/cloudarchitecture/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/tech/networking/ccna-notes/cloudarchitecture/</guid>
+      <guid>http://localhost:1313/tech/networking/ccna-notes/cloudarchitecture/</guid>
       <description>&lt;p&gt;1.0 Network Fundamentals
 1.1 Explain the role and function of network components
 1.1.g Servers
@@ -1263,10 +1263,10 @@ Right Arrow or Ctrl+F- Move cursor (forward)
     
     <item>
       <title>Configure Fedora Desktop using Ansible</title>
-      <link>https://davidwrites.xyz/tech/tools/new-setup/</link>
+      <link>http://localhost:1313/tech/tools/new-setup/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/tech/tools/new-setup/</guid>
+      <guid>http://localhost:1313/tech/tools/new-setup/</guid>
       <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;sudo dnf -y install vim
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;### Make vim default sudoer editor&lt;/span&gt;
@@ -1296,10 +1296,10 @@ Right Arrow or Ctrl+F- Move cursor (forward)
     
     <item>
       <title>Consoling in to MX80 from linux</title>
-      <link>https://davidwrites.xyz/tech/networking/consoling_in_to_mx80_from_linux/</link>
+      <link>http://localhost:1313/tech/networking/consoling_in_to_mx80_from_linux/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/tech/networking/consoling_in_to_mx80_from_linux/</guid>
+      <guid>http://localhost:1313/tech/networking/consoling_in_to_mx80_from_linux/</guid>
       <description>&lt;p&gt;Plug console cable in&lt;/p&gt;
 &lt;p&gt;find out what your serial line name is:&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;$ dmesg &lt;span class=&#34;p&#34;&gt;|&lt;/span&gt; grep -i FTDI
@@ -1310,10 +1310,10 @@ Right Arrow or Ctrl+F- Move cursor (forward)
     
     <item>
       <title>Contact</title>
-      <link>https://davidwrites.xyz/contact/</link>
+      <link>http://localhost:1313/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/contact/</guid>
+      <guid>http://localhost:1313/contact/</guid>
       <description>&lt;section class=&#34;contact-section&#34;&gt;
   &lt;div class=&#34;contact-intro&#34;&gt;
     &lt;h3 class=&#34;contact-title&#34;&gt;Feel free to reach out!&lt;/h3&gt;
@@ -1348,10 +1348,10 @@ Right Arrow or Ctrl+F- Move cursor (forward)
     
     <item>
       <title>Containers</title>
-      <link>https://davidwrites.xyz/tech/containers/containers/</link>
+      <link>http://localhost:1313/tech/containers/containers/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/tech/containers/containers/</guid>
+      <guid>http://localhost:1313/tech/containers/containers/</guid>
       <description>&lt;h1 class=&#34;relative group&#34;&gt;Introduction to Containers
     &lt;div id=&#34;introduction-to-containers&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -1371,10 +1371,10 @@ Right Arrow or Ctrl+F- Move cursor (forward)
     
     <item>
       <title>Containers</title>
-      <link>https://davidwrites.xyz/tech/podman/containers/</link>
+      <link>http://localhost:1313/tech/podman/containers/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/tech/podman/containers/</guid>
+      <guid>http://localhost:1313/tech/podman/containers/</guid>
       <description>&lt;h1 class=&#34;relative group&#34;&gt;Introduction to Containers
     &lt;div id=&#34;introduction-to-containers&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -1394,10 +1394,10 @@ Right Arrow or Ctrl+F- Move cursor (forward)
     
     <item>
       <title>Controller-Based Networking</title>
-      <link>https://davidwrites.xyz/tech/networking/ccna-notes/controllerbasednetworking/</link>
+      <link>http://localhost:1313/tech/networking/ccna-notes/controllerbasednetworking/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/tech/networking/ccna-notes/controllerbasednetworking/</guid>
+      <guid>http://localhost:1313/tech/networking/ccna-notes/controllerbasednetworking/</guid>
       <description>&lt;p&gt;Friday, October 29, 2021 2:40 PM&lt;/p&gt;
 &lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;○ Matching an Ethernet frame’s destination Media Access Control (MAC) address to the MAC address table (Layer 2 switches)
 Matching an IP packet’s destination IP address to the IP routing table (routers, Layer 3
@@ -1435,10 +1435,10 @@ adding to, removing, and changing entries to the tables used by the data plane&l
     
     <item>
       <title>Convert Docker Compose to Quadlets</title>
-      <link>https://davidwrites.xyz/tech/containers/convert-docker-compose-to-quadlets/</link>
+      <link>http://localhost:1313/tech/containers/convert-docker-compose-to-quadlets/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/tech/containers/convert-docker-compose-to-quadlets/</guid>
+      <guid>http://localhost:1313/tech/containers/convert-docker-compose-to-quadlets/</guid>
       <description>&lt;p&gt;In order to support compose, podman needs to expose it&amp;rsquo;s REST API service through a local UNIX socket. This supports Docker-compatible APIs and native Libpod APIs.&lt;/p&gt;
 &lt;p&gt;Install required packages:&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-yaml&#34; data-lang=&#34;yaml&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;        &lt;/span&gt;- &lt;span class=&#34;l&#34;&gt;podlet&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
@@ -1449,10 +1449,10 @@ adding to, removing, and changing entries to the tables used by the data plane&l
     
     <item>
       <title>Convert Docker Compose to Quadlets</title>
-      <link>https://davidwrites.xyz/tech/linux/containers/convert-docker-compose-to-quadlets/</link>
+      <link>http://localhost:1313/tech/linux/containers/convert-docker-compose-to-quadlets/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/tech/linux/containers/convert-docker-compose-to-quadlets/</guid>
+      <guid>http://localhost:1313/tech/linux/containers/convert-docker-compose-to-quadlets/</guid>
       <description>&lt;p&gt;In order to support compose, podman needs to expose it&amp;rsquo;s REST API service through a local UNIX socket. This supports Docker-compatible APIs and native Libpod APIs.&lt;/p&gt;
 &lt;p&gt;Install required packages:&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-yaml&#34; data-lang=&#34;yaml&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;        &lt;/span&gt;- &lt;span class=&#34;l&#34;&gt;podlet&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
@@ -1463,10 +1463,10 @@ adding to, removing, and changing entries to the tables used by the data plane&l
     
     <item>
       <title>Convert Docker Compose to Quadlets</title>
-      <link>https://davidwrites.xyz/tech/podman/convert-docker-compose-to-quadlets/</link>
+      <link>http://localhost:1313/tech/podman/convert-docker-compose-to-quadlets/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/tech/podman/convert-docker-compose-to-quadlets/</guid>
+      <guid>http://localhost:1313/tech/podman/convert-docker-compose-to-quadlets/</guid>
       <description>&lt;p&gt;In order to support compose, podman needs to expose it&amp;rsquo;s REST API service through a local UNIX socket. This supports Docker-compatible APIs and native Libpod APIs.&lt;/p&gt;
 &lt;p&gt;Install required packages:&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-yaml&#34; data-lang=&#34;yaml&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;        &lt;/span&gt;- &lt;span class=&#34;l&#34;&gt;podlet&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
@@ -1477,10 +1477,10 @@ adding to, removing, and changing entries to the tables used by the data plane&l
     
     <item>
       <title>Device Management Protocols</title>
-      <link>https://davidwrites.xyz/tech/networking/ccna-notes/device-management-protocols/</link>
+      <link>http://localhost:1313/tech/networking/ccna-notes/device-management-protocols/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/tech/networking/ccna-notes/device-management-protocols/</guid>
+      <guid>http://localhost:1313/tech/networking/ccna-notes/device-management-protocols/</guid>
       <description>&lt;p&gt;To configure a router or switch to logging host {address | hostname } send log messages to a syslog server global command.&lt;/p&gt;
 &lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;*Dec 18 17:10:15.079: %LINEPROTOchanged state to down - 5 - UPDOWN: Line protocol on Interface FastEthernet0/0,
 A timestamp: *Dec 18 17:10:15.
@@ -1497,10 +1497,10 @@ defaults by turning off timestamps and turning on sequence numbers.
     
     <item>
       <title>DHCP Configuration</title>
-      <link>https://davidwrites.xyz/tech/networking/ccna-notes/dhcp-config/</link>
+      <link>http://localhost:1313/tech/networking/ccna-notes/dhcp-config/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/tech/networking/ccna-notes/dhcp-config/</guid>
+      <guid>http://localhost:1313/tech/networking/ccna-notes/dhcp-config/</guid>
       <description>&lt;p&gt;Thursday, September 30, 2021 12:17 PM&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
@@ -1515,10 +1515,10 @@ defaults by turning off timestamps and turning on sequence numbers.
     
     <item>
       <title>DHCP Snooping and ARP Inspection</title>
-      <link>https://davidwrites.xyz/tech/networking/ccna-notes/dhcp-snooping-and-arp-inspection/</link>
+      <link>http://localhost:1313/tech/networking/ccna-notes/dhcp-snooping-and-arp-inspection/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/tech/networking/ccna-notes/dhcp-snooping-and-arp-inspection/</guid>
+      <guid>http://localhost:1313/tech/networking/ccna-notes/dhcp-snooping-and-arp-inspection/</guid>
       <description>&lt;p&gt;Attacker replies with false dhcp information by naming itself as the default gateway Pc1 send all messages to another network to attacker, becoming a man-in-the-middle&lt;br&gt;
 attack (pc2 could forward the messages to the actual default gateway&lt;/p&gt;</description>
       
@@ -1526,10 +1526,10 @@ attack (pc2 could forward the messages to the actual default gateway&lt;/p&gt;</
     
     <item>
       <title>Ethernet LANs</title>
-      <link>https://davidwrites.xyz/tech/networking/ccna-notes/ethernetlans/</link>
+      <link>http://localhost:1313/tech/networking/ccna-notes/ethernetlans/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/tech/networking/ccna-notes/ethernetlans/</guid>
+      <guid>http://localhost:1313/tech/networking/ccna-notes/ethernetlans/</guid>
       <description>&lt;p&gt;802.3 (Ethernet Standards&lt;br&gt;
 10BASE-T&lt;/p&gt;
 &lt;ul&gt;
@@ -1585,10 +1585,10 @@ attack (pc2 could forward the messages to the actual default gateway&lt;/p&gt;</
     
     <item>
       <title>Execution Environments</title>
-      <link>https://davidwrites.xyz/tech/ansible/archive/execution-environments/</link>
+      <link>http://localhost:1313/tech/ansible/archive/execution-environments/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/tech/ansible/archive/execution-environments/</guid>
+      <guid>http://localhost:1313/tech/ansible/archive/execution-environments/</guid>
       <description>&lt;p&gt;Why use EEs?&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Portable Ansible environments
@@ -1607,10 +1607,10 @@ attack (pc2 could forward the messages to the actual default gateway&lt;/p&gt;</
     
     <item>
       <title>Extended ACLs</title>
-      <link>https://davidwrites.xyz/tech/networking/ccna-notes/extended-acls/</link>
+      <link>http://localhost:1313/tech/networking/ccna-notes/extended-acls/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/tech/networking/ccna-notes/extended-acls/</guid>
+      <guid>http://localhost:1313/tech/networking/ccna-notes/extended-acls/</guid>
       <description>&lt;p&gt;IP and TCP Header&lt;br&gt;
 IP Header&lt;br&gt;
 Misc Header Fields▪ 9 bytes&lt;/p&gt;
@@ -1635,20 +1635,20 @@ Source Port- 2 bytes
     
     <item>
       <title>How to Build a website With Hugo</title>
-      <link>https://davidwrites.xyz/tech/tools/how-to-build-a-website-with-hugo/</link>
+      <link>http://localhost:1313/tech/tools/how-to-build-a-website-with-hugo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/tech/tools/how-to-build-a-website-with-hugo/</guid>
+      <guid>http://localhost:1313/tech/tools/how-to-build-a-website-with-hugo/</guid>
       <description>&lt;p&gt;Word Press is great, but it is probably a lot more bloated then you need for a personal website. Enter Hugo, it has less server capacity and storage needs than Word Press. Hugo is a static site generator than takes markdown files and converts them to html.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>How to Process Bookfusion Highlights with Vim</title>
-      <link>https://davidwrites.xyz/tech/tools/process-bookfusion-highlights/</link>
+      <link>http://localhost:1313/tech/tools/process-bookfusion-highlights/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/tech/tools/process-bookfusion-highlights/</guid>
+      <guid>http://localhost:1313/tech/tools/process-bookfusion-highlights/</guid>
       <description>&lt;p&gt;Here are my highlights pulled up in Vim:&lt;/p&gt;
 &lt;figure&gt;&lt;img
     class=&#34;my-0 rounded-md&#34;
@@ -1664,10 +1664,10 @@ Source Port- 2 bytes
     
     <item>
       <title>How to Set Up Hugo Relearn Theme</title>
-      <link>https://davidwrites.xyz/tech/tools/how-to-set-up-hugo-relearn-theme/</link>
+      <link>http://localhost:1313/tech/tools/how-to-set-up-hugo-relearn-theme/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/tech/tools/how-to-set-up-hugo-relearn-theme/</guid>
+      <guid>http://localhost:1313/tech/tools/how-to-set-up-hugo-relearn-theme/</guid>
       <description>&lt;h1 class=&#34;relative group&#34;&gt;Hugo Setup
     &lt;div id=&#34;hugo-setup&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -1693,10 +1693,10 @@ Source Port- 2 bytes
     
     <item>
       <title>IP Services</title>
-      <link>https://davidwrites.xyz/tech/networking/ccna-notes/ip-services/</link>
+      <link>http://localhost:1313/tech/networking/ccna-notes/ip-services/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/tech/networking/ccna-notes/ip-services/</guid>
+      <guid>http://localhost:1313/tech/networking/ccna-notes/ip-services/</guid>
       <description>&lt;p&gt;All hosts act like they always have, with one default router setting that never has to change.&lt;br&gt;
 The default routers share a virtual IP address in the subnet, defined by the FHRP.&lt;br&gt;
 Hosts use the FHRP virtual IP address as their default router address.&lt;br&gt;
@@ -1711,10 +1711,10 @@ protocols that fill the same role&lt;/p&gt;</description>
     
     <item>
       <title>IP Transport and Applications</title>
-      <link>https://davidwrites.xyz/tech/networking/ccna-notes/ip-transport-and-applications/</link>
+      <link>http://localhost:1313/tech/networking/ccna-notes/ip-transport-and-applications/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/tech/networking/ccna-notes/ip-transport-and-applications/</guid>
+      <guid>http://localhost:1313/tech/networking/ccna-notes/ip-transport-and-applications/</guid>
       <description>&lt;p&gt;example
 All open on one computer:
 Port 80 Web ServerPort 800 Ad Server
@@ -1730,10 +1730,10 @@ Socket&lt;/p&gt;
     
     <item>
       <title>IPv6</title>
-      <link>https://davidwrites.xyz/tech/networking/ccna-notes/ipv6/</link>
+      <link>http://localhost:1313/tech/networking/ccna-notes/ipv6/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/tech/networking/ccna-notes/ipv6/</guid>
+      <guid>http://localhost:1313/tech/networking/ccna-notes/ipv6/</guid>
       <description>&lt;p&gt;Endpackets if the host is in a different subnet.-user hosts need to know the IPv6 address of a default router, to which the host sends IPv6
 IPv6 routers de-encapsulate and re-encapsulate each IPv6 packet when routing the packet.
 IPv6 routers make routing decisions by comparing the IPv6 packet’s destination address to the router’s IPv6 routing table; the matched route lists directions of where to send the IPv6 packet
@@ -1745,10 +1745,10 @@ You could take the preceding list and replace every instance of IPv6 with IPv4, 
     
     <item>
       <title>IPv6 Addressing and Subnetting</title>
-      <link>https://davidwrites.xyz/tech/networking/ccna-notes/ipv6addressingandsubnetting/</link>
+      <link>http://localhost:1313/tech/networking/ccna-notes/ipv6addressingandsubnetting/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/tech/networking/ccna-notes/ipv6addressingandsubnetting/</guid>
+      <guid>http://localhost:1313/tech/networking/ccna-notes/ipv6addressingandsubnetting/</guid>
       <description>&lt;p&gt;Friday, August 27, 2021 3:17 PM&lt;/p&gt;
 &lt;p&gt;IPv6 Subnetting Using Global Unicast Addresses&lt;br&gt;
 Most everyone uses the easiest possible IPv6 prefix length: /64.&lt;br&gt;
@@ -1762,10 +1762,10 @@ with the commonly used 64being the length of the global routing prefix.-bit inte
     
     <item>
       <title>IPv6 Configuration</title>
-      <link>https://davidwrites.xyz/tech/networking/ccna-notes/ipv6configuration/</link>
+      <link>http://localhost:1313/tech/networking/ccna-notes/ipv6configuration/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/tech/networking/ccna-notes/ipv6configuration/</guid>
+      <guid>http://localhost:1313/tech/networking/ccna-notes/ipv6configuration/</guid>
       <description>&lt;p&gt;Monday, August 30, 2021 9:19 AM&lt;/p&gt;
 &lt;p&gt;both abbreviated and unabbreviated addresses, and both lowercase and uppercase hex digits,&lt;br&gt;
 showing that all are allowed.&lt;br&gt;
@@ -1787,10 +1787,10 @@ the IPv6 &lt;strong&gt;show interfaces&lt;/strong&gt;. So, to see IPv6 interfac
     
     <item>
       <title>IPv6 Routing</title>
-      <link>https://davidwrites.xyz/tech/networking/ccna-notes/ipv6routing/</link>
+      <link>http://localhost:1313/tech/networking/ccna-notes/ipv6routing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/tech/networking/ccna-notes/ipv6routing/</guid>
+      <guid>http://localhost:1313/tech/networking/ccna-notes/ipv6routing/</guid>
       <description>&lt;p&gt;Tuesday, August 31, 2021 2:58 PM&lt;/p&gt;
 &lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;they re-add these routes when the interface is again in a working (up/up) state
 &lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Examples of Local IPv6 Routes&lt;br&gt;
@@ -1803,10 +1803,10 @@ the &lt;strong&gt;ipv6 route&lt;/strong&gt; command begins with the prefix and
     
     <item>
       <title>Juniper CLI Basics</title>
-      <link>https://davidwrites.xyz/tech/networking/juniper_cli_basics/</link>
+      <link>http://localhost:1313/tech/networking/juniper_cli_basics/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/tech/networking/juniper_cli_basics/</guid>
+      <guid>http://localhost:1313/tech/networking/juniper_cli_basics/</guid>
       <description>&lt;h2 class=&#34;relative group&#34;&gt;Connection Methods
     &lt;div id=&#34;connection-methods&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -1833,10 +1833,10 @@ No password&lt;/p&gt;</description>
     
     <item>
       <title>LAN Architecture</title>
-      <link>https://davidwrites.xyz/tech/networking/ccna-notes/lan-architecture/</link>
+      <link>http://localhost:1313/tech/networking/ccna-notes/lan-architecture/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/tech/networking/ccna-notes/lan-architecture/</guid>
+      <guid>http://localhost:1313/tech/networking/ccna-notes/lan-architecture/</guid>
       <description>&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;Star: A design in which one central device connects to several others, so that if you
 drew the links out in all directions, the design would look like a star with light shining in all directions.
 &lt;/code&gt;&lt;/pre&gt;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;Topology Terminology Seen Within a Two-Tier Design
@@ -1854,10 +1854,10 @@ none of the access layer switches connect to each other.
     
     <item>
       <title>Layer 2 Etherchannel</title>
-      <link>https://davidwrites.xyz/tech/networking/ccna-notes/l2-etherchannel/</link>
+      <link>http://localhost:1313/tech/networking/ccna-notes/l2-etherchannel/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/tech/networking/ccna-notes/l2-etherchannel/</guid>
+      <guid>http://localhost:1313/tech/networking/ccna-notes/l2-etherchannel/</guid>
       <description>&lt;h3 class=&#34;relative group&#34;&gt;Manual Layer 2 EtherChannel
     &lt;div id=&#34;manual-layer-2-etherchannel&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -1882,10 +1882,10 @@ none of the access layer switches connect to each other.
     
     <item>
       <title>Learning Touch Typing</title>
-      <link>https://davidwrites.xyz/tech/desktop/learning-touch-typing/</link>
+      <link>http://localhost:1313/tech/desktop/learning-touch-typing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/tech/desktop/learning-touch-typing/</guid>
+      <guid>http://localhost:1313/tech/desktop/learning-touch-typing/</guid>
       <description>&lt;p&gt;Using &lt;a
   href=&#34;https://monkeytype.com/&#34;
     target=&#34;_blank&#34;
@@ -1920,10 +1920,10 @@ Learning to type with:
     
     <item>
       <title>Learning Touch Typing</title>
-      <link>https://davidwrites.xyz/tech/linux/desktop/learning-touch-typing/</link>
+      <link>http://localhost:1313/tech/linux/desktop/learning-touch-typing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/tech/linux/desktop/learning-touch-typing/</guid>
+      <guid>http://localhost:1313/tech/linux/desktop/learning-touch-typing/</guid>
       <description>&lt;p&gt;Using &lt;a
   href=&#34;https://monkeytype.com/&#34;
     target=&#34;_blank&#34;
@@ -1958,10 +1958,10 @@ Learning to type with:
     
     <item>
       <title>My Fedora Setup</title>
-      <link>https://davidwrites.xyz/tech/desktop/my-fedora-setup/</link>
+      <link>http://localhost:1313/tech/desktop/my-fedora-setup/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/tech/desktop/my-fedora-setup/</guid>
+      <guid>http://localhost:1313/tech/desktop/my-fedora-setup/</guid>
       <description>&lt;p&gt;When you first download Fedora Workstation, it&amp;rsquo;s going to be a little hard to figure out how to make it usable. Especially if you&amp;rsquo;ve never tinkered with Linux before.&lt;/p&gt;
 &lt;p&gt;This is because Fedora with Gnome desktop is a blank canvas. The point is to let you customize it to your needs. When I first install Fedora, I pull my justfile to install most of the programs I use:&lt;/p&gt;</description>
       
@@ -1969,10 +1969,10 @@ Learning to type with:
     
     <item>
       <title>My Fedora Setup</title>
-      <link>https://davidwrites.xyz/tech/linux/desktop/my-fedora-setup/</link>
+      <link>http://localhost:1313/tech/linux/desktop/my-fedora-setup/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/tech/linux/desktop/my-fedora-setup/</guid>
+      <guid>http://localhost:1313/tech/linux/desktop/my-fedora-setup/</guid>
       <description>&lt;p&gt;When you first download Fedora Workstation, it&amp;rsquo;s going to be a little hard to figure out how to make it usable. Especially if you&amp;rsquo;ve never tinkered with Linux before.&lt;/p&gt;
 &lt;p&gt;This is because Fedora with Gnome desktop is a blank canvas. The point is to let you customize it to your needs. When I first install Fedora, I pull my justfile to install most of the programs I use:&lt;/p&gt;</description>
       
@@ -1980,10 +1980,10 @@ Learning to type with:
     
     <item>
       <title>Nextcloud on RHEL Based Systems</title>
-      <link>https://davidwrites.xyz/tech/tools/nextcloud-on-rhel-based-systems/</link>
+      <link>http://localhost:1313/tech/tools/nextcloud-on-rhel-based-systems/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/tech/tools/nextcloud-on-rhel-based-systems/</guid>
+      <guid>http://localhost:1313/tech/tools/nextcloud-on-rhel-based-systems/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m going to show you how to set up your own, self-hosted Nextcloud server using Alma Linux 9 and Apache.&lt;/p&gt;
 
 &lt;h3 class=&#34;relative group&#34;&gt;What is Nextcloud?
@@ -2001,10 +2001,10 @@ Learning to type with:
     
     <item>
       <title>NFS Setup</title>
-      <link>https://davidwrites.xyz/tech/ansible/nfs-setup/</link>
+      <link>http://localhost:1313/tech/ansible/nfs-setup/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/tech/ansible/nfs-setup/</guid>
+      <guid>http://localhost:1313/tech/ansible/nfs-setup/</guid>
       <description>&lt;p&gt;Server hosting the storage:&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-yaml&#34; data-lang=&#34;yaml&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nn&#34;&gt;---&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; 
 &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;  &lt;/span&gt;- &lt;span class=&#34;nt&#34;&gt;name&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;Install Packages&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
@@ -2071,10 +2071,10 @@ nfs_exports:&lt;/p&gt;</description>
     
     <item>
       <title>OSPF Concepts</title>
-      <link>https://davidwrites.xyz/tech/networking/ccna-notes/ospf-concepts/</link>
+      <link>http://localhost:1313/tech/networking/ccna-notes/ospf-concepts/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/tech/networking/ccna-notes/ospf-concepts/</guid>
+      <guid>http://localhost:1313/tech/networking/ccna-notes/ospf-concepts/</guid>
       <description>&lt;p&gt;Thursday, August 26, 2021 1:37 PM&lt;/p&gt;
 &lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;metric.
 If the network topology changeshave failed and pick a new currently best route. (This process is called convergence.)—for example, a link fails—react by advertising that some routes
@@ -2091,10 +2091,10 @@ routing protocols designed to exchange routes between routers in different auton
     
     <item>
       <title>OSPF Configuration</title>
-      <link>https://davidwrites.xyz/tech/networking/ccna-notes/ospfconfiguration/</link>
+      <link>http://localhost:1313/tech/networking/ccna-notes/ospfconfiguration/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/tech/networking/ccna-notes/ospfconfiguration/</guid>
+      <guid>http://localhost:1313/tech/networking/ccna-notes/ospfconfiguration/</guid>
       <description>&lt;p&gt;Thursday, August 26, 2021 2:45 PM&lt;/p&gt;
 &lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;The information to match each of these three steps, respectively. show ip ospf neighbor, show ip ospf database, and show ip route commands display
 &lt;/code&gt;&lt;/pre&gt;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;FULL/ use a DR/BDR.-: The neighbor state is full, with the “-“ instead of letters meaning that the link does not
@@ -2114,10 +2114,10 @@ on the correct interfaces or not based on the configuration.&lt;br&gt;
     
     <item>
       <title>OSPF Network Types and Neighbors</title>
-      <link>https://davidwrites.xyz/tech/networking/ccna-notes/ospfnetworktypesandneighbors/</link>
+      <link>http://localhost:1313/tech/networking/ccna-notes/ospfnetworktypesandneighbors/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/tech/networking/ccna-notes/ospfnetworktypesandneighbors/</guid>
+      <guid>http://localhost:1313/tech/networking/ccna-notes/ospfnetworktypesandneighbors/</guid>
       <description>&lt;p&gt;Friday, August 27, 2021 9:44 AM&lt;/p&gt;
 &lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;To see the setting, use the show ip ospf interface command,as shown in Example 21-4. The first
 highlighted item identifies the network type
@@ -2131,10 +2131,10 @@ OSPF process is reset.&lt;/p&gt;</description>
     
     <item>
       <title>Podman Links</title>
-      <link>https://davidwrites.xyz/tech/containers/podman-links/</link>
+      <link>http://localhost:1313/tech/containers/podman-links/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/tech/containers/podman-links/</guid>
+      <guid>http://localhost:1313/tech/containers/podman-links/</guid>
       <description>&lt;p&gt;podman desktop tutorial
 &lt;a
   href=&#34;https://www.youtube.com/watch?v=YXfA5O5Mr18&amp;amp;t=216s&#34;
@@ -2164,10 +2164,10 @@ So, to work with podman there are some quick steps to set the socket enabled and
     
     <item>
       <title>Podman Links</title>
-      <link>https://davidwrites.xyz/tech/linux/containers/podman-links/</link>
+      <link>http://localhost:1313/tech/linux/containers/podman-links/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/tech/linux/containers/podman-links/</guid>
+      <guid>http://localhost:1313/tech/linux/containers/podman-links/</guid>
       <description>&lt;p&gt;podman desktop tutorial
 &lt;a
   href=&#34;https://www.youtube.com/watch?v=YXfA5O5Mr18&amp;amp;t=216s&#34;
@@ -2197,10 +2197,10 @@ So, to work with podman there are some quick steps to set the socket enabled and
     
     <item>
       <title>Podman Links</title>
-      <link>https://davidwrites.xyz/tech/podman/podman-links/</link>
+      <link>http://localhost:1313/tech/podman/podman-links/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/tech/podman/podman-links/</guid>
+      <guid>http://localhost:1313/tech/podman/podman-links/</guid>
       <description>&lt;p&gt;podman desktop tutorial
 &lt;a
   href=&#34;https://www.youtube.com/watch?v=YXfA5O5Mr18&amp;amp;t=216s&#34;
@@ -2230,10 +2230,10 @@ So, to work with podman there are some quick steps to set the socket enabled and
     
     <item>
       <title>Podman Quadlets</title>
-      <link>https://davidwrites.xyz/tech/containers/podman-quadlets/</link>
+      <link>http://localhost:1313/tech/containers/podman-quadlets/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/tech/containers/podman-quadlets/</guid>
+      <guid>http://localhost:1313/tech/containers/podman-quadlets/</guid>
       <description>&lt;p&gt;Rootless container quadlet files go under /etc/containers/systemd/users/${UID}/ and the user session will activate the quadlet.&lt;/p&gt;
 &lt;p&gt;If you put it under etc/containers/systemd/users/ then all user sessions will activate the quadlet&lt;/p&gt;
 &lt;p&gt;When starting a container unit, systemd may time out due to the time it takes to pull a container. Use the TimeoutStartSec Service option to extend the default 90 second timeout or pre-pill the image.&lt;/p&gt;</description>
@@ -2242,10 +2242,10 @@ So, to work with podman there are some quick steps to set the socket enabled and
     
     <item>
       <title>Podman Quadlets</title>
-      <link>https://davidwrites.xyz/tech/linux/containers/podman-quadlets/</link>
+      <link>http://localhost:1313/tech/linux/containers/podman-quadlets/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/tech/linux/containers/podman-quadlets/</guid>
+      <guid>http://localhost:1313/tech/linux/containers/podman-quadlets/</guid>
       <description>&lt;p&gt;Rootless container quadlet files go under /etc/containers/systemd/users/${UID}/ and the user session will activate the quadlet.&lt;/p&gt;
 &lt;p&gt;If you put it under etc/containers/systemd/users/ then all user sessions will activate the quadlet&lt;/p&gt;
 &lt;p&gt;When starting a container unit, systemd may time out due to the time it takes to pull a container. Use the TimeoutStartSec Service option to extend the default 90 second timeout or pre-pill the image.&lt;/p&gt;</description>
@@ -2254,10 +2254,10 @@ So, to work with podman there are some quick steps to set the socket enabled and
     
     <item>
       <title>Podman Quadlets</title>
-      <link>https://davidwrites.xyz/tech/podman/podman-quadlets/</link>
+      <link>http://localhost:1313/tech/podman/podman-quadlets/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/tech/podman/podman-quadlets/</guid>
+      <guid>http://localhost:1313/tech/podman/podman-quadlets/</guid>
       <description>&lt;p&gt;Rootless container quadlet files go under /etc/containers/systemd/users/${UID}/ and the user session will activate the quadlet.&lt;/p&gt;
 &lt;p&gt;If you put it under etc/containers/systemd/users/ then all user sessions will activate the quadlet&lt;/p&gt;
 &lt;p&gt;When starting a container unit, systemd may time out due to the time it takes to pull a container. Use the TimeoutStartSec Service option to extend the default 90 second timeout or pre-pill the image.&lt;/p&gt;</description>
@@ -2266,20 +2266,20 @@ So, to work with podman there are some quick steps to set the socket enabled and
     
     <item>
       <title>Resources for Passing CCNA</title>
-      <link>https://davidwrites.xyz/tech/networking/resources-for-passing-ccna/</link>
+      <link>http://localhost:1313/tech/networking/resources-for-passing-ccna/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/tech/networking/resources-for-passing-ccna/</guid>
+      <guid>http://localhost:1313/tech/networking/resources-for-passing-ccna/</guid>
       <description>&lt;p&gt;There are a lot of great CCNA resources out there. This list does not include all of them. Only the ones that I personally used to pass the CCNA 200-301 exam.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>REST and JSON</title>
-      <link>https://davidwrites.xyz/tech/networking/ccna-notes/restandjson/</link>
+      <link>http://localhost:1313/tech/networking/ccna-notes/restandjson/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/tech/networking/ccna-notes/restandjson/</guid>
+      <guid>http://localhost:1313/tech/networking/ccna-notes/restandjson/</guid>
       <description>&lt;p&gt;6.0 Automation and Programmability&lt;br&gt;
 6.5 Describe characteristics of REST-based APIs (CRUD, HTTP verbs, and data encoding)&lt;br&gt;
 6.7 Interpret JSON encoded data&lt;/p&gt;
@@ -2289,10 +2289,10 @@ So, to work with podman there are some quick steps to set the socket enabled and
     
     <item>
       <title>RHCE Practice Exam Lab</title>
-      <link>https://davidwrites.xyz/tech/ansible/rhce-practice-exam-lab/</link>
+      <link>http://localhost:1313/tech/ansible/rhce-practice-exam-lab/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/tech/ansible/rhce-practice-exam-lab/</guid>
+      <guid>http://localhost:1313/tech/ansible/rhce-practice-exam-lab/</guid>
       <description>&lt;p&gt;Configure passwordless ssh access to all servers
 - write an adhoc script to copy keys to other servers&lt;/p&gt;
 &lt;ul&gt;
@@ -2314,20 +2314,20 @@ So, to work with podman there are some quick steps to set the socket enabled and
     
     <item>
       <title>RHCSA Vagrant Lab Setup</title>
-      <link>https://davidwrites.xyz/tech/linux/rhcsa-vagrant-lab-setup/</link>
+      <link>http://localhost:1313/tech/linux/rhcsa-vagrant-lab-setup/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/tech/linux/rhcsa-vagrant-lab-setup/</guid>
+      <guid>http://localhost:1313/tech/linux/rhcsa-vagrant-lab-setup/</guid>
       <description>&lt;p&gt;We are going to use Vagrant to set up two RHEL 8 servers with some custom configuration options. I will include some helpful Vagrant commands at the end if you get stuck.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Router Operation</title>
-      <link>https://davidwrites.xyz/tech/networking/ccna-notes/router_operation/</link>
+      <link>http://localhost:1313/tech/networking/ccna-notes/router_operation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/tech/networking/ccna-notes/router_operation/</guid>
+      <guid>http://localhost:1313/tech/networking/ccna-notes/router_operation/</guid>
       <description>&lt;p&gt;The configuration of IP addresses differs in some ways, with switches using a VLAN interface and routers using an IP address configured on each working interface.&lt;/p&gt;
 &lt;p&gt;switches do not have auxiliary ports.&lt;/p&gt;</description>
       
@@ -2335,10 +2335,10 @@ So, to work with podman there are some quick steps to set the socket enabled and
     
     <item>
       <title>ROuter Operation</title>
-      <link>https://davidwrites.xyz/tech/networking/ccna-notes/routeroperation/</link>
+      <link>http://localhost:1313/tech/networking/ccna-notes/routeroperation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/tech/networking/ccna-notes/routeroperation/</guid>
+      <guid>http://localhost:1313/tech/networking/ccna-notes/routeroperation/</guid>
       <description>&lt;p&gt;The configuration of IP addresses differs in some ways, with switches using a VLAN interface and routers using an IP address configured on each working interface.&lt;/p&gt;
 &lt;p&gt;switches do not have auxiliary ports.&lt;br&gt;
 Layer 2 switches support the &lt;strong&gt;show mac address-table&lt;/strong&gt; command, while Cisco routers do not.&lt;br&gt;
@@ -2351,20 +2351,20 @@ routers do not)&lt;br&gt;
     
     <item>
       <title>Routing in the LAN</title>
-      <link>https://davidwrites.xyz/tech/networking/ccna-notes/lanrouting/</link>
+      <link>http://localhost:1313/tech/networking/ccna-notes/lanrouting/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/tech/networking/ccna-notes/lanrouting/</guid>
+      <guid>http://localhost:1313/tech/networking/ccna-notes/lanrouting/</guid>
       <description>&lt;p&gt;A. Use the sdm prefer lanbase-routing command (or similar) in global configuration mode to change the switch forwarding ASIC settings to make space for IPv4 routes at the next reload of the switch.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>RSTP and Etherchannel</title>
-      <link>https://davidwrites.xyz/tech/networking/ccna-notes/rstpandetherchannel/</link>
+      <link>http://localhost:1313/tech/networking/ccna-notes/rstpandetherchannel/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/tech/networking/ccna-notes/rstpandetherchannel/</guid>
+      <guid>http://localhost:1313/tech/networking/ccna-notes/rstpandetherchannel/</guid>
       <description>&lt;p&gt;2.0 Network Access2.4 Configure and verify (Layer 2/Layer 3) EtherChannel (LACP)
 2.5 Describe the need for and basic operations of Rapid PVST+ Spanning Tree Protocol and identify basic operations2.5.a Root port, root bridge (primary/secondary), and other port names
 2.5.b Port states (forwarding/blocking)2.5.c PortFast benefits
@@ -2377,10 +2377,10 @@ and STPtheswitches do not support STP or RSTP with the single tree (CST)-based P
     
     <item>
       <title>Securing Network Devices</title>
-      <link>https://davidwrites.xyz/tech/networking/ccna-notes/securing-network-devices/</link>
+      <link>http://localhost:1313/tech/networking/ccna-notes/securing-network-devices/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/tech/networking/ccna-notes/securing-network-devices/</guid>
+      <guid>http://localhost:1313/tech/networking/ccna-notes/securing-network-devices/</guid>
       <description>&lt;p&gt;Thursday, September 23, 2021 10:32 AM&lt;/p&gt;
 
 &lt;h5 class=&#34;relative group&#34;&gt;- MD5
@@ -2426,10 +2426,10 @@ Username secret command Encoding&lt;br&gt;
     
     <item>
       <title>Security Architectures</title>
-      <link>https://davidwrites.xyz/tech/networking/ccna-notes/security-architectures/</link>
+      <link>http://localhost:1313/tech/networking/ccna-notes/security-architectures/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/tech/networking/ccna-notes/security-architectures/</guid>
+      <guid>http://localhost:1313/tech/networking/ccna-notes/security-architectures/</guid>
       <description>&lt;p&gt;This chapter covers the following exam topics:&lt;br&gt;
 5.0 Security Fundamentals&lt;br&gt;
 5.1 Define key security concepts (threats, vulnerabilities, exploits, and mitigation techniques)&lt;br&gt;
@@ -2442,10 +2442,10 @@ alternatives (multifactor authentication, certificates, and biometrics)&lt;br&gt
     
     <item>
       <title>Security Enhanced Linux</title>
-      <link>https://davidwrites.xyz/tech/cybersecurity/security-enhanced-linux/</link>
+      <link>http://localhost:1313/tech/cybersecurity/security-enhanced-linux/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/tech/cybersecurity/security-enhanced-linux/</guid>
+      <guid>http://localhost:1313/tech/cybersecurity/security-enhanced-linux/</guid>
       <description>&lt;h2 class=&#34;relative group&#34;&gt;SELinux Terminology
     &lt;div id=&#34;selinux-terminology&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -2490,20 +2490,20 @@ alternatives (multifactor authentication, certificates, and biometrics)&lt;br&gt
     
     <item>
       <title>Self hosting a Nextcloud Server</title>
-      <link>https://davidwrites.xyz/tech/tools/setting-up-a-self-hosted-nextcloud-server/</link>
+      <link>http://localhost:1313/tech/tools/setting-up-a-self-hosted-nextcloud-server/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/tech/tools/setting-up-a-self-hosted-nextcloud-server/</guid>
+      <guid>http://localhost:1313/tech/tools/setting-up-a-self-hosted-nextcloud-server/</guid>
       <description>&lt;p&gt;This is a step-by-step guide to setting up Nextcloud on a Debian server. You will need a server hosted by a VPS like Vultr. And a Domain hosted by a DNS provider such as Cloudflare&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Shell Scripting</title>
-      <link>https://davidwrites.xyz/tech/bash/shell-scripting/</link>
+      <link>http://localhost:1313/tech/bash/shell-scripting/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/tech/bash/shell-scripting/</guid>
+      <guid>http://localhost:1313/tech/bash/shell-scripting/</guid>
       <description>&lt;h2 class=&#34;relative group&#34;&gt;Shell Scripts
     &lt;div id=&#34;shell-scripts&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -2521,10 +2521,10 @@ alternatives (multifactor authentication, certificates, and biometrics)&lt;br&gt
     
     <item>
       <title>Silverblue</title>
-      <link>https://davidwrites.xyz/tech/desktop/silverblue/</link>
+      <link>http://localhost:1313/tech/desktop/silverblue/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/tech/desktop/silverblue/</guid>
+      <guid>http://localhost:1313/tech/desktop/silverblue/</guid>
       <description>&lt;p&gt;Automated setup &lt;a
   href=&#34;https://universal-blue.org/&#34;
     target=&#34;_blank&#34;
@@ -2563,10 +2563,10 @@ Separates system level packages from applications.&lt;/p&gt;
     
     <item>
       <title>Silverblue</title>
-      <link>https://davidwrites.xyz/tech/linux/desktop/silverblue/</link>
+      <link>http://localhost:1313/tech/linux/desktop/silverblue/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/tech/linux/desktop/silverblue/</guid>
+      <guid>http://localhost:1313/tech/linux/desktop/silverblue/</guid>
       <description>&lt;p&gt;Automated setup &lt;a
   href=&#34;https://universal-blue.org/&#34;
     target=&#34;_blank&#34;
@@ -2605,10 +2605,10 @@ Separates system level packages from applications.&lt;/p&gt;
     
     <item>
       <title>Software-Defined Access (SDA)</title>
-      <link>https://davidwrites.xyz/tech/networking/ccna-notes/softwaredefinedaccess/</link>
+      <link>http://localhost:1313/tech/networking/ccna-notes/softwaredefinedaccess/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/tech/networking/ccna-notes/softwaredefinedaccess/</guid>
+      <guid>http://localhost:1313/tech/networking/ccna-notes/softwaredefinedaccess/</guid>
       <description>&lt;p&gt;1.0 Network Fundamentals&lt;br&gt;
 1.1 Explain the role and function of network components&lt;br&gt;
 1.1.e Controllers (Cisco DNA Center and WLC)&lt;br&gt;
@@ -2625,10 +2625,10 @@ management&lt;/p&gt;</description>
     
     <item>
       <title>Spanning Tree Protocol</title>
-      <link>https://davidwrites.xyz/tech/networking/ccna-notes/spanningtreeprotocol/</link>
+      <link>http://localhost:1313/tech/networking/ccna-notes/spanningtreeprotocol/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/tech/networking/ccna-notes/spanningtreeprotocol/</guid>
+      <guid>http://localhost:1313/tech/networking/ccna-notes/spanningtreeprotocol/</guid>
       <description>&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;2.0 Network Access
 2.4 Configure and verify (Layer 2/Layer 3) EtherChannel (LACP)2.5 Describe the need for and basic operations of Rapid PVST+ Spanning Tree Protocol and identify
 basic operations
@@ -2679,20 +2679,20 @@ three criteria to choose whether to put and interface in forwarding state:&lt;/l
     
     <item>
       <title>Static Routing</title>
-      <link>https://davidwrites.xyz/tech/networking/ccna-notes/static-routing/</link>
+      <link>http://localhost:1313/tech/networking/ccna-notes/static-routing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/tech/networking/ccna-notes/static-routing/</guid>
+      <guid>http://localhost:1313/tech/networking/ccna-notes/static-routing/</guid>
       <description>&lt;p&gt;Routers first learn connected routes, which are routes for subnets attached to a router interface. Routers can also use static routes, which are routes created through a configuration command (ip route) that tells the router what route to put in the IPv4 routing table. And routers can use a routing protocol, in which routers tell each other about all their known routes, so that all routers can learn and build routes to all networks and subnets.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Switch Interfaces</title>
-      <link>https://davidwrites.xyz/tech/networking/ccna-notes/switchinterfaces/</link>
+      <link>http://localhost:1313/tech/networking/ccna-notes/switchinterfaces/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/tech/networking/ccna-notes/switchinterfaces/</guid>
+      <guid>http://localhost:1313/tech/networking/ccna-notes/switchinterfaces/</guid>
       <description>&lt;p&gt;1.0 Network Fundamentals1.1 Explain the role and function of network components
 1.1.b L2 and L3 switches1.4 Describe switching concepts
 Configuring Speed, Duplex, and Description&lt;/p&gt;
@@ -2708,10 +2708,10 @@ Configuring Speed, Duplex, and Description&lt;/p&gt;
     
     <item>
       <title>Switching</title>
-      <link>https://davidwrites.xyz/tech/networking/ccna-notes/switching/</link>
+      <link>http://localhost:1313/tech/networking/ccna-notes/switching/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/tech/networking/ccna-notes/switching/</guid>
+      <guid>http://localhost:1313/tech/networking/ccna-notes/switching/</guid>
       <description>&lt;p&gt;1.0 Network Fundamentals1.1 Explain the role and function of network components&lt;br&gt;
 1.1.b L2 and L3 Switches1.13 Describe switching concepts&lt;br&gt;
 1.13.a MAC learning and aging1.13.b Frame switching&lt;br&gt;
@@ -2723,10 +2723,10 @@ Overview of Switching Logic&lt;/p&gt;</description>
     
     <item>
       <title>Switchport Security Configuration</title>
-      <link>https://davidwrites.xyz/tech/networking/ccna-notes/switchport-security-config/</link>
+      <link>http://localhost:1313/tech/networking/ccna-notes/switchport-security-config/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/tech/networking/ccna-notes/switchport-security-config/</guid>
+      <guid>http://localhost:1313/tech/networking/ccna-notes/switchport-security-config/</guid>
       <description>&lt;p&gt;Tuesday, September 28, 2021 2:44 PM&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;switchport port&lt;/strong&gt; - predefine any allowed source MAC addresses for this interface. &lt;strong&gt;- security mac-address&lt;/strong&gt; &lt;em&gt;mac-address&lt;/em&gt;&lt;/li&gt;
@@ -2761,10 +2761,10 @@ or for a PC connected to the phone)
     
     <item>
       <title>System Initialization, Message Logging, and System Tuning</title>
-      <link>https://davidwrites.xyz/tech/boot/system-initialization-message-logging-and-system-tuning/</link>
+      <link>http://localhost:1313/tech/boot/system-initialization-message-logging-and-system-tuning/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/tech/boot/system-initialization-message-logging-and-system-tuning/</guid>
+      <guid>http://localhost:1313/tech/boot/system-initialization-message-logging-and-system-tuning/</guid>
       <description>&lt;h2 class=&#34;relative group&#34;&gt;System Initialization and Service Management
     &lt;div id=&#34;system-initialization-and-service-management&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -2786,10 +2786,10 @@ or for a PC connected to the phone)
     
     <item>
       <title>TCP/IP Basics</title>
-      <link>https://davidwrites.xyz/tech/networking/ccna-notes/tcpipbasic/</link>
+      <link>http://localhost:1313/tech/networking/ccna-notes/tcpipbasic/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/tech/networking/ccna-notes/tcpipbasic/</guid>
+      <guid>http://localhost:1313/tech/networking/ccna-notes/tcpipbasic/</guid>
       <description>&lt;p&gt;ApplicationTransport
 NetworkData Link
 Physical&lt;br&gt;
@@ -2806,10 +2806,10 @@ Application Layer&lt;/p&gt;
     
     <item>
       <title>The Linux Firewall</title>
-      <link>https://davidwrites.xyz/tech/cybersecurity/the-linux-firewall/</link>
+      <link>http://localhost:1313/tech/cybersecurity/the-linux-firewall/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/tech/cybersecurity/the-linux-firewall/</guid>
+      <guid>http://localhost:1313/tech/cybersecurity/the-linux-firewall/</guid>
       <description>&lt;h1 class=&#34;relative group&#34;&gt;&lt;code&gt;firewalld&lt;/code&gt; Zones
     &lt;div id=&#34;firewalld-zones&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -2865,10 +2865,10 @@ Application Layer&lt;/p&gt;
     
     <item>
       <title>The Secure Shell Service</title>
-      <link>https://davidwrites.xyz/tech/cybersecurity/the-secure-shell-service/</link>
+      <link>http://localhost:1313/tech/cybersecurity/the-secure-shell-service/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/tech/cybersecurity/the-secure-shell-service/</guid>
+      <guid>http://localhost:1313/tech/cybersecurity/the-secure-shell-service/</guid>
       <description>&lt;h2 class=&#34;relative group&#34;&gt;The OpenSSH Service
     &lt;div id=&#34;the-openssh-service&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -2909,10 +2909,10 @@ Application Layer&lt;/p&gt;
     
     <item>
       <title>Toggle PoE on a Juniper Switch</title>
-      <link>https://davidwrites.xyz/tech/networking/toggle_poe/</link>
+      <link>http://localhost:1313/tech/networking/toggle_poe/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/tech/networking/toggle_poe/</guid>
+      <guid>http://localhost:1313/tech/networking/toggle_poe/</guid>
       <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;Configure
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;set&lt;/span&gt; poe interface ge-0/0/0 disable
@@ -2928,10 +2928,10 @@ Application Layer&lt;/p&gt;
     
     <item>
       <title>Troubleshooting Routing Issues</title>
-      <link>https://davidwrites.xyz/tech/networking/ccna-notes/troubleshootingrouting/</link>
+      <link>http://localhost:1313/tech/networking/ccna-notes/troubleshootingrouting/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/tech/networking/ccna-notes/troubleshootingrouting/</guid>
+      <guid>http://localhost:1313/tech/networking/ccna-notes/troubleshootingrouting/</guid>
       <description>&lt;p&gt;Problem Isolation Using the ping Command&lt;/p&gt;
 &lt;p&gt;functions as part of Layer 3, as a control protocol to assist IP by helping manage the IP network functions.&lt;/p&gt;
 &lt;p&gt;Ping options&lt;/p&gt;
@@ -2941,20 +2941,20 @@ Application Layer&lt;/p&gt;
     
     <item>
       <title>Using Vagrant on Linux</title>
-      <link>https://davidwrites.xyz/tech/tools/using-vagrant-on-linux/</link>
+      <link>http://localhost:1313/tech/tools/using-vagrant-on-linux/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/tech/tools/using-vagrant-on-linux/</guid>
+      <guid>http://localhost:1313/tech/tools/using-vagrant-on-linux/</guid>
       <description>&lt;p&gt;Vagrant is software that lets you set up multiple, pre-configured virtual machines in a flash. I am going to show you how to do this using Linux and Virtual Box. But you can do this on MacOS and Windows as well.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Vim Guide</title>
-      <link>https://davidwrites.xyz/tech/tools/vimguide/</link>
+      <link>http://localhost:1313/tech/tools/vimguide/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/tech/tools/vimguide/</guid>
+      <guid>http://localhost:1313/tech/tools/vimguide/</guid>
       <description>&lt;p&gt;Vim (Vi Improved)&lt;/p&gt;
 &lt;p&gt;&lt;code&gt;Vim&lt;/code&gt; stands for vi (Improved) just like its name it stands for an improved version of the &lt;code&gt;vi&lt;/code&gt; text editor command.&lt;/p&gt;
 &lt;p&gt;Lightweight&lt;/p&gt;
@@ -2989,10 +2989,10 @@ l or right arrow - will move you right one character&lt;/p&gt;</description>
     
     <item>
       <title>VLANs</title>
-      <link>https://davidwrites.xyz/tech/networking/ccna-notes/vlans/</link>
+      <link>http://localhost:1313/tech/networking/ccna-notes/vlans/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/tech/networking/ccna-notes/vlans/</guid>
+      <guid>http://localhost:1313/tech/networking/ccna-notes/vlans/</guid>
       <description>&lt;h2 class=&#34;relative group&#34;&gt;Virtual LAN Concepts
     &lt;div id=&#34;virtual-lan-concepts&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -3053,10 +3053,10 @@ dynamic auto-passively waits to receive trunk negotiation messages
     
     <item>
       <title>WAN Architecture</title>
-      <link>https://davidwrites.xyz/tech/networking/ccna-notes/wanarchitecture/</link>
+      <link>http://localhost:1313/tech/networking/ccna-notes/wanarchitecture/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/tech/networking/ccna-notes/wanarchitecture/</guid>
+      <guid>http://localhost:1313/tech/networking/ccna-notes/wanarchitecture/</guid>
       <description>&lt;p&gt;1.0 Network Fundamentals&lt;br&gt;
 1.2 Describe the characteristics of network topology architecture&lt;br&gt;
 1.2.d WAN&lt;br&gt;
@@ -3077,10 +3077,10 @@ dynamic auto-passively waits to receive trunk negotiation messages
     
     <item>
       <title>WANs and IP Routing</title>
-      <link>https://davidwrites.xyz/tech/networking/ccna-notes/wansandiprouting/</link>
+      <link>http://localhost:1313/tech/networking/ccna-notes/wansandiprouting/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/tech/networking/ccna-notes/wansandiprouting/</guid>
+      <guid>http://localhost:1313/tech/networking/ccna-notes/wansandiprouting/</guid>
       <description>&lt;p&gt;Leased-Line WANs&lt;br&gt;
 Physical Details of Leased Lines&lt;/p&gt;
 &lt;ul&gt;
@@ -3120,10 +3120,10 @@ HDLC&lt;/li&gt;
     
     <item>
       <title>What to Learn After CCNA</title>
-      <link>https://davidwrites.xyz/tech/networking/what-to-learn-after-ccna/</link>
+      <link>http://localhost:1313/tech/networking/what-to-learn-after-ccna/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/tech/networking/what-to-learn-after-ccna/</guid>
+      <guid>http://localhost:1313/tech/networking/what-to-learn-after-ccna/</guid>
       <description>&lt;p&gt;It&amp;rsquo;s easy to get overwhelmed with options after &lt;a
   href=&#34;Resources%20for%20Passing%20CCNA.md&#34;&gt;completing&lt;/a&gt; your CCNA. What do you learn next? If you are trying to get a job as a Network Engineer, you will want to check this out.&lt;/p&gt;</description>
       
@@ -3131,10 +3131,10 @@ HDLC&lt;/li&gt;
     
     <item>
       <title>Wireless Architectures</title>
-      <link>https://davidwrites.xyz/tech/networking/ccna-notes/wirelessarchitectures/</link>
+      <link>http://localhost:1313/tech/networking/ccna-notes/wirelessarchitectures/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/tech/networking/ccna-notes/wirelessarchitectures/</guid>
+      <guid>http://localhost:1313/tech/networking/ccna-notes/wirelessarchitectures/</guid>
       <description>&lt;p&gt;The data path from the wireless network to the wired network is very short; the autonomous AP links the two networks. Data to and from wireless clients does not have to travel up into the cloud and back; the cloud is used to bring management functions into the data plane.
 the network in Figure 27-3 consists of two distinct paths—one for data traffic and another for
 management traffic, corresponding to the following two functions:&lt;/p&gt;</description>
@@ -3143,10 +3143,10 @@ management traffic, corresponding to the following two functions:&lt;/p&gt;</des
     
     <item>
       <title>Wireless LAN</title>
-      <link>https://davidwrites.xyz/tech/networking/ccna-notes/wireless_lan/</link>
+      <link>http://localhost:1313/tech/networking/ccna-notes/wireless_lan/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/tech/networking/ccna-notes/wireless_lan/</guid>
+      <guid>http://localhost:1313/tech/networking/ccna-notes/wireless_lan/</guid>
       <description>&lt;p&gt;multiple VLANs must be brought to it over a trunk link.&lt;/p&gt;
 &lt;p&gt;The wireless side of an AP inherently trunks 802.11 frames by marking them with the BSSID of the WLAN where they belong.&lt;/p&gt;</description>
       
@@ -3154,20 +3154,20 @@ management traffic, corresponding to the following two functions:&lt;/p&gt;</des
     
     <item>
       <title>Wireless Networking</title>
-      <link>https://davidwrites.xyz/tech/networking/ccna-notes/wirelessnetworking/</link>
+      <link>http://localhost:1313/tech/networking/ccna-notes/wirelessnetworking/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/tech/networking/ccna-notes/wirelessnetworking/</guid>
+      <guid>http://localhost:1313/tech/networking/ccna-notes/wirelessnetworking/</guid>
       <description>&lt;p&gt;the operation of a BSS hinges on the AP, the BSS is bounded by usable. This is known as thebasic service area (BSA)or cell. the area where the AP’s signal is&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Wireless Security</title>
-      <link>https://davidwrites.xyz/tech/networking/ccna-notes/wireless_security/</link>
+      <link>http://localhost:1313/tech/networking/ccna-notes/wireless_security/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/tech/networking/ccna-notes/wireless_security/</guid>
+      <guid>http://localhost:1313/tech/networking/ccna-notes/wireless_security/</guid>
       <description>&lt;p&gt;A comprehensive approach to wireless security focuses on the following areas:&lt;/p&gt;
 &lt;p&gt;Identifying the endpoints of a wireless connection&lt;/p&gt;
 &lt;p&gt;Identifying the end user (authentication)&lt;/p&gt;
@@ -3177,10 +3177,10 @@ management traffic, corresponding to the following two functions:&lt;/p&gt;</des
     
     <item>
       <title>You Need to Learn Man Pages</title>
-      <link>https://davidwrites.xyz/tech/tools/using-man-pages/</link>
+      <link>http://localhost:1313/tech/tools/using-man-pages/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/tech/tools/using-man-pages/</guid>
+      <guid>http://localhost:1313/tech/tools/using-man-pages/</guid>
       <description>&lt;p&gt;&lt;a
   href=&#34;https://www.youtube.com/watch?v=RzAkjX_9B7E&amp;amp;t=295s&#34;
     target=&#34;_blank&#34;

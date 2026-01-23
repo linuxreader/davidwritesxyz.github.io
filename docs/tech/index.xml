@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Teches on </title>
-    <link>https://davidwrites.xyz/tech/</link>
+    <link>http://localhost:1313/tech/</link>
     <description>Recent content in Teches on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2026 </copyright>
-    <lastBuildDate>Mon, 06 Nov 2023 06:20:36 -0700</lastBuildDate><atom:link href="https://davidwrites.xyz/tech/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 06 Nov 2023 06:20:36 -0700</lastBuildDate><atom:link href="http://localhost:1313/tech/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title></title>
-      <link>https://davidwrites.xyz/tech/bluefin-setup/</link>
+      <link>http://localhost:1313/tech/bluefin-setup/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/tech/bluefin-setup/</guid>
+      <guid>http://localhost:1313/tech/bluefin-setup/</guid>
       <description>&lt;p&gt;Run command
 &lt;code&gt;ujust devmode&lt;/code&gt;&lt;/p&gt;
 &lt;p&gt;Add yourself to the right groups
@@ -85,10 +85,10 @@
     
     <item>
       <title></title>
-      <link>https://davidwrites.xyz/tech/desktop-yml/</link>
+      <link>http://localhost:1313/tech/desktop-yml/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/tech/desktop-yml/</guid>
+      <guid>http://localhost:1313/tech/desktop-yml/</guid>
       <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-yaml&#34; data-lang=&#34;yaml&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nn&#34;&gt;---&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;&lt;/span&gt;- &lt;span class=&#34;nt&#34;&gt;name&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;Setup Development Environment&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;  &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;hosts&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;localhost&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
@@ -146,10 +146,10 @@
     
     <item>
       <title></title>
-      <link>https://davidwrites.xyz/tech/desktop/silverblue-1/</link>
+      <link>http://localhost:1313/tech/desktop/silverblue-1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/tech/desktop/silverblue-1/</guid>
+      <guid>http://localhost:1313/tech/desktop/silverblue-1/</guid>
       <description>&lt;p&gt;Automated setup &lt;a
   href=&#34;https://universal-blue.org/&#34;
     target=&#34;_blank&#34;
@@ -188,10 +188,10 @@ Separates system level packages from applications.&lt;/p&gt;
     
     <item>
       <title></title>
-      <link>https://davidwrites.xyz/tech/rhce-exam/</link>
+      <link>http://localhost:1313/tech/rhce-exam/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/tech/rhce-exam/</guid>
+      <guid>http://localhost:1313/tech/rhce-exam/</guid>
       <description>&lt;figure&gt;&lt;img
     class=&#34;my-0 rounded-md&#34;
     loading=&#34;lazy&#34;
@@ -205,10 +205,10 @@ Separates system level packages from applications.&lt;/p&gt;
     
     <item>
       <title></title>
-      <link>https://davidwrites.xyz/tech/tools/apache/</link>
+      <link>http://localhost:1313/tech/tools/apache/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/tech/tools/apache/</guid>
+      <guid>http://localhost:1313/tech/tools/apache/</guid>
       <description>&lt;h4 class=&#34;relative group&#34;&gt;Rhel
     &lt;div id=&#34;rhel&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -229,10 +229,10 @@ User: apache&lt;/p&gt;</description>
     
     <item>
       <title></title>
-      <link>https://davidwrites.xyz/tech/tools/calibre_server/</link>
+      <link>http://localhost:1313/tech/tools/calibre_server/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/tech/tools/calibre_server/</guid>
+      <guid>http://localhost:1313/tech/tools/calibre_server/</guid>
       <description>&lt;p&gt;Install Calibre and Rsync&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;apt install -y calibre rsync
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Make a directory for your library&lt;/p&gt;
@@ -246,10 +246,10 @@ User: apache&lt;/p&gt;</description>
     
     <item>
       <title></title>
-      <link>https://davidwrites.xyz/tech/tools/desktop/</link>
+      <link>http://localhost:1313/tech/tools/desktop/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/tech/tools/desktop/</guid>
+      <guid>http://localhost:1313/tech/tools/desktop/</guid>
       <description>&lt;p&gt;%% Zoottelkeeper: Beginning of the autogenerated index file list  %%&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;[[tech/desktop/_index|_index]]&lt;/li&gt;
@@ -264,10 +264,10 @@ User: apache&lt;/p&gt;</description>
     
     <item>
       <title></title>
-      <link>https://davidwrites.xyz/tech/tools/distrobox/</link>
+      <link>http://localhost:1313/tech/tools/distrobox/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/tech/tools/distrobox/</guid>
+      <guid>http://localhost:1313/tech/tools/distrobox/</guid>
       <description>&lt;p&gt;Github: &lt;a
   href=&#34;https://github.com/89luca89/distrobox&#34;
     target=&#34;_blank&#34;
@@ -280,10 +280,10 @@ Creates an app launcher icon for the container&lt;/p&gt;
     
     <item>
       <title></title>
-      <link>https://davidwrites.xyz/tech/tools/editing-foliate-highlights-with-vim/</link>
+      <link>http://localhost:1313/tech/tools/editing-foliate-highlights-with-vim/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/tech/tools/editing-foliate-highlights-with-vim/</guid>
+      <guid>http://localhost:1313/tech/tools/editing-foliate-highlights-with-vim/</guid>
       <description>&lt;p&gt;Get rid of lines with color reference:
 &lt;code&gt;:g/^**rgb/d&lt;/code&gt;&lt;/p&gt;
 &lt;p&gt;get rid of the &lt;code&gt;&amp;gt; &lt;/code&gt; on each line:
@@ -297,10 +297,10 @@ Creates an app launcher icon for the container&lt;/p&gt;
     
     <item>
       <title></title>
-      <link>https://davidwrites.xyz/tech/tools/gitea-setup/</link>
+      <link>http://localhost:1313/tech/tools/gitea-setup/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/tech/tools/gitea-setup/</guid>
+      <guid>http://localhost:1313/tech/tools/gitea-setup/</guid>
       <description>&lt;p&gt;Following this guide: &lt;a
   href=&#34;https://blog.while-true-do.io/podman-setup-gitea/&#34;
     target=&#34;_blank&#34;
@@ -325,10 +325,10 @@ Creates an app launcher icon for the container&lt;/p&gt;
     
     <item>
       <title></title>
-      <link>https://davidwrites.xyz/tech/tools/gitguide/</link>
+      <link>http://localhost:1313/tech/tools/gitguide/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/tech/tools/gitguide/</guid>
+      <guid>http://localhost:1313/tech/tools/gitguide/</guid>
       <description>&lt;h1 class=&#34;relative group&#34;&gt;Commands
     &lt;div id=&#34;commands&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -354,10 +354,10 @@ Creates an app launcher icon for the container&lt;/p&gt;
     
     <item>
       <title></title>
-      <link>https://davidwrites.xyz/tech/tools/iphonemigrate/</link>
+      <link>http://localhost:1313/tech/tools/iphonemigrate/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/tech/tools/iphonemigrate/</guid>
+      <guid>http://localhost:1313/tech/tools/iphonemigrate/</guid>
       <description>&lt;h2 class=&#34;relative group&#34;&gt;Convert .MOV to MP4
     &lt;div id=&#34;convert-mov-to-mp4&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -378,10 +378,10 @@ Creates an app launcher icon for the container&lt;/p&gt;
     
     <item>
       <title></title>
-      <link>https://davidwrites.xyz/tech/tools/libvirt-kvm-qemu/</link>
+      <link>http://localhost:1313/tech/tools/libvirt-kvm-qemu/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/tech/tools/libvirt-kvm-qemu/</guid>
+      <guid>http://localhost:1313/tech/tools/libvirt-kvm-qemu/</guid>
       <description>&lt;ol&gt;
 &lt;li&gt;
 &lt;p&gt;libvirt is the most mature and proven virtualization stack in the world&lt;/p&gt;
@@ -400,10 +400,10 @@ qemu is a general purpose linux virtualization swiss army knife CLI, the way mos
     
     <item>
       <title></title>
-      <link>https://davidwrites.xyz/tech/tools/libvirt/</link>
+      <link>http://localhost:1313/tech/tools/libvirt/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/tech/tools/libvirt/</guid>
+      <guid>http://localhost:1313/tech/tools/libvirt/</guid>
       <description>&lt;p&gt;Commands to manage Libvirt:&lt;/p&gt;
 &lt;p&gt;&lt;code&gt;virsh&lt;/code&gt;&lt;/p&gt;
 &lt;ul&gt;
@@ -414,10 +414,10 @@ qemu is a general purpose linux virtualization swiss army knife CLI, the way mos
     
     <item>
       <title></title>
-      <link>https://davidwrites.xyz/tech/tools/migrate-nextcloud-to-podman/</link>
+      <link>http://localhost:1313/tech/tools/migrate-nextcloud-to-podman/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/tech/tools/migrate-nextcloud-to-podman/</guid>
+      <guid>http://localhost:1313/tech/tools/migrate-nextcloud-to-podman/</guid>
       <description>&lt;p&gt;To migrate a standard nextcloud setup to Podman/Docker, you need to create the container setup and copy data from the old system to the new.&lt;/p&gt;
 &lt;p&gt;I am going to start with a new Alma 10 VM for my setup.&lt;/p&gt;</description>
       
@@ -425,20 +425,20 @@ qemu is a general purpose linux virtualization swiss army knife CLI, the way mos
     
     <item>
       <title></title>
-      <link>https://davidwrites.xyz/tech/tools/obsidian-hugo-github-website-stack-ohg/</link>
+      <link>http://localhost:1313/tech/tools/obsidian-hugo-github-website-stack-ohg/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/tech/tools/obsidian-hugo-github-website-stack-ohg/</guid>
+      <guid>http://localhost:1313/tech/tools/obsidian-hugo-github-website-stack-ohg/</guid>
       <description>&lt;p&gt;First, you&amp;rsquo;ll need to create a github account. If you won&amp;rsquo;t be using a custom domain (You can add one later), make sure you name the account what you want your website to be. The domain will be {{ account-name.github.io }}&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title></title>
-      <link>https://davidwrites.xyz/tech/tools/obsidian-site-setup/</link>
+      <link>http://localhost:1313/tech/tools/obsidian-site-setup/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/tech/tools/obsidian-site-setup/</guid>
+      <guid>http://localhost:1313/tech/tools/obsidian-site-setup/</guid>
       <description>&lt;p&gt;Sync obsidian dirs to hugo dirs:
 &lt;code&gt;rsync -av --delete source destination&lt;/code&gt;
 &amp;ndash;delete flag deletes files in the destination directory if they do not exist in the source&lt;/p&gt;
@@ -483,10 +483,10 @@ rsync -rtvzP ~/Documents/blog/docs/ {username}@{ip-address}:/var/www/public
     
     <item>
       <title></title>
-      <link>https://davidwrites.xyz/tech/tools/pandoc/</link>
+      <link>http://localhost:1313/tech/tools/pandoc/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/tech/tools/pandoc/</guid>
+      <guid>http://localhost:1313/tech/tools/pandoc/</guid>
       <description>&lt;h1 class=&#34;relative group&#34;&gt;Pandoc
     &lt;div id=&#34;pandoc&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -510,10 +510,10 @@ rsync -rtvzP ~/Documents/blog/docs/ {username}@{ip-address}:/var/www/public
     
     <item>
       <title></title>
-      <link>https://davidwrites.xyz/tech/tools/projects/</link>
+      <link>http://localhost:1313/tech/tools/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/tech/tools/projects/</guid>
+      <guid>http://localhost:1313/tech/tools/projects/</guid>
       <description>&lt;p&gt;Fedora SilverBlue
 Vimwiki
 Switch to Firefox?
@@ -530,10 +530,10 @@ Switch to Android or graphene os&lt;/p&gt;
     
     <item>
       <title></title>
-      <link>https://davidwrites.xyz/tech/tools/proxmox_setup/</link>
+      <link>http://localhost:1313/tech/tools/proxmox_setup/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/tech/tools/proxmox_setup/</guid>
+      <guid>http://localhost:1313/tech/tools/proxmox_setup/</guid>
       <description>&lt;p&gt;Add the following to the end of /etc/apt/sources.list&lt;/p&gt;
 &lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;# not for production use
 deb http://download.proxmox.com/debian/pve bullseye pve-no-subscription
@@ -547,10 +547,10 @@ deb http://download.proxmox.com/debian/pve bullseye pve-no-subscription
     
     <item>
       <title></title>
-      <link>https://davidwrites.xyz/tech/tools/rsync/</link>
+      <link>http://localhost:1313/tech/tools/rsync/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/tech/tools/rsync/</guid>
+      <guid>http://localhost:1313/tech/tools/rsync/</guid>
       <description>&lt;h1 class=&#34;relative group&#34;&gt;Using Rsync to sync a folder between two hosts
     &lt;div id=&#34;using-rsync-to-sync-a-folder-between-two-hosts&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -566,10 +566,10 @@ deb http://download.proxmox.com/debian/pve bullseye pve-no-subscription
     
     <item>
       <title></title>
-      <link>https://davidwrites.xyz/tech/tools/serial-in-on-linux/</link>
+      <link>http://localhost:1313/tech/tools/serial-in-on-linux/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/tech/tools/serial-in-on-linux/</guid>
+      <guid>http://localhost:1313/tech/tools/serial-in-on-linux/</guid>
       <description>&lt;p&gt;Using GTKterm app&lt;/p&gt;
 &lt;p&gt;Find out what port your serial cable is plugged into:&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;dthomas@lgfedora:~$ dmesg &lt;span class=&#34;p&#34;&gt;|&lt;/span&gt; grep tty
@@ -590,10 +590,10 @@ deb http://download.proxmox.com/debian/pve bullseye pve-no-subscription
     
     <item>
       <title></title>
-      <link>https://davidwrites.xyz/tech/tools/skaffold/</link>
+      <link>http://localhost:1313/tech/tools/skaffold/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/tech/tools/skaffold/</guid>
+      <guid>http://localhost:1313/tech/tools/skaffold/</guid>
       <description>&lt;p&gt;Skaffold watches for code changes in a repo and builds, tests, and deployes and application in Kubernetes&lt;/p&gt;
 
 &lt;h3 class=&#34;relative group&#34;&gt;What questions are they asking? Headline melding.
@@ -611,10 +611,10 @@ deb http://download.proxmox.com/debian/pve bullseye pve-no-subscription
     
     <item>
       <title></title>
-      <link>https://davidwrites.xyz/tech/tools/tmuxbook/</link>
+      <link>http://localhost:1313/tech/tools/tmuxbook/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/tech/tools/tmuxbook/</guid>
+      <guid>http://localhost:1313/tech/tools/tmuxbook/</guid>
       <description>&lt;p&gt;Links:
 &lt;a
   href=&#34;https://git.jharmison.com/james/dotfiles/src/branch/master/.tmux.conf&#34;
@@ -676,30 +676,30 @@ deb http://download.proxmox.com/debian/pve bullseye pve-no-subscription
     
     <item>
       <title></title>
-      <link>https://davidwrites.xyz/tech/tools/vagrant-what-is-it-for/</link>
+      <link>http://localhost:1313/tech/tools/vagrant-what-is-it-for/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/tech/tools/vagrant-what-is-it-for/</guid>
+      <guid>http://localhost:1313/tech/tools/vagrant-what-is-it-for/</guid>
       <description>&lt;p&gt;We are sick of manually setting up virtual machines and configuring them. You can use Ansible to automate the configuration of a server. But what about setting up a server before it&amp;rsquo;s configured? Let&amp;rsquo;s stop doing that manually as well by using Vagrant.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title></title>
-      <link>https://davidwrites.xyz/tech/tools/vm-creation-using-ansible/</link>
+      <link>http://localhost:1313/tech/tools/vm-creation-using-ansible/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/tech/tools/vm-creation-using-ansible/</guid>
+      <guid>http://localhost:1313/tech/tools/vm-creation-using-ansible/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title></title>
-      <link>https://davidwrites.xyz/tech/tools/vs_codium/</link>
+      <link>http://localhost:1313/tech/tools/vs_codium/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/tech/tools/vs_codium/</guid>
+      <guid>http://localhost:1313/tech/tools/vs_codium/</guid>
       <description>&lt;p&gt;&lt;a
   href=&#34;https://github.com/VSCodium&#34;title=&#34;https://github.com/VSCodium&#34;
     target=&#34;_blank&#34;
@@ -724,10 +724,10 @@ deb http://download.proxmox.com/debian/pve bullseye pve-no-subscription
     
     <item>
       <title>Advanced File Management</title>
-      <link>https://davidwrites.xyz/tech/files/advanced-file-management/</link>
+      <link>http://localhost:1313/tech/files/advanced-file-management/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/tech/files/advanced-file-management/</guid>
+      <guid>http://localhost:1313/tech/files/advanced-file-management/</guid>
       <description>&lt;h2 class=&#34;relative group&#34;&gt;Permission Classes and Types
     &lt;div id=&#34;permission-classes-and-types&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -750,10 +750,10 @@ deb http://download.proxmox.com/debian/pve bullseye pve-no-subscription
     
     <item>
       <title>Bash</title>
-      <link>https://davidwrites.xyz/tech/bash/bash-shell/</link>
+      <link>http://localhost:1313/tech/bash/bash-shell/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/tech/bash/bash-shell/</guid>
+      <guid>http://localhost:1313/tech/bash/bash-shell/</guid>
       <description>&lt;h2 class=&#34;relative group&#34;&gt;My name is Marcel and I&amp;rsquo;m partially a shell..
     &lt;div id=&#34;my-name-is-marcel-and-im-partially-a-shell&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -777,10 +777,10 @@ deb http://download.proxmox.com/debian/pve bullseye pve-no-subscription
     
     <item>
       <title>Basic File Managment</title>
-      <link>https://davidwrites.xyz/tech/files/file-management/</link>
+      <link>http://localhost:1313/tech/files/file-management/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/tech/files/file-management/</guid>
+      <guid>http://localhost:1313/tech/files/file-management/</guid>
       <description>&lt;h2 class=&#34;relative group&#34;&gt;7 File types
     &lt;div id=&#34;7-file-types&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -805,10 +805,10 @@ deb http://download.proxmox.com/debian/pve bullseye pve-no-subscription
     
     <item>
       <title>Boot Process, Grub2, and Kernel</title>
-      <link>https://davidwrites.xyz/tech/boot/boot-process-grub2-and-kernel/</link>
+      <link>http://localhost:1313/tech/boot/boot-process-grub2-and-kernel/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/tech/boot/boot-process-grub2-and-kernel/</guid>
+      <guid>http://localhost:1313/tech/boot/boot-process-grub2-and-kernel/</guid>
       <description>&lt;h2 class=&#34;relative group&#34;&gt;Linux Kernel
     &lt;div id=&#34;linux-kernel&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -840,10 +840,10 @@ deb http://download.proxmox.com/debian/pve bullseye pve-no-subscription
     
     <item>
       <title>Calibre Web with Docker and NGINX</title>
-      <link>https://davidwrites.xyz/tech/tools/calibre-web-with-docker-and-nginx/</link>
+      <link>http://localhost:1313/tech/tools/calibre-web-with-docker-and-nginx/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/tech/tools/calibre-web-with-docker-and-nginx/</guid>
+      <guid>http://localhost:1313/tech/tools/calibre-web-with-docker-and-nginx/</guid>
       <description>&lt;p&gt;I couldn’t find a guide on how to set up Calibre web step-by-step as a Docker container. Especially not one that used Nginx as a reverse proxy.&lt;/p&gt;
 &lt;p&gt;The good news is that it is really fast and simple. You’ll need a few tools to get this done:&lt;/p&gt;</description>
       
@@ -851,10 +851,10 @@ deb http://download.proxmox.com/debian/pve bullseye pve-no-subscription
     
     <item>
       <title>Configure Fedora Desktop using Ansible</title>
-      <link>https://davidwrites.xyz/tech/tools/new-setup/</link>
+      <link>http://localhost:1313/tech/tools/new-setup/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/tech/tools/new-setup/</guid>
+      <guid>http://localhost:1313/tech/tools/new-setup/</guid>
       <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;sudo dnf -y install vim
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;### Make vim default sudoer editor&lt;/span&gt;
@@ -884,20 +884,20 @@ deb http://download.proxmox.com/debian/pve bullseye pve-no-subscription
     
     <item>
       <title>How to Build a website With Hugo</title>
-      <link>https://davidwrites.xyz/tech/tools/how-to-build-a-website-with-hugo/</link>
+      <link>http://localhost:1313/tech/tools/how-to-build-a-website-with-hugo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/tech/tools/how-to-build-a-website-with-hugo/</guid>
+      <guid>http://localhost:1313/tech/tools/how-to-build-a-website-with-hugo/</guid>
       <description>&lt;p&gt;Word Press is great, but it is probably a lot more bloated then you need for a personal website. Enter Hugo, it has less server capacity and storage needs than Word Press. Hugo is a static site generator than takes markdown files and converts them to html.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>How to Process Bookfusion Highlights with Vim</title>
-      <link>https://davidwrites.xyz/tech/tools/process-bookfusion-highlights/</link>
+      <link>http://localhost:1313/tech/tools/process-bookfusion-highlights/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/tech/tools/process-bookfusion-highlights/</guid>
+      <guid>http://localhost:1313/tech/tools/process-bookfusion-highlights/</guid>
       <description>&lt;p&gt;Here are my highlights pulled up in Vim:&lt;/p&gt;
 &lt;figure&gt;&lt;img
     class=&#34;my-0 rounded-md&#34;
@@ -913,10 +913,10 @@ deb http://download.proxmox.com/debian/pve bullseye pve-no-subscription
     
     <item>
       <title>How to Set Up Hugo Relearn Theme</title>
-      <link>https://davidwrites.xyz/tech/tools/how-to-set-up-hugo-relearn-theme/</link>
+      <link>http://localhost:1313/tech/tools/how-to-set-up-hugo-relearn-theme/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/tech/tools/how-to-set-up-hugo-relearn-theme/</guid>
+      <guid>http://localhost:1313/tech/tools/how-to-set-up-hugo-relearn-theme/</guid>
       <description>&lt;h1 class=&#34;relative group&#34;&gt;Hugo Setup
     &lt;div id=&#34;hugo-setup&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -942,10 +942,10 @@ deb http://download.proxmox.com/debian/pve bullseye pve-no-subscription
     
     <item>
       <title>Learning Touch Typing</title>
-      <link>https://davidwrites.xyz/tech/desktop/learning-touch-typing/</link>
+      <link>http://localhost:1313/tech/desktop/learning-touch-typing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/tech/desktop/learning-touch-typing/</guid>
+      <guid>http://localhost:1313/tech/desktop/learning-touch-typing/</guid>
       <description>&lt;p&gt;Using &lt;a
   href=&#34;https://monkeytype.com/&#34;
     target=&#34;_blank&#34;
@@ -980,10 +980,10 @@ Learning to type with:
     
     <item>
       <title>My Fedora Setup</title>
-      <link>https://davidwrites.xyz/tech/desktop/my-fedora-setup/</link>
+      <link>http://localhost:1313/tech/desktop/my-fedora-setup/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/tech/desktop/my-fedora-setup/</guid>
+      <guid>http://localhost:1313/tech/desktop/my-fedora-setup/</guid>
       <description>&lt;p&gt;When you first download Fedora Workstation, it&amp;rsquo;s going to be a little hard to figure out how to make it usable. Especially if you&amp;rsquo;ve never tinkered with Linux before.&lt;/p&gt;
 &lt;p&gt;This is because Fedora with Gnome desktop is a blank canvas. The point is to let you customize it to your needs. When I first install Fedora, I pull my justfile to install most of the programs I use:&lt;/p&gt;</description>
       
@@ -991,10 +991,10 @@ Learning to type with:
     
     <item>
       <title>Nextcloud on RHEL Based Systems</title>
-      <link>https://davidwrites.xyz/tech/tools/nextcloud-on-rhel-based-systems/</link>
+      <link>http://localhost:1313/tech/tools/nextcloud-on-rhel-based-systems/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/tech/tools/nextcloud-on-rhel-based-systems/</guid>
+      <guid>http://localhost:1313/tech/tools/nextcloud-on-rhel-based-systems/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m going to show you how to set up your own, self-hosted Nextcloud server using Alma Linux 9 and Apache.&lt;/p&gt;
 
 &lt;h3 class=&#34;relative group&#34;&gt;What is Nextcloud?
@@ -1012,10 +1012,10 @@ Learning to type with:
     
     <item>
       <title>Security Enhanced Linux</title>
-      <link>https://davidwrites.xyz/tech/cybersecurity/security-enhanced-linux/</link>
+      <link>http://localhost:1313/tech/cybersecurity/security-enhanced-linux/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/tech/cybersecurity/security-enhanced-linux/</guid>
+      <guid>http://localhost:1313/tech/cybersecurity/security-enhanced-linux/</guid>
       <description>&lt;h2 class=&#34;relative group&#34;&gt;SELinux Terminology
     &lt;div id=&#34;selinux-terminology&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -1060,20 +1060,20 @@ Learning to type with:
     
     <item>
       <title>Self hosting a Nextcloud Server</title>
-      <link>https://davidwrites.xyz/tech/tools/setting-up-a-self-hosted-nextcloud-server/</link>
+      <link>http://localhost:1313/tech/tools/setting-up-a-self-hosted-nextcloud-server/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/tech/tools/setting-up-a-self-hosted-nextcloud-server/</guid>
+      <guid>http://localhost:1313/tech/tools/setting-up-a-self-hosted-nextcloud-server/</guid>
       <description>&lt;p&gt;This is a step-by-step guide to setting up Nextcloud on a Debian server. You will need a server hosted by a VPS like Vultr. And a Domain hosted by a DNS provider such as Cloudflare&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Shell Scripting</title>
-      <link>https://davidwrites.xyz/tech/bash/shell-scripting/</link>
+      <link>http://localhost:1313/tech/bash/shell-scripting/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/tech/bash/shell-scripting/</guid>
+      <guid>http://localhost:1313/tech/bash/shell-scripting/</guid>
       <description>&lt;h2 class=&#34;relative group&#34;&gt;Shell Scripts
     &lt;div id=&#34;shell-scripts&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -1091,10 +1091,10 @@ Learning to type with:
     
     <item>
       <title>Silverblue</title>
-      <link>https://davidwrites.xyz/tech/desktop/silverblue/</link>
+      <link>http://localhost:1313/tech/desktop/silverblue/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/tech/desktop/silverblue/</guid>
+      <guid>http://localhost:1313/tech/desktop/silverblue/</guid>
       <description>&lt;p&gt;Automated setup &lt;a
   href=&#34;https://universal-blue.org/&#34;
     target=&#34;_blank&#34;
@@ -1133,10 +1133,10 @@ Separates system level packages from applications.&lt;/p&gt;
     
     <item>
       <title>System Initialization, Message Logging, and System Tuning</title>
-      <link>https://davidwrites.xyz/tech/boot/system-initialization-message-logging-and-system-tuning/</link>
+      <link>http://localhost:1313/tech/boot/system-initialization-message-logging-and-system-tuning/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/tech/boot/system-initialization-message-logging-and-system-tuning/</guid>
+      <guid>http://localhost:1313/tech/boot/system-initialization-message-logging-and-system-tuning/</guid>
       <description>&lt;h2 class=&#34;relative group&#34;&gt;System Initialization and Service Management
     &lt;div id=&#34;system-initialization-and-service-management&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -1158,10 +1158,10 @@ Separates system level packages from applications.&lt;/p&gt;
     
     <item>
       <title>The Linux Firewall</title>
-      <link>https://davidwrites.xyz/tech/cybersecurity/the-linux-firewall/</link>
+      <link>http://localhost:1313/tech/cybersecurity/the-linux-firewall/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/tech/cybersecurity/the-linux-firewall/</guid>
+      <guid>http://localhost:1313/tech/cybersecurity/the-linux-firewall/</guid>
       <description>&lt;h1 class=&#34;relative group&#34;&gt;&lt;code&gt;firewalld&lt;/code&gt; Zones
     &lt;div id=&#34;firewalld-zones&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -1217,10 +1217,10 @@ Separates system level packages from applications.&lt;/p&gt;
     
     <item>
       <title>The Secure Shell Service</title>
-      <link>https://davidwrites.xyz/tech/cybersecurity/the-secure-shell-service/</link>
+      <link>http://localhost:1313/tech/cybersecurity/the-secure-shell-service/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/tech/cybersecurity/the-secure-shell-service/</guid>
+      <guid>http://localhost:1313/tech/cybersecurity/the-secure-shell-service/</guid>
       <description>&lt;h2 class=&#34;relative group&#34;&gt;The OpenSSH Service
     &lt;div id=&#34;the-openssh-service&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -1261,20 +1261,20 @@ Separates system level packages from applications.&lt;/p&gt;
     
     <item>
       <title>Using Vagrant on Linux</title>
-      <link>https://davidwrites.xyz/tech/tools/using-vagrant-on-linux/</link>
+      <link>http://localhost:1313/tech/tools/using-vagrant-on-linux/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/tech/tools/using-vagrant-on-linux/</guid>
+      <guid>http://localhost:1313/tech/tools/using-vagrant-on-linux/</guid>
       <description>&lt;p&gt;Vagrant is software that lets you set up multiple, pre-configured virtual machines in a flash. I am going to show you how to do this using Linux and Virtual Box. But you can do this on MacOS and Windows as well.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Vim Guide</title>
-      <link>https://davidwrites.xyz/tech/tools/vimguide/</link>
+      <link>http://localhost:1313/tech/tools/vimguide/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/tech/tools/vimguide/</guid>
+      <guid>http://localhost:1313/tech/tools/vimguide/</guid>
       <description>&lt;p&gt;Vim (Vi Improved)&lt;/p&gt;
 &lt;p&gt;&lt;code&gt;Vim&lt;/code&gt; stands for vi (Improved) just like its name it stands for an improved version of the &lt;code&gt;vi&lt;/code&gt; text editor command.&lt;/p&gt;
 &lt;p&gt;Lightweight&lt;/p&gt;
@@ -1309,10 +1309,10 @@ l or right arrow - will move you right one character&lt;/p&gt;</description>
     
     <item>
       <title>You Need to Learn Man Pages</title>
-      <link>https://davidwrites.xyz/tech/tools/using-man-pages/</link>
+      <link>http://localhost:1313/tech/tools/using-man-pages/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://davidwrites.xyz/tech/tools/using-man-pages/</guid>
+      <guid>http://localhost:1313/tech/tools/using-man-pages/</guid>
       <description>&lt;p&gt;&lt;a
   href=&#34;https://www.youtube.com/watch?v=RzAkjX_9B7E&amp;amp;t=295s&#34;
     target=&#34;_blank&#34;
