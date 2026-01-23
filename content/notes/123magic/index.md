@@ -32,7 +32,9 @@ This is where counting and break times come in. You will use counting and break 
 
 #### Taking Breaks and Counting
 
-A break is when parents and child can separate briefly so they can calm down and regroup. You do not talk about the behavior after the break. No need to punish the child twice. If the behavior was dangerous, unusual, or new, then give a brief explanation.
+A break is when parents and child can separate briefly so they can calm down and regroup. You do not talk about the behavior after the break. No need to punish the child twice. 
+
+If the behavior was dangerous, unusual, or new, then give a brief explanation.
 
 3 counts are needed before a break occurs. And after you've tried ignoring, sympathetic listening, distraction, and joint problem solving.
 
