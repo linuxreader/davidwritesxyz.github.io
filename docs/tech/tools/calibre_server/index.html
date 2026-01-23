@@ -133,8 +133,8 @@ cd ~/Documents rsync -avuP your-library-dir root@example.org:/opt/calibre/ Add a
       defer
       type="text/javascript"
       id="script-bundle"
-      src="/js/main.bundle.min.b16d807a513bd375edb24c501502c85cc94dfdaf3cf1979d51e2362e4eb5deaeab801c26116a5ee436a7ac00f27d244f7778458fee832a0cbb274ee23900d6bf.js"
-      integrity="sha512-sW2AelE703XtskxQFQLIXMlN/a888ZedUeI2Lk613q6rgBwmEWpe5DanrADyfSRPd3hFj&#43;6DKgy7J07iOQDWvw=="
+      src="/js/main.bundle.min.0e2e7ce1e319db5369cd4badb8265de52c78d08df54617521bdac9c8cd335eea6133a82c83f9cb19baf67b8133335130e7e8ff7cfeaf7171016648dbf5a0578a.js"
+      integrity="sha512-Di584eMZ21NpzUutuCZd5Sx40I31RhdSG9rJyM0zXuphM6gsg/nLGbr2e4EzM1Ew5&#43;j/fP6vcXEBZkjb9aBXig=="
       data-copy="Copy"
       data-copied="Copied"></script>
   
@@ -1123,7 +1123,7 @@ cd ~/Documents rsync -avuP your-library-dir root@example.org:/opt/calibre/ Add a
 <div class="highlight-wrapper"><div class="highlight"><pre tabindex="0" class="chroma"><code class="language-nginx" data-lang="nginx"><span class="line"><span class="cl"><span class="k">server</span> <span class="p">{</span>
 </span></span><span class="line"><span class="cl">    <span class="kn">listen</span> <span class="mi">80</span><span class="p">;</span>
 </span></span><span class="line"><span class="cl">    <span class="kn">client_max_body_size</span> <span class="s">64M</span><span class="p">;</span> <span class="c1"># to upload large books
-</span></span></span><span class="line"><span class="cl"><span class="c1"></span>    <span class="kn">server_name</span> <span class="s">calibre.example.org</span> <span class="p">;</span>
+</span></span></span><span class="line"><span class="cl">    <span class="kn">server_name</span> <span class="s">calibre.example.org</span> <span class="p">;</span>
 </span></span><span class="line"><span class="cl">
 </span></span><span class="line"><span class="cl">    <span class="kn">location</span> <span class="s">/</span> <span class="p">{</span>
 </span></span><span class="line"><span class="cl">        <span class="kn">proxy_pass</span> <span class="s">http://127.0.0.1:8080</span><span class="p">;</span>

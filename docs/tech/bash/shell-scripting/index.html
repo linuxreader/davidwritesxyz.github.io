@@ -131,8 +131,8 @@
       defer
       type="text/javascript"
       id="script-bundle"
-      src="/js/main.bundle.min.b16d807a513bd375edb24c501502c85cc94dfdaf3cf1979d51e2362e4eb5deaeab801c26116a5ee436a7ac00f27d244f7778458fee832a0cbb274ee23900d6bf.js"
-      integrity="sha512-sW2AelE703XtskxQFQLIXMlN/a888ZedUeI2Lk613q6rgBwmEWpe5DanrADyfSRPd3hFj&#43;6DKgy7J07iOQDWvw=="
+      src="/js/main.bundle.min.0e2e7ce1e319db5369cd4badb8265de52c78d08df54617521bdac9c8cd335eea6133a82c83f9cb19baf67b8133335130e7e8ff7cfeaf7171016648dbf5a0578a.js"
+      integrity="sha512-Di584eMZ21NpzUutuCZd5Sx40I31RhdSG9rJyM0zXuphM6gsg/nLGbr2e4EzM1Ew5&#43;j/fP6vcXEBZkjb9aBXig=="
       data-copy="Copy"
       data-copied="Copied"></script>
   
@@ -1209,7 +1209,7 @@
 <li>Use the vim editor with sudo to write the script.</li>
 </ul>
 <div class="highlight-wrapper"><div class="highlight"><pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl"><span class="cp">#!/bin/bash
-</span></span></span><span class="line"><span class="cl"><span class="cp"></span><span class="nb">echo</span> <span class="s2">&#34;Display Basic System Information&#34;</span>
+</span></span></span><span class="line"><span class="cl"><span class="nb">echo</span> <span class="s2">&#34;Display Basic System Information&#34;</span>
 </span></span><span class="line"><span class="cl"><span class="nb">echo</span> <span class="s2">&#34;==================================&#34;</span>
 </span></span><span class="line"><span class="cl"><span class="nb">echo</span>
 </span></span><span class="line"><span class="cl"><span class="nb">echo</span> <span class="s2">&#34;The hostname, hardware, and OS information is:&#34;</span>
@@ -1409,7 +1409,7 @@ variable, you will get nothing:</p>
 </li>
 </ul>
 <div class="highlight-wrapper"><div class="highlight"><pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl"><span class="cp">#!/bin/bash
-</span></span></span><span class="line"><span class="cl"><span class="cp"></span><span class="nv">SYSNAME</span><span class="o">=</span><span class="k">$(</span>hostname<span class="k">)</span>
+</span></span></span><span class="line"><span class="cl"><span class="nv">SYSNAME</span><span class="o">=</span><span class="k">$(</span>hostname<span class="k">)</span>
 </span></span><span class="line"><span class="cl"><span class="nv">KERNVER</span><span class="o">=</span><span class="sb">`</span>uname -r<span class="sb">`</span>
 </span></span><span class="line"><span class="cl"><span class="nb">echo</span> <span class="s2">&#34;The hostname is </span><span class="nv">$SYSNAME</span><span class="s2">&#34;</span>
 </span></span><span class="line"><span class="cl"><span class="nb">echo</span> <span class="s2">&#34;The kernel version is </span><span class="nv">$KERNVER</span><span class="s2">&#34;</span></span></span></code></pre></div></div>
@@ -1808,7 +1808,7 @@ executed without exactly two arguments specified at the command line:</p>
 <p>Create <em>if_then_elif_fi.sh</em> script to accept an integer value as an argument and tell if the integer is positive, negative, or zero. If a non-integer value or no argument is supplied, the script will complain. Employ the exit command after each action to help you identify where it exited.</p>
 <div class="highlight-wrapper"><div class="highlight"><pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl"><span class="o">[</span>root@server30 ~<span class="o">]</span><span class="c1"># vim /usr/local/bin/if_then_elif_fi.sh</span></span></span></code></pre></div></div>
 <div class="highlight-wrapper"><div class="highlight"><pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl"><span class="cp">#!/bin/bash
-</span></span></span><span class="line"><span class="cl"><span class="cp"></span><span class="k">if</span> <span class="o">[</span> <span class="nv">$1</span> -gt <span class="m">0</span> <span class="o">]</span>
+</span></span></span><span class="line"><span class="cl"><span class="k">if</span> <span class="o">[</span> <span class="nv">$1</span> -gt <span class="m">0</span> <span class="o">]</span>
 </span></span><span class="line"><span class="cl"><span class="k">then</span>
 </span></span><span class="line"><span class="cl">        <span class="nb">echo</span> <span class="s2">&#34;</span><span class="nv">$1</span><span class="s2"> is a positive integer value&#34;</span>
 </span></span><span class="line"><span class="cl"><span class="nb">exit</span> <span class="m">1</span>
@@ -1865,7 +1865,7 @@ executed without exactly two arguments specified at the command line:</p>
 <p>Create <em>ex200_ex294.sh</em> to display the name of the Red Hat exam RHCSA or RHCE in the output based on the input argument (ex200 or ex294). If a random or no argument is provided, it will print &ldquo;Usage: Acceptable values are ex200 and ex294&rdquo;. Add white spaces in the conditions.</p>
 <div class="highlight-wrapper"><div class="highlight"><pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl"><span class="o">[</span>root@server30 ~<span class="o">]</span><span class="c1"># vim /usr/local/bin/ex200_ex294.sh</span></span></span></code></pre></div></div>
 <div class="highlight-wrapper"><div class="highlight"><pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl"><span class="cp">#!/bin/bash
-</span></span></span><span class="line"><span class="cl"><span class="cp"></span><span class="k">if</span> <span class="o">[</span> <span class="s2">&#34;</span><span class="nv">$1</span><span class="s2">&#34;</span> <span class="o">=</span> ex200 <span class="o">]</span>
+</span></span></span><span class="line"><span class="cl"><span class="k">if</span> <span class="o">[</span> <span class="s2">&#34;</span><span class="nv">$1</span><span class="s2">&#34;</span> <span class="o">=</span> ex200 <span class="o">]</span>
 </span></span><span class="line"><span class="cl"><span class="k">then</span>
 </span></span><span class="line"><span class="cl">        <span class="nb">echo</span> <span class="s2">&#34;RHCSA&#34;</span>
 </span></span><span class="line"><span class="cl"><span class="k">elif</span> <span class="o">[</span> <span class="s2">&#34;</span><span class="nv">$1</span><span class="s2">&#34;</span> <span class="o">=</span> ex294 <span class="o">]</span>
@@ -1998,7 +1998,7 @@ executed without exactly two arguments specified at the command line:</p>
 <p>Create script <em>for_do_done.sh</em> script that initializes the variable COUNT to 0. The for loop will read each letter sequentially from the range placed within curly brackets (no spaces before the letter A and after the letter Z), assign it to another variable LETTER, and display the value on the screen. The <code>expr</code> command is an arithmetic processor, and it is used here to increment the COUNT by 1 at each loop iteration.</p>
 <div class="highlight-wrapper"><div class="highlight"><pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl"><span class="o">[</span>root@server10 ~<span class="o">]</span><span class="c1"># vim /usr/local/bin/for_do_done.sh</span></span></span></code></pre></div></div>
 <div class="highlight-wrapper"><div class="highlight"><pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl"><span class="cp">#!/bin/bash
-</span></span></span><span class="line"><span class="cl"><span class="cp"></span><span class="nv">COUNT</span><span class="o">=</span><span class="m">0</span>
+</span></span></span><span class="line"><span class="cl"><span class="nv">COUNT</span><span class="o">=</span><span class="m">0</span>
 </span></span><span class="line"><span class="cl"><span class="k">for</span> LETTER in <span class="o">{</span>A..Z<span class="o">}</span>
 </span></span><span class="line"><span class="cl"><span class="k">do</span>
 </span></span><span class="line"><span class="cl">        <span class="nv">COUNT</span><span class="o">=</span><span class="sb">`</span>/usr/bin/expr <span class="nv">$COUNT</span> + 1<span class="sb">`</span>
@@ -2046,7 +2046,7 @@ executed without exactly two arguments specified at the command line:</p>
 account creation, the <code>passwd</code> command will be invoked to assign the user the same password as their username.</p>
 <div class="highlight-wrapper"><div class="highlight"><pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl"><span class="o">[</span>root@server10 ~<span class="o">]</span><span class="c1"># vim /usr/local/bin/create_user.sh</span></span></span></code></pre></div></div>
 <div class="highlight-wrapper"><div class="highlight"><pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl"><span class="cp">#!/bin/bash
-</span></span></span><span class="line"><span class="cl"><span class="cp"></span>
+</span></span></span><span class="line"><span class="cl">
 </span></span><span class="line"><span class="cl"><span class="k">for</span> USER in user<span class="o">{</span>10..12<span class="o">}</span>
 </span></span><span class="line"><span class="cl"><span class="k">do</span>
 </span></span><span class="line"><span class="cl">        <span class="nb">echo</span> <span class="s2">&#34;Create account for user </span><span class="nv">$USER</span><span class="s2">&#34;</span>

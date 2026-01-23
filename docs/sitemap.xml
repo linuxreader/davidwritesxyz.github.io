@@ -69,18 +69,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://davidwrites.xyz/tech/networking/</loc>
-    <lastmod>2023-11-06T06:20:36-07:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://davidwrites.xyz/tech/</loc>
-    <lastmod>2023-11-06T06:20:36-07:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://davidwrites.xyz/tech/bluefin-setup/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -112,6 +100,11 @@
   </url>
   <url>
     <loc>https://davidwrites.xyz/tech/linux/desktop/silverblue-1/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://davidwrites.xyz/tech/networking/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -662,6 +655,11 @@
   </url>
   <url>
     <loc>https://davidwrites.xyz/tech/networking/ccna-notes/tcpipbasic/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://davidwrites.xyz/tech/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>

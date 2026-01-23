@@ -129,8 +129,8 @@
       defer
       type="text/javascript"
       id="script-bundle"
-      src="/js/main.bundle.min.b16d807a513bd375edb24c501502c85cc94dfdaf3cf1979d51e2362e4eb5deaeab801c26116a5ee436a7ac00f27d244f7778458fee832a0cbb274ee23900d6bf.js"
-      integrity="sha512-sW2AelE703XtskxQFQLIXMlN/a888ZedUeI2Lk613q6rgBwmEWpe5DanrADyfSRPd3hFj&#43;6DKgy7J07iOQDWvw=="
+      src="/js/main.bundle.min.0e2e7ce1e319db5369cd4badb8265de52c78d08df54617521bdac9c8cd335eea6133a82c83f9cb19baf67b8133335130e7e8ff7cfeaf7171016648dbf5a0578a.js"
+      integrity="sha512-Di584eMZ21NpzUutuCZd5Sx40I31RhdSG9rJyM0zXuphM6gsg/nLGbr2e4EzM1Ew5&#43;j/fP6vcXEBZkjb9aBXig=="
       data-copy="Copy"
       data-copied="Copied"></script>
   
@@ -1078,8 +1078,8 @@
     alt=""
     width="1727"
     height="1080"
-    src="/articles/build-an-ansible-lab-with-ansible/featured_hu_e16b27b14c7f1a83.png"
-    srcset="/articles/build-an-ansible-lab-with-ansible/featured_hu_e16b27b14c7f1a83.png 800w, /articles/build-an-ansible-lab-with-ansible/featured_hu_df936649d86fc6c6.png 1280w"
+    src="/articles/build-an-ansible-lab-with-ansible/featured_hu_6682316124f66923.png"
+    srcset="/articles/build-an-ansible-lab-with-ansible/featured_hu_6682316124f66923.png 800w, /articles/build-an-ansible-lab-with-ansible/featured_hu_bd4105fcddc99e5.png 1280w"
     sizes="(min-width: 768px) 50vw, 65vw"
     data-zoom-src="/articles/build-an-ansible-lab-with-ansible/featured.png"></figure>
 
@@ -1124,22 +1124,22 @@ When I started studying for RHCE, I was spending tons of time manually creating 
 <p>We&rsquo;ll override some of this in our deployment script later:
 <code>cat defaults/main.yml</code></p>
 <div class="highlight-wrapper"><div class="highlight"><pre tabindex="0" class="chroma"><code class="language-yaml" data-lang="yaml"><span class="line"><span class="cl"><span class="nn">---</span><span class="w">
-</span></span></span><span class="line"><span class="cl"><span class="w"></span><span class="nt">base_image_name</span><span class="p">:</span><span class="w"> </span><span class="l">AlmaLinux-10-GenericCloud-latest.x86_64.qcow2</span><span class="w">
-</span></span></span><span class="line"><span class="cl"><span class="w"></span><span class="nt">base_image_url</span><span class="p">:</span><span class="w"> </span><span class="l">https://repo.almalinux.org/almalinux/10/cloud/x86_64/images/{{ base_image_name }}</span><span class="w">
-</span></span></span><span class="line"><span class="cl"><span class="w"></span><span class="c"># SHA found next to the image on the site above.</span><span class="w">
-</span></span></span><span class="line"><span class="cl"><span class="w"></span><span class="nt">base_image_sha</span><span class="p">:</span><span class="w"> </span><span class="l">8729862a9e2d93c478c2334b33d01d7ee21934a795a9b68550cc1c63ffd0efae </span><span class="w">
-</span></span></span><span class="line"><span class="cl"><span class="w"></span><span class="nt">libvirt_pool_dir</span><span class="p">:</span><span class="w"> </span><span class="s2">&#34;/var/lib/libvirt/images&#34;</span><span class="w">
-</span></span></span><span class="line"><span class="cl"><span class="w"></span><span class="nt">vm_name</span><span class="p">:</span><span class="w"> </span><span class="l">Alma10-dev</span><span class="w">
-</span></span></span><span class="line"><span class="cl"><span class="w"></span><span class="nt">vm_vcpus</span><span class="p">:</span><span class="w"> </span><span class="m">2</span><span class="w">
-</span></span></span><span class="line"><span class="cl"><span class="w"></span><span class="nt">vm_ram_mb</span><span class="p">:</span><span class="w"> </span><span class="m">2048</span><span class="w">
-</span></span></span><span class="line"><span class="cl"><span class="w"></span><span class="nt">vm_net</span><span class="p">:</span><span class="w"> </span><span class="l">default</span><span class="w">
-</span></span></span><span class="line"><span class="cl"><span class="w"></span><span class="nt">vm_root_pass</span><span class="p">:</span><span class="w"> </span><span class="l">test123</span><span class="w">
-</span></span></span><span class="line"><span class="cl"><span class="w"></span><span class="nt">cleanup_tmp</span><span class="p">:</span><span class="w"> </span><span class="kc">no</span><span class="w">
-</span></span></span><span class="line"><span class="cl"><span class="w"></span><span class="nt">ssh_key</span><span class="p">:</span><span class="w"> </span><span class="l">/root/.ssh/id_rsa.pub</span><span class="w">
-</span></span></span><span class="line"><span class="cl"><span class="w"></span><span class="nt">ip_addr</span><span class="p">:</span><span class="w"> </span><span class="m">192.168.122.250</span><span class="w">
-</span></span></span><span class="line"><span class="cl"><span class="w"></span><span class="nt">gw_addr</span><span class="p">:</span><span class="w"> </span><span class="m">192.168.122.1</span><span class="w">
-</span></span></span><span class="line"><span class="cl"><span class="w"></span><span class="nt">vm_mac</span><span class="p">:</span><span class="w"> </span><span class="m">52</span><span class="p">:</span><span class="m">54</span><span class="p">:</span><span class="m">00</span><span class="p">:</span><span class="l">a0:b0:00</span><span class="w">
-</span></span></span><span class="line"><span class="cl"><span class="w"></span><span class="nt">disk_size</span><span class="p">:</span><span class="w"> </span><span class="m">20</span></span></span></code></pre></div></div>
+</span></span></span><span class="line"><span class="cl"><span class="nt">base_image_name</span><span class="p">:</span><span class="w"> </span><span class="l">AlmaLinux-10-GenericCloud-latest.x86_64.qcow2</span><span class="w">
+</span></span></span><span class="line"><span class="cl"><span class="nt">base_image_url</span><span class="p">:</span><span class="w"> </span><span class="l">https://repo.almalinux.org/almalinux/10/cloud/x86_64/images/{{ base_image_name }}</span><span class="w">
+</span></span></span><span class="line"><span class="cl"><span class="c"># SHA found next to the image on the site above.</span><span class="w">
+</span></span></span><span class="line"><span class="cl"><span class="nt">base_image_sha</span><span class="p">:</span><span class="w"> </span><span class="l">8729862a9e2d93c478c2334b33d01d7ee21934a795a9b68550cc1c63ffd0efae </span><span class="w">
+</span></span></span><span class="line"><span class="cl"><span class="nt">libvirt_pool_dir</span><span class="p">:</span><span class="w"> </span><span class="s2">&#34;/var/lib/libvirt/images&#34;</span><span class="w">
+</span></span></span><span class="line"><span class="cl"><span class="nt">vm_name</span><span class="p">:</span><span class="w"> </span><span class="l">Alma10-dev</span><span class="w">
+</span></span></span><span class="line"><span class="cl"><span class="nt">vm_vcpus</span><span class="p">:</span><span class="w"> </span><span class="m">2</span><span class="w">
+</span></span></span><span class="line"><span class="cl"><span class="nt">vm_ram_mb</span><span class="p">:</span><span class="w"> </span><span class="m">2048</span><span class="w">
+</span></span></span><span class="line"><span class="cl"><span class="nt">vm_net</span><span class="p">:</span><span class="w"> </span><span class="l">default</span><span class="w">
+</span></span></span><span class="line"><span class="cl"><span class="nt">vm_root_pass</span><span class="p">:</span><span class="w"> </span><span class="l">test123</span><span class="w">
+</span></span></span><span class="line"><span class="cl"><span class="nt">cleanup_tmp</span><span class="p">:</span><span class="w"> </span><span class="kc">no</span><span class="w">
+</span></span></span><span class="line"><span class="cl"><span class="nt">ssh_key</span><span class="p">:</span><span class="w"> </span><span class="l">/root/.ssh/id_rsa.pub</span><span class="w">
+</span></span></span><span class="line"><span class="cl"><span class="nt">ip_addr</span><span class="p">:</span><span class="w"> </span><span class="m">192.168.122.250</span><span class="w">
+</span></span></span><span class="line"><span class="cl"><span class="nt">gw_addr</span><span class="p">:</span><span class="w"> </span><span class="m">192.168.122.1</span><span class="w">
+</span></span></span><span class="line"><span class="cl"><span class="nt">vm_mac</span><span class="p">:</span><span class="w"> </span><span class="m">52</span><span class="p">:</span><span class="m">54</span><span class="p">:</span><span class="m">00</span><span class="p">:</span><span class="l">a0:b0:00</span><span class="w">
+</span></span></span><span class="line"><span class="cl"><span class="nt">disk_size</span><span class="p">:</span><span class="w"> </span><span class="m">20</span></span></span></code></pre></div></div>
 
 <h3 class="relative group">Libvirt VM Jinja template
     <div id="libvirt-vm-jinja-template" class="anchor"></div>
@@ -1225,22 +1225,22 @@ When I started studying for RHCE, I was spending tons of time manually creating 
 </h3>
 <p>Here is the task list for this playbook.</p>
 <div class="highlight-wrapper"><div class="highlight"><pre tabindex="0" class="chroma"><code class="language-yaml" data-lang="yaml"><span class="line"><span class="cl"><span class="nn">---</span><span class="w">
-</span></span></span><span class="line"><span class="cl"><span class="w"></span><span class="c"># Commented out for Fedora BlueFin compatibility. Uncomment this if these tools are not installed on your system already.</span><span class="w">
-</span></span></span><span class="line"><span class="cl"><span class="w"></span><span class="c">#- name: Ensure requirements in place</span><span class="w">
-</span></span></span><span class="line"><span class="cl"><span class="w"></span><span class="c">#  community.general.package:</span><span class="w">
-</span></span></span><span class="line"><span class="cl"><span class="w"></span><span class="c">#    name:</span><span class="w">
-</span></span></span><span class="line"><span class="cl"><span class="w"></span><span class="c">#      - guestfs-tools</span><span class="w">
-</span></span></span><span class="line"><span class="cl"><span class="w"></span><span class="c">#      - python3-libvirt</span><span class="w">
-</span></span></span><span class="line"><span class="cl"><span class="w"></span><span class="c">#    state: present</span><span class="w">
-</span></span></span><span class="line"><span class="cl"><span class="w"></span><span class="c">#  become: yes</span><span class="w">
-</span></span></span><span class="line"><span class="cl"><span class="w"></span><span class="c"># List current VMs</span><span class="w">
-</span></span></span><span class="line"><span class="cl"><span class="w"></span>- <span class="nt">name</span><span class="p">:</span><span class="w"> </span><span class="l">Get VMs list</span><span class="w">
+</span></span></span><span class="line"><span class="cl"><span class="c"># Commented out for Fedora BlueFin compatibility. Uncomment this if these tools are not installed on your system already.</span><span class="w">
+</span></span></span><span class="line"><span class="cl"><span class="c">#- name: Ensure requirements in place</span><span class="w">
+</span></span></span><span class="line"><span class="cl"><span class="c">#  community.general.package:</span><span class="w">
+</span></span></span><span class="line"><span class="cl"><span class="c">#    name:</span><span class="w">
+</span></span></span><span class="line"><span class="cl"><span class="c">#      - guestfs-tools</span><span class="w">
+</span></span></span><span class="line"><span class="cl"><span class="c">#      - python3-libvirt</span><span class="w">
+</span></span></span><span class="line"><span class="cl"><span class="c">#    state: present</span><span class="w">
+</span></span></span><span class="line"><span class="cl"><span class="c">#  become: yes</span><span class="w">
+</span></span></span><span class="line"><span class="cl"><span class="c"># List current VMs</span><span class="w">
+</span></span></span><span class="line"><span class="cl">- <span class="nt">name</span><span class="p">:</span><span class="w"> </span><span class="l">Get VMs list</span><span class="w">
 </span></span></span><span class="line"><span class="cl"><span class="w">  </span><span class="nt">community.libvirt.virt</span><span class="p">:</span><span class="w">
 </span></span></span><span class="line"><span class="cl"><span class="w">    </span><span class="nt">command</span><span class="p">:</span><span class="w"> </span><span class="l">list_vms</span><span class="w">
 </span></span></span><span class="line"><span class="cl"><span class="w">  </span><span class="nt">register</span><span class="p">:</span><span class="w"> </span><span class="l">existing_vms</span><span class="w">
 </span></span></span><span class="line"><span class="cl"><span class="w">  </span><span class="nt">changed_when</span><span class="p">:</span><span class="w"> </span><span class="kc">no</span><span class="w">
-</span></span></span><span class="line"><span class="cl"><span class="w"></span><span class="c"># Creating the VM</span><span class="w">
-</span></span></span><span class="line"><span class="cl"><span class="w"></span>- <span class="nt">name</span><span class="p">:</span><span class="w"> </span><span class="l">Create VM if not exists</span><span class="w">
+</span></span></span><span class="line"><span class="cl"><span class="c"># Creating the VM</span><span class="w">
+</span></span></span><span class="line"><span class="cl">- <span class="nt">name</span><span class="p">:</span><span class="w"> </span><span class="l">Create VM if not exists</span><span class="w">
 </span></span></span><span class="line"><span class="cl"><span class="w">  </span><span class="nt">block</span><span class="p">:</span><span class="w">
 </span></span></span><span class="line"><span class="cl"><span class="w">  </span>- <span class="nt">name</span><span class="p">:</span><span class="w"> </span><span class="l">Download base image</span><span class="w">
 </span></span></span><span class="line"><span class="cl"><span class="w">    </span><span class="nt">get_url</span><span class="p">:</span><span class="w">
@@ -1259,7 +1259,7 @@ When I started studying for RHCE, I was spending tons of time manually creating 
 </span></span></span><span class="line"><span class="cl"><span class="w">      </span><span class="nt">force</span><span class="p">:</span><span class="w"> </span><span class="kc">yes</span><span class="w">
 </span></span></span><span class="line"><span class="cl"><span class="w">    </span><span class="nt">register</span><span class="p">:</span><span class="w"> </span><span class="l">copy_results</span><span class="w">
 </span></span></span><span class="line"><span class="cl"><span class="w">
-</span></span></span><span class="line"><span class="cl"><span class="w"></span><span class="c"># Set hostname, copy root ssh keys and password to host, and uninstall cloudinit.  </span><span class="w">
+</span></span></span><span class="line"><span class="cl"><span class="c"># Set hostname, copy root ssh keys and password to host, and uninstall cloudinit.  </span><span class="w">
 </span></span></span><span class="line"><span class="cl"><span class="w">  </span>- <span class="nt">name</span><span class="p">:</span><span class="w"> </span><span class="l">Configure the image</span><span class="w">
 </span></span></span><span class="line"><span class="cl"><span class="w">    </span><span class="nt">command</span><span class="p">:</span><span class="w"> </span><span class="p">|</span><span class="sd">
 </span></span></span><span class="line"><span class="cl"><span class="sd">      virt-customize -a {{ libvirt_pool_dir }}/{{ vm_name }}.qcow2 \
@@ -1269,7 +1269,7 @@ When I started studying for RHCE, I was spending tons of time manually creating 
 </span></span></span><span class="line"><span class="cl"><span class="sd">      --uninstall cloud-init --selinux-relabel</span><span class="w">
 </span></span></span><span class="line"><span class="cl"><span class="w">    </span><span class="nt">when</span><span class="p">:</span><span class="w"> </span><span class="l">copy_results is changed</span><span class="w">
 </span></span></span><span class="line"><span class="cl"><span class="w">
-</span></span></span><span class="line"><span class="cl"><span class="w"></span><span class="c"># Use the template from earlier</span><span class="w">
+</span></span></span><span class="line"><span class="cl"><span class="c"># Use the template from earlier</span><span class="w">
 </span></span></span><span class="line"><span class="cl"><span class="w">  </span>- <span class="nt">name</span><span class="p">:</span><span class="w"> </span><span class="l">Define vm</span><span class="w">
 </span></span></span><span class="line"><span class="cl"><span class="w">    </span><span class="nt">community.libvirt.virt</span><span class="p">:</span><span class="w">
 </span></span></span><span class="line"><span class="cl"><span class="w">      </span><span class="nt">command</span><span class="p">:</span><span class="w"> </span><span class="l">define</span><span class="w">
@@ -1305,9 +1305,9 @@ When I started studying for RHCE, I was spending tons of time manually creating 
 <p>This playbook will gather variables and run our provisioning role. I have <strong>become</strong> set to <strong>no</strong> for compatibility with immutable distros. You may need to change this to yes if things aren&rsquo;t working right.</p>
 <div class="highlight-wrapper"><div class="highlight"><pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">cat kvm_provision.yaml</span></span></code></pre></div></div>
 <div class="highlight-wrapper"><div class="highlight"><pre tabindex="0" class="chroma"><code class="language-yml" data-lang="yml"><span class="line"><span class="cl"><span class="nn">---</span><span class="w">
-</span></span></span><span class="line"><span class="cl"><span class="w"></span><span class="c"># Example useage: ansible-playbook kvm_provision.yaml -K -e vm=testvm-01 -e ip_addr=192.168.122.3 -e disk_size=31 -e vm_mac=52:54:00:a0:b0:01</span><span class="w">
+</span></span></span><span class="line"><span class="cl"><span class="c"># Example useage: ansible-playbook kvm_provision.yaml -K -e vm=testvm-01 -e ip_addr=192.168.122.3 -e disk_size=31 -e vm_mac=52:54:00:a0:b0:01</span><span class="w">
 </span></span></span><span class="line"><span class="cl"><span class="w">
-</span></span></span><span class="line"><span class="cl"><span class="w"></span>- <span class="nt">name</span><span class="p">:</span><span class="w"> </span><span class="l">Deploy VM based on cloud image</span><span class="w">
+</span></span></span><span class="line"><span class="cl">- <span class="nt">name</span><span class="p">:</span><span class="w"> </span><span class="l">Deploy VM based on cloud image</span><span class="w">
 </span></span></span><span class="line"><span class="cl"><span class="w">  </span><span class="nt">hosts</span><span class="p">:</span><span class="w"> </span><span class="l">localhost</span><span class="w">
 </span></span></span><span class="line"><span class="cl"><span class="w">  </span><span class="nt">gather_facts</span><span class="p">:</span><span class="w"> </span><span class="kc">yes</span><span class="w">
 </span></span></span><span class="line"><span class="cl"><span class="w">  </span><span class="nt">become</span><span class="p">:</span><span class="w"> </span><span class="kc">no</span><span class="w">
@@ -1387,7 +1387,7 @@ When I started studying for RHCE, I was spending tons of time manually creating 
 <p>Now, we just need a script that defines all of the virtual machines for our lab. Here is my script that creates four virtual machines. You&rsquo;ll need the VM name and Mac-address at minimum for this to work.</p>
 <div class="highlight-wrapper"><div class="highlight"><pre tabindex="0" class="chroma"><code class="language-text" data-lang="text"><span class="line"><span class="cl">cat ansible-lab.sh</span></span></code></pre></div></div>
 <div class="highlight-wrapper"><div class="highlight"><pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl"><span class="cp">#!/bin/bash
-</span></span></span><span class="line"><span class="cl"><span class="cp"></span>ansible-playbook kvm_provision.yaml -K -e <span class="nv">vm</span><span class="o">=</span>podman-01 -e <span class="nv">ip_addr</span><span class="o">=</span>192.168.122.3 -e <span class="nv">disk_size</span><span class="o">=</span><span class="m">31</span> -e <span class="nv">vm_mac</span><span class="o">=</span>52:54:00:a0:b0:01
+</span></span></span><span class="line"><span class="cl">ansible-playbook kvm_provision.yaml -K -e <span class="nv">vm</span><span class="o">=</span>podman-01 -e <span class="nv">ip_addr</span><span class="o">=</span>192.168.122.3 -e <span class="nv">disk_size</span><span class="o">=</span><span class="m">31</span> -e <span class="nv">vm_mac</span><span class="o">=</span>52:54:00:a0:b0:01
 </span></span><span class="line"><span class="cl">ansible-playbook kvm_provision.yaml -K -e <span class="nv">vm</span><span class="o">=</span>podman-02 -e <span class="nv">ip_addr</span><span class="o">=</span>192.168.122.4 -e <span class="nv">disk_size</span><span class="o">=</span><span class="m">31</span> -e <span class="nv">vm_mac</span><span class="o">=</span>52:54:00:a0:b0:02
 </span></span><span class="line"><span class="cl">ansible-playbook kvm_provision.yaml -K -e <span class="nv">vm</span><span class="o">=</span>ansible1 -e <span class="nv">ip_addr</span><span class="o">=</span>192.168.122.5 -e <span class="nv">disk_size</span><span class="o">=</span><span class="m">31</span> -e <span class="nv">vm_mac</span><span class="o">=</span>52:54:00:a0:b0:03
 </span></span><span class="line"><span class="cl">ansible-playbook kvm_provision.yaml -K -e <span class="nv">vm</span><span class="o">=</span>ansible2 -e <span class="nv">ip_addr</span><span class="o">=</span>192.168.122.6 -e <span class="nv">disk_size</span><span class="o">=</span><span class="m">31</span> -e <span class="nv">vm_mac</span><span class="o">=</span>52:54:00:a0:b0:04</span></span></code></pre></div></div>
