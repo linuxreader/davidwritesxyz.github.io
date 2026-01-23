@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Micro Guides on </title>
-    <link>http://localhost:1313/micro/</link>
+    <link>https://davidwrites.xyz/micro/</link>
     <description>Recent content in Micro Guides on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2026 </copyright>
-    <lastBuildDate>Sat, 17 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/micro/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 17 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://davidwrites.xyz/micro/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Proxmox PfSense HaProxy Setup</title>
-      <link>http://localhost:1313/micro/proxmox-pfsense-haproxy-setup/</link>
+      <link>https://davidwrites.xyz/micro/proxmox-pfsense-haproxy-setup/</link>
       <pubDate>Sat, 17 Jan 2026 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/micro/proxmox-pfsense-haproxy-setup/</guid>
+      <guid>https://davidwrites.xyz/micro/proxmox-pfsense-haproxy-setup/</guid>
       <description>Access Proxmox PVE GUI through HaProxy on PfSense</description>
       
     </item>
     
     <item>
       <title>Stop Using AI so Much</title>
-      <link>http://localhost:1313/micro/stop-using-ai/</link>
+      <link>https://davidwrites.xyz/micro/stop-using-ai/</link>
       <pubDate>Fri, 16 Jan 2026 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/micro/stop-using-ai/</guid>
+      <guid>https://davidwrites.xyz/micro/stop-using-ai/</guid>
       <description>Benefits of not using AI</description>
       
     </item>
     
     <item>
       <title>How to Install Ansible Using uv</title>
-      <link>http://localhost:1313/micro/install-ansible-using-uv/</link>
+      <link>https://davidwrites.xyz/micro/install-ansible-using-uv/</link>
       <pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/micro/install-ansible-using-uv/</guid>
+      <guid>https://davidwrites.xyz/micro/install-ansible-using-uv/</guid>
       <description>Insall ansible using uv</description>
       
     </item>
