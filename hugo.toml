@@ -1,5 +1,4 @@
-baseURL = 'https://davidwrites.xyz/'
 languageCode = 'en-us'
-title = 'David Thomas'
+title = 'David Writes'
 publishDir = "docs"
 
