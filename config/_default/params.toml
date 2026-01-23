@@ -27,7 +27,7 @@ smartTOC = true
 highlightCurrentMenuArea = true
 mainSections = ["articles"]
 smartTOCHideUnfocusedChildren = true
-secondaryLogo = "/img/logo.svg"
+secondaryLogo = "/img/logo.png"
 
 [header]
 layout = "basic"
