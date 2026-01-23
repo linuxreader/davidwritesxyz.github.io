@@ -36,7 +36,7 @@ A break is when parents and child can separate briefly so they can calm down and
 
 If the behavior was dangerous, unusual, or new, then give a brief explanation.
 
-3 counts are needed before a break occurs. And after you've tried ignoring, sympathetic listening, distraction, and joint problem solving.
+3 counts are needed before a break occurs. After you've tried ignoring, sympathetic listening, distraction, and joint problem solving!
 
 You and your child may fall for the arguing/ yelling/ hitting/ persuading/ defending/ rationalizing trap. You need to start counting before this happens. Once you notice that you've fallen in this trap. Simply go back to counting.
 
