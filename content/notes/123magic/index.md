@@ -22,8 +22,8 @@ summary: "123 Magic Summary and Notes"
 
 ## The 3 jobs for you as a parent
 
-1.  Control obnoxious Behavior (STOP behaviors)
-2.  Encourage good behavior (START behaviors)
+1.  Control obnoxious Behavior (STOP behaviors).
+2.  Encourage good behavior (START behaviors).
 3.  Strengthening your relationship with your children.
 
 ### Controlling obnoxious behavior (STOP Behaviors)
