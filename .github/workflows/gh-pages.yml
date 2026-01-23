@@ -20,10 +20,9 @@ jobs:
           fetch-depth: 0
 
       - name: Setup Hugo
-        uses: peaceiris/actions-hugo@v3
+        uses: peaceiris/actions-hugo@v2
         with:
-          hugo-version: '0.154.5'
-          extended: true
+          hugo-version: "latest"
 
       - name: Build
         run: hugo --minify
