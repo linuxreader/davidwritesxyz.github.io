@@ -172,8 +172,6 @@ Virtue brings beauty, sin brings ugliness.
 
 "Yoga" means "union" with the divine.
 
-"Yoga Sutras" by Patanjali.
-
 An austerity is a "doing without." Austerity and Renunciation are the same thing. 
 
 Buddha was a Hindu. The books he read were the Bhagavad-Gita and the Vedas.
@@ -221,8 +219,6 @@ Weakness, laxity (not caring), and inadequacy disappear.
 You gain resilience, strength, and energy. 
 
 Eventually, even the slightest thought of sex fails to enter the mind.
-
-"Yoga Vasistha," by the sage Vasistha, is one of the most valuable books on yoga.
 
 Celibacy is the sole means to one's ultimate good. 
 
@@ -520,3 +516,8 @@ Woman has long been dismayed, bemused and even confused by the power of her body
 
 Nothing in the material world, and no sensual feeling, can ever satisfy man because man is Spirit.
 
+## Books mentioned
+
+"Yoga Sutras" by Patanjali.
+
+"Yoga Vasistha," by the sage Vasistha

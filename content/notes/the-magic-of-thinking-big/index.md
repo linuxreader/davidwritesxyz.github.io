@@ -21,27 +21,21 @@ summary: "The Magic of Thinking Big and Notes"
 
 ## BELIEVE YOU CAN SUCCEED AND YOU WILL
 
-There is nothing magical or mystical about the power of belief. Belief works this way. Belief, the “I’m-positive-I-can” attitude, generates the power, skill, and energy needed to do. When you believe I-can-do-it, the how-to-do-it develops.
+When you believe I-can-do-it, the how-to-do-it develops.
 
-I expect to make some mistakes, but I’m going to be on top in a hurry.
+Believing you can succeed makes others place confidence in you.
 
-Belief, strong belief, triggers the mind to figure ways and means and how-to. And believing you can succeed makes others place confidence in you.
-
-Those who believe they can move mountains, do. Those who believe they can’t, cannot. Belief triggers the power to do. Believe, really believe, you can succeed, and you will.
-
-Disbelief is negative power. When the mind disbelieves or doubts, the mind attracts “reasons” to support the disbelief. Doubt, disbelief, the subconscious will to fail, the not really wanting to succeed, is responsible for most failures.
-
-Think doubt and fail. Think victory and succeed.
+When the mind disbelieves or doubts, the mind attracts “reasons” to support the disbelief. Doubt, disbelief, the subconscious will to fail, the not really wanting to succeed, is responsible for most failures.
 
 It is well to respect the leader. Learn from him. Observe him. Study him. But don’t worship him. Believe you can surpass. Believe you can go beyond. Those who harbor the second-best attitude are invariably second-best doers.
 
-A person is a product of his own thoughts. Believe Big. Adjust your thermostat forward. Launch your success offensive with honest, sincere belief that you can succeed. Believe big and grow big.
-
-Your mind is a “thought factory.” It’s a busy factory, producing countless thoughts in one day.
+A person is a product of his own thoughts. 
 
 ## HOW TO DEVELOP THE POWER OF BELIEF
 
-Think success, don’t think failure. Remind yourself regularly that you are better than you think you are. Successful people are just ordinary folks who have developed belief in themselves and what they do. 
+ Remind yourself regularly that you are better than you think you are. 
+ 
+ Successful people are just ordinary folks who have developed belief in themselves and what they do. 
 
 Never sell yourself short.
 
@@ -51,7 +45,7 @@ Big ideas and big plans are often easier—certainly no more difficult—than sm
 
 ## CURE YOURSELF OF EXCUSITIS, THE FAILURE DISEASE
 
-Thoughts, positive or negative, grow stronger when fertilized with constant repetition.  Many surrender in whole or in part to health excusitis, but success-thinking people do not.
+Thoughts, positive or negative, grow stronger when fertilized with constant repetition.  Many surrender in whole or in part to excusitis, but success-thinking people do not.
 
 ### Health
 Resolve to live until you die.
@@ -60,7 +54,7 @@ The biggest damage results from having a negative attitude toward it.
 
 “It’s just an arm,” he said, “Sure, two are better than one. But they just cut off my arm. My spirit is one hundred percent intact. I’m really grateful for that.”
 
-the right attitude and one arm will beat the wrong attitude and two arms every time.
+The right attitude and one arm will beat the wrong attitude and two arms every time.
 
 #### Refuse to talk about your health
 
@@ -69,21 +63,18 @@ The more you talk about an ailment, even the common cold, the worse it seems to 
 Talking about your health is a bad habit. It bores people. It makes one appear self-centered. Success-minded people defeat the natural tendency to talk about their “bad” health. 
 
 One may (and let me emphasize the word may) get a little sympathy, but one doesn’t get respect and loyalty by being a chronic complainer.
-
-#### Refuse to worry about your health. 
+Refuse to worry about your health. 
 
 #### Be genuinely grateful that your health is as good as it is.
 
 “I felt sorry for myself because I had ragged shoes until I met a man who had no feet.”
 
-Remind yourself often, “It’s better to wear out than rust out.” Life is yours to enjoy. Don’t waste it. Don’t pass up living by thinking yourself into a hospital bed.
+“It’s better to wear out than rust out.” Life is yours to enjoy. Don’t waste it. Don’t pass up living by thinking yourself into a hospital bed.
 
 ### Intelligence
-Most of us make two basic errors with respect to intelligence:
-1. We underestimate our own brainpower.
-2. We overestimate the other fellow’s brainpower.
+We underestimate our own brainpower. We overestimate the other fellow’s brainpower.
 
-What really matters is not how much intelligence you have but how you use what you do have. The thinking that guides your intelligence is much more important than the quantity of your brainpower.
+What really matters is not how much intelligence you have but how you use what you do have. 
 
 With a positive, optimistic, and cooperative attitude a person with an IQ of 100 will earn more money, win more respect, and achieve more success than a negative, pessimistic, uncooperative individual with an IQ of 120.
 
@@ -91,15 +82,9 @@ Having just enough sense to stick with something—a chore, task, project—unti
 
 Stickability is 95 percent of ability.
 
-The top group worried less, was more enthusiastic, had a sincere liking for people.
-
 Knowledge is only potential power. Knowledge is power only when put to use—and then only when the use made of it is constructive.
 
 It is more important to use your mind to think than to use it as a warehouse for facts.
-
-The ability to know how to get information is more important than using the mind as a garage for facts.
-
-“What I want around me,” he continued, “are people who can solve problems, who can think up ideas. People who can dream and then develop the dream into a practical application; an idea man can make money with me; a fact man can’t.” - Henry Ford
 
 #### Three Ways to Cure Intelligence Excusitis
 
@@ -111,15 +96,13 @@ The ability to know how to get information is more important than using the mind
 
 See the reasons why you can do it, not the reasons why you can’t.
 
-Put your intelligence to creative positive use. Use it to find ways to win, not to prove you will lose.
+Use your brain it to find ways to win, not to prove you will lose.
 
-Ask yourself, “Am I using my mental ability to make history, or am I using it merely to record history made by others?”
+Am I using my mental ability to make history, or am I using it merely to record history made by others?
 
 ### Age
 
 “It’s No Use. I’m Too Old (or Too Young).”
-
-You haven’t even reached the halfway point; you’ve used up only forty percent of your productive years.”
 
 You still have many opportunity-filled years left.
 
@@ -129,11 +112,9 @@ Don’t be age conscious.
 
 Think, “I’m still young,” not “I’m already old.” Practice looking forward to new horizons and gain the enthusiasm and the feel of youth.
 
-Compute how much productive time you have left. A person age thirty still has 80 percent of his productive life ahead of him. And the fifty-year-old still has a big 40 percent—the best 40 percent—of his opportunity years left. Life is longer than most people think.
+A person age thirty still has 80 percent of his productive life ahead of him. And the fifty-year-old still has a big 40 percent—the best 40 percent—of his opportunity years left. Life is longer than most people think.
 
 Stop thinking “I should have started years ago.” That’s failure thinking. Instead think, “I’m going to start now, my best years are ahead of me.”
-
-Think, “I’m still young,” not “I’m already old.”
 
 ### Luck
 
@@ -143,13 +124,11 @@ People who rise to the top get there because they have superior attitudes and us
 
 Accept the law of cause and effect. Take a second look at what appears to be someone’s “good luck.” You’ll find that not luck but preparation, planning, and success-producing thinking preceded his good fortune. 
 
-Take a second look at what appears to be someone’s “bad luck.” Look, and you’ll discover certain specific reasons. Mr. Success receives a setback; he learns and profits. But when Mr. Mediocre loses, he fails to learn.
+Take a second look at what appears to be someone’s “bad luck.” Mr. Success receives a setback; he learns and profits. But when Mr. Mediocre loses, he fails to learn.
 
 Don’t be a wishful thinker. Don’t waste your mental muscles dreaming of an effortless way to win success. We don’t become successful simply through luck. 
 
 Success comes from doing those things and mastering those principles that produce success. Don’t count on luck for promotions, victories, the good things in life. 
-
-Luck simply isn’t designed to deliver these good things. Concentrate on developing those qualities in yourself that will make you a winner.
 
 ## BUILD CONFIDENCE AND DESTROY FEAR
 
@@ -171,7 +150,7 @@ Hesitation only enlarges, magnifies the fear. Take action promptly. Be decisive.
 
 ### Deposit only positive thoughts in your memory bank.
 
-Do this: in these moments when you’re alone with your thoughts—when you’re driving your car or eating alone—recall pleasant, positive experiences. Put good thoughts in your memory bank. This boosts confidence. It gives you that “I-sure-feel-good” feeling.
+In these moments when you’re alone with your thoughts—when you’re driving your car or eating alone—recall pleasant, positive experiences. Put good thoughts in your memory bank. This boosts confidence. It gives you that “I-sure-feel-good” feeling.
 
 Just before you go to sleep, deposit good thoughts in your memory bank. Count your blessings. Recall the many good things you have to be thankful for: your wife or husband, your children, your friends, your health.
 
@@ -206,8 +185,6 @@ When you meet another person, make it a policy to think, “We’re just two imp
 Develop an understanding attitude.
 
 “Underneath he’s probably a very nice guy. Most folks are.” 
-
-“Underneath he’s probably a very nice guy. Most folks are.”
 
 Remember those two short sentences next time someone declares war on you. Hold your fire. The way to win in situations like this is to let the other fellow blow his stack and then forget it.
 
