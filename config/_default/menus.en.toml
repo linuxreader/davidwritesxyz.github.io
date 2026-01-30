@@ -18,8 +18,8 @@ none = "none"
   weight = 30
 
 [[main]]
-  name = "Notes"
-  pageRef = "notes"
+  name = "Support"
+  url = "https://ko-fi.com/davidwritesxyz"
   weight = 40
 
 [[main]]

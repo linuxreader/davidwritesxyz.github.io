@@ -26,7 +26,7 @@ Caffeine can’t provide energy, only chemical stimulation, an induced emergency
 
 Caffeine’s ultimate mood effect can be letdown, which can lead to depression and chronic fatigue.
 
-Caffeine gives the illusion of heightened alertness by dilating pupils, quickening heart rate, and raising blood pressure. In fact, caffeine does not increase overall mental activity.
+Caffeine gives the illusion of heightened alertness by dilating pupils, quickening heart rate, and raising blood pressure. 
 
 The drug contributes to palpitations, panic attacks, hypoglycemia, gastritis, fatigue, insomnia, and PMS, to name a few.
 

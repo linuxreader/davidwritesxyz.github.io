@@ -91,3 +91,19 @@ Rsync the files over to the control node:
 3. he could even do it on his workstation with Podman Desktop and you could roll him a little recipe to do that
     
 4. so he doesn't need to SSH to some server to do it
+
+### Customize config
+#### Example from httpd (convert this to work with wordpress
+
+To customize the configuration of the httpd server, first obtain the upstream default configuration from the container:
+
+```console
+$ docker run --rm httpd:2.4 cat /usr/local/apache2/conf/httpd.conf > my-httpd.conf
+```
+
+You can then `COPY` your custom configuration in as `/usr/local/apache2/conf/httpd.conf`:
+
+```dockerfile
+FROM httpd:2.4
+COPY ./my-httpd.conf /usr/local/apache2/conf/httpd.conf
+```

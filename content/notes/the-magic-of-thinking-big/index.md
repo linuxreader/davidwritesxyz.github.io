@@ -186,13 +186,17 @@ Develop an understanding attitude.
 
 “Underneath he’s probably a very nice guy. Most folks are.” 
 
-Remember those two short sentences next time someone declares war on you. Hold your fire. The way to win in situations like this is to let the other fellow blow his stack and then forget it.
+Remember those two short sentences next time someone declares war on you. Hold your fire. Let the other fellow blow his stack and then forget it.
 
 ## To think confidently, act confidently.
 
 When you do anything that goes contrary to your conscience, you feel guilty, and this guilty feeling jams your thought processes. You can’t think straight because your mind is asking ‘Will I get caught? Will I get caught?’
 
- “Remember, motions are the precursors of emotions. You can’t control the latter directly but only through your choice of motions or actions. . . . To avoid this all too common tragedy (marital difficulties and misunderstandings) become aware of the true psychological facts. Go through the proper motions each day and you’ll soon begin to feel the corresponding emotions! Just be sure you and your mate go through those motions of dates and kisses, the phrasing of sincere daily compliments, plus the many other little courtesies, and you need not worry about the emotion of love. You can’t act devoted for very long without feeling devoted.” - Dr. George W. Crane 
+ “Remember, motions are the precursors of emotions. You can’t control the latter directly but only through your choice of motions or actions. . . . 
+ 
+ Go through the proper motions each day and you’ll soon begin to feel the corresponding emotions! 
+ 
+ Just be sure you and your mate go through those motions of dates and kisses, the phrasing of sincere daily compliments, plus the many other little courtesies, and you need not worry about the emotion of love.  
 
 #### Five confidence-building exercises.
 
@@ -202,15 +206,13 @@ Sitting up front builds confidence. Practice it.
 
 2. Practice making eye contact. 
 
-How a person uses his eyes tells us a lot about him. Instinctively, you ask yourself questions about the fellow who doesn’t look you in the eye. “What’s he trying to hide? What’s he afraid of? Is he trying to put something over on me? Is he holding something back?”
-
 Usually, failure to make eye contact says one of two things. It may say, “I feel weak beside you. I feel inferior to you. I’m afraid of you.” Or avoiding another person’s eyes may say, “I feel guilty. I’ve done something or I’ve thought something that I don’t want you to know. I’m afraid if I let my eyes connect with yours, you’ll see through me.”
 
 3. Walk 25 percent faster.
 
 4. Practice speaking up.
 
-Speak up at every open meeting you attend. Speak up, say something voluntarily at every business conference, committee meeting, community forum you attend. Make no exception. Comment, make a suggestion, ask a question. And don’t be the last to speak. Try to be the icebreaker, the first one in with a comment.
+Comment, make a suggestion, ask a question. And don’t be the last to speak. Try to be the icebreaker, the first one in with a comment.
 
 5. Smile big.
 
@@ -224,334 +226,159 @@ Selling oneself short.
 
 ### Measure your true size.
 
-Determine your five chief assets. Under each asset, write the names of three persons you know who have achieved large success but who do not have this asset to as great a degree as you.
+Determine your chief assets.
 
-The only thing that counts about one’s vocabulary, is the effect his words and phrases have on his own and others’ thinking.
-
-When you speak or write, you are, in a sense, a projector showing movies in the minds of others. And the pictures you create determine how you and others react.
-
-Big thinkers are specialists in creating positive, forward-looking, optimistic pictures in their own minds and in the minds of others. To think big, we must use words and phrases that produce big, positive mental images.
+To think big, we must use words and phrases that produce big, positive mental images.
 
 ### FOUR WAYS TO DEVELOP THE BIG THINKER’S VOCABULARY
 
 1. Use big, positive, cheerful words and phrases to describe how you feel.
 
-Every time someone asks you, “How are you?” or “How are you feeling today?” respond with a “Just wonderful! thanks, and you?” or say “Great” or “Fine.” Say you feel wonderful at every possible opportunity, and you will begin to feel wonderful—and bigger, too. Become known as a person who always feels great. It wins friends.
+Become known as a person who always feels great. It wins friends.
 
-2. Use bright, cheerful, favorable words and phrases to describe other people. Make it a rule to have a big, positive word for all your friends and associates.
+2. Use bright, cheerful, favorable words and phrases to describe other people. 
 
 3. Use positive language to encourage others.
 
 4. Use positive words to outline plans to others.
 
-Big thinkers train themselves to see not just what is but what can be.
+Look at things not as they are, but as they can be. Visualization adds value to everything. A big thinker always visualizes what can be done in the future. He isn’t stuck with the present.
 
-The moral is this: Look at things not as they are, but as they can be. Visualization adds value to everything. A big thinker always visualizes what can be done in the future. He isn’t stuck with the present.
+**“What can I do to ‘add value’ to this?"**
 
-Look at the potential expenditures of the customers, not just what they buy today.
+Look for ideas to make things worth more. A thing has value in proportion to the ideas for using it.
 
-It isn’t what one has that’s important. Rather, it’s how much one is planning to get that counts.
+**Practice adding value to people.**
 
-Here is how you can develop your power to see what can be, not just what is. I call these the “practice adding value” exercises.
+“What can I do to ‘add value’ to my subordinates? What can I do to help them to become more effective?”. To bring out the best in a person, you must first visualize his best.
 
-1. Practice adding value to things.
+**Practice adding value to yourself.**
 
-“What can I do to ‘add value’ to this 
+“What can I do to make myself more valuable today?” Visualize yourself not as you are but as you can be. Then specific ways for attaining your potential value will suggest themselves. 
 
-Look for ideas to make things worth more.
+"Acted as if everything in the company affected him. He made company business his business.”
 
-A thing
+The “I’m doing my job and that’s enough” attitude is small, negative thinking. 
 
-has value in proportion to the ideas for using it.
+See the company’s interest as identical with your own. Probably only a very few persons working in large companies have a sincere, unselfish interest in their company. 
 
-2. Practice adding value to people.
+Big things that make a good speaker: knowledge of what he’s going to talk about and an intense desire to tell it to other people.
 
-“What can I do to ‘add value’ to my subordinates? What can I do to help them to become more effective?” Remember, to bring out the best in a person, you must first visualize his best.
+Before complaining or accusing or reprimanding someone or launching a counterattack in self-defense, ask yourself, “Is it really important?” In most cases, it isn’t and you avoid conflict.
 
-3. Practice adding value to yourself.
-
-“What can I do to make myself more valuable today?” Visualize yourself not as you are but as you can be. Then specific ways for attaining your potential value will suggest themselves. Just try and see.
-
-acted as if everything in the company affected him. He made company business his business.”
-
-The “I’m doing my job and that’s enough” attitude is small, negative thinking. Big thinkers see themselves as members of a team effort, as winning or losing with the team, not by themselves. They help in every way they can, even when there is no direct and immediate compensation or other reward.
-
-Practice this. Practice being a big thinker. See the company’s interest as identical with your own. Probably only a very few persons working in large companies have a sincere, unselfish interest in their company. But after all, only a relatively few persons qualify as big thinkers. And these few are the ones eventually rewarded with the most responsible, best-paying jobs.
-
-big things that make a good speaker: knowledge of what he’s going to talk about and an intense desire to tell it to other people.
-
-before complaining or accusing or reprimanding someone or launching a counterattack in self-defense, ask yourself, “Is it really important?” In most cases, it isn’t and you avoid conflict.
-
-Small thinking about unimportant things 
-
-can hurt you. Think big, and none of these little things can hold you back.
-
-three procedures to help yourself think about trivialities:
-
-1. Keep your eyes focused on the big objective.
-
-2. Ask “Is it really important?” Before becoming negatively excited, just ask yourself, “Is it important enough for me to get all worked up about?”
-
-3.
-
-Don’t become submerged under surface issues. Concentrate on important things.
-
-1. Don’t sell yourself short. Conquer the crime of self-deprecation. Concentrate on your assets. You’re better than you think you are.
-2. Use the big thinker’s vocabulary. Use big, bright, cheerful words. Use words that promise victory, hope, happiness, pleasure; avoid words that create unpleasant images of failure, defeat, grief.
-3. Stretch your vision. See what can be, not just what is. Practice adding value to things, to people, and to yourself.
-4. Get the big view of your job. Think, really think your present job is important. That next promotion depends mostly on how you think toward your present job.
-5. Think above trivial things. Focus your attention on big objectives. Before getting involved in a petty matter, ask yourself, “Is it really important?”
+Small thinking about unimportant things  can hurt you. Think big, and none of these little things can hold you back.
 
 ## HOW TO THINK AND DREAM CREATIVELY
 
-what we can do to develop and strengthen our creative thinking ability.
-
-Step one: Believe it can be done. 
-
-To do anything, we must first believe it can be done. Believing something can be done sets the mind in motion to find a way to do it.
-
-When you believe something is impossible, your mind goes to work for you to prove why. But when you believe, really believe, something can be done, your mind goes to work for you and helps you find the ways to do it.
-
-Your mind will create a way if you let it.
-
 “I’ve decided I must go back to school. I haven’t figured out all the angles yet, but I’ll find a solution.”
 
-1. Eliminate the word impossible from your thinking
+Eliminate the word impossible from your thinking.
 
-2. Think of something special you’ve been wanting to do but felt you couldn’t. Now make a list of reasons why you can do it.
+Think of something special you’ve been wanting to do but felt you couldn’t. Now make a list of reasons why you can do it.
 
-the only thing worthy of our mental concentration is why we can.
+Become receptive to ideas.
 
-1. Become receptive to ideas.
+Be an experimental person. Break up fixed routines.
 
-2. Be an experimental person. Break up fixed routines.
+Be progressive, not regressive.
 
-Expose yourself to new restaurants, new books, new theaters, new friends; take a different route to work someday, take a different vacation this year, do something new and different this weekend.
-
-3. Be progressive, not regressive.
-
-Successful people, like successful businesses, live with these questions: “How can I improve the quality of my performance? How can I do better?”
-
-All during the week I make notes and jot down ideas as to how I can improve my business.
-
-“Then, every Monday evening, I set aside four hours to review the ideas I’ve jotted down and figure out how to put the solid ones to use in the business.
-
-It isn’t so much what you know when you start that matters. It’s what you learn and put to use after you open your doors that counts most.”
-
-Big success calls for persons who continually set higher standards for themselves and others, persons who are searching for ways to increase efficiency, to get more output at lower cost, do more with less effort. Top success is reserved for the I-can-do-it-better kind of person.
-
-Each day before you begin work, devote ten minutes to thinking “How can I do a better job today?” Ask, “What can I do today to encourage my employees?” “What special favor can I do for my customers?” “How can I increase my personal efficiency?”
+“How can I improve the quality of my performance? How can I do better?”
 
 Capacity is a state of mind. How much we can do depends on how much we think we can do. When you really believe you can do more, your mind thinks creatively and shows you the way.
 
- I got a pencil and started writing down every idea I could think of.
-
-do what you do better (improve the quality of your output) and do more of what you do (increase the quantity of your output).
-
-1. Eagerly accept the opportunity to do more. It’s a compliment to be asked to take on a new responsibility.
-
-2. Next, concentrate on “How can I do more?” Creative answers will come.
+Do what you do better (improve the quality of your output) and do more of what you do (increase the quantity of your output).
 
 Big people monopolize the listening.
+
 Small people monopolize the talking.
-Note this also: Top-level leaders in all walks of life spend much more time requesting advice than they do in giving it. Before a top man makes a decision, he asks, “How do you feel about it?” “What do you recommend?” “What would you do under these circumstances?” “How does this sound to you?”
 
-1. Encourage others to talk. In personal conversation or in group meetings, draw out people with little urges, such as “Tell me about your experience . . .” or “What do you think should be done about . . .?” or “What do you
+There is no surer way to get people to like you than to encourage them to talk to you about themselves.
 
-think is the key point?” Encourage others to talk, and you win a double-barreled victory: your mind soaks up raw material that you can use to produce creative thought, and you win friends. There is no surer way to get people to like you than to encourage them to talk to you.
-2. Test your own views in the form of questions. Let other people help you smooth and polish your ideas. Use the what-do-you-think-of-this-suggestion? approach. Don’t be dogmatic. Don’t announce a fresh idea as if it were handed down on a gold tablet. Do a little informal research first. See how your associates react to it. If you do, chances are you’ll end up with a better idea.
-3. Concentrate on what the other person says. Listening is more than just keeping your own mouth shut. Listening means letting what’s said penetrate your mind. So often people pretend to listen when they aren’t listening at all. They’re just waiting for the other person to pause so they can take over with the talking. Concentrate on what the other person says. Evaluate it. That’s how you collect mind food.
+Test your own views in the form of questions. Let other people help you smooth and polish your ideas. 
 
-join and meet regularly with at least one professional group that provides stimulation in your own occupational area.
+So often people pretend to listen when they aren’t listening at all. They’re just waiting for the other person to pause so they can take over with the talking. 
 
-Second, join and participate in at least one group outside your occupational interests. Association with people who have different job interests broadens your thinking and helps you to see the big picture.
+Concentrate on what the other person says. Evaluate it. That’s how you collect mind food.
 
-1. Don’t let ideas escape. Write them down. Every day lots of good ideas are born only to die quickly because they aren’t nailed to paper. Memory is a weak slave when it comes to preserving and nurturing brand-new ideas. Carry a notebook or some small cards with you. When you get an idea, write it down. 
+Join and meet regularly with at least one professional group that provides stimulation in your own occupational area.
 
-2. Next, review your ideas. File these ideas in an active file.
+Join and participate in at least one group outside your occupational interests. 
 
-examine your storehouse of ideas regularly. As you go over your ideas, some may, for very good reasons, have no value at all. Get rid of them. But so long as the idea has any promise, keep it.
+Association with people who have different job interests broadens your thinking and helps you to see the big picture.
 
-3. Cultivate and fertilize your idea. Now make your idea grow. Think about it. Tie the idea to related ideas. Read anything you can find that is in any way akin to your idea. Investigate all angles. Then, when the time is ripe, put it to work for yourself, your job, your future.
+Every day lots of good ideas are born only to die quickly because they aren’t nailed to paper. Memory is a weak slave when it comes to preserving and nurturing brand-new ideas. Carry a notebook or some small cards with you. When you get an idea, write it down. 
 
-An idea written or in some sort of picture or diagram form has many times more selling power than the idea presented only in oral form.
+Review your ideas. File these ideas in an active file.
 
-USE THESE TOOLS AND THINK CREATIVELY
-1. Believe it can be done. When you believe something can be done, your mind will find the ways to do it. Believing a solution paves the way to solution.
-
-Eliminate “impossible,” “won’t work,” “can’t do,” “no use trying” from your thinking and speaking vocabularies.
-
-2. Don’t let tradition paralyze your mind. Be receptive to new ideas. Be experimental. Try new approaches. Be progressive in everything you do.
-3. Ask yourself daily, “How can I do better?” There is no limit to self-improvement. When you ask yourself, “How can I do better?” sound answers will appear. Try it and see.
-4. Ask yourself, “How can I do more?” Capacity is a state of mind. Asking yourself this question puts your mind to work to find intelligent shortcuts. The success combination in business is: Do what you do better (improve the quality of your output), and: Do more of what you do (increase the quantity of your output).
-5. Practice asking and listening. Ask and listen, and you’ll obtain raw material for reaching sound decisions. Remember: Big people monopolize the listening; small people monopolize the talking.
-6. Stretch your mind. Get stimulated. Associate with people who can help you think of new ideas, new ways of doing things. Mix with people of different occupational and social interests.
+Cultivate and fertilize your idea. Now make your idea grow. 
 
 ## YOU ARE WHAT YOU THINK YOU ARE
 
 Others see in us what we see in ourselves. We receive the kind of treatment we think we deserve.
 
 How you think determines how you act.
-How you act in turn determines:
-    How others react to you.
+
+How you act in turn determines how others react to you.
 
 To gain the respect of others, you must first think you deserve respect.
 
- look important because it helps you to think important.
+ Look important because it helps you to think important.
 
-the better you are packaged, the more public acceptance you will receive.
-
-a person’s appearance definitely talks. The well-dressed person’s appearance says positive things. It tells people, “Here is an important person: intelligent, prosperous, and dependable. This man can be looked up to, admired, trusted. He respects himself, and I respect him.”
+The better you are packaged, the more public acceptance you will receive.
 
 Pay twice as much and buy half as many.
 
 If the applicant feels his present job is important, odds are that he will take pride in his next job, too. We’ve found an amazingly close correlation between a person’s job respect and his job performance.”
 
-you are what you think you are, what your thought power directs you to become. Think you’re weak, think you lack what it takes, think you will lose, think you are second-class—think this way, and you are doomed to mediocrity.
+You are what you think you are, what your thought power directs you to become. Think you’re weak, think you lack what it takes, think you will lose, think you are second-class—think this way, and you are doomed to mediocrity.
 
 I am important. I do have what it takes. I am a first-class performer. My work is important. 
 
-A person who thinks his job is important
-Receives mental signals on how to do his job better;
-And a better job means
-More promotions, more money, more prestige, more happiness.
-
 The way we think toward our jobs determines how our subordinates think toward their jobs.
 
-characteristic of successful people: enthusiasm
+### Characteristic of successful people: enthusiasm
 
-But how does one develop enthusiasm? The basic step is simple: Think enthusiastically. Build in yourself an optimistic, progressive glow, a feeling that “this is great and I’m 100 percent for it.”
-You are what you think. Think enthusiasm and you’ll be enthusiastic. To get high-quality work, be enthusiastic about the job you want done. Others will catch the enthusiasm you generate and you’ll get first-class performance.
+Think enthusiastically. Build in yourself an optimistic, progressive glow, a feeling that “this is great and I’m 100 percent for it.”
+
+Think enthusiasm and you’ll be enthusiastic. To get high-quality work, be enthusiastic about the job you want done. Others will catch the enthusiasm you generate and you’ll get first-class performance.
+
 But if, in negative fashion, you “cheat” that company on expense money, supplies, and time, and in other little ways, then what can you expect your subordinates to do? Habitually arrive late and leave early, and what do you think the “troops” will do?
 
-two suggestions for getting others to do more for you:
+Two suggestions for getting others to do more for you:
 1. Always show positive attitudes toward your job so that your subordinates will “pick up” right thinking.
 2. As you approach your job each day, ask yourself, “Am I worthy in every respect of being imitated? Are all my habits such that I would be glad to see them in my subordinates?”
 
-o be on top, you’ve got to feel like you’re on top. Give yourself a pep talk and discover how much bigger and stronger you feel.
+To be on top, you’ve got to feel like you’re on top. Give yourself a pep talk and discover how much bigger and stronger you feel.
 
 Practice uplifting self-praise. Don’t practice belittling self-punishment.
 
-sell-yourself-to-yourself
+**sell-yourself-to-yourself**
 
-Every day you and I see half-alive people who are no longer sold on themselves. They lack self-respect for their most important product—themselves. These folks are indifferent. They feel small. They feel like nobodies, and because they feel that way, that’s what they are.
-
-Tom Staley, meet Tom Staley—an important, a really important person. Tom, you’re a big thinker, so think big. Think Big about Everything. You’ve got plenty of ability to do a first-class job, so do a first-class job.
-Tom, you believe in Happiness, Progress, and Prosperity.
-So: talk only Happiness,talk only Progress,talk only Prosperity.
-You have lots of drive, Tom, lots of drive.
-So put that drive to work. Nothing can stop you, Tom, nothing.
-Tom, you’re enthusiastic. Let your enthusiasm show through.
-You look good, Tom, and you feel good. Stay that way.
-Tom Staley, you were a great fellow yesterday and you’re going to be an even greater fellow today. Now go to it, Tom. Go forward.
-
-select your assets, your points of superiority. Ask yourself, “What are my best qualities?”
-
-HOW AM I THINKING? CHECKLIST
-
-SITUATION
-ASK YOURSELF
-
-1. When I worry
-Would an important person worry about this?
-
- 
-Would the most successful person I know be disturbed about this?
-
-2. An idea
-What would an important person do if he had this idea?
-
-3. My appearance
-Do I look like someone who has maximum self-respect?
-
-4. My language
-Am I using the language of successful people?
-
-5. What I read
-Would an important person read this?
-
-6. Conversation
-Is this something successful people would discuss?
-
-7. When I lose my temper
-Would an important person get mad
-
-at what I’m mad at?
-
-8. My jokes
-Is this the kind of joke an important person would tell?
-
-9. My job
-How does an important person describe his job to others?
-
-“Is this the way an important person does it?”
-
-1. Look important; it helps you think important. Your appearance talks to you. Be sure it lifts your spirits and builds your confidence. Your appearance talks to others. Make certain it says, “Here is an important person: intelligent, prosperous, and dependable.”
-2. Think your work is important. Think this way, and you will receive mental signals on how to do your job better. Think your work is important, and your subordinates will think their work is important too.
-3. Give yourself a pep talk several times daily. Build a “sell-yourself-to-yourself” commercial. Remind yourself at every opportunity that you’re a first-class person.
-4. In all of life’s situations, ask yourself, “Is this the way an important person thinks?” Then obey the answer.
+Select your assets, your points of superiority. Ask yourself, “What are my best qualities?”
 
 ## MANAGE YOUR ENVIRONMENT: GO FIRST CLASS
 
-The body is what the body is fed. By the same token, the mind is what the mind is fed.
-
-the size of your thinking, your goals, your attitudes, your very personality is formed by your environment.
-
-The number one obstacle on the road to high-level success is the feeling that major accomplishment is beyond reach. This attitude stems from many, many suppressive forces that direct our thinking toward mediocre levels.
-
-Rationalizing yourself into a rut,
-
-aren’t satisfied because deep down they know they have surrendered.
+The size of your thinking, your goals, your attitudes, your very personality is formed by your environment.
 
 People who tell you it cannot be done almost always are unsuccessful people, are strictly average or mediocre at best in terms of accomplishment.
 
-has the brains to be making five times what he is if he just knew how to use those brains.”
-
 Be extra careful. Study negators. Don’t let them destroy your plans for success.
 
-Some work because they “have to”; others are ambitious and work for advancement.
+Often the remarks made in your direction aren’t so personal as you might at first think. They are merely a projection of the speaker’s own feeling of failure and discouragement.
 
-often the remarks made in your direction aren’t so personal as you might at first think. They are merely a projection of the speaker’s own feeling of failure and discouragement.
+The more successful people who are the most humble and ready to help. Since they are sincerely interested in their work and success, they are eager to see that the work lives on and that somebody capable succeeds them when they retire. 
 
-There’s a lot of incorrect thinking that successful people are inaccessible. The plain truth is that they are not. As a rule, it’s the more successful people who are the most humble and ready to help. Since they are sincerely interested in their work and success, they are eager to see that the work lives on and that somebody capable succeeds them when they retire. It’s the “would-be-big” people who are most often the most abrupt and hard to get to know.
+The person with a constructive off-the-job life nearly always is more successful than the person who lives in a dull, dreary home situation.
 
-Executives today realize that what happens on weekends and between 6 P.M. and 9 A.M. directly affects a person’s performance from 9 A.M. to 6 P.M. The person with a constructive off-the-job life nearly always is more successful than the person who lives in a dull, dreary home situation.
-
-1. Do circulate in new groups.
-
-2. Do select friends who have views different from your own.
+Select friends who have views different from your own.
 
 Associate with opposites. But just be sure they are persons with real potential.
 
-3. Do select friends who stand above petty, unimportant things.
+Select friends who stand above petty, unimportant things.
 
 Select friends who are interested in positive things, friends who really do want to see you succeed.
 
 Gossip is just negative conversation about people, and the victim of thought poison begins to think he enjoys it. He seems to get a form of poisoned joy from talking negatively about others, not knowing that to successful people he is becoming increasingly unlikable, and unreliable.
-
-1. Do I spread rumors about other people?
-2. Do I always have good things to say about others?
-3. Do I like to hear reports of a scandal?
-4. Do I judge others only on the basis of facts?
-5. Do I encourage others to bring their rumors to me?
-6. Do I precede my conversations with “Don’t tell anybody”?
-7. Do I keep confidential information confidential?
-8. Do I feel guilty about what I say concerning other people?
-
-The right answers are obvious.
-Meditate on this thought for just a moment: Taking an ax and chopping your neighbor’s furniture to pieces won’t make your furniture look one bit better; and using verbal axes and grenades on another person doesn’t do one thing to make you a better you or me a better me.
-
-Of course, I’ve heard the argument many times “but I can’t afford to go first class.” The simplest answer is: you cannot afford to go any other way. Certainly in the long run, going first class actually costs you less than going second class. Then, too, it’s better to have fewer things and have quality than to have many things and have junk.
-
-MAKE YOUR ENVIRONMENT MAKE YOU SUCCESSFUL
-1. Be environment-conscious. Just as body diet makes the body, mind diet makes the mind.
-
-2. Make your environment work for you, not against you. Don’t let suppressive forces—the negative, you-can’t-do-it people—make you think defeat.
-3. Don’t let small-thinking people hold you back. Jealous people want to see you stumble. Don’t give them that satisfaction.
-4. Get your advice from successful people. Your future is important. Never risk it with freelance advisors who are living failures.
-5. Get plenty of psychological sunshine. Circulate in new groups. Discover new and stimulating things to do.
-6. Throw thought poison out of your environment. Avoid gossip. Talk about people, but stay on the positive side.
-7. Go first class in everything you do. You can’t afford to go any other way.
 
 ## MAKE YOUR ATTITUDES YOUR ALLIES
 
@@ -559,9 +386,11 @@ How we think shows through in how we act. Attitudes are mirrors of the mind. The
 
  When our attitude is right, our abilities reach a maximum of effectiveness and good results inevitably follow.”
 
-1. Grow the attitude of I’m activated.
-2. Grow the attitude of You are important.
-3. Grow the attitude of Service first.
+Grow the attitudes of:
+
+I’m activated.
+You are important.
+Service first.
 
 To activate others, you must first activate yourself.
 
@@ -569,21 +398,21 @@ To activate others, to get them to be enthusiastic, you must first be enthusiast
 
 To get enthusiastic, learn more about the thing you are not enthusiastic about.
 
-Use the dig-into-it-deeper technique to develop enthusiasm toward other people. Find out all you can about another person—what he does, his family, his background, his ideas and ambitions—and you’ll find your interest in and enthusiasm about him mounting. Keep digging, and you’re certain to find some common interests. Keep digging, and you’ll eventually discover a fascinating person.
+Find out all you can about another person—what he does, his family, his background, his ideas and ambitions—and you’ll find your interest in and enthusiasm about him mounting. 
 
-There’s one way to build enthusiasm toward a new location. Simply resolve to dig into the new community. Learn all you can about it. Mix with the people. Make yourself feel and think like a community citizen from the very first day. Do this, and you’ll be enthusiastic about your new environment.
+Keep digging, and you’re certain to find some common interests. 
+
+Keep digging, and you’ll eventually discover a fascinating person.
+
+Build enthusiasm toward a new location. Dig into the new community. Learn all you can about it. Mix with the people. Make yourself feel and think like a community citizen from the very first day. 
 
 Dig into it deeper, and you’ll develop enthusiasm. Put this principle to work next time you must do something you don’t want to do. Put this principle to work next time you find yourself becoming bored. Just dig in deeper and you dig up interest.
 
-2. In everything you do, life it up. Enthusiasm, or lack of it, shows through in everything you do and say.
-
-Dr. James F. Bender
-
-book How to Talk Well
+In everything you do, life it up. Enthusiasm, or lack of it, shows through in everything you do and say.
 
 When you make a habit of coloring your words with sincere feelings you’ll notice a great uptake in your ability to hold attention.”
 
-3. Broadcast good news.
+**Broadcast good news.**
 
 Transmit good news to your family. Tell them the good that happened today. Recall the amusing, pleasant things you experienced and let the unpleasant things stay buried. Spread good news. It’s pointless to pass on the bad. It only makes your family worry, makes them nervous. Bring home some sunlight every day.
 
@@ -593,17 +422,15 @@ Broadcasting good news activates you, makes you feel better. Broadcasting good n
 
 When you help others feel important, you help yourself feel important too.
 
-1. Practice appreciation.
+**Practice appreciation.**
 
-to let others know you appreciate what they do for you
-
-letting others know how you depend on them.
+Let others know you appreciate what they do for you and how you depend on them.
 
 Don’t feel that you should hand out praise only for big accomplishments. Compliment people on little things: their appearance, the way they do their routine work, their ideas, their loyal efforts.
 
-2. Practice calling people by their names.
+**Practice calling people by their names.**
 
-3. Don’t hog glory, invest it instead.
+**Don’t hog glory, invest it instead.**
 
 Ask yourself every day, “What can I do today to make my wife and family happy?”
 
@@ -613,18 +440,17 @@ Get the family on your team. Give them planned attention.
 
 From 7:30 to 8:30 every evening I devote my time to my two young children. I play games with them, read them stories, draw, answer questions—anything they want me to do.
 
-WANT TO MAKE MONEY? THEN GET THE PUT-SERVICE-FIRST ATTITUDE
+**WANT TO MAKE MONEY? THEN GET THE PUT-SERVICE-FIRST ATTITUDE**
+
 It’s perfectly natural—in fact, it’s highly desirable—to want to make money and accumulate wealth. Money is power to give your family and yourself the standard of living they deserve. Money is power to help the unfortunate. Money is one of the means to living life fully.
 
-Russel H. Conwell, author of Acres of Diamonds,
+Money can’t be harvested unless they plant the seeds that grow the money.
 
-eople with a money-first attitude become so money conscious that they forget money can’t be harvested unless they plant the seeds that grow the money.
+And the seed of money is service. 
 
-And the seed of money is service. That’s why “put service first” is an attitude that creates wealth. Put service first, and money takes care of itself.
+That’s why “put service first” is an attitude that creates wealth. Put service first, and money takes care of itself.
 
 Always give people more than they expect to get.
-
-Spend some time each day answering this question: “How can I give more than is expected of me?”
 
 ## THINK RIGHT TOWARD PEOPLE
 
@@ -634,72 +460,70 @@ Think right toward people, and they will like and support you.
 
 We are lifted to higher levels by those who know us as likable, personable individuals. Every friend you make lifts you just one notch higher. And being likable makes you lighter to lift.
 
-1. Learn to remember names. Inefficiency at this point may indicate that your interest is not sufficiently outgoing.
-2. Be a comfortable person so there is no strain in being with you. Be an old-shoe kind of individual.
-3. Acquire the quality of relaxed easy-going so that things do not ruffle you.
-4. Don’t be egotistical. Guard against the impression that you know it all.
-5. Cultivate the quality of being interesting so people will get something of value from their association with you.
-6. Study to get the “scratchy” elements out of your personality, even those of which you may be unconscious.
-7. Sincerely attempt to heal, on an honest basis, every misunderstanding you have had or now have. Drain off your grievances.
-8. Practice liking people until you learn to do so genuinely.
-9. Never miss an opportunity to say a word of congratulation upon anyone’s achievement, or express sympathy in sorrow or disappointment.
+Learn to remember names. Inefficiency at this point may indicate that your interest is not sufficiently outgoing.
 
-10. Give spiritual strength to people, and they will give genuine affection to you.
+Be a comfortable person so there is no strain in being with you. Be an old-shoe kind of individual.
+
+Acquire the quality of relaxed easy-going so that things do not ruffle you.
+
+Don’t be egotistical. Guard against the impression that you know it all.
+
+Cultivate the quality of being interesting so people will get something of value from their association with you.
+
+Study to get the “scratchy” elements out of your personality, even those of which you may be unconscious.
+
+Sincerely attempt to heal, on an honest basis, every misunderstanding you have had or now have. Drain off your grievances.
+
+Practice liking people until you learn to do so genuinely.
+
+Never miss an opportunity to say a word of congratulation upon anyone’s achievement, or express sympathy in sorrow or disappointment.
+
+Give spiritual strength to people, and they will give genuine affection to you.
 
 Take the initiative in building friendships—leaders always do.
 
- the most important person present is the one person most active in introducing himself.
+ The most important person present is the one person most active in introducing himself.
 
 “I may not be very important to him, but he’s important to me. That’s why I’ve got to get to know him.”
 
 When you make a pleasant remark to a stranger, you make him feel one degree better. This makes you feel better and helps you relax. Every time you say something pleasant to another person, you compensate yourself. It’s like warming up your automobile on a cold morning.
 
-six ways to win friends by exercising just a little initiative:
-
-1. Introduce yourself to others at every possible opportunity—at parties, meetings, on airplanes, at work, everywhere.
-2. Be sure the other person gets your name straight.
-3. Be sure you can pronounce the other person’s name the way he pronounces it.
-4. Write down the other person’s name, and be mighty sure you have it spelled correctly; people have a fetish about the correct spelling of their own names! If possible, get his address and phone number, also.
-5. Drop a personal note or make a phone call to the new friends you feel you want to know better. This is an important point. Most successful people follow through on new friends with a letter or a phone call.
-6. And last but not least, say pleasant things to strangers. It warms you up and gets you ready for the task ahead.
 
 Take the initiative. Be like the successful. Go out of your way to meet people. And don’t be timid. Don’t be afraid to be unusual. Find out who the other person is, and be sure he knows who you are.
 
-1. Recognize the fact that no person is perfect. Some people are more nearly perfect than others, but no man is absolutely perfect. The most human quality about human beings is that they make mistakes, all kinds of them.
-2. Recognize the fact that the other fellow has a right to be different. Never play God about anything. Never dislike people because their habits are different from your own or because they prefer different clothes, religion, parties, or automobiles. You don’t have to approve of what another fellow does, but you must not dislike him for doing it.
-3. Don’t be a reformer. Put a little more “live and let live” into your philosophy. Most people intensely dislike being told “you’re wrong.” You have a right to your own opinion, but sometimes it’s better to keep it to yourself.
+No man is absolutely perfect. The most human quality about human beings is that they make mistakes, all kinds of them.
+
+You don’t have to approve of what another fellow does, but you must not dislike him for doing it.
+
+“live and let live” 
+
+You have a right to your own opinion, but sometimes it’s better to keep it to yourself.
 
 Now, if we let our thinking go uncontrolled, we can find much to dislike in almost anyone. By the same token, if we manage our thinking properly, if we think right toward people, we can find many qualities to like and admire in the same person.
 
-There are two ways to prevent others from switching us from Channel P to Channel N. One way is to switch topics as quickly and quietly as possible with some remark like “Pardon me, John, but while I think of it, I’ve been meaning to ask you . . .” A second way is to excuse yourself with a “Sorry, John, I’m late now . . .” or “I’ve a deadline to meet. Will you excuse me?”
-
 Think first class about everyone around you, and you’ll receive first-class results in return.
 
-Hundreds of my own little experiments have revealed this: The person who does the most talking and the person who is the most successful are rarely the same person. Almost without exception, the more successful the person, the more he practices conversation generosity, that is, he encourages the other person to talk about himself, his views, his accomplishments, his family, his job, his problems.
+Conversation generosity wins friends.
 
-1. Conversation generosity wins friends.
-2. Conversation generosity helps you learn more about people.
-Remember this: the average person would rather talk about himself than anything else in this world. When you give him the chance, he likes you for it. Conversation generosity is the easiest, simplest, and surest way there is to win a friend.
-The second benefit of conversation generosity, learning more about other people, is important, too. As we said in Chapter 1, people are what we study in our success lab. The more we can learn about them, their thought processes, their strong and weak points, why they do what and as they do, the better equipped we are to influence them effectively, in the way that we want.
+Conversation generosity helps you learn more about people.
+
+The average person would rather talk about himself than anything else in this world. When you give him the chance, he likes you for it. 
 
 Don’t be a conversation hog. Listen, win friends, and learn.
 
-how you think when you lose determines how long it will be until you win.
+**How you think when you lose determines how long it will be until you win.**
 
-1. Ask yourself, “What can I do to make myself more deserving of the next opportunity?”
-2. Don’t waste time and energy being discouraged. Don’t berate yourself. Plan to win next time.
+“What can I do to make myself more deserving of the next opportunity?”
+
+Don’t waste time and energy being discouraged. Don’t berate yourself. Plan to win next time.
 
 ## GET THE ACTION HABIT
 
 “Nothing comes merely by thinking about it.”
 
-1. The resolution to take action ignited J. M.’s mind to think of ways to accomplish his goal.
-2. J. M. gained tremendously in new confidence. It will be much easier for him to take action in other major situations.
-3. J. M. provided his wife and child the living standard they deserved. Had he waited, postponed buying the house until conditions were perfect, there is a real possibility they never would have owned a home of their own.
+Expect future obstacles and difficulties. Every venture presents risks, problems, and uncertainties.
 
-1. Expect future obstacles and difficulties. Every venture presents risks, problems, and uncertainties.
-
-2. Meet problems and obstacles as they arise. The test of a successful person is not the ability to eliminate all problems before he takes action, but rather the ability to find solutions to difficulties when he encounters them.
+Meet problems and obstacles as they arise. The test of a successful person is not the ability to eliminate all problems before he takes action, but rather the ability to find solutions to difficulties when he encounters them.
 
 Use action to cure fear and gain confidence. Here’s something to remember. Action feeds and strengthens confidence; inaction in all forms feeds fear. To fight fear, act. To increase fear—wait, put off, postpone.
 
@@ -1005,8 +829,12 @@ ou can use this time to do two types of thinking: directed and undirected. To do
 To do undirected thinking, just let your mind select what it wishes to think about. In moments like these your subconscious mind taps your memory bank, which in turn feeds your conscious mind. Undirected thinking is very helpful in doing self-evaluation. It helps you get down to the very basic matters like “How can I do better? What should be my next move?”
 
 ## Books Mentioned
-read Dr. Schindler’s great book, How to Live 365 Days a Year.
+Dr. Schindler - How to Live 365 Days a Year.
 
-Fifty Years with the Golden Rule - J. C. Penney
+J. C. Penney - Fifty Years with the Golden Rule 
 
-Dr. George W. Crane said in his famous book Applied Psychology,
+Dr. George W. Crane - Applied Psychology,
+
+Dr. James F. Bender - How to Talk Well
+
+Russel H. Conwell - Acres of Diamonds,

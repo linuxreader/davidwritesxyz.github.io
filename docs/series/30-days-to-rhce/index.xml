@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>30 Days to RHCE on David Writes</title>
+    <link>http://localhost:1313/series/30-days-to-rhce/</link>
+    <description>Recent content in 30 Days to RHCE on David Writes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2026 </copyright>
+    <lastBuildDate>Thu, 29 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/series/30-days-to-rhce/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Orientation</title>
+      <link>http://localhost:1313/articles/30-days-to-rhce/day-1-orientation/</link>
+      <pubDate>Thu, 29 Jan 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/articles/30-days-to-rhce/day-1-orientation/</guid>
+      <description>&lt;p&gt;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;&#34;&#xA;    width=&#34;800&#34;&#xA;    height=&#34;400&#34;&#xA;    src=&#34;http://localhost:1313/articles/30-days-to-rhce/day-1-orientation/featured.png&#34;&#xA;    srcset=&#34;http://localhost:1313/articles/30-days-to-rhce/day-1-orientation/featured.png 800w, http://localhost:1313/articles/30-days-to-rhce/day-1-orientation/featured.png 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://localhost:1313/articles/30-days-to-rhce/day-1-orientation/featured.png&#34;&gt;&lt;/figure&gt;&#xA;&#xA;This is not for complete beginners and not an in depth guide.&lt;/p&gt;&#xA;&lt;p&gt;This is just for the final 30 days for RHCE prep.&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/articles/30-days-to-rhce/day-1-orientation/featured.png" />
+    </item>
+    
+  </channel>
+</rss>
