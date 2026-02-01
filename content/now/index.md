@@ -13,6 +13,5 @@ When I'm not working or spending time with the family, I am practicing drum rudi
 
 ### What I am reading
 {{< gallery >}}
-  <img src="everybodywrites.png" class="grid-w20" />
   <img src="infinitejest.png" class="grid-w20" />
 {{< /gallery >}}

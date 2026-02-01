@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2026 </copyright>
-    <lastBuildDate>Thu, 22 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://www.davidwrites.xyz/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 01 Feb 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://www.davidwrites.xyz/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Orientation</title>
+      <link>https://www.davidwrites.xyz/articles/45-days-to-rhce/getting-ready/</link>
+      <pubDate>Sun, 01 Feb 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.davidwrites.xyz/articles/45-days-to-rhce/getting-ready/</guid>
+      <description>&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;&#34;&#xA;    width=&#34;800&#34;&#xA;    height=&#34;400&#34;&#xA;    src=&#34;https://www.davidwrites.xyz/articles/45-days-to-rhce/getting-ready/featured.png&#34;&#xA;    srcset=&#34;https://www.davidwrites.xyz/articles/45-days-to-rhce/getting-ready/featured.png 800w, https://www.davidwrites.xyz/articles/45-days-to-rhce/getting-ready/featured.png 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;https://www.davidwrites.xyz/articles/45-days-to-rhce/getting-ready/featured.png&#34;&gt;&lt;/figure&gt;&#xA;&lt;p&gt;This series is to document my final 47 days prepping for the RHCE exam. I have been using Ansible already for 11 months and have configured dozens of servers with Ansible. As a reference point.&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.davidwrites.xyz/articles/45-days-to-rhce/getting-ready/featured.png" />
+    </item>
     
     <item>
       <title>Using Libvirt and Ansible to Automate KVM Virtual Machine Deployments</title>
@@ -87,6 +97,16 @@
       <guid>https://www.davidwrites.xyz/articles/the-negative-effects-of-caffeine-addiction/</guid>
       <description>These are the negative effects of caffeine addiction.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.davidwrites.xyz/articles/the-negative-effects-of-caffeine-addiction/featured.png" />
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.davidwrites.xyz/articles/45-days-to-rhce/rhce-practice-exam/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.davidwrites.xyz/articles/45-days-to-rhce/rhce-practice-exam/</guid>
+      <description>&lt;p&gt;[practice exam](&lt;a href=&#34;https://www.lisenet.com/2019/ansible-sample-exam-for-ex294/&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;https://www.lisenet.com/2019/ansible-sample-exam-for-ex294/&lt;/a&gt;&lt;/p&gt;</description>
+      
     </item>
     
     <item>

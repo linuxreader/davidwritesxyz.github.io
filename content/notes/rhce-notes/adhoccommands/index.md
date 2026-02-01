@@ -11,11 +11,6 @@ Run the user module with the argument name=lisa on all hosts to make sure the us
 
 `{command} {host} -m {module} -a {"argument1 argument2 argument3"}`
 
-In our lab:
-```bash
-ansible all -m user -a "name=lisa"
-```
-
 This Ad Hoc command created user "Lisa" on ansible1 and ansible2. If we run the command again, we get "SUCCESS" on the first line instead of "CHANGED". Which means the hosts already meet the requirements:
 ```bash
 [ansible@control base]$ ansible all -m user -a "name=lisa"
