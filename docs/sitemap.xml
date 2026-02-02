@@ -4,7 +4,19 @@
 
   <url>
     <loc>https://www.davidwrites.xyz/</loc>
-    <lastmod>2026-02-01T00:00:00+00:00</lastmod>
+    <lastmod>2026-02-02T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.davidwrites.xyz/micro/</loc>
+    <lastmod>2026-02-02T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.davidwrites.xyz/micro/you-need-to-learn-man-pages/</loc>
+    <lastmod>2026-02-02T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -23,12 +35,6 @@
   <url>
     <loc>https://www.davidwrites.xyz/articles/build-an-ansible-lab-with-ansible/</loc>
     <lastmod>2026-01-22T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://www.davidwrites.xyz/micro/</loc>
-    <lastmod>2026-01-17T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -741,11 +747,6 @@
   </url>
   <url>
     <loc>https://www.davidwrites.xyz/tech/networking/ccna-notes/wireless_security/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://www.davidwrites.xyz/tech/tools/using-man-pages/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>

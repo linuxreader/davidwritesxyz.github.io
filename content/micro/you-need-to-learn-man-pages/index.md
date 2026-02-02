@@ -1,7 +1,8 @@
-+++
-title = 'You Need to Learn Man Pages'
-description = 'Guide to using Man Pages'
-+++
+---
+title: 'You Need to Learn Man Pages'
+summary: 'You need to be using man pages. Here is how. A short guide to using Man Pages'
+date: 2026-02-02
+---
 
 https://www.youtube.com/watch?v=RzAkjX_9B7E&t=295s
 
