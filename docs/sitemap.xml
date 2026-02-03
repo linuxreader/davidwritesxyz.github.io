@@ -4,13 +4,19 @@
 
   <url>
     <loc>https://www.davidwrites.xyz/</loc>
-    <lastmod>2026-02-02T00:00:00+00:00</lastmod>
+    <lastmod>2026-02-03T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.davidwrites.xyz/micro/calibre-web-docker-nginx/</loc>
+    <lastmod>2026-02-03T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://www.davidwrites.xyz/micro/</loc>
-    <lastmod>2026-02-02T00:00:00+00:00</lastmod>
+    <lastmod>2026-02-03T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -81,11 +87,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://www.davidwrites.xyz/articles/45-days-to-rhce/rhce-practice-exam/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://www.davidwrites.xyz/tech/bluefin-setup/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -102,6 +103,11 @@
   </url>
   <url>
     <loc>https://www.davidwrites.xyz/tech/desktop/silverblue-1/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.davidwrites.xyz/tech/it-for-the-paranoid/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -266,6 +272,11 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://www.davidwrites.xyz/tech/turning-your-goals-into-a-business-game/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://www.davidwrites.xyz/tech/ansible/archive/awx-rpm-install/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -322,11 +333,6 @@
   </url>
   <url>
     <loc>https://www.davidwrites.xyz/tech/boot/boot-process-grub2-and-kernel/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://www.davidwrites.xyz/tech/tools/calibre-web-with-docker-and-nginx/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -572,6 +578,11 @@
   </url>
   <url>
     <loc>https://www.davidwrites.xyz/tech/ansible/rhce-practice-exam-lab/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.davidwrites.xyz/tech/rhce-study-calendar/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>

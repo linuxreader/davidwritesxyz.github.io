@@ -106,3 +106,26 @@ anna:x:1001:1001::/home/anna:/bin/bash
 
 View a file from a managed node:
 `ansible ansible1 -a "cat /somfile.txt"`
+
+`ansible` uses the command module by default. 
+
+Verify host names
+```bash
+ansible all -a "hostname"
+```
+
+Run the same on 5 hosts at a time
+```bash
+ansible all -a "hostname" -f 5
+```
+
+View ansible_facts for ansible1 server:
+```bash
+ansible ansible1 -m setup
+```
+
+Check to see if dates are in sync:
+```bash
+ansible all -a "date"
+```
+

@@ -59,15 +59,5 @@
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.davidwrites.xyz/articles/the-negative-effects-of-caffeine-addiction/featured.png" />
     </item>
     
-    <item>
-      <title></title>
-      <link>https://www.davidwrites.xyz/articles/45-days-to-rhce/rhce-practice-exam/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.davidwrites.xyz/articles/45-days-to-rhce/rhce-practice-exam/</guid>
-      <description>&lt;p&gt;[practice exam](&lt;a href=&#34;https://www.lisenet.com/2019/ansible-sample-exam-for-ex294/&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;https://www.lisenet.com/2019/ansible-sample-exam-for-ex294/&lt;/a&gt;&lt;/p&gt;</description>
-      
-    </item>
-    
   </channel>
 </rss>

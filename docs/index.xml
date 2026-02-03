@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2026 </copyright>
-    <lastBuildDate>Mon, 02 Feb 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://www.davidwrites.xyz/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 03 Feb 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://www.davidwrites.xyz/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Calibre Web with Docker and NGINX</title>
+      <link>https://www.davidwrites.xyz/micro/calibre-web-docker-nginx/</link>
+      <pubDate>Tue, 03 Feb 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.davidwrites.xyz/micro/calibre-web-docker-nginx/</guid>
+      <description>Setting up your own Calibre Web server using Docker and NGINX</description>
+      
+    </item>
     
     <item>
       <title>You Need to Learn Man Pages</title>
@@ -111,16 +121,6 @@
     
     <item>
       <title></title>
-      <link>https://www.davidwrites.xyz/articles/45-days-to-rhce/rhce-practice-exam/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.davidwrites.xyz/articles/45-days-to-rhce/rhce-practice-exam/</guid>
-      <description>&lt;p&gt;[practice exam](&lt;a href=&#34;https://www.lisenet.com/2019/ansible-sample-exam-for-ex294/&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;https://www.lisenet.com/2019/ansible-sample-exam-for-ex294/&lt;/a&gt;&lt;/p&gt;</description>
-      
-    </item>
-    
-    <item>
-      <title></title>
       <link>https://www.davidwrites.xyz/tech/bluefin-setup/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -146,6 +146,16 @@
       
       <guid>https://www.davidwrites.xyz/tech/desktop/silverblue-1/</guid>
       <description>&lt;p&gt;Automated setup &lt;a href=&#34;https://universal-blue.org/&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;https://universal-blue.org/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;You get all the benefits of using containers&#xA;Separates system level packages from applications.&lt;/p&gt;&#xA;&lt;p&gt;System Level&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Desktop, kernel?&lt;/li&gt;&#xA;&lt;li&gt;Layering&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Apps at system level because containers aren&amp;rsquo;t as developed yet&lt;/li&gt;&#xA;&lt;li&gt;Locks to the fedora version you are on&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&#xA;&lt;h2 class=&#34;relative group&#34;&gt;Layered package examples&#xA;    &lt;div id=&#34;layered-package-examples&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xA;    &#xA;    &lt;span&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#layered-package-examples&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&#xA;    &lt;/span&gt;&#xA;    &#xA;&lt;/h2&gt;&#xA;&lt;pre&gt;&lt;code&gt;- gnome shell extensions&#xA;- distrobox&#xA;&lt;/code&gt;&lt;/pre&gt;&#xA;&lt;p&gt;Uses rpm-ostree? &lt;a href=&#34;https://coreos.github.io/rpm-ostree/administrator-handbook/&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;https://coreos.github.io/rpm-ostree/administrator-handbook/&lt;/a&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.davidwrites.xyz/tech/it-for-the-paranoid/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.davidwrites.xyz/tech/it-for-the-paranoid/</guid>
+      <description>&lt;p&gt;Cellphones: Pixel 10 with graphene is&#xA;Chat: Zulip instead of Slack&#xA;Cloud: Nextcloud &amp;gt; MicroSoft OneDrive&#xA;HyperVsior: Proxmox &amp;gt; VMWare&#xA;Email: Proton &amp;gt; gmail&lt;/p&gt;</description>
       
     </item>
     
@@ -430,6 +440,16 @@
     </item>
     
     <item>
+      <title></title>
+      <link>https://www.davidwrites.xyz/tech/turning-your-goals-into-a-business-game/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.davidwrites.xyz/tech/turning-your-goals-into-a-business-game/</guid>
+      <description>&lt;p&gt;Have a goal?&lt;/p&gt;&#xA;&lt;p&gt;Teach people to achieve that goal while you are working toward achieving it.&lt;/p&gt;&#xA;&lt;p&gt;Proposition the goal. See if other people would buy the lessons you are learning by making public posts pre-selling your offer.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
       <title> AWX RPM Install</title>
       <link>https://www.davidwrites.xyz/tech/ansible/archive/awx-rpm-install/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -536,16 +556,6 @@
       
       <guid>https://www.davidwrites.xyz/tech/boot/boot-process-grub2-and-kernel/</guid>
       <description>&lt;h2 class=&#34;relative group&#34;&gt;Linux Kernel&#xA;    &lt;div id=&#34;linux-kernel&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xA;    &#xA;    &lt;span&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#linux-kernel&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&#xA;    &lt;/span&gt;&#xA;    &#xA;&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;controls everything on the system.&#xA;&lt;ul&gt;&#xA;&lt;li&gt;hardware&lt;/li&gt;&#xA;&lt;li&gt;enforces security and access controls&lt;/li&gt;&#xA;&lt;li&gt;runs, schedules, and manages processes and service daemons.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;comprised of several modules.&lt;/li&gt;&#xA;&lt;li&gt;new kernel must be installed or an existing kernel must be upgraded when the need arises from an application or functionality standpoint.&lt;/li&gt;&#xA;&lt;li&gt;core of the Linux system.&lt;/li&gt;&#xA;&lt;li&gt;manages&lt;/li&gt;&#xA;&lt;li&gt;hardware&lt;/li&gt;&#xA;&lt;li&gt;enforces security&lt;/li&gt;&#xA;&lt;li&gt;regulates access to the system&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;handles&lt;/p&gt;</description>
-      
-    </item>
-    
-    <item>
-      <title>Calibre Web with Docker and NGINX</title>
-      <link>https://www.davidwrites.xyz/tech/tools/calibre-web-with-docker-and-nginx/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.davidwrites.xyz/tech/tools/calibre-web-with-docker-and-nginx/</guid>
-      <description>&lt;p&gt;I couldn’t find a guide on how to set up Calibre web step-by-step as a Docker container. Especially not one that used Nginx as a reverse proxy.&lt;/p&gt;&#xA;&lt;p&gt;The good news is that it is really fast and simple. You’ll need a few tools to get this done:&lt;/p&gt;</description>
       
     </item>
     
@@ -1036,6 +1046,16 @@
       
       <guid>https://www.davidwrites.xyz/tech/ansible/rhce-practice-exam-lab/</guid>
       <description>&lt;p&gt;Configure passwordless ssh access to all servers&#xA;- write an adhoc script to copy keys to other servers&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Storage has secondary disk attached&lt;/li&gt;&#xA;&lt;li&gt;Configure ansible user &amp;ldquo;davidt&amp;rdquo; with password for all servers.&#xA;&lt;ul&gt;&#xA;&lt;li&gt;With passwordless sudo&lt;/li&gt;&#xA;&lt;li&gt;Add this to the ad hoc script&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Add roles path to ansible.cfg as ansible/roles&lt;/li&gt;&#xA;&lt;li&gt;Disable privillege escalation by default?&lt;/li&gt;&#xA;&lt;li&gt;Set ansible to manage 10 hosts at a time.&lt;/li&gt;&#xA;&lt;li&gt;Set davidt as ansible user&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;VMS&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>rhce study calendar</title>
+      <link>https://www.davidwrites.xyz/tech/rhce-study-calendar/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.davidwrites.xyz/tech/rhce-study-calendar/</guid>
+      <description>&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;&lt;/th&gt;&#xA;          &lt;th&gt;Topic&lt;/th&gt;&#xA;          &lt;th&gt;Review 1&lt;/th&gt;&#xA;          &lt;th&gt;Review 2&lt;/th&gt;&#xA;          &lt;th&gt;Review 3&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;1&lt;/td&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;https://www.davidwrites.xyz/notes/rhce-notes/adhoccommands/index.md&#34; &gt;Ad Hoc Commands&lt;/a&gt;&lt;/td&gt;&#xA;          &lt;td&gt;X&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;2&lt;/td&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;../../../notes/rhce-notes/ansibleconfig/index.md&#34; &gt;ansible.cfg&lt;/a&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;3&lt;/td&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;../../../notes/rhce-notes/ansiblevault/index.md&#34; &gt;Ansible Vault&lt;/a&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;4&lt;/td&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;../../../notes/rhce-notes/bootprocess/index.md&#34; &gt;Boot Process&lt;/a&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;5&lt;/td&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;../../../notes/rhce-notes/deployingfiles/index.md&#34; &gt;Deploying Files&lt;/a&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;6&lt;/td&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;../../../notes/rhce-notes/handlers/index.md&#34; &gt;Handlers&lt;/a&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;7&lt;/td&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;../../../notes/rhce-notes/hostnamepatterns/index.md&#34; &gt;Hostname Patterns&lt;/a&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;8&lt;/td&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;../../../notes/rhce-notes/includingandimportingfiles/index.md&#34; &gt;Including and Importing Files&lt;/a&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;9&lt;/td&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;../../../notes/rhce-notes/inventory/index.md&#34; &gt;Inventory&lt;/a&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;10&lt;/td&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;../../../notes/rhce-notes/jinja2templates/index.md&#34; &gt;Jinja2 Templates&lt;/a&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;11&lt;/td&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;../../../notes/rhce-notes/loopsanditems/index.md&#34; &gt;Loops and Items&lt;/a&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;12&lt;/td&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;../../../notes/rhce-notes/optimizingansibleprocessing/index.md&#34; &gt;Optimizing Ansible Processing&lt;/a&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;13&lt;/td&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;../../../notes/rhce-notes/packagesrepositoriesandsubscriptions/index.md&#34; &gt;Packages Repositories and Subscriptions&lt;/a&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;14&lt;/td&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;../../../notes/rhce-notes/playbooks/index.md&#34; &gt;Playbooks&lt;/a&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;15&lt;/td&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;../../../notes/rhce-notes/roles/index.md&#34; &gt;Roles&lt;/a&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;16&lt;/td&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;../../../notes/rhce-notes/selinux/index.md&#34; &gt;SeLinux&lt;/a&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;17&lt;/td&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;../../../notes/rhce-notes/services/index.md&#34; &gt;Services&lt;/a&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;18&lt;/td&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;../../../notes/rhce-notes/storagepartitionsandlvm/index.md&#34; &gt;Storage Partitions and LVM&lt;/a&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;19&lt;/td&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;../../../notes/rhce-notes/tags/index.md&#34; &gt;Tags&lt;/a&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;20&lt;/td&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;../../../notes/rhce-notes/troubleshooting/index.md&#34; &gt;Troubleshooting&lt;/a&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;21&lt;/td&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;../../../notes/rhce-notes/usersandgroups/index.md&#34; &gt;Users and Groups&lt;/a&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;22&lt;/td&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;../../../notes/rhce-notes/variables/index.md&#34; &gt;Variables&lt;/a&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;23&lt;/td&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;../../../notes/rhce-notes/when/index.md&#34; &gt;When&lt;/a&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;24&lt;/td&gt;&#xA;          &lt;td&gt;&lt;a href=&#34;../rhce-practice-exam/index.md&#34; &gt;Practice Exam&lt;/a&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;          &lt;td&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;</description>
       
     </item>
     
