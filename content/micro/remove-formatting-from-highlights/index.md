@@ -6,7 +6,7 @@ date: 2026-02-04
 ## Bookfusion
 Here are my highlights pulled up in Vim:
 
-![](featured.png)
+![](formattingbookfusion.png)
 
 As you can see, Bookfusion gives you a lot of extra information when you export highlights. First, let's get rid of the lines that begin with `##`
 
