@@ -21,6 +21,8 @@ Modules for Managing Changes on SELinux:
 - Manages current SELinux state
 **seboolean**
 - Manages SELinux Booleans
+**community.general.seport**
+- Manages SELinux network port type definitions.
 
 #### Managing SELinux File Context
 

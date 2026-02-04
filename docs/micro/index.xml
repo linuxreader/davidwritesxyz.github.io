@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2026 </copyright>
-    <lastBuildDate>Tue, 03 Feb 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://www.davidwrites.xyz/micro/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 04 Feb 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://www.davidwrites.xyz/micro/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>How to Remove Formatting From Ebook Highlights With Vim</title>
+      <link>https://www.davidwrites.xyz/micro/remove-formatting-from-highlights/</link>
+      <pubDate>Wed, 04 Feb 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.davidwrites.xyz/micro/remove-formatting-from-highlights/</guid>
+      <description>Removing extra stuff from Bookfusion and Foliate exported highlights</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.davidwrites.xyz/micro/remove-formatting-from-highlights/featured.png" />
+    </item>
     
     <item>
       <title>Calibre Web with Docker and NGINX</title>

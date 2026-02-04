@@ -4,18 +4,24 @@
 
   <url>
     <loc>https://www.davidwrites.xyz/</loc>
-    <lastmod>2026-02-03T00:00:00+00:00</lastmod>
+    <lastmod>2026-02-04T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://www.davidwrites.xyz/micro/calibre-web-docker-nginx/</loc>
-    <lastmod>2026-02-03T00:00:00+00:00</lastmod>
+    <loc>https://www.davidwrites.xyz/micro/remove-formatting-from-highlights/</loc>
+    <lastmod>2026-02-04T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://www.davidwrites.xyz/micro/</loc>
+    <lastmod>2026-02-04T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.davidwrites.xyz/micro/calibre-web-docker-nginx/</loc>
     <lastmod>2026-02-03T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -433,11 +439,6 @@
   </url>
   <url>
     <loc>https://www.davidwrites.xyz/tech/tools/how-to-build-a-website-with-hugo/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://www.davidwrites.xyz/tech/tools/process-bookfusion-highlights/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
