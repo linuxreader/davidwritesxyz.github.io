@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2026 </copyright>
-    <lastBuildDate>Wed, 04 Feb 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://www.davidwrites.xyz/micro/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 05 Feb 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://www.davidwrites.xyz/micro/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>What to Learn After CCNA? Some Ideas</title>
+      <link>https://www.davidwrites.xyz/micro/what-to-learn-after-ccna/</link>
+      <pubDate>Thu, 05 Feb 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.davidwrites.xyz/micro/what-to-learn-after-ccna/</guid>
+      <description>What you should learn after taking the CCNA exam</description>
+      
+    </item>
     
     <item>
       <title>How to Remove Formatting From Ebook Highlights With Vim</title>

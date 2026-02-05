@@ -279,4 +279,33 @@ Come to think of it, the command module with the `systemctl` command is looking 
 
 ### Rebooting
 
-Let's look at the reboot module:
+You may need to use the reboot module for changes to take effect. The module documentation covers everything you need to know with examples:
+```
+ansible-doc reboot
+```
+
+```yaml
+---
+- name: Set default target to graphical
+  hosts: practice
+  become: yes
+  tasks:
+  - name: Link graphical.target to default.target
+    file:
+      src: /usr/lib/systemd/system/graphical.target
+      dest: /etc/systemd/system/default.target
+      state: link
+
+  - name: reboot
+    reboot:
+      test_command: whoami
+      msg: rebooting...
+
+  - name: print success message
+    debug:
+      msg: Reboot successful
+```
+
+### cron
+
+

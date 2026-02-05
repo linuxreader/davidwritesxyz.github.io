@@ -1,10 +1,11 @@
-+++
-title = 'What to Learn After CCNA'
-description = 'What you should learn after taking the CCNA exam'
-+++
+---
+title: 'What to Learn After CCNA? Some Ideas'
+summary: 'What you should learn after taking the CCNA exam'
+date: 2026-02-05
+---
 
 
-It's easy to get overwhelmed with options after [completing](Resources%20for%20Passing%20CCNA.md) your CCNA. What do you learn next? If you are trying to get a job as a Network Engineer, you will want to check this out. 
+It's easy to get overwhelmed with options after completing your CCNA. What do you learn next? 
 
 I went through dozens of job listings that mentioned CCNA. Then, tallied up the main devices/vendors, certifications, and technologies mentioned. And left out anything that wasn't mentioned more than twice.
 
@@ -76,11 +77,11 @@ It depends...
 
 Are you trying to get a new job ASAP? Are there opportunities at your current role that you can use your new skills to leverage? Do you have some study time before you are ready to take the next step?
 
-CCNP Enterprise is a good bet if you really want to stand out in Network Engineering interviews. 
+CCNP Enterprise is a good bet if you really want to stand out in Network Engineering interviews. Being able to answer CCNP level questions helped me a ton in my Network Engineer interviews. 
 
 ## Don't want to be a Network engineer?
 
-Continue to build a good base of IT skills. This will open you up to a larger variety of jobs and open skill paths that you need a good foundation to unlock. 
+You could continue to build a good base of IT skills. This will open you up to a larger variety of jobs. And also open skill paths that you need a good foundation to unlock. 
 
 Core skills include:
 - Linux/ Operating systems
@@ -88,7 +89,7 @@ Core skills include:
 - General Cybersecurity
 - Programming/ Scripting
 
-A good Linux certification like the RHCSA would be great to learn more about Linux, scripting, and operating systems. Security + would be good if you want to get a solid foundation of cyber security. And Python skills will give you a gold star in any IT interview. 
+A good Linux certification like the [RHCSA](../../notes/rhcsa-notes) would be great to learn more about Linux, scripting, and operating systems. Security+ would be good if you want to get a solid foundation of cyber security. And Python skills will give you a gold star in any IT interview. 
 
 ## Don't get paralyzed by choices.
 
