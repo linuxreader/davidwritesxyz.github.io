@@ -308,4 +308,23 @@ ansible-doc reboot
 
 ### cron
 
+I struggled a bit with the lab for this [section](../../../notes/rhce-notes/bootprocess/). I do not remember learning about service facts. Nor did I remember about the logger command. I found some useful documentation though. 
 
+Cron specific documentation:
+```
+man cron
+```
+
+```
+ansible-doc cron
+```
+
+`service_facts` module:  
+```
+ansible-doc service_facts
+```
+
+`logger` command for printing log messages:
+```
+man logger
+```

@@ -3,24 +3,9 @@ title: 'Deploying files'
 description: 'Manipulating files, SELinux, and Jinja2 templates'
 showDate: false
 ---
+## Using Modules to Manipulate Files
 
-This chapter covers the following subjects:  
-• Using Modules to Manipulate Files  
-• Managing SELinux Properties  
-• Using Jinja2 Templates  
-
-## RHCE exam topics
-
-• Use Ansible modules for system administration tasks that work with:
-• File contents
-• Use advanced Ansible features
-• Create and use templates to create customized configuration files
-
-### Using Modules to Manipulate Files
-
-#### File Module Manipulation Overview
-
-Common modules to manipulate files
+### Common modules to manipulate files
 **copy**
 - Copies files to remote locations
 **fetch**
@@ -46,8 +31,7 @@ Common modules to manipulate files
 - Performs rsync-based synchronization tasks
 **stat**
 - Retrieves file or file system status
-- enables you to retrieve file status information. 
-- gets status information and is not used to change anything
+- not used to change anything
 - use it to check specific file and perform an action if the properties are not set as expected. 
 Shows:
 - which permission mode is set,
@@ -55,19 +39,6 @@ Shows:
 - which checksum is set on the file
 - etc.
 - See `ansible-doc stat` for list of full output
-### Lab: View information about /etc/hosts file
-```yml
-- name: stat module tests
-  hosts: ansible1
-  tasks:
-  - stat:
-      path: /etc/hosts
-    register: st
-  - name: show current values
-    debug:
-      msg: current value of the st variable is {{ st }}
-
-```
 ### Lab: write a message if the expected permission mode is not set.
 ```yml
 ---
@@ -108,9 +79,9 @@ Shows:
 ```
 
 
-#### Managing File Contents 
+## Managing File Contents 
 
-Use lineinfile or blockinfile instead of copy to manage text in a file
+Use lineinfile, template, or blockinfile instead of copy to manage text in a file. 
 ### Lab: Change a string, based on a regular expression.
 
 ```yml
@@ -204,7 +175,7 @@ Use the file module to create a new directory and in that directory create an em
 
 - **state: absent** recursively removes the directory. 
 
-#### Moving Files Around
+## Moving Files Around
 
 copy module 
 copies a file from the Ansible control host to a managed machine.

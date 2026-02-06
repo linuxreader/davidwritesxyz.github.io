@@ -1,6 +1,6 @@
 ---
-title: Stop Using AI so Much
-summary: Benefits of not using AI
+title: Why I Stopped Using AI so Much
+summary: Some benefits of not using AI
 date: 2026-01-16
 ---
 ## Benefits of troubleshooting on the web BEFORE you use AI:

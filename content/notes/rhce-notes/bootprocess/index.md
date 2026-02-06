@@ -170,3 +170,47 @@ each weekday.
 • The default systemd target must be set to multi-user.target.
 • The last task should use service facts to show the current version of the cron process.
 
+```yaml
+---
+- name: cron job
+  hosts: ansible1
+  tasks:
+  - name: cron job to restart servers at 2am each weekday
+    cron:
+      name: restart servers
+      weekday: MON-FRI
+      hour: 2
+      job: "reboot"
+
+  - name: After reboot send log message to syslog
+    cron: 
+      name: Print reboot message to syslog
+      special_time: reboot
+      job: "logger Sytem rebooted"  
+
+  - name: set the default systemd target to multi-user
+    file:
+      src: /usr/lib/systemd/system/multi-user.target
+      dest: /etc/systemd/system/default.target
+      state: link  
+
+  - name: populate service facts
+    service_facts:
+
+  - name: show current version of cron process using service facts
+    debug:
+      var: ansible_facts.services['crond.service']
+
+```
+
+```bash
+❯ ansible ansible1 -a "crontab -l"
+[WARNING]: Host 'ansible1' is using the discovered Python interpreter at '/usr/bin/python3.12', but future installation of another Python interpreter could cause a different interpreter to be discovered. See https://docs.ansible.com/ansible-core/2.20/reference_appendices/interpreter_discovery.html for more information.
+ansible1 | CHANGED | rc=0 >>
+#Ansible: run on reboot
+@reboot echo rebooted at $(date) >> /tmp/rebooted
+#Ansible: restart servers
+* 2 * * MON-FRI reboot
+#Ansible: Print reboot message to syslog
+@reboot logger Sytem rebooted
+```

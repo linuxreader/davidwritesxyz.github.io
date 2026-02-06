@@ -7,7 +7,7 @@ title: rhce study calendar
 | 1   | [Ad Hoc Commands](/notes/rhce-notes/adhoccommands/index.md)                                                        | X        |          |          |
 | 2   | [ansible.cfg](../../../notes/rhce-notes/ansibleconfig/index.md)                                                    | X        |          |          |
 | 3   | [Ansible Vault](../../../notes/rhce-notes/ansiblevault/index.md)                                                   | X        |          |          |
-| 4   | [Boot Process](../../../notes/rhce-notes/bootprocess/index.md)                                                     |          |          |          |
+| 4   | [Boot Process](../../../notes/rhce-notes/bootprocess/index.md)                                                     | X        |          |          |
 | 5   | [Deploying Files](../../../notes/rhce-notes/deployingfiles/index.md)                                               |          |          |          |
 | 6   | [Handlers](../../../notes/rhce-notes/handlers/index.md)                                                            |          |          |          |
 | 7   | [Hostname Patterns](../../../notes/rhce-notes/hostnamepatterns/index.md)                                           |          |          |          |

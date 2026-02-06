@@ -179,17 +179,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://www.davidwrites.xyz/tech/tools/desktop/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://www.davidwrites.xyz/tech/tools/distrobox/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://www.davidwrites.xyz/tech/tools/editing-foliate-highlights-with-vim/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -210,11 +200,6 @@
   </url>
   <url>
     <loc>https://www.davidwrites.xyz/tech/tools/libvirt-kvm-qemu/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://www.davidwrites.xyz/tech/tools/libvirt/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -270,11 +255,6 @@
   </url>
   <url>
     <loc>https://www.davidwrites.xyz/tech/tools/vagrant-what-is-it-for/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://www.davidwrites.xyz/tech/tools/vm-creation-using-ansible/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>

@@ -10,3 +10,8 @@ qemu is a general purpose linux virtualization swiss army knife CLI, the way mos
 5. KVM is what is actually running most of your VMs, qemu is a cli for interacting with it, libvirt is a family of APIs and services for managing those interactions in a more declarative way, PVE is a... family of APIs and services for managing those interactions in a more declarative way (lol)
 6. kubevirt is a way to bridge from the k8s API down to libvirt interactions on nodes on your cluster
 qemu does other stuff, too - i use it sometimes to do architecture emulation, which isn't using KVM
+
+Commands to manage Libvirt:
+
+`virsh`
+- Manage VMs

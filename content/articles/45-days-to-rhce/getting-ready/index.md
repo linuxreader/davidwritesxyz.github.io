@@ -1,5 +1,5 @@
 ---
-title: Orientation
+title: Getting Ready
 date: 2026-02-01
 series: ["45 Days to RHCE"]
 series_order: 1
