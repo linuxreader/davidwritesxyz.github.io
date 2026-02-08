@@ -13,7 +13,7 @@ As always, if you want email updates on this series, subscribe to my newsletter:
 <script async src="https://eomail5.com/form/d9b7d338-dbf3-11f0-bae4-65187d72ac9a.js" data-form="d9b7d338-dbf3-11f0-bae4-65187d72ac9a">
 </script>
 
-RedHat provides a cheat code during the exam. Documentation. I intend to exploit that as much as I can. Cause rote memorization sucks. 
+RedHat provides a cheat code during the exam. Documentation. I intend to exploit that as much as I can. Because rote memorization sucks...
 
 I ran through topics in ABC order. Doing labs and finding the right documentation in case I need help. 
 
