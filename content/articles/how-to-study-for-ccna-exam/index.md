@@ -1,6 +1,6 @@
 ---
-title: 'How to Study for the CCNA Exam'
-summary: "Guide to how you should approach studying for the CCNA exam"
+title: 'How I Studied for the CCNA Exam'
+summary: "How I passed the CCNA exam first try."
 draft: false
 date: 2026-01-14
 tags: ["tech"]
