@@ -10,10 +10,10 @@ showDate: false
 - You cannot use IP addresses that are based only on DNS name resolving. 
 - So specifying an IP address in the playbook but not in the inventory file---assuming DNS name resolution is going to take care of the IP address resolving---doesn't work.
 
-- apart from the specified groups, there are the implicit host groups all and ungrouped. 
-- host name wildcards may be used. 
+- Apart from the specified groups, there are the implicit host groups all and ungrouped. 
+- Host name wildcards may be used. 
 	- `ansible -m ping 'ansible\*'`
-		- match all hosts that have a name starting with ansible. 
+		- Match all hosts that have a name starting with ansible. 
 		- Must put the pattern between single quotes or it will fail with a no matching hosts error. 
 	- Can be used at any place in the host name. 
 		- `ansible -m ping '\*ble1'`

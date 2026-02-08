@@ -133,7 +133,7 @@ Two methods to get Handlers to run even if a subsequent task fails:
     command: reboot
 ```
 
-5\. Run the playbook using **ansible-playbook exercise73.yaml** andobserve its result. Notice that the handler runs only if the kernel was updated. If the kernel already was at the latest version, nothing has changed and the handler does not run. Also notice that it wasn't really necessary to use **force_handlers** in the play header, but by using it anyway, at least you now know where to use it.
+5\. Run the playbook using **ansible-playbook exercise73.yaml** and observe its result. Notice that the handler runs only if the kernel was updated. If the kernel already was at the latest version, nothing has changed and the handler does not run. Also notice that it wasn't really necessary to use **force_handlers** in the play header, but by using it anyway, at least you now know where to use it.
 
 
 ### Dealing with Failures
@@ -389,5 +389,3 @@ status.
 
 - you cannot use a block on a loop. 
 - If you need to iterate over a list of values, think of using a different solution.
-
-[lab install and enable a webserver](lab%20install%20and%20enable%20a%20webserver.md)

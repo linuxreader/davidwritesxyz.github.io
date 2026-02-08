@@ -1,17 +1,44 @@
 ---
-draft: true
+title: 45 Days to RHCE - The Cheatcode
+date: 2026-02-07
+series: ["45 Days to RHCE"]
+series_order: 2
+draft: false
 ---
+![](featured.png)
 
-## Ad Hoc Commands
-https://docs.ansible.com/projects/ansible/latest/command_guide/intro_adhoc.html
+This week, I focused a lot on, "I can't remember this, [where can I find the answers?](https://www.davidwrites.xyz/micro/you-need-to-learn-man-pages/)"
 
+As always, if you want email updates on this series, subscribe to my newsletter:
+<script async src="https://eomail5.com/form/d9b7d338-dbf3-11f0-bae4-65187d72ac9a.js" data-form="d9b7d338-dbf3-11f0-bae4-65187d72ac9a">
+</script>
+
+RedHat provides a cheat code during the exam. Documentation. I intend to exploit that as much as I can. Cause rote memorization sucks. 
+
+I ran through topics in ABC order. Doing labs and finding the right documentation in case I need help. 
+
+Topics:
+- Ad Hoc commands
+- Ansible.cfg
+- Ansible Vault
+- Boot process
+- Deploying files
+- Handlers, testing, and blocks
+- Hostname patterns
+
+Click the header to each section to visit my notes for that topic. 
+## [Ad Hoc commands](https://www.davidwrites.xyz/notes/rhce-notes/adhoccommands/)
+
+Official doc [here](https://docs.ansible.com/projects/ansible/latest/command_guide/intro_adhoc.html). 
+
+The man page for the `ansible` command:  
 ```bash
 man ansible
 ```
 
-Ad Hoc commands are not a complicated topic. You can use them to gather information from a server or to make changes. Though you probably don't want to make undocumented changes from an indempotent standpoint.
+Ad Hoc commands are not a complicated topic. You can use them to gather information from a server or to make changes.
 
-These are useful for scripts. Like this one that provisions new VMS and brings them under the control of our control node:  
+These are useful for scripts. This one provisions new VMS for my lab. Then bootstraps the VMs for Ansible.
 ```bash
 #!/bin/bash
 ansible-playbook kvm_provision.yaml -e vm=podman-01 -e ip_addr=192.168.122.3 -e disk_size=31 -e vm_mac=52:54:00:a0:b0:01 &&
@@ -30,33 +57,30 @@ ansible-playbook kvm_provision.yaml -e vm=ansible3 -e ip_addr=192.168.122.7 -e d
 ansible-playbook playbooks/bootstrap.yaml   -e target=ansible3   -e ansible_user=root
 ```
 
-This may also prove useful and is linked to from the Documentation page for Ad Hoc commands: [patterns](https://docs.ansible.com/projects/ansible/latest/inventory_guide/intro_patterns.html#intro-patterns)
+## [Ansible.cfg](https://www.davidwrites.xyz/notes/rhce-notes/ansibleconfig/)
 
-
-## Ansible.cfg
-
-It's going to be important to generate and ansible.cfg file on the fly. You can get example options from the `ansible-config` command. 
+It's going to be important to generate an ansible.cfg file on the fly. You can get example options from the `ansible-config` command. 
 
 ### `ansible-config` command
 
-Useful command for viewing current ansible settings and seeing available options. 
+Useful command for viewing current Ansible settings and seeing available options. 
 
-See the man page here:
+See the man page here:  
 `man ansible-config`
 
-List available options that go in ansible.cfg file:
-`ansible-config list`
+List available options that go in **ansible.cfg** file:  
+`ansible-config list` 
 
-View your current config file:
+View your current config file:  
 `ansible-config view`
 
-View config path and other information:
+View config path and other information:  
 `ansible-config --version`
 
-Generate an ansible.cfg file with all entries commented out:
+Generate an **ansible.cfg** file with all entries commented out:  
 `ansible-config init --disabled > ansible.cfg`
 
-This prints out a large file. You'd have a lot to go through during the exam to get a workable ansible.cfg. So it's probably best to create a bare minimum working version by hand.
+This prints out a large file. You'd have a lot to go through during the exam to get a workable **ansible.cfg**. So it's probably best to create a bare minimum working version by hand.
 
 Here is what I have for my lab:
 ```yml
@@ -75,7 +99,7 @@ become_ask_pass = False
 ```
 
 
-## Ansible Vault
+## [Ansible Vault](https://www.davidwrites.xyz/notes/rhce-notes/ansiblevault/)
 
 ### `ansible-vault` command
 
@@ -91,19 +115,19 @@ echo "lima-bean" > vault-pass2
 ansible-vault create secrets2.yml --vault-password-file vault-pass2
 ```
 
-Edit the file:
+Edit the file:  
 ```
 ansible-vault edit secrets2.yml --vault-password-file vault-pass2
 ```
 
-If you have the vault listed as a variable file. Either in a playbook or under a variable folder such as: `group_vars/all/secrets2.yml`. You can list the vault password file to decrypt globally in ansible.cfg:
+If you have the vault listed as a variable file. Either in a playbook or under a variable folder such as: `group_vars/all/secrets2.yml`. You can list the vault password file to decrypt globally in **ansible.cfg**:
 ```
 vault_password_file = ~/vault-pass2
 ```
 
-You can also  add it as an option when you run `ansible-playbook` or have it in the playbook itself.
+You can also add it as an option when you run `ansible-playbook` or have it in the playbook itself.
 
-The man page also shows you how to decrypt a vault, view the contents, encrypt an existing file,  and change a vault's password.
+The man page also shows you how to decrypt a vault, view the contents, encrypt an existing file, and change a vault's password.
 
 ### Vault options for `ansible-playbook` command
 Use --help and `grep` to quickly see vault options:
@@ -119,7 +143,7 @@ $ ansible-playbook --help | grep vault
 ```
 
 ### Vault options for ansible.cfg
-Use the same strategy to quickly see vault options to set globally in ansible.cfg:
+Use the same strategy to quickly see vault options to set globally in **ansible.cfg**:
 ```bash
 $ ansible-config list | grep vault
   - This controls whether an Ansible playbook should prompt for a vault password.
@@ -149,13 +173,10 @@ $ ansible-config list | grep vault
     YAML or JSON or vaulted versions of these.
 ```
 
-
-## Boot process
-
-Managing the boot process will be more challenging because there are not modules that manage this. So a solid understanding of the boot process and systemd will be needed here. 
+## [Boot process](https://www.davidwrites.xyz/notes/rhce-notes/bootprocess/)
+Managing the boot process will be more challenging because there are no modules that manage this. A solid understanding of the boot process and **systemd** will be needed here. 
 
 ### Setting the default systemd target
-
 Say we want to change the default systemd target from multi-user.target to graphical.target.
 
 ```bash
@@ -275,10 +296,9 @@ ansible-doc file
     state: link
 ```
 
-Come to think of it, the command module with the `systemctl` command is looking a lot better now. It's good to know both methods in case the exam objectives throw you for a loop.
+Come to think of it, the command module with the `systemctl` command is looking a lot easier now. It's good to know both methods in case the exam objectives throw you for a loop.
 
 ### Rebooting
-
 You may need to use the reboot module for changes to take effect. The module documentation covers everything you need to know with examples:
 ```
 ansible-doc reboot
@@ -306,9 +326,10 @@ ansible-doc reboot
       msg: Reboot successful
 ```
 
-### cron
+### Cron
+I struggled a bit with the lab for this [section](../../../notes/rhce-notes/bootprocess/). I do not remember learning about service facts. Nor did I remember about the `logger` command. Curse me for procrastination for so long after RHCSA.
 
-I struggled a bit with the lab for this [section](../../../notes/rhce-notes/bootprocess/). I do not remember learning about service facts. Nor did I remember about the logger command. I found some useful documentation though. 
+I found some useful documentation though. 
 
 Cron specific documentation:
 ```
@@ -319,7 +340,7 @@ man cron
 ansible-doc cron
 ```
 
-`service_facts` module:  
+**service_facts** module:  
 ```
 ansible-doc service_facts
 ```
@@ -328,3 +349,83 @@ ansible-doc service_facts
 ```
 man logger
 ```
+
+## [Deploying Files](https://www.davidwrites.xyz/notes/rhce-notes/deployingfiles/)
+
+### **Stat** module
+The outputs of the stat module can be used as a variable to test files. 
+
+You can see all of the outputs at:
+```
+ansible-doc stat
+```
+
+Example from the docs:
+```yaml
+- name: Get stats of the FS object
+  ansible.builtin.stat:
+    path: /path/to/something
+  register: sym
+
+- name: Print a debug message
+  ansible.builtin.debug:
+    msg: "islnk isn't defined (path doesn't exist)"
+  when: sym.stat.islnk is not defined
+```
+
+### Tests
+Another page that will be useful to find quickly during the exam is the [tests page](https://docs.ansible.com/projects/ansible/latest/playbook_guide/playbooks_tests.html#tests). Just open the documentation site and type "tests". I may end up just opening this right away during the exam. 
+
+It's probably worth working with tests a bit. I wasn't sure exactly how to test against a bool when I tried but ended up with this:
+```yaml
+---
+- name: stat module test
+  hosts: ansible1
+  tasks:
+  - command: touch /tmp/statfile
+  - stat:
+      path: /tmp/statfile
+    register: st
+  - name: show current values
+    debug:
+      msg: current value of the st variable is {{ st }}
+  - fail:
+      msg: "File is not writeable"
+    when: not st.stat.writeable
+```
+
+The `not st.stat.writeable` threw me for a loop cause every scenario I tried thought it was a string. 
+### Modules to remember:
+**fetch** - Move a file from a the remote host to the ansible control node.  
+**synchronize** - Wrapper around `rsync` to sync files.   
+**copy** - Move a file from the control node to the managed host.  
+**lineinfile** - Copy a single line of text to a file.  
+**blockinfile** - Copy multiple lines to a file.  
+**template** - Copy templated file to the host. (indempotent)  
+**acl** - Work with system ACLs.  
+**replace** - Replaces strings in files based on regex.  
+
+## [Handlers, testing, and blocks](https://www.davidwrites.xyz/notes/rhce-notes/handlers/)
+
+A handler won't run if a task in the playbook fails. 
+
+Use **force_handlers** to make handlers run even if a tasks fails. **ignore_errors** can also accomplish this.
+
+Handlers run after the play is finished. If you have multiple plays, the handlers for the first play will run before the second play begins. 
+
+Useful doc to search: [Error handling in playbooks](https://docs.ansible.com/projects/ansible/latest/playbook_guide/playbooks_error_handling.html)
+
+The **fail** module also exists and let's you specify a clear failure message:  
+```
+ansisible-doc fail
+```
+
+A good blocks [document](https://docs.ansible.com/projects/ansible/latest/playbook_guide/playbooks_blocks.html#block-error-handling) exists and covers blocks, rescue, and always. 
+
+## [Hostname patterns](https://www.davidwrites.xyz/notes/rhce-notes/hostnamepatterns/)
+Match hosts and groups when running Ansible commands. This is useful to match a more specific set of hosts in you inventory. See [patterns.](https://docs.ansible.com/projects/ansible/latest/inventory_guide/intro_patterns.html)
+## What now?
+Getting distracted has been my biggest challenge this week. And I did not study as much as I would have liked. There are just so many other fun things to do besides study. 
+
+Next week I'll take a practice exam to gauge my progress. I think knowing problem areas will help push me forward. 
+

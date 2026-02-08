@@ -1,5 +1,5 @@
 ---
-title: Getting Ready
+title: 45 Days to RHCE - Getting Ready
 date: 2026-02-01
 series: ["45 Days to RHCE"]
 series_order: 1

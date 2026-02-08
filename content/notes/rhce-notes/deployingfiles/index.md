@@ -177,17 +177,17 @@ Use the file module to create a new directory and in that directory create an em
 
 ## Moving Files Around
 
-copy module 
-copies a file from the Ansible control host to a managed machine.
+**copy** module 
+Copies a file from the Ansible control host to a managed machine.
 
-fetch module 
-enables you to do the opposite
+**fetch** module 
+Enables you to do the opposite.
 
-synchronize module 
-performs Linux rsync-like tasks, 
-ensuring that a file from the control host is synchronized to a file with that name on the managed host. 
+**synchronize** module 
+Performs Linux rsync-like tasks.
+Ensures that a file from the control host is synchronized to a file with that name on the managed host. 
 
-copy module always creates a new file, whereas the synchronize module updates a current existing file. 
+**copy** module always creates a new file, whereas the synchronize module updates a current existing file. 
 
 ### Lab: Moving a File Around with Ansible
 
