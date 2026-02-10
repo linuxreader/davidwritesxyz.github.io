@@ -107,6 +107,22 @@ These are the summaries and notes of books I have read. I also keep a [Master Re
     </p>
   </div>
 </div>
+<div style="display:flex; gap:1rem; align-items:flex-start;">
+  <img src="100m-offers/100m-offers.png" style="width:19%; height:auto;" />
+  <div>
+    <h2 class="mb-1">
+    <a href="/notes/100m-offers/" class="hover:underline">
+     $100m Offers$
+     </a>
+    </h2>
+    <div class="text-lg">
+    ★★★★★
+    </div>
+    <p>
+     How to make an offer so good that people feel stupid saying no. This book got my gears spinning at 100m mph. Will revisit many times as I move forward with my crusades.
+    </p>
+  </div>
+</div>
 
 <div style="display:flex; gap:1rem; align-items:flex-start;">
   <img src="meditations/meditations.png" style="width:19%; height:auto;" />
