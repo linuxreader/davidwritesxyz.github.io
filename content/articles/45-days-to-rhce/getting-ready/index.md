@@ -58,7 +58,7 @@ This concept is hard to explain. But it'll look something like this:
 | 21  | [Users and Groups](../../../notes/rhce-notes/usersandgroups/index.md)                                              |          |          |          |
 | 22  | [Variables](../../../notes/rhce-notes/variables/index.md)                                                          |          |          |          |
 | 23  | [When](../../../notes/rhce-notes/when/index.md)                                                                    |          |          |          |
-| 24  | [Practice Exam](../rhce-practice-exam/index.md)                                                                    |          |          |          |
+| 24  | [Practice Exam](../crash-and-burn/index.md)                                                                    |          |          |          |
 ## Time-blocking study sessions
 This will be a new thing for me. But I am going to schedule my ideal daily study sessions and 1 longer breakout session per week. These sessions will be during the times where I am most likely to have the mental energy to study. 
 

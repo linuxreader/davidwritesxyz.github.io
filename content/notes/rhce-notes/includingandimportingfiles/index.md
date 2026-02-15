@@ -9,9 +9,9 @@ When content is included, it is dynamically processed at the moment that Ansible
 
 Files can be included and imported at different levels:
 
-• **Roles:** Roles are typically used to process a complete set of instructions provided by the role. Roles have a specific structure as well.
+**Roles:** Roles are typically used to process a complete set of instructions provided by the role. Roles have a specific structure as well.
 
-• **Playbooks:** Playbooks can be imported as a complete playbook. You cannot do this from within a play. Playbooks can be imported only at the
+**Playbooks:** Playbooks can be imported as a complete playbook. You cannot do this from within a play. Playbooks can be imported only at the
 top level of the playbook.
 
 • **Tasks:** A task file is just a list of tasks and can be imported or included in another task.

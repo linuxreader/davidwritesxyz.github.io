@@ -27,4 +27,4 @@ title: rhce study calendar
 | 21  | [Users and Groups](../../../notes/rhce-notes/usersandgroups/index.md)                                              |          |          |          |
 | 22  | [Variables](../../../notes/rhce-notes/variables/index.md)                                                          |          |          |          |
 | 23  | [When](../../../notes/rhce-notes/when/index.md)                                                                    |          |          |          |
-| 24  | [Practice Exam](../rhce-practice-exam/index.md)                                                                    |          |          |          |
+| 24  | [Practice Exam](../articles/45-days-to-rhce/crash-and-burn/index.md)                                                                    |          |          |          |
