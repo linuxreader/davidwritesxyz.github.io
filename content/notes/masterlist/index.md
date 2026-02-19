@@ -182,3 +182,4 @@ These are all the books I have read from start to finish.
 - Animal Liberation: The Definitive Classic of the Animal Movement
 - Way of the Warrior Kid: From Wimpy to Warrior the Navy SEAL Way
 - Our Final Invention: Artificial Intelligence and the End of the Human Era
+- $100m Offers
