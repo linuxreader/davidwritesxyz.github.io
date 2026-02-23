@@ -30,24 +30,29 @@ Files can be included and imported at different levels:
 - Cannot import a playbook at a task level; it needs to happen at a play level. 
 
 Playbook to Be Imported
-```yaml
-    - hosts: all
-      tasks:
-      - debug:
-          msg: running the imported play
+```bash
+$ cat debug.yaml 
+---
+- name: debug
+  hosts: all
+  tasks: 
+  - debug:
+      msg: running the imported play
+
 ```
 
 Importing a Playbook
-```yaml
-    ---
-    - name: run a task
-      hosts: all
-      tasks:
-      - debug:
-          msg: running task1
-    
-    - name: importing a playbook
-      import_playbook: listing104.yaml
+```bash
+$ cat import.yaml 
+---
+- name: run a task
+  hosts: all
+  tasks:
+  - debug:
+      msg: running task1
+
+- name: importing a playbook
+  import_playbook: debug.yaml
 ```
 
 #### Importing and Including Task Files
@@ -57,11 +62,11 @@ Importing a Playbook
 - Cannot be used with loops
 - If a variable is used to specify the name of the file to import, this cannot be a host or group inventory variable.
 - When you use a **when** statement on the entire **import_tasks** file, the conditional statements are applied to each task that is involved.
+- If task files are mainly used to make development easier by working with separate task files, they can be statically imported.
 
 **include_tasks**
 - Dynamically included at the moment they are needed. 
 - Dynamically including task files is recommended when the task file is used in a conditional statement. 
-- If task files are mainly used to make development easier by working with separate task files, they can be statically imported.
 - When you use the `ansible-playbook --list-tasks` command, tasks that are in the included tasks are not displayed.
 - Cannot use `ansible-playbook --start-at-task` to start a playbook on a task that comes from an included task file.
 - Cannot use a **notify** statement in the main playbook to trigger a handler that is in the included tasks file.
@@ -129,22 +134,16 @@ so makes it easier to delegate task management to specific users.
 
 ### Lab: Using Includes and Imports
 
-Create a simple master playbook that installs a service. The name of the service is defined in a variable file, and the
-specific tasks are included through task files.
+Create a simple master playbook that installs a service. The name of the service is defined in a variable file, and the specific tasks are included through task files.
 
-1\. Open the file exercise103-vars.yaml and define three variables as
-follows:
-
+vars.yaml
 ``` pre1
 packagename: vsftpd
 servicename: vsftpd
 firewalld_servicename: ftp
 ```
 
-2\. Create the exercise103-ftp.yaml file and give it the following
-contents to install, enable, and start the vsftpd service and also to
-make it accessible in the firewall:
-
+install, enable, and start the vsftpd service and also to make it accessible in the firewall:
 ``` pre1
 - name: install {{ packagename }}
   yum:
@@ -162,8 +161,7 @@ make it accessible in the firewall:
     state: enabled
 ```
 
-3\. Create the exercise103-copy.yaml file that manages the
-/var/ftp/pub/README file and make sure it has the following contents:
+3\. Create a file that manages the /var/ftp/pub/README file:
 
 ``` pre1
 - name: copy a file
@@ -172,9 +170,7 @@ make it accessible in the firewall:
     dest: /var/ftp/pub/README
 ```
 
-4\. Create the master playbook exercise103.yaml that includes all of
-them and give it the following contents:
-
+4\. Create the master playbook that includes all of them:
 ``` pre1
 ---
 - name: install vsftpd on ansible2
@@ -190,16 +186,12 @@ them and give it the following contents:
 5\. Run the playbook and verify its output
 
 6\. Run an ad hoc command to verify the /var/ftp/pub/README file has
-been created: **ansible ansible2 -a "cat /var/ftp/pub/README"**.
+been created: 
+```bash
+ansible ansible2 -a "cat /var/ftp/pub/README"
+```
 
-
-### End-of-Chapter Lab
-
-In the end-of-chapter lab with this chapter, you reorganize a playbook
-to work with several different files instead of one big file. Do this
-according to the instructions in Lab 10-1.
-
-### Lab 10-1
+### Lab: 
 
 The lab82.yaml file, which you can find in the GitHub repository that
 goes with this course, is an optimal candidate for optimization.
@@ -211,3 +203,86 @@ different files are used to distinguish between the different tasks.
 • Optimize this playbook such that it will run on no more than two hosts
 at the same time and completes the entire playbook on these two hosts
 before continuing with the next host.
+
+lab82.yml
+```
+---
+- name: install vsftpd
+  hosts: ansible2.example.com
+  tasks:
+  - name: get basic vsftpd operational
+    yum:
+      name: vsftpd
+      state: installed
+  - name: start and enable vsftpd
+    service:
+      name: vsftpd
+      enabled: yes
+      state: started
+  - name: open port in firewall
+    firewalld:
+      service: ftp
+      permanent: yes
+      immediate: yes
+      state: enabled
+
+- name: configure VSFTPD using a template
+  hosts: ansible2.example.com
+  vars:
+    anonymous_enable: yes
+    local_enable: yes
+    write_enable: yes
+    anon_upload_enable: yes
+  tasks:
+  - name: use template to copy FTP config
+    template:
+      src: lab82.j2
+      dest: /etc/vsftpd/vsftpd.conf
+
+- name: configure vsftpd permissions and selinux
+  hosts: ansible2.example.com
+  tasks:
+  - name: install required selinux tools
+    yum:
+      name: policycoreutils-python-utils
+      state: present
+  - name: set permissions
+    file:
+      path: /var/ftp/pub
+      mode: '0777'
+  - name: set selinux boolean
+    seboolean:
+      name: ftpd_anon_write
+      state: yes
+      persistent: yes
+  - name: manage selinux settings
+    sefcontext:
+      target: /var/ftp/pub
+      setype: public_content_rw_t
+      state: present
+    notify:
+      - run restorecon
+  handlers:
+  - name: run restorecon
+    command: restorecon -vR /var/ftp/pub
+```
+
+lab82.j2
+```
+---
+- name: configure VSFTPD using a template
+  hosts: all
+  vars:
+    anonymous_enable: yes
+    local_enable: yes
+    write_enable: yes
+    anon_upload_enable: yes
+  tasks:
+  - name: install vsftpd
+    yum:
+      name: vsftpd
+  - name: use template to copy FTP config
+    template:
+      src: vsftpd.j2
+      dest: /etc/vsftpd/vsftpd.conf
+```

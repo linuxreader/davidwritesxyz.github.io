@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2026 </copyright>
-    <lastBuildDate>Wed, 11 Feb 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://www.davidwrites.xyz/series/45-days-to-rhce/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 22 Feb 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://www.davidwrites.xyz/series/45-days-to-rhce/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>45 Days to RHCE - ansible-navigator</title>
+      <link>https://www.davidwrites.xyz/articles/45-days-to-rhce/ansible-navigator/</link>
+      <pubDate>Sun, 22 Feb 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.davidwrites.xyz/articles/45-days-to-rhce/ansible-navigator/</guid>
+      <description>&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;&#34;&#xA;    width=&#34;800&#34;&#xA;    height=&#34;400&#34;&#xA;    src=&#34;https://www.davidwrites.xyz/articles/45-days-to-rhce/ansible-navigator/featured.png&#34;&#xA;    srcset=&#34;https://www.davidwrites.xyz/articles/45-days-to-rhce/ansible-navigator/featured.png 800w, https://www.davidwrites.xyz/articles/45-days-to-rhce/ansible-navigator/featured.png 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;https://www.davidwrites.xyz/articles/45-days-to-rhce/ansible-navigator/featured.png&#34;&gt;&lt;/figure&gt;&#xA;&lt;p&gt;Really short post this week! Had no motivation to study with a cold..&lt;/p&gt;&#xA;&lt;p&gt;Learned some &lt;code&gt;ansible-navigator&lt;/code&gt; stuff. It&amp;rsquo;s a pretty neat tool. I like seeing all of a host&amp;rsquo;s our group&amp;rsquo;s variables from there.&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.davidwrites.xyz/articles/45-days-to-rhce/ansible-navigator/featured.png" />
+    </item>
     
     <item>
       <title>45 Days to RHCE - Crash and Burn</title>

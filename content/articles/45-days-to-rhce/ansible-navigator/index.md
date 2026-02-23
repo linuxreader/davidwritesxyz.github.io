@@ -1,8 +1,20 @@
-`sudo nmcli c mod enp1s0 ipv4.addr 192.168.122.3/24 ipv4.gateway 192.168.122.3 ipv4.dns 4.4.4.4,1.1.1.1 ipv4.method manual `
+---
+title: 45 Days to RHCE - ansible-navigator
+date: 2026-02-22
+series: ["45 Days to RHCE"]
+series_order: 4
+draft: false
+---
+![](featured.png)
 
-`sudo nmcli c u enp1s0`
+Really short post this week! Had no motivation to study with a cold..
 
-## `Ansible-navigator`
+Learned some `ansible-navigator` stuff. It's a pretty neat tool. I like seeing all of a host's our group's variables from there. 
+
+> [!NOTE]+ Sign up free to receive updates on this series!
+>  <script async src="https://eomail5.com/form/d9b7d338-dbf3-11f0-bae4-65187d72ac9a.js" data-form="d9b7d338-dbf3-11f0-bae4-65187d72ac9a"></script>
+
+## Ansible Navigator`
 ### ansible-navigator setup
 
 Register subscription manager
@@ -15,7 +27,7 @@ Show available subscriptions
 subscription-manager list --available
 ```
 
-Scroll down and copy the pool id
+Scroll down and copy the pool id:
 ![](Pasted%20image%2020260218041922.png)
 
 Attach to the subscription:
@@ -50,25 +62,25 @@ View subcommands
 ansible-navigator --help
 ```
 
-Run ansible-navigator
+Run:
 ```bash
 ansible-navigator
 ```
 
 ![](Pasted%20image%2020260218043647.png)
 
-Grab additional ees
+Grab additional ees:
 ```bash
 podman pull quay.io/ansible/creator-ee
 ```
 
-Ansible-navigator will detect the above automatically
+`ansible-navigator` will detect the above automatically.
 
 Use `:` to run the listed commands.
 
-`esc` to go back
+`esc` to go back.
 
-Generate config file, use tmp first so ansible-navigator doesn't try to read the file immediately:
+Generate config file, use tmp first so `ansible-navigato` doesn't try to read the file immediately:
 ```bash
 ansible-navigator settings --gs --pp never --dc false > tmp
 ```
@@ -109,34 +121,18 @@ ansible-navigator collections --eei ee-supported-rhel8
 ```
 
 ### Using ansible-navigator
-No man page for ansible-navigator.
+There is no man page for ansible-navigator!
 
-Run a playbook with output on terminal
+Run a playbook with output on terminal:
 ```bash
-cat simple.yml 
-```
-
-```yml
----
-- name: A very simple playbook
-  hosts: localhost
-  tasks:
-    - name: Print effective user running tasks
-      debug: var=ansible_user_id
-
-    - name: Print kernel release info
-      debug: var=ansible_facts['kernel']
-```
-
-```bash
-ansible-navigator run -m stdout simple.yml
+ansible-navigator run -m stdout playbook.yml
 ```
 
 The application runs in the ee container, which is running as the root inside the container.
 
-You can use all the same options for ansible-playbook when you use ansible-navigator run.
+You can use all the same options for `ansible-playbook` when you use `ansible-navigator run`.
 
-By default, ansible-navigator leaves playbook artifacts that log how the playbook run went
+By default, `ansible-navigator` leaves playbook artifacts that log how the playbook run went.
 ```bash
 # ls
 anaconda-ks.cfg
@@ -147,16 +143,16 @@ simple.yml
 
 ```
 
-Run without generating artifacts with --pae false
+Run without generating artifacts with `--pae false`:
 ```bash
 ansible-navigator run -m stdout --pae false simple.yml
 ```
 
-Navigator will not prompt for password with -K option unless you pass the -m stdout option
+Navigator will not prompt for password with `-K` option unless you pass the `-m stdout` option
 
 ### Ansible-navigator inventory
 
-Can view inventory and associated variables from the TUI
+Can view inventory and associated variables from the TUI.
 
 View inventory as a graph:
 `ansible-navigator inventory -m stdout --graph`
@@ -164,41 +160,31 @@ View inventory as a graph:
 ### ansible-navigator config
 Shows current settings as listed in ansible.cfg
 
-Search for a string
+Search for a string:
 ```bash
 :f user
 ```
 
-Clear the search
+Clear the search:
 ```bash
 :f
 ```
 
-Show config options in a pager
+Show config options in a pager:
 ```bash
 ansible-navigator config -m stdout list
 ```
 
 ### ansible-navigator exec
 
-navigator will bind mount the directory "collections" in the current working directory and install any collections listed there into the execution environment
+Navigator will bind mount the directory "collections" in the current working directory and install any collections listed there into the execution environment.
 
-pull up interactive shell in the execution environment
+Pull up interactive shell in the execution environment:
 ```bash
 ansible-navigator exec
 ```
 
 ### ansible-navigator doc
-used like ansible-doc
+Used like `ansible-doc`.
 
-## Include and import
-
-There are specific docs on docs.ansible.com for each include and import option.
-
-[Include role](https://docs.ansible.com/projects/ansible/latest/collections/ansible/builtin/include_role_module.html)
-[Include tasks](https://docs.ansible.com/projects/ansible/latest/collections/ansible/builtin/include_tasks_module.html)
-[import role](https://docs.ansible.com/projects/ansible/latest/collections/ansible/builtin/import_role_module.html)
-[Import tasks](https://docs.ansible.com/projects/ansible/latest/collections/ansible/builtin/import_tasks_module.html)
-[Import Playbooks](https://docs.ansible.com/projects/ansible/latest/collections/ansible/builtin/import_playbook_module.html)
-
-
+That's all for this week!
