@@ -117,6 +117,11 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://www.davidwrites.xyz/articles/45-days-to-rhce/week-5/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://www.davidwrites.xyz/articles/template/seo/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
