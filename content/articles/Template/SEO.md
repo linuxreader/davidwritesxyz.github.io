@@ -1,3 +1,7 @@
+---
+draft: true
+---
+
 Seo for open source
 Seo for static websites
 Seo for Hugo sites

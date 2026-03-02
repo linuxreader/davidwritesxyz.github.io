@@ -8,19 +8,9 @@ none = "none"
   weight = 20
 
 [[main]]
-  name = "Micro"
-  pageRef = "micro"
-  weight = 30
-
-[[main]]
   name = "Notes"
   pageRef = "notes"
   weight = 35
-
-[[main]]
-  name = "Support"
-  url = "https://ko-fi.com/davidwritesxyz"
-  weight = 40
 
 [[main]]
   name = "Now"
@@ -32,12 +22,6 @@ none = "none"
   name = "Contact"
   pageRef = "contact"
   weight = 60
-
-[[main]]
-  identifier = "github"
-  pre = "github"
-  url = "https://github.com/davidwritesxyz"
-  weight = 400
 
 [[footer]]
 none = "none"

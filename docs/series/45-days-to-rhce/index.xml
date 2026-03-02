@@ -2,51 +2,51 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>45 Days to RHCE on David Writes</title>
-    <link>https://www.davidwrites.xyz/series/45-days-to-rhce/</link>
+    <link>http://localhost:1313/series/45-days-to-rhce/</link>
     <description>Recent content in 45 Days to RHCE on David Writes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2026 </copyright>
-    <lastBuildDate>Sun, 22 Feb 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://www.davidwrites.xyz/series/45-days-to-rhce/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 22 Feb 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/series/45-days-to-rhce/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>45 Days to RHCE - ansible-navigator</title>
-      <link>https://www.davidwrites.xyz/articles/45-days-to-rhce/ansible-navigator/</link>
+      <link>http://localhost:1313/articles/45-days-to-rhce/ansible-navigator/</link>
       <pubDate>Sun, 22 Feb 2026 00:00:00 +0000</pubDate>
       
-      <guid>https://www.davidwrites.xyz/articles/45-days-to-rhce/ansible-navigator/</guid>
-      <description>&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;&#34;&#xA;    width=&#34;800&#34;&#xA;    height=&#34;400&#34;&#xA;    src=&#34;https://www.davidwrites.xyz/articles/45-days-to-rhce/ansible-navigator/featured.png&#34;&#xA;    srcset=&#34;https://www.davidwrites.xyz/articles/45-days-to-rhce/ansible-navigator/featured.png 800w, https://www.davidwrites.xyz/articles/45-days-to-rhce/ansible-navigator/featured.png 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;https://www.davidwrites.xyz/articles/45-days-to-rhce/ansible-navigator/featured.png&#34;&gt;&lt;/figure&gt;&#xA;&lt;p&gt;Really short post this week! Had no motivation to study with a cold..&lt;/p&gt;&#xA;&lt;p&gt;Learned some &lt;code&gt;ansible-navigator&lt;/code&gt; stuff. It&amp;rsquo;s a pretty neat tool. I like seeing all of a host&amp;rsquo;s our group&amp;rsquo;s variables from there.&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.davidwrites.xyz/articles/45-days-to-rhce/ansible-navigator/featured.png" />
+      <guid>http://localhost:1313/articles/45-days-to-rhce/ansible-navigator/</guid>
+      <description>&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;&#34;&#xA;    width=&#34;800&#34;&#xA;    height=&#34;400&#34;&#xA;    src=&#34;http://localhost:1313/articles/45-days-to-rhce/ansible-navigator/featured.png&#34;&#xA;    srcset=&#34;http://localhost:1313/articles/45-days-to-rhce/ansible-navigator/featured.png 800w, http://localhost:1313/articles/45-days-to-rhce/ansible-navigator/featured.png 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://localhost:1313/articles/45-days-to-rhce/ansible-navigator/featured.png&#34;&gt;&lt;/figure&gt;&#xA;&lt;p&gt;Really short post this week! Had no motivation to study with a cold..&lt;/p&gt;&#xA;&lt;p&gt;Learned some &lt;code&gt;ansible-navigator&lt;/code&gt; stuff. It&amp;rsquo;s a pretty neat tool. I like seeing all of a host&amp;rsquo;s our group&amp;rsquo;s variables from there.&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/articles/45-days-to-rhce/ansible-navigator/featured.png" />
     </item>
     
     <item>
       <title>45 Days to RHCE - Crash and Burn</title>
-      <link>https://www.davidwrites.xyz/articles/45-days-to-rhce/crash-and-burn/</link>
+      <link>http://localhost:1313/articles/45-days-to-rhce/crash-and-burn/</link>
       <pubDate>Wed, 11 Feb 2026 00:00:00 +0000</pubDate>
       
-      <guid>https://www.davidwrites.xyz/articles/45-days-to-rhce/crash-and-burn/</guid>
-      <description>&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;&#34;&#xA;    width=&#34;800&#34;&#xA;    height=&#34;400&#34;&#xA;    src=&#34;https://www.davidwrites.xyz/articles/45-days-to-rhce/crash-and-burn/featured.png&#34;&#xA;    srcset=&#34;https://www.davidwrites.xyz/articles/45-days-to-rhce/crash-and-burn/featured.png 800w, https://www.davidwrites.xyz/articles/45-days-to-rhce/crash-and-burn/featured.png 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;https://www.davidwrites.xyz/articles/45-days-to-rhce/crash-and-burn/featured.png&#34;&gt;&lt;/figure&gt;&#xA;&lt;p&gt;This week kicked my ass a bit.  I took a timed RHCE &lt;a href=&#34;https://www.lisenet.com/2019/ansible-sample-exam-for-ex294/&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;practice exam&lt;/a&gt; and failed miserably. After 4 hours, I was only on task 6 out of 18. After pushing for another 3 hours, then for the rest of the week..&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.davidwrites.xyz/articles/45-days-to-rhce/crash-and-burn/featured.png" />
+      <guid>http://localhost:1313/articles/45-days-to-rhce/crash-and-burn/</guid>
+      <description>&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;&#34;&#xA;    width=&#34;800&#34;&#xA;    height=&#34;400&#34;&#xA;    src=&#34;http://localhost:1313/articles/45-days-to-rhce/crash-and-burn/featured.png&#34;&#xA;    srcset=&#34;http://localhost:1313/articles/45-days-to-rhce/crash-and-burn/featured.png 800w, http://localhost:1313/articles/45-days-to-rhce/crash-and-burn/featured.png 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://localhost:1313/articles/45-days-to-rhce/crash-and-burn/featured.png&#34;&gt;&lt;/figure&gt;&#xA;&lt;p&gt;This week kicked my ass a bit.  I took a timed RHCE &lt;a href=&#34;https://www.lisenet.com/2019/ansible-sample-exam-for-ex294/&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;practice exam&lt;/a&gt; and failed miserably. After 4 hours, I was only on task 6 out of 18. After pushing for another 3 hours, then for the rest of the week..&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/articles/45-days-to-rhce/crash-and-burn/featured.png" />
     </item>
     
     <item>
       <title>45 Days to RHCE - The Cheatcode</title>
-      <link>https://www.davidwrites.xyz/articles/45-days-to-rhce/the-cheat-code/</link>
+      <link>http://localhost:1313/articles/45-days-to-rhce/the-cheat-code/</link>
       <pubDate>Sat, 07 Feb 2026 00:00:00 +0000</pubDate>
       
-      <guid>https://www.davidwrites.xyz/articles/45-days-to-rhce/the-cheat-code/</guid>
-      <description>&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;&#34;&#xA;    width=&#34;800&#34;&#xA;    height=&#34;400&#34;&#xA;    src=&#34;https://www.davidwrites.xyz/articles/45-days-to-rhce/the-cheat-code/featured.png&#34;&#xA;    srcset=&#34;https://www.davidwrites.xyz/articles/45-days-to-rhce/the-cheat-code/featured.png 800w, https://www.davidwrites.xyz/articles/45-days-to-rhce/the-cheat-code/featured.png 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;https://www.davidwrites.xyz/articles/45-days-to-rhce/the-cheat-code/featured.png&#34;&gt;&lt;/figure&gt;&#xA;&lt;p&gt;This week, I focused a lot on, &amp;ldquo;I can&amp;rsquo;t remember this, &lt;a href=&#34;https://www.davidwrites.xyz/micro/you-need-to-learn-man-pages/&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;where can I find the answers?&lt;/a&gt;&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;As always, if you want email updates on this series, subscribe to my newsletter:&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.davidwrites.xyz/articles/45-days-to-rhce/the-cheat-code/featured.png" />
+      <guid>http://localhost:1313/articles/45-days-to-rhce/the-cheat-code/</guid>
+      <description>&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;&#34;&#xA;    width=&#34;800&#34;&#xA;    height=&#34;400&#34;&#xA;    src=&#34;http://localhost:1313/articles/45-days-to-rhce/the-cheat-code/featured.png&#34;&#xA;    srcset=&#34;http://localhost:1313/articles/45-days-to-rhce/the-cheat-code/featured.png 800w, http://localhost:1313/articles/45-days-to-rhce/the-cheat-code/featured.png 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://localhost:1313/articles/45-days-to-rhce/the-cheat-code/featured.png&#34;&gt;&lt;/figure&gt;&#xA;&lt;p&gt;This week, I focused a lot on, &amp;ldquo;I can&amp;rsquo;t remember this, &lt;a href=&#34;https://www.davidwrites.xyz/micro/you-need-to-learn-man-pages/&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;where can I find the answers?&lt;/a&gt;&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;As always, if you want email updates on this series, subscribe to my newsletter:&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/articles/45-days-to-rhce/the-cheat-code/featured.png" />
     </item>
     
     <item>
       <title>45 Days to RHCE - Getting Ready</title>
-      <link>https://www.davidwrites.xyz/articles/45-days-to-rhce/getting-ready/</link>
+      <link>http://localhost:1313/articles/45-days-to-rhce/getting-ready/</link>
       <pubDate>Sun, 01 Feb 2026 00:00:00 +0000</pubDate>
       
-      <guid>https://www.davidwrites.xyz/articles/45-days-to-rhce/getting-ready/</guid>
-      <description>&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;&#34;&#xA;    width=&#34;800&#34;&#xA;    height=&#34;400&#34;&#xA;    src=&#34;https://www.davidwrites.xyz/articles/45-days-to-rhce/getting-ready/featured.png&#34;&#xA;    srcset=&#34;https://www.davidwrites.xyz/articles/45-days-to-rhce/getting-ready/featured.png 800w, https://www.davidwrites.xyz/articles/45-days-to-rhce/getting-ready/featured.png 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;https://www.davidwrites.xyz/articles/45-days-to-rhce/getting-ready/featured.png&#34;&gt;&lt;/figure&gt;&#xA;&lt;p&gt;This series is to document my final 47 days prepping for the RHCE exam. I have been using Ansible already for 11 months and have configured dozens of servers with Ansible. As a reference point.&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.davidwrites.xyz/articles/45-days-to-rhce/getting-ready/featured.png" />
+      <guid>http://localhost:1313/articles/45-days-to-rhce/getting-ready/</guid>
+      <description>&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;auto&#34;&#xA;    alt=&#34;&#34;&#xA;    width=&#34;800&#34;&#xA;    height=&#34;400&#34;&#xA;    src=&#34;http://localhost:1313/articles/45-days-to-rhce/getting-ready/featured.png&#34;&#xA;    srcset=&#34;http://localhost:1313/articles/45-days-to-rhce/getting-ready/featured.png 800w, http://localhost:1313/articles/45-days-to-rhce/getting-ready/featured.png 1280w&#34;&#xA;    sizes=&#34;(min-width: 768px) 50vw, 65vw&#34;&#xA;    data-zoom-src=&#34;http://localhost:1313/articles/45-days-to-rhce/getting-ready/featured.png&#34;&gt;&lt;/figure&gt;&#xA;&lt;p&gt;This series is to document my final 47 days prepping for the RHCE exam. I have been using Ansible already for 11 months and have configured dozens of servers with Ansible. As a reference point.&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/articles/45-days-to-rhce/getting-ready/featured.png" />
     </item>
     
   </channel>

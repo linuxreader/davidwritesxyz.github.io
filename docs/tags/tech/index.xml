@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tech on David Writes</title>
-    <link>https://www.davidwrites.xyz/tags/tech/</link>
+    <link>http://localhost:1313/tags/tech/</link>
     <description>Recent content in Tech on David Writes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2026 </copyright>
-    <lastBuildDate>Wed, 14 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://www.davidwrites.xyz/tags/tech/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 14 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/tech/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>How I Studied for the CCNA Exam</title>
-      <link>https://www.davidwrites.xyz/articles/how-to-study-for-ccna-exam/</link>
+      <link>http://localhost:1313/articles/how-to-study-for-ccna-exam/</link>
       <pubDate>Wed, 14 Jan 2026 00:00:00 +0000</pubDate>
       
-      <guid>https://www.davidwrites.xyz/articles/how-to-study-for-ccna-exam/</guid>
+      <guid>http://localhost:1313/articles/how-to-study-for-ccna-exam/</guid>
       <description>How I passed the CCNA exam first try.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.davidwrites.xyz/articles/how-to-study-for-ccna-exam/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/articles/how-to-study-for-ccna-exam/featured.png" />
     </item>
     
   </channel>
