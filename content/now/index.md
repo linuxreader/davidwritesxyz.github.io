@@ -6,10 +6,11 @@ date: 2026-01-07
 ---
 What I am up to [Now](https://nownownow.com/about).
 
-I am currently studying to get RHCE certified. I plan to pass the exam before April.
+I am currently studying to get RHCE certified. I take the exam on March 20th! 
 
-When I'm not working or spending time with the family, I am practicing drum rudiments, fiddling with a Rubix cube, or playing Starcraft 2. Also focused on eating healthy, running daily, and doing mobility work. 
+Also going for a jog every morning to warm up for the day. Building up to 20 minutes per day. 
 
+My caffeine levels have gotten a bit out of control. SO I started tapering by 5mg per day. 
 
 ### What I am reading
 {{< gallery >}}
