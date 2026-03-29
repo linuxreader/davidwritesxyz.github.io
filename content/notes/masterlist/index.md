@@ -73,6 +73,7 @@ These are all the books I have read from start to finish.
 - The Sailor Who Fell from Grace with the Sea
 - The Temple of the Golden Pavilion
 - 1Q84
+- Kafka on the Shore
 ### Martial Arts
 - Jiu-Jitsu on the Brain
 - Mastering the Rubber Guard: Jiu Jitsu for Mixed Martial Arts Competition

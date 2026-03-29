@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2026 </copyright>
-    <lastBuildDate>Thu, 05 Feb 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://www.davidwrites.xyz/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 28 Mar 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://www.davidwrites.xyz/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Now</title>
+      <link>https://www.davidwrites.xyz/now/</link>
+      <pubDate>Sat, 28 Mar 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.davidwrites.xyz/now/</guid>
+      <description>&lt;p&gt;What I am up to &lt;a href=&#34;https://nownownow.com/about&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;Now&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;After getting RHCE certified, I was planning on focusing solely on containers. But I realized there is still a lot more to grasp if I want to do Ansible the right way. So right now I am delving a bit into containers, and looking more into Ansible best practices.&lt;/p&gt;</description>
+      
+    </item>
     
     <item>
       <title>What to Learn After CCNA? Some Ideas</title>
@@ -76,16 +86,6 @@
       
       <guid>https://www.davidwrites.xyz/micro/install-ansible-using-uv/</guid>
       <description>Insall ansible using uv</description>
-      
-    </item>
-    
-    <item>
-      <title>Now</title>
-      <link>https://www.davidwrites.xyz/now/</link>
-      <pubDate>Wed, 07 Jan 2026 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.davidwrites.xyz/now/</guid>
-      <description>&lt;p&gt;What I am up to &lt;a href=&#34;https://nownownow.com/about&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;Now&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;I am currently studying to get RHCE certified. I take the exam on March 20th!&lt;/p&gt;&#xA;&lt;p&gt;Also going for a jog every morning to warm up for the day. Building up to 20 minutes per day.&lt;/p&gt;</description>
       
     </item>
     
