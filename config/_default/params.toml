@@ -41,7 +41,7 @@ showScrollToTop = true
 
 [homepage]
 layout = "page"
-showRecent = true
+showRecent = false
 showRecentItems = 5
 showMoreLink = true
 showMoreLinkDest = "/articles"
@@ -52,6 +52,7 @@ disableHeroImageFilter = false
 homepageImage = "/img/davidsquare.png"
 
 [article]
+cardView = false
 showDate = true
 showViews = true
 showLikes = true
@@ -82,14 +83,14 @@ showHero = false
 layoutBackgroundBlur = true
 layoutBackgroundHeaderSpace = true
 showBreadcrumbs = false
-showSummary = false
+showSummary = true
 showViews = false
 showLikes = false
 showTableOfContents = false
 showCards = false
 orderByWeight = false
 groupByYear = false
-cardView = true
+cardView = false
 cardViewScreenWidth = false
 constrainItemsWidth = false
 

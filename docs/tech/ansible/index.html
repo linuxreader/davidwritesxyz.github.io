@@ -738,13 +738,25 @@
     
 
     
-      
+      <section class="space-y-10 w-full">
         
-          <section class="w-full grid gap-4 sm:grid-cols-2 md:grid-cols-3">
+          
+            
             
               
-                
-                  
+
+
+
+
+
+
+
+
+  
+  
+  
+
+
 
 
 
@@ -781,12 +793,10 @@
 
 
 
-<article
-  class="article-link--card relative min-h-full min-w-full overflow-hidden rounded-lg border border-neutral-300 dark:border-neutral-600">
+<article class="article-link--simple flex flex-col md:flex-row relative">
   
-  
-  <div class="p-4">
-    <header>
+  <div class=" mt-3 md:mt-0">
+    <header class="items-center text-start text-xl font-semibold">
       <a
         
           href="/tech/ansible/rhce-practice-exam-lab/"
@@ -797,6 +807,8 @@
           
         </h2>
       </a>
+      
+      
     </header>
     <div class="text-sm text-neutral-500 dark:text-neutral-400">
       
@@ -908,12 +920,31 @@
 
     </div>
     
+      <div class="article-link__summary prose dark:prose-invert max-w-fit mt-1 line-clamp-3">
+        Configure passwordless ssh access to all servers - write an adhoc script to copy keys to other servers
+Storage has secondary disk attached Configure ansible user &ldquo;davidt&rdquo; with password for all servers. With passwordless sudo Add this to the ad hoc script Add roles path to ansible.cfg as ansible/roles Disable privillege escalation by default? Set ansible to manage 10 hosts at a time. Set davidt as ansible user VMS
+
+      </div>
+    
   </div>
   <div class="px-6 pt-4 pb-2"></div>
 </article>
 
-                
-                  
+            
+              
+
+
+
+
+
+
+
+
+  
+  
+  
+
+
 
 
 
@@ -950,12 +981,10 @@
 
 
 
-<article
-  class="article-link--card relative min-h-full min-w-full overflow-hidden rounded-lg border border-neutral-300 dark:border-neutral-600">
+<article class="article-link--simple flex flex-col md:flex-row relative">
   
-  
-  <div class="p-4">
-    <header>
+  <div class=" mt-3 md:mt-0">
+    <header class="items-center text-start text-xl font-semibold">
       <a
         
           href="/tech/ansible/nfs-setup/"
@@ -966,6 +995,8 @@
           
         </h2>
       </a>
+      
+      
     </header>
     <div class="text-sm text-neutral-500 dark:text-neutral-400">
       
@@ -1077,12 +1108,31 @@
 
     </div>
     
+      <div class="article-link__summary prose dark:prose-invert max-w-fit mt-1 line-clamp-3">
+        Server hosting the storage:
+--- - name: Install Packages package: name: - nfs-utils state: present - name: Ensure directories to export exist file: # noqa 208 path: &#34;{{ item }}&#34; state: directory with_items: &#34;{{ nfs_exports | map(&#39;split&#39;) | map(&#39;first&#39;) | unique }}&#34; - name: Copy exports file template: src: exports.j2 dest: /etc/exports owner: root group: root mode: 0644 notify: reload nfs - name: Add firewall rule to enable NFS service ansible.posix.firewalld: immediate: true state: enabled permanent: true service: nfs notify: reload firewalld - name: Start and enable NFS service service: name: nfs-server state: started enabled: yes when: nfs_exports|length &gt; 0 - name: Set SELinux boolean for NFS ansible.posix.seboolean: name: nfs_export_all_rw state: yes persistent: yes - name: install required package for sefcontext module yum: name: policycoreutils-python-utils state: present - name: Set proper SELinux context on export dir sefcontext: target: /{{ item }}(/.*)? setype: nfs_t state: present notify: run restorecon with_items: &#34;{{ nfs_exports | map(&#39;split&#39;) | map(&#39;first&#39;) | unique }}&#34; {% for host in nfs_hosts %} /data {{ host }} (rw,wdelay,root_squash,no_subtree_check,sec=sys,rw,root_squash,no_all_squash) {% endfor %} Variables: nfs_exports:
+
+      </div>
+    
   </div>
   <div class="px-6 pt-4 pb-2"></div>
 </article>
 
-                
-                  
+            
+              
+
+
+
+
+
+
+
+
+  
+  
+  
+
+
 
 
 
@@ -1119,12 +1169,10 @@
 
 
 
-<article
-  class="article-link--card relative min-h-full min-w-full overflow-hidden rounded-lg border border-neutral-300 dark:border-neutral-600">
+<article class="article-link--simple flex flex-col md:flex-row relative">
   
-  
-  <div class="p-4">
-    <header>
+  <div class=" mt-3 md:mt-0">
+    <header class="items-center text-start text-xl font-semibold">
       <a
         
           href="/tech/ansible/archive/execution-environments/"
@@ -1135,6 +1183,8 @@
           
         </h2>
       </a>
+      
+      
     </header>
     <div class="text-sm text-neutral-500 dark:text-neutral-400">
       
@@ -1246,12 +1296,31 @@
 
     </div>
     
+      <div class="article-link__summary prose dark:prose-invert max-w-fit mt-1 line-clamp-3">
+        Why use EEs?
+Portable Ansible environments includes Ansible core version All desired collections Python dependencies Bindep dependencies Anything you need to run a playbook A container that has a specific version of Ansible. Can test execution in a specific Ansible environment to make sure it will work with that version.
+
+      </div>
+    
   </div>
   <div class="px-6 pt-4 pb-2"></div>
 </article>
 
-                
-                  
+            
+              
+
+
+
+
+
+
+
+
+  
+  
+  
+
+
 
 
 
@@ -1288,12 +1357,10 @@
 
 
 
-<article
-  class="article-link--card relative min-h-full min-w-full overflow-hidden rounded-lg border border-neutral-300 dark:border-neutral-600">
+<article class="article-link--simple flex flex-col md:flex-row relative">
   
-  
-  <div class="p-4">
-    <header>
+  <div class=" mt-3 md:mt-0">
+    <header class="items-center text-start text-xl font-semibold">
       <a
         
           href="/tech/ansible/archive/ansible-builder/"
@@ -1304,6 +1371,8 @@
           
         </h2>
       </a>
+      
+      
     </header>
     <div class="text-sm text-neutral-500 dark:text-neutral-400">
       
@@ -1415,12 +1484,29 @@
 
     </div>
     
+      <div class="article-link__summary prose dark:prose-invert max-w-fit mt-1 line-clamp-3">
+        Using Ansible Builder to build an Execution Environment
+      </div>
+    
   </div>
   <div class="px-6 pt-4 pb-2"></div>
 </article>
 
-                
-                  
+            
+              
+
+
+
+
+
+
+
+
+  
+  
+  
+
+
 
 
 
@@ -1457,12 +1543,10 @@
 
 
 
-<article
-  class="article-link--card relative min-h-full min-w-full overflow-hidden rounded-lg border border-neutral-300 dark:border-neutral-600">
+<article class="article-link--simple flex flex-col md:flex-row relative">
   
-  
-  <div class="p-4">
-    <header>
+  <div class=" mt-3 md:mt-0">
+    <header class="items-center text-start text-xl font-semibold">
       <a
         
           href="/tech/ansible/archive/awx-rpm-install/"
@@ -1473,6 +1557,8 @@
           
         </h2>
       </a>
+      
+      
     </header>
     <div class="text-sm text-neutral-500 dark:text-neutral-400">
       
@@ -1584,16 +1670,22 @@
 
     </div>
     
+      <div class="article-link__summary prose dark:prose-invert max-w-fit mt-1 line-clamp-3">
+        https://awx.wiki/installation
+https://github.com/MrMEEE/awx-rpm-v2
+Error: fatal: [localhost]: FAILED! =&gt; {&ldquo;msg&rdquo;: &ldquo;Using a SSH password instead of a key is not possible because Host Key checking is enabled and sshpass does not support this. Please add this host&rsquo;s fingerprint to your known_hosts file to manage this host.&rdquo;}
+
+      </div>
+    
   </div>
   <div class="px-6 pt-4 pb-2"></div>
 </article>
 
-                
-              
             
-          </section>
+          
         
-      
+      </section>
+    
     
   
   

@@ -724,13 +724,25 @@
     
 
     
-      
+      <section class="space-y-10 w-full">
         
-          <section class="w-full grid gap-4 sm:grid-cols-2 md:grid-cols-3">
+          
+            
             
               
-                
-                  
+
+
+
+
+
+
+
+
+  
+  
+  
+
+
 
 
 
@@ -767,12 +779,10 @@
 
 
 
-<article
-  class="article-link--card relative min-h-full min-w-full overflow-hidden rounded-lg border border-neutral-300 dark:border-neutral-600">
+<article class="article-link--simple flex flex-col md:flex-row relative">
   
-  
-  <div class="p-4">
-    <header>
+  <div class=" mt-3 md:mt-0">
+    <header class="items-center text-start text-xl font-semibold">
       <a
         
           href="/tech/tools/vimguide/"
@@ -783,6 +793,8 @@
           
         </h2>
       </a>
+      
+      
     </header>
     <div class="text-sm text-neutral-500 dark:text-neutral-400">
       
@@ -894,12 +906,34 @@
 
     </div>
     
+      <div class="article-link__summary prose dark:prose-invert max-w-fit mt-1 line-clamp-3">
+        Vim (Vi Improved)
+Vim stands for vi (Improved) just like its name it stands for an improved version of the vi text editor command.
+Lightweight
+Start Vim
+vim Vim Search Patterns # Moving the Cursor # h or left arrow - move left one character k or up arrow - move up one line j or down arrow - move down one line l or right arrow - will move you right one character
+
+      </div>
+    
   </div>
   <div class="px-6 pt-4 pb-2"></div>
 </article>
 
-                
-                  
+            
+              
+
+
+
+
+
+
+
+
+  
+  
+  
+
+
 
 
 
@@ -936,12 +970,10 @@
 
 
 
-<article
-  class="article-link--card relative min-h-full min-w-full overflow-hidden rounded-lg border border-neutral-300 dark:border-neutral-600">
+<article class="article-link--simple flex flex-col md:flex-row relative">
   
-  
-  <div class="p-4">
-    <header>
+  <div class=" mt-3 md:mt-0">
+    <header class="items-center text-start text-xl font-semibold">
       <a
         
           href="/tech/tools/using-vagrant-on-linux/"
@@ -952,6 +984,8 @@
           
         </h2>
       </a>
+      
+      
     </header>
     <div class="text-sm text-neutral-500 dark:text-neutral-400">
       
@@ -1063,12 +1097,30 @@
 
     </div>
     
+      <div class="article-link__summary prose dark:prose-invert max-w-fit mt-1 line-clamp-3">
+        Vagrant is software that lets you set up multiple, pre-configured virtual machines in a flash. I am going to show you how to do this using Linux and Virtual Box. But you can do this on MacOS and Windows as well.
+
+      </div>
+    
   </div>
   <div class="px-6 pt-4 pb-2"></div>
 </article>
 
-                
-                  
+            
+              
+
+
+
+
+
+
+
+
+  
+  
+  
+
+
 
 
 
@@ -1105,12 +1157,10 @@
 
 
 
-<article
-  class="article-link--card relative min-h-full min-w-full overflow-hidden rounded-lg border border-neutral-300 dark:border-neutral-600">
+<article class="article-link--simple flex flex-col md:flex-row relative">
   
-  
-  <div class="p-4">
-    <header>
+  <div class=" mt-3 md:mt-0">
+    <header class="items-center text-start text-xl font-semibold">
       <a
         
           href="/tech/cybersecurity/the-secure-shell-service/"
@@ -1121,6 +1171,8 @@
           
         </h2>
       </a>
+      
+      
     </header>
     <div class="text-sm text-neutral-500 dark:text-neutral-400">
       
@@ -1232,12 +1284,31 @@
 
     </div>
     
+      <div class="article-link__summary prose dark:prose-invert max-w-fit mt-1 line-clamp-3">
+        The OpenSSH Service # Secure Shell (SSH)
+Delivers a secure mechanism for data transmission between source and destination systems over IP networks. Designed to replace the old remote login programs that transmitted user passwords in clear text and data unencrypted. Employs digital signatures for user authentication with encryption to secure a communication channel. this makes it extremely hard for unauthorized people to gain access to passwords or the data in transit. Monitors the data being transferred throughout a session to ensure integrity. Includes a set of utilities ssh and sftp for remote users to log in, transfer files, and execute commands securely. Common Encryption Techniques # Two common techniques: symmetric and asymetric Symmetric Technique
+
+      </div>
+    
   </div>
   <div class="px-6 pt-4 pb-2"></div>
 </article>
 
-                
-                  
+            
+              
+
+
+
+
+
+
+
+
+  
+  
+  
+
+
 
 
 
@@ -1274,12 +1345,10 @@
 
 
 
-<article
-  class="article-link--card relative min-h-full min-w-full overflow-hidden rounded-lg border border-neutral-300 dark:border-neutral-600">
+<article class="article-link--simple flex flex-col md:flex-row relative">
   
-  
-  <div class="p-4">
-    <header>
+  <div class=" mt-3 md:mt-0">
+    <header class="items-center text-start text-xl font-semibold">
       <a
         
           href="/tech/cybersecurity/the-linux-firewall/"
@@ -1290,6 +1359,8 @@
           
         </h2>
       </a>
+      
+      
     </header>
     <div class="text-sm text-neutral-500 dark:text-neutral-400">
       
@@ -1401,12 +1472,30 @@
 
     </div>
     
+      <div class="article-link__summary prose dark:prose-invert max-w-fit mt-1 line-clamp-3">
+        firewalld Zones # firewalld # The host-based firewall solution employed in RHEL uses a kernel module called netfilter together with a filtering and packet classification framework called nftables for policing the traffic movement. It also supports other advanced features such as Network Address Translation (NAT) and port forwarding. This firewall solution inspects, modifies, drops, or routes incoming, outgoing, and forwarded network packets based on defined rulesets. Default host-based firewall management service in RHEL Ability to add, modify, or delete firewall rules immediately without disrupting current network connections or restarting the service process. Also allows to save rules persistently so that they are activated automatically at system reboots. Lets you perform management operations at the command line using the firewall-cmd command, graphically using the web console, or manually by editing rules files. Stores the default rules in files located in the /usr/lib/firewalld directory, and those that contain custom rules in the /etc/firewalld directory. The default rules files may be copied to the custom rules directory and modified. firewalld Zones # Easier and transparent traffic management. Define policies based on the trust level of network connections and source IP addresses. A network connection can be part of only one zone at a time; A zone can have multiple network connections assigned to it. Zone configuration may include services, ports, and protocols that may be open or closed. May include rules for advanced configuration items such as masquerading, port forwarding, NAT&rsquo;ing, ICMP filters, and rich language. Rules for each zone are defined and manipulated independent of other zones. Match source ip to zone that matches address &gt; match based on zone the interface is in &gt; matches default zone
+
+      </div>
+    
   </div>
   <div class="px-6 pt-4 pb-2"></div>
 </article>
 
-                
-                  
+            
+              
+
+
+
+
+
+
+
+
+  
+  
+  
+
+
 
 
 
@@ -1443,12 +1532,10 @@
 
 
 
-<article
-  class="article-link--card relative min-h-full min-w-full overflow-hidden rounded-lg border border-neutral-300 dark:border-neutral-600">
+<article class="article-link--simple flex flex-col md:flex-row relative">
   
-  
-  <div class="p-4">
-    <header>
+  <div class=" mt-3 md:mt-0">
+    <header class="items-center text-start text-xl font-semibold">
       <a
         
           href="/tech/boot/system-initialization-message-logging-and-system-tuning/"
@@ -1459,6 +1546,8 @@
           
         </h2>
       </a>
+      
+      
     </header>
     <div class="text-sm text-neutral-500 dark:text-neutral-400">
       
@@ -1570,12 +1659,32 @@
 
     </div>
     
+      <div class="article-link__summary prose dark:prose-invert max-w-fit mt-1 line-clamp-3">
+        System Initialization and Service Management # systemd (system daemon)
+System initialization and service management mechanism.
+Units and targets for initialization, service administration, and state changes
+
+      </div>
+    
   </div>
   <div class="px-6 pt-4 pb-2"></div>
 </article>
 
-                
-                  
+            
+              
+
+
+
+
+
+
+
+
+  
+  
+  
+
+
 
 
 
@@ -1612,12 +1721,10 @@
 
 
 
-<article
-  class="article-link--card relative min-h-full min-w-full overflow-hidden rounded-lg border border-neutral-300 dark:border-neutral-600">
+<article class="article-link--simple flex flex-col md:flex-row relative">
   
-  
-  <div class="p-4">
-    <header>
+  <div class=" mt-3 md:mt-0">
+    <header class="items-center text-start text-xl font-semibold">
       <a
         
           href="/tech/desktop/silverblue/"
@@ -1628,6 +1735,8 @@
           
         </h2>
       </a>
+      
+      
     </header>
     <div class="text-sm text-neutral-500 dark:text-neutral-400">
       
@@ -1739,12 +1848,33 @@
 
     </div>
     
+      <div class="article-link__summary prose dark:prose-invert max-w-fit mt-1 line-clamp-3">
+        Automated setup https://universal-blue.org/
+You get all the benefits of using containers Separates system level packages from applications.
+System Level
+Desktop, kernel? Layering Apps at system level because containers aren&rsquo;t as developed yet Locks to the fedora version you are on Layered package examples # - gnome shell extensions - distrobox Uses rpm-ostree? https://coreos.github.io/rpm-ostree/administrator-handbook/
+
+      </div>
+    
   </div>
   <div class="px-6 pt-4 pb-2"></div>
 </article>
 
-                
-                  
+            
+              
+
+
+
+
+
+
+
+
+  
+  
+  
+
+
 
 
 
@@ -1781,12 +1911,10 @@
 
 
 
-<article
-  class="article-link--card relative min-h-full min-w-full overflow-hidden rounded-lg border border-neutral-300 dark:border-neutral-600">
+<article class="article-link--simple flex flex-col md:flex-row relative">
   
-  
-  <div class="p-4">
-    <header>
+  <div class=" mt-3 md:mt-0">
+    <header class="items-center text-start text-xl font-semibold">
       <a
         
           href="/tech/bash/shell-scripting/"
@@ -1797,6 +1925,8 @@
           
         </h2>
       </a>
+      
+      
     </header>
     <div class="text-sm text-neutral-500 dark:text-neutral-400">
       
@@ -1908,12 +2038,30 @@
 
     </div>
     
+      <div class="article-link__summary prose dark:prose-invert max-w-fit mt-1 line-clamp-3">
+        Shell Scripts # A group of Linux commands along with control structures and optional comments stored in a text file.
+
+      </div>
+    
   </div>
   <div class="px-6 pt-4 pb-2"></div>
 </article>
 
-                
-                  
+            
+              
+
+
+
+
+
+
+
+
+  
+  
+  
+
+
 
 
 
@@ -1950,12 +2098,10 @@
 
 
 
-<article
-  class="article-link--card relative min-h-full min-w-full overflow-hidden rounded-lg border border-neutral-300 dark:border-neutral-600">
+<article class="article-link--simple flex flex-col md:flex-row relative">
   
-  
-  <div class="p-4">
-    <header>
+  <div class=" mt-3 md:mt-0">
+    <header class="items-center text-start text-xl font-semibold">
       <a
         
           href="/tech/tools/setting-up-a-self-hosted-nextcloud-server/"
@@ -1966,6 +2112,8 @@
           
         </h2>
       </a>
+      
+      
     </header>
     <div class="text-sm text-neutral-500 dark:text-neutral-400">
       
@@ -2077,12 +2225,30 @@
 
     </div>
     
+      <div class="article-link__summary prose dark:prose-invert max-w-fit mt-1 line-clamp-3">
+        This is a step-by-step guide to setting up Nextcloud on a Debian server. You will need a server hosted by a VPS like Vultr. And a Domain hosted by a DNS provider such as Cloudflare
+
+      </div>
+    
   </div>
   <div class="px-6 pt-4 pb-2"></div>
 </article>
 
-                
-                  
+            
+              
+
+
+
+
+
+
+
+
+  
+  
+  
+
+
 
 
 
@@ -2119,12 +2285,10 @@
 
 
 
-<article
-  class="article-link--card relative min-h-full min-w-full overflow-hidden rounded-lg border border-neutral-300 dark:border-neutral-600">
+<article class="article-link--simple flex flex-col md:flex-row relative">
   
-  
-  <div class="p-4">
-    <header>
+  <div class=" mt-3 md:mt-0">
+    <header class="items-center text-start text-xl font-semibold">
       <a
         
           href="/tech/cybersecurity/security-enhanced-linux/"
@@ -2135,6 +2299,8 @@
           
         </h2>
       </a>
+      
+      
     </header>
     <div class="text-sm text-neutral-500 dark:text-neutral-400">
       
@@ -2246,12 +2412,31 @@
 
     </div>
     
+      <div class="article-link__summary prose dark:prose-invert max-w-fit mt-1 line-clamp-3">
+        SELinux Terminology # Implementation of the Mandatory Access Control (MAC) architecture
+developed by the U.S. National Security Agency (NSA) flexible, enriched, and granular security controls in Linux. integrated into the Linux kernel as a set of patches using the Linux Security Modules (LSM) framework allows the kernel to support various security implementations provides an added layer of protection above and beyond the standard Linux Discretionary Access Control (DAC) security architecture. DAC includes: traditional file and directory permissions extended attribute settings setuid/setgid bits su/sudo privileges etc. Limits the ability of a subject (Linux user or process) to access an object (file, directory, file system, device, network interface/connection, port, pipe, socket, etc.) To reduce or eliminate the potential damage the subject may be able to inflict on the system if compromised. MAC controls
+
+      </div>
+    
   </div>
   <div class="px-6 pt-4 pb-2"></div>
 </article>
 
-                
-                  
+            
+              
+
+
+
+
+
+
+
+
+  
+  
+  
+
+
 
 
 
@@ -2288,12 +2473,10 @@
 
 
 
-<article
-  class="article-link--card relative min-h-full min-w-full overflow-hidden rounded-lg border border-neutral-300 dark:border-neutral-600">
+<article class="article-link--simple flex flex-col md:flex-row relative">
   
-  
-  <div class="p-4">
-    <header>
+  <div class=" mt-3 md:mt-0">
+    <header class="items-center text-start text-xl font-semibold">
       <a
         
           href="/tech/rhce-study-calendar/"
@@ -2304,6 +2487,8 @@
           
         </h2>
       </a>
+      
+      
     </header>
     <div class="text-sm text-neutral-500 dark:text-neutral-400">
       
@@ -2415,12 +2600,29 @@
 
     </div>
     
+      <div class="article-link__summary prose dark:prose-invert max-w-fit mt-1 line-clamp-3">
+         Topic Review 1 Review 2 Review 3 1 Ad Hoc Commands X 2 ansible.cfg X 3 Ansible Vault X 4 Boot Process X 5 Deploying Files X 6 Handlers X 7 Hostname Patterns X 8 Including and Importing Files 9 Inventory 10 Jinja2 Templates 11 Loops and Items 12 Optimizing Ansible Processing 13 Packages Repositories and Subscriptions 14 Playbooks 15 Roles 16 SeLinux 17 Services 18 Storage Partitions and LVM 19 Tags 20 Troubleshooting 21 Users and Groups 22 Variables 23 When 24 Practice Exam 
+      </div>
+    
   </div>
   <div class="px-6 pt-4 pb-2"></div>
 </article>
 
-                
-                  
+            
+              
+
+
+
+
+
+
+
+
+  
+  
+  
+
+
 
 
 
@@ -2457,12 +2659,10 @@
 
 
 
-<article
-  class="article-link--card relative min-h-full min-w-full overflow-hidden rounded-lg border border-neutral-300 dark:border-neutral-600">
+<article class="article-link--simple flex flex-col md:flex-row relative">
   
-  
-  <div class="p-4">
-    <header>
+  <div class=" mt-3 md:mt-0">
+    <header class="items-center text-start text-xl font-semibold">
       <a
         
           href="/tech/tools/nextcloud-on-rhel-based-systems/"
@@ -2473,6 +2673,8 @@
           
         </h2>
       </a>
+      
+      
     </header>
     <div class="text-sm text-neutral-500 dark:text-neutral-400">
       
@@ -2584,12 +2786,31 @@
 
     </div>
     
+      <div class="article-link__summary prose dark:prose-invert max-w-fit mt-1 line-clamp-3">
+        I&rsquo;m going to show you how to set up your own, self-hosted Nextcloud server using Alma Linux 9 and Apache.
+What is Nextcloud? # Nextcloud is so many things. It offers so many features and options, it deserves a bulleted list:
+
+      </div>
+    
   </div>
   <div class="px-6 pt-4 pb-2"></div>
 </article>
 
-                
-                  
+            
+              
+
+
+
+
+
+
+
+
+  
+  
+  
+
+
 
 
 
@@ -2626,12 +2847,10 @@
 
 
 
-<article
-  class="article-link--card relative min-h-full min-w-full overflow-hidden rounded-lg border border-neutral-300 dark:border-neutral-600">
+<article class="article-link--simple flex flex-col md:flex-row relative">
   
-  
-  <div class="p-4">
-    <header>
+  <div class=" mt-3 md:mt-0">
+    <header class="items-center text-start text-xl font-semibold">
       <a
         
           href="/tech/desktop/my-fedora-setup/"
@@ -2642,6 +2861,8 @@
           
         </h2>
       </a>
+      
+      
     </header>
     <div class="text-sm text-neutral-500 dark:text-neutral-400">
       
@@ -2753,12 +2974,31 @@
 
     </div>
     
+      <div class="article-link__summary prose dark:prose-invert max-w-fit mt-1 line-clamp-3">
+        When you first download Fedora Workstation, it&rsquo;s going to be a little hard to figure out how to make it usable. Especially if you&rsquo;ve never tinkered with Linux before.
+This is because Fedora with Gnome desktop is a blank canvas. The point is to let you customize it to your needs. When I first install Fedora, I pull my justfile to install most of the programs I use:
+
+      </div>
+    
   </div>
   <div class="px-6 pt-4 pb-2"></div>
 </article>
 
-                
-                  
+            
+              
+
+
+
+
+
+
+
+
+  
+  
+  
+
+
 
 
 
@@ -2795,12 +3035,10 @@
 
 
 
-<article
-  class="article-link--card relative min-h-full min-w-full overflow-hidden rounded-lg border border-neutral-300 dark:border-neutral-600">
+<article class="article-link--simple flex flex-col md:flex-row relative">
   
-  
-  <div class="p-4">
-    <header>
+  <div class=" mt-3 md:mt-0">
+    <header class="items-center text-start text-xl font-semibold">
       <a
         
           href="/tech/desktop/learning-touch-typing/"
@@ -2811,6 +3049,8 @@
           
         </h2>
       </a>
+      
+      
     </header>
     <div class="text-sm text-neutral-500 dark:text-neutral-400">
       
@@ -2922,12 +3162,34 @@
 
     </div>
     
+      <div class="article-link__summary prose dark:prose-invert max-w-fit mt-1 line-clamp-3">
+        Using Monkey Type to get my first speedtest results:
+02/24/2025 55 WPM Learning to type with: https://www.typing.com/ https://www.typingclub.com/
+Going to be practicing on these sites: https://10fastfingers.com/ https://www.keybr.com/ https://play.typeracer.com/
+try ctrl+backspace to delete entire word
+Day 1 (1 hour) Typing club Lessons 1-41
+
+      </div>
+    
   </div>
   <div class="px-6 pt-4 pb-2"></div>
 </article>
 
-                
-                  
+            
+              
+
+
+
+
+
+
+
+
+  
+  
+  
+
+
 
 
 
@@ -2964,12 +3226,10 @@
 
 
 
-<article
-  class="article-link--card relative min-h-full min-w-full overflow-hidden rounded-lg border border-neutral-300 dark:border-neutral-600">
+<article class="article-link--simple flex flex-col md:flex-row relative">
   
-  
-  <div class="p-4">
-    <header>
+  <div class=" mt-3 md:mt-0">
+    <header class="items-center text-start text-xl font-semibold">
       <a
         
           href="/tech/tools/how-to-set-up-hugo-relearn-theme/"
@@ -2980,6 +3240,8 @@
           
         </h2>
       </a>
+      
+      
     </header>
     <div class="text-sm text-neutral-500 dark:text-neutral-400">
       
@@ -3091,12 +3353,30 @@
 
     </div>
     
+      <div class="article-link__summary prose dark:prose-invert max-w-fit mt-1 line-clamp-3">
+        Hugo Setup # Adding a module as a theme # Make sure Go is installed
+
+      </div>
+    
   </div>
   <div class="px-6 pt-4 pb-2"></div>
 </article>
 
-                
-                  
+            
+              
+
+
+
+
+
+
+
+
+  
+  
+  
+
+
 
 
 
@@ -3133,12 +3413,10 @@
 
 
 
-<article
-  class="article-link--card relative min-h-full min-w-full overflow-hidden rounded-lg border border-neutral-300 dark:border-neutral-600">
+<article class="article-link--simple flex flex-col md:flex-row relative">
   
-  
-  <div class="p-4">
-    <header>
+  <div class=" mt-3 md:mt-0">
+    <header class="items-center text-start text-xl font-semibold">
       <a
         
           href="/tech/tools/how-to-build-a-website-with-hugo/"
@@ -3149,6 +3427,8 @@
           
         </h2>
       </a>
+      
+      
     </header>
     <div class="text-sm text-neutral-500 dark:text-neutral-400">
       
@@ -3260,12 +3540,30 @@
 
     </div>
     
+      <div class="article-link__summary prose dark:prose-invert max-w-fit mt-1 line-clamp-3">
+        Word Press is great, but it is probably a lot more bloated then you need for a personal website. Enter Hugo, it has less server capacity and storage needs than Word Press. Hugo is a static site generator than takes markdown files and converts them to html.
+
+      </div>
+    
   </div>
   <div class="px-6 pt-4 pb-2"></div>
 </article>
 
-                
-                  
+            
+              
+
+
+
+
+
+
+
+
+  
+  
+  
+
+
 
 
 
@@ -3302,12 +3600,10 @@
 
 
 
-<article
-  class="article-link--card relative min-h-full min-w-full overflow-hidden rounded-lg border border-neutral-300 dark:border-neutral-600">
+<article class="article-link--simple flex flex-col md:flex-row relative">
   
-  
-  <div class="p-4">
-    <header>
+  <div class=" mt-3 md:mt-0">
+    <header class="items-center text-start text-xl font-semibold">
       <a
         
           href="/tech/tools/new-setup/"
@@ -3318,6 +3614,8 @@
           
         </h2>
       </a>
+      
+      
     </header>
     <div class="text-sm text-neutral-500 dark:text-neutral-400">
       
@@ -3429,12 +3727,30 @@
 
     </div>
     
+      <div class="article-link__summary prose dark:prose-invert max-w-fit mt-1 line-clamp-3">
+        sudo dnf -y install vim ### Make vim default sudoer editor echo &#34;Defaults editor=/usr/bin/vim&#34; | sudo tee /etc/sudoers.d/99_custom_editor ### remove password prompts when using sudo sudo sed -i &#39;s/^#\s*%wheel\s\+ALL=(ALL)\s\+NOPASSWD: ALL/%wheel ALL=(ALL) NOPASSWD: ALL/&#39; /etc/sudoers sudo sed -i &#39;s/^%wheel\s\+ALL=(ALL)\s\+ALL/# %wheel ALL=(ALL) ALL/&#39; /etc/sudoers sudo dnf -y install https://mirrors.rpmfusion.org/free/fedora/rpmfusion-free-release-$(rpm -E %fedora).noarch.rpm \ https://mirrors.rpmfusion.org/nonfree/fedora/rpmfusion-nonfree-release-$(rpm -E %fedora).noarch.rpm sudo dnf5 install &#39;dnf5-command(groupinstall)&#39; sudo dnf -y groupinstall \ &#34;Development Tools&#34; /bin/bash -c &#34;$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)&#34; echo &#39;eval &#34;$(/home/linuxbrew/.linuxbrew/bin/brew shellenv)&#34;&#39; &gt;&gt; ~/.bash_profile eval &#34;$(/home/linuxbrew/.linuxbrew/bin/brew shellenv)&#34; sudo dnf -y install ansible ansible setup vim setup.yml
+
+      </div>
+    
   </div>
   <div class="px-6 pt-4 pb-2"></div>
 </article>
 
-                
-                  
+            
+              
+
+
+
+
+
+
+
+
+  
+  
+  
+
+
 
 
 
@@ -3471,12 +3787,10 @@
 
 
 
-<article
-  class="article-link--card relative min-h-full min-w-full overflow-hidden rounded-lg border border-neutral-300 dark:border-neutral-600">
+<article class="article-link--simple flex flex-col md:flex-row relative">
   
-  
-  <div class="p-4">
-    <header>
+  <div class=" mt-3 md:mt-0">
+    <header class="items-center text-start text-xl font-semibold">
       <a
         
           href="/tech/boot/boot-process-grub2-and-kernel/"
@@ -3487,6 +3801,8 @@
           
         </h2>
       </a>
+      
+      
     </header>
     <div class="text-sm text-neutral-500 dark:text-neutral-400">
       
@@ -3598,12 +3914,30 @@
 
     </div>
     
+      <div class="article-link__summary prose dark:prose-invert max-w-fit mt-1 line-clamp-3">
+        Linux Kernel # controls everything on the system. hardware enforces security and access controls runs, schedules, and manages processes and service daemons. comprised of several modules. new kernel must be installed or an existing kernel must be upgraded when the need arises from an application or functionality standpoint. core of the Linux system. manages hardware enforces security regulates access to the system handles
+
+      </div>
+    
   </div>
   <div class="px-6 pt-4 pb-2"></div>
 </article>
 
-                
-                  
+            
+              
+
+
+
+
+
+
+
+
+  
+  
+  
+
+
 
 
 
@@ -3640,12 +3974,10 @@
 
 
 
-<article
-  class="article-link--card relative min-h-full min-w-full overflow-hidden rounded-lg border border-neutral-300 dark:border-neutral-600">
+<article class="article-link--simple flex flex-col md:flex-row relative">
   
-  
-  <div class="p-4">
-    <header>
+  <div class=" mt-3 md:mt-0">
+    <header class="items-center text-start text-xl font-semibold">
       <a
         
           href="/tech/files/file-management/"
@@ -3656,6 +3988,8 @@
           
         </h2>
       </a>
+      
+      
     </header>
     <div class="text-sm text-neutral-500 dark:text-neutral-400">
       
@@ -3767,12 +4101,30 @@
 
     </div>
     
+      <div class="article-link__summary prose dark:prose-invert max-w-fit mt-1 line-clamp-3">
+        7 File types # regular directory block special device character special device symbolic link named pipe socket Commands
+
+      </div>
+    
   </div>
   <div class="px-6 pt-4 pb-2"></div>
 </article>
 
-                
-                  
+            
+              
+
+
+
+
+
+
+
+
+  
+  
+  
+
+
 
 
 
@@ -3809,12 +4161,10 @@
 
 
 
-<article
-  class="article-link--card relative min-h-full min-w-full overflow-hidden rounded-lg border border-neutral-300 dark:border-neutral-600">
+<article class="article-link--simple flex flex-col md:flex-row relative">
   
-  
-  <div class="p-4">
-    <header>
+  <div class=" mt-3 md:mt-0">
+    <header class="items-center text-start text-xl font-semibold">
       <a
         
           href="/tech/bash/bash-shell/"
@@ -3825,6 +4175,8 @@
           
         </h2>
       </a>
+      
+      
     </header>
     <div class="text-sm text-neutral-500 dark:text-neutral-400">
       
@@ -3936,12 +4288,30 @@
 
     </div>
     
+      <div class="article-link__summary prose dark:prose-invert max-w-fit mt-1 line-clamp-3">
+        My name is Marcel and I&rsquo;m partially a shell.. # A shell is a program that takes commands and passes them to the operating system.^1^ This is done via terminal emulator with keyboard commands or by using scripts ran on the system. There are many shell programs that you can use on Linux. Almost all Linux distributions come with a shell called Bash. Some others include zsh, fsh, ksh, and Tcsh. (But not limited to)
+
+      </div>
+    
   </div>
   <div class="px-6 pt-4 pb-2"></div>
 </article>
 
-                
-                  
+            
+              
+
+
+
+
+
+
+
+
+  
+  
+  
+
+
 
 
 
@@ -3978,12 +4348,10 @@
 
 
 
-<article
-  class="article-link--card relative min-h-full min-w-full overflow-hidden rounded-lg border border-neutral-300 dark:border-neutral-600">
+<article class="article-link--simple flex flex-col md:flex-row relative">
   
-  
-  <div class="p-4">
-    <header>
+  <div class=" mt-3 md:mt-0">
+    <header class="items-center text-start text-xl font-semibold">
       <a
         
           href="/tech/ansible/"
@@ -3994,6 +4362,8 @@
           
         </h2>
       </a>
+      
+      
     </header>
     <div class="text-sm text-neutral-500 dark:text-neutral-400">
       
@@ -4103,12 +4473,29 @@
 
     </div>
     
+      <div class="article-link__summary prose dark:prose-invert max-w-fit mt-1 line-clamp-3">
+        
+      </div>
+    
   </div>
   <div class="px-6 pt-4 pb-2"></div>
 </article>
 
-                
-                  
+            
+              
+
+
+
+
+
+
+
+
+  
+  
+  
+
+
 
 
 
@@ -4145,12 +4532,10 @@
 
 
 
-<article
-  class="article-link--card relative min-h-full min-w-full overflow-hidden rounded-lg border border-neutral-300 dark:border-neutral-600">
+<article class="article-link--simple flex flex-col md:flex-row relative">
   
-  
-  <div class="p-4">
-    <header>
+  <div class=" mt-3 md:mt-0">
+    <header class="items-center text-start text-xl font-semibold">
       <a
         
           href="/tech/files/advanced-file-management/"
@@ -4161,6 +4546,8 @@
           
         </h2>
       </a>
+      
+      
     </header>
     <div class="text-sm text-neutral-500 dark:text-neutral-400">
       
@@ -4272,12 +4659,31 @@
 
     </div>
     
+      <div class="article-link__summary prose dark:prose-invert max-w-fit mt-1 line-clamp-3">
+        Permission Classes and Types # Permission classes
+user (u) group (g) other (o) (public) all (a) &lt;- all combined Permission types
+
+      </div>
+    
   </div>
   <div class="px-6 pt-4 pb-2"></div>
 </article>
 
-                
-                  
+            
+              
+
+
+
+
+
+
+
+
+  
+  
+  
+
+
 
 
 
@@ -4314,12 +4720,10 @@
 
 
 
-<article
-  class="article-link--card relative min-h-full min-w-full overflow-hidden rounded-lg border border-neutral-300 dark:border-neutral-600">
+<article class="article-link--simple flex flex-col md:flex-row relative">
   
-  
-  <div class="p-4">
-    <header>
+  <div class=" mt-3 md:mt-0">
+    <header class="items-center text-start text-xl font-semibold">
       <a
         
           href="/tech/turning-your-goals-into-a-business-game/"
@@ -4330,6 +4734,8 @@
           
         </h2>
       </a>
+      
+      
     </header>
     <div class="text-sm text-neutral-500 dark:text-neutral-400">
       
@@ -4441,12 +4847,32 @@
 
     </div>
     
+      <div class="article-link__summary prose dark:prose-invert max-w-fit mt-1 line-clamp-3">
+        Have a goal?
+Teach people to achieve that goal while you are working toward achieving it.
+Proposition the goal. See if other people would buy the lessons you are learning by making public posts pre-selling your offer.
+
+      </div>
+    
   </div>
   <div class="px-6 pt-4 pb-2"></div>
 </article>
 
-                
-                  
+            
+              
+
+
+
+
+
+
+
+
+  
+  
+  
+
+
 
 
 
@@ -4483,12 +4909,10 @@
 
 
 
-<article
-  class="article-link--card relative min-h-full min-w-full overflow-hidden rounded-lg border border-neutral-300 dark:border-neutral-600">
+<article class="article-link--simple flex flex-col md:flex-row relative">
   
-  
-  <div class="p-4">
-    <header>
+  <div class=" mt-3 md:mt-0">
+    <header class="items-center text-start text-xl font-semibold">
       <a
         
           href="/tech/tools/vs_codium/"
@@ -4499,6 +4923,8 @@
           
         </h2>
       </a>
+      
+      
     </header>
     <div class="text-sm text-neutral-500 dark:text-neutral-400">
       
@@ -4610,12 +5036,32 @@
 
     </div>
     
+      <div class="article-link__summary prose dark:prose-invert max-w-fit mt-1 line-clamp-3">
+        https://github.com/VSCodium VScode but without the Microsoft Telemetry
+See section about migrating from VScod to VS codium https://github.com/VSCodium/vscodium/blob/a02839b466d8d01b8a61ea9611f0b74039538eae/DOCS.md#migrating-from-visual-studio-code-to-vscodium.
+It pulls from this server rather than Microsoft&rsquo;s: https://open-vsx.org/. And you can manually download the extensions from microsoft https://marketplace.visualstudio.com/vscode if they haven&rsquo;t been added to open-vsx.org yet.
+
+      </div>
+    
   </div>
   <div class="px-6 pt-4 pb-2"></div>
 </article>
 
-                
-                  
+            
+              
+
+
+
+
+
+
+
+
+  
+  
+  
+
+
 
 
 
@@ -4652,12 +5098,10 @@
 
 
 
-<article
-  class="article-link--card relative min-h-full min-w-full overflow-hidden rounded-lg border border-neutral-300 dark:border-neutral-600">
+<article class="article-link--simple flex flex-col md:flex-row relative">
   
-  
-  <div class="p-4">
-    <header>
+  <div class=" mt-3 md:mt-0">
+    <header class="items-center text-start text-xl font-semibold">
       <a
         
           href="/tech/tools/vagrant-what-is-it-for/"
@@ -4668,6 +5112,8 @@
           
         </h2>
       </a>
+      
+      
     </header>
     <div class="text-sm text-neutral-500 dark:text-neutral-400">
       
@@ -4779,12 +5225,30 @@
 
     </div>
     
+      <div class="article-link__summary prose dark:prose-invert max-w-fit mt-1 line-clamp-3">
+        We are sick of manually setting up virtual machines and configuring them. You can use Ansible to automate the configuration of a server. But what about setting up a server before it&rsquo;s configured? Let&rsquo;s stop doing that manually as well by using Vagrant.
+
+      </div>
+    
   </div>
   <div class="px-6 pt-4 pb-2"></div>
 </article>
 
-                
-                  
+            
+              
+
+
+
+
+
+
+
+
+  
+  
+  
+
+
 
 
 
@@ -4821,12 +5285,10 @@
 
 
 
-<article
-  class="article-link--card relative min-h-full min-w-full overflow-hidden rounded-lg border border-neutral-300 dark:border-neutral-600">
+<article class="article-link--simple flex flex-col md:flex-row relative">
   
-  
-  <div class="p-4">
-    <header>
+  <div class=" mt-3 md:mt-0">
+    <header class="items-center text-start text-xl font-semibold">
       <a
         
           href="/tech/tools/tmuxbook/"
@@ -4837,6 +5299,8 @@
           
         </h2>
       </a>
+      
+      
     </header>
     <div class="text-sm text-neutral-500 dark:text-neutral-400">
       
@@ -4948,12 +5412,31 @@
 
     </div>
     
+      <div class="article-link__summary prose dark:prose-invert max-w-fit mt-1 line-clamp-3">
+        Links: https://git.jharmison.com/james/dotfiles/src/branch/master/.tmux.conf https://www.youtube.com/watch?v=nTqu6w2wc68 https://www.youtube.com/watch?v=DzNmUNvnB04 https://www.youtube.com/watch?v=Yl7NFenTgIo https://github.com/alacritty/alacritty https://github.com/rothgar/awesome-tmux https://www.youtube.com/watch?v=GH3kpsbbERo https://git.jharmison.com/james/dotfiles/src/branch/master/.config/alacritty/alacritty.toml#L41
+tmux 2 # Productive Mouse-Free Development # easily manage a text editor, a database console, and a local web server within a single environment.
+
+      </div>
+    
   </div>
   <div class="px-6 pt-4 pb-2"></div>
 </article>
 
-                
-                  
+            
+              
+
+
+
+
+
+
+
+
+  
+  
+  
+
+
 
 
 
@@ -4990,12 +5473,10 @@
 
 
 
-<article
-  class="article-link--card relative min-h-full min-w-full overflow-hidden rounded-lg border border-neutral-300 dark:border-neutral-600">
+<article class="article-link--simple flex flex-col md:flex-row relative">
   
-  
-  <div class="p-4">
-    <header>
+  <div class=" mt-3 md:mt-0">
+    <header class="items-center text-start text-xl font-semibold">
       <a
         
           href="/tech/tools/skaffold/"
@@ -5006,6 +5487,8 @@
           
         </h2>
       </a>
+      
+      
     </header>
     <div class="text-sm text-neutral-500 dark:text-neutral-400">
       
@@ -5117,12 +5600,31 @@
 
     </div>
     
+      <div class="article-link__summary prose dark:prose-invert max-w-fit mt-1 line-clamp-3">
+        Skaffold watches for code changes in a repo and builds, tests, and deployes and application in Kubernetes
+What questions are they asking? Headline melding. # How can I validate the structure of a container image?
+
+      </div>
+    
   </div>
   <div class="px-6 pt-4 pb-2"></div>
 </article>
 
-                
-                  
+            
+              
+
+
+
+
+
+
+
+
+  
+  
+  
+
+
 
 
 
@@ -5159,12 +5661,10 @@
 
 
 
-<article
-  class="article-link--card relative min-h-full min-w-full overflow-hidden rounded-lg border border-neutral-300 dark:border-neutral-600">
+<article class="article-link--simple flex flex-col md:flex-row relative">
   
-  
-  <div class="p-4">
-    <header>
+  <div class=" mt-3 md:mt-0">
+    <header class="items-center text-start text-xl font-semibold">
       <a
         
           href="/tech/tools/serial-in-on-linux/"
@@ -5175,6 +5675,8 @@
           
         </h2>
       </a>
+      
+      
     </header>
     <div class="text-sm text-neutral-500 dark:text-neutral-400">
       
@@ -5286,16 +5788,22 @@
 
     </div>
     
+      <div class="article-link__summary prose dark:prose-invert max-w-fit mt-1 line-clamp-3">
+        Using GTKterm app
+Find out what port your serial cable is plugged into:
+dthomas@lgfedora:~$ dmesg | grep tty [ 0.119494] printk: console [tty0] enabled [ 1.591268] serial8250: ttyS0 at I/O 0x3f8 (irq = 4, base_baud = 115200) is a 16550A [ 7.707751] systemd[1]: Created slice system-getty.slice - Slice /system/getty. [ 7.708786] systemd[1]: Reached target getty.target - Login Prompts. [ 424.829380] usb 3-6: FTDI USB Serial Device converter now attached to ttyUSB0 [ 498.255356] ftdi_sio ttyUSB0: FTDI USB Serial Device converter now disconnected from ttyUSB0 [ 499.952411] usb 3-4: FTDI USB Serial Device converter now attached to ttyUSB0 [ 1020.298236] ftdi_sio ttyUSB0: FTDI USB Serial Device converter now disconnected from ttyUSB0 [ 1022.774544] usb 3-6: FTDI USB Serial Device converter now attached to ttyUSB0 [ 1115.380773] ftdi_sio ttyUSB0: FTDI USB Serial Device converter now disconnected from ttyUSB0 [ 1117.430371] usb 3-4: FTDI USB Serial Device converter now attached to ttyUSB0 See last line that says &ldquo;now attached&rdquo;
+
+      </div>
+    
   </div>
   <div class="px-6 pt-4 pb-2"></div>
 </article>
 
-                
-              
             
-          </section>
+          
         
-      
+      </section>
+    
     
   
   
