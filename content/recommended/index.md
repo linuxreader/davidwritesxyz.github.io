@@ -23,6 +23,7 @@ showTableOfContents: true
  <img src="kots.jpg" class="grid-w20 cursor-pointer" onclick="event.stopPropagation(); window.open('https://amzn.to/422sejj','_blank'); return false;" />
  <img src="nw.jpg" class="grid-w20 cursor-pointer" onclick="event.stopPropagation(); window.open('https://amzn.to/4sGFzIA','_blank'); return false;" />
  <img src="ta.jpg" class="grid-w20 cursor-pointer" onclick="event.stopPropagation(); window.open('https://amzn.to/48cphA2','_blank'); return false;" />
+ <img src="theprophet.jpg" class="grid-w20 cursor-pointer" onclick="event.stopPropagation(); window.open('https://amzn.to/4ch83E4','_blank'); return false;" />
 {{< /gallery >}}
 
 ## Writing
@@ -74,12 +75,38 @@ showTableOfContents: true
   <img src="bold.jpg" class="grid-w20 cursor-pointer" onclick="event.stopPropagation(); window.open('https://amzn.to/48v3YtN','_blank'); return false;" />
   <img src="tsaongaf.jpg" class="grid-w20 cursor-pointer" onclick="event.stopPropagation(); window.open('https://amzn.to/41E4mSO','_blank'); return false;" />
   <img src="blink.jpg" class="grid-w20 cursor-pointer" onclick="event.stopPropagation(); window.open('https://amzn.to/4tYpPlv','_blank'); return false;" />
+  <img src="emergency.jpg" class="grid-w20 cursor-pointer" onclick="event.stopPropagation(); window.open('https://amzn.to/4dVZkIL','_blank'); return false;" />
+  <img src="tpon.jpg" class="grid-w20 cursor-pointer" onclick="event.stopPropagation(); window.open('https://amzn.to/4dXbXDg','_blank'); return false;" />
+  <img src="tspose.jpg" class="grid-w20 cursor-pointer" onclick="event.stopPropagation(); window.open('https://amzn.to/4sO6XVp','_blank'); return false;" />
+  <img src="wygtya.jpg" class="grid-w20 cursor-pointer" onclick="event.stopPropagation(); window.open('https://amzn.to/3OAPW2J','_blank'); return false;" />
+  <img src="eo.jpg" class="grid-w20 cursor-pointer" onclick="event.stopPropagation(); window.open('https://amzn.to/4tjRKw6','_blank'); return false;" />
+  <img src="flow.jpg" class="grid-w20 cursor-pointer" onclick="event.stopPropagation(); window.open('https://amzn.to/3QOWUSo','_blank'); return false;" />
+  <img src="influence.jpg" class="grid-w20 cursor-pointer" onclick="event.stopPropagation(); window.open('https://amzn.to/4cuzTLP','_blank'); return false;" />
+  <img src="10ph.jpg" class="grid-w20 cursor-pointer" onclick="event.stopPropagation(); window.open('https://amzn.to/3OubTk8','_blank'); return false;" />
+  <img src="tagr.jpg" class="grid-w20 cursor-pointer" onclick="event.stopPropagation(); window.open('https://amzn.to/42iqhPA','_blank'); return false;" />
+  <img src="outliers.jpg" class="grid-w20 cursor-pointer" onclick="event.stopPropagation(); window.open('https://amzn.to/4tX3Fjy','_blank'); return false;" />
+  <img src="dmt.jpg" class="grid-w20 cursor-pointer" onclick="event.stopPropagation(); window.open('https://amzn.to/489ITVq','_blank'); return false;" />
+  <img src="htwfaip.jpg" class="grid-w20 cursor-pointer" onclick="event.stopPropagation(); window.open('https://amzn.to/4cEg9ph','_blank'); return false;" />
+  <img src="ttp.jpg" class="grid-w20 cursor-pointer" onclick="event.stopPropagation(); window.open('https://https://amzn.to/4er2YdK','_blank'); return false;" />
+  <img src="dag.jpg" class="grid-w20 cursor-pointer" onclick="event.stopPropagation(); window.open('https://amzn.to/4vzSlvv','_blank'); return false;" />
 {{< /gallery >}}
 
 ## Health and Fitness
 {{< gallery >}}
   <img src="caffeineblues.png" class="grid-w20 cursor-pointer" onclick="event.stopPropagation(); window.open('https://amzn.to/4clmZBc','_blank'); return false;" />
   <img src="easywaytoquitcaffeine.png" class="grid-w20 cursor-pointer" onclick="event.stopPropagation(); window.open('https://amzn.to/3OrEkiG','_blank'); return false;" />
+  <img src="toc.jpg" class="grid-w20 cursor-pointer" onclick="event.stopPropagation(); window.open('https://amzn.to/48Qo7dB','_blank'); return false;" />
+  <img src="mifp.jpg" class="grid-w20 cursor-pointer" onclick="event.stopPropagation(); window.open('https://amzn.to/48cGLwd','_blank'); return false;" />
+  <img src="wws.jpg" class="grid-w20 cursor-pointer" onclick="event.stopPropagation(); window.open('https://amzn.to/4vuxOIu','_blank'); return false;" />
+  <img src="deskbound.jpg" class="grid-w20 cursor-pointer" onclick="event.stopPropagation(); window.open('https://amzn.to/4sO9uyT','_blank'); return false;" />
+  <img src="rtr.jpg" class="grid-w20 cursor-pointer" onclick="event.stopPropagation(); window.open('https://amzn.to/3QOZUOE','_blank'); return false;" />
+  <img src="531.jpg" class="grid-w20 cursor-pointer" onclick="event.stopPropagation(); window.open('https://amzn.to/4cAYLS8','_blank'); return false;" />
+  <img src="sb.jpg" class="grid-w20 cursor-pointer" onclick="event.stopPropagation(); window.open('https://amzn.to/3OrOf7U','_blank'); return false;" />
+  <img src="tss.jpg" class="grid-w20 cursor-pointer" onclick="event.stopPropagation(); window.open('https://amzn.to/4dSj9R6','_blank'); return false;" />
+  <img src="ttptw.png" class="grid-w20 cursor-pointer" onclick="event.stopPropagation(); window.open('https://amzn.to/4tYhMVL,'_blank'); return false;" />
+  <img src="basl.jpg" class="grid-w20 cursor-pointer" onclick="event.stopPropagation(); window.open('https://amzn.to/41I78qe','_blank'); return false;" />
+  <img src="hntd.jpg" class="grid-w20 cursor-pointer" onclick="event.stopPropagation(); window.open('https://amzn.to/4cjxvJ5','_blank'); return false;" />
+  <img src="btm.jpg" class="grid-w20 cursor-pointer" onclick="event.stopPropagation(); window.open('https://amzn.to/4u1ynIu','_blank'); return false;" />
 {{< /gallery >}}
 
 ## Money
@@ -89,11 +116,28 @@ showTableOfContents: true
   <img src="milliondollarweekend.png" class="grid-w20 cursor-pointer" onclick="event.stopPropagation(); window.open('https://amzn.to/4sHnnP6','_blank'); return false;" />
   <img src="anythingyouwant.png" class="grid-w20 cursor-pointer" onclick="event.stopPropagation(); window.open('https://amzn.to/3QNXSyh','_blank'); return false;" />
   <img src="blogstartup.png" class="grid-w20 cursor-pointer" onclick="event.stopPropagation(); window.open('https://amzn.to/4sIPLAE','_blank'); return false;" />
+  <img src="wotih.jpg" class="grid-w20 cursor-pointer" onclick="event.stopPropagation(); window.open('https://amzn.to/4tn893d','_blank'); return false;" />
+  <img src="wrpkadwtks.jpg" class="grid-w20 cursor-pointer" onclick="event.stopPropagation(); window.open('https://amzn.to/4clhZMX','_blank'); return false;" />
+  <img src="tmf.jpg" class="grid-w20 cursor-pointer" onclick="event.stopPropagation(); window.open('https://amzn.to/4mBSrP7','_blank'); return false;" />
+  <img src="trmib.jpg" class="grid-w20 cursor-pointer" onclick="event.stopPropagation(); window.open('https://amzn.to/4toXkxs','_blank'); return false;" />
+  <img src="tmnd.jpg" class="grid-w20 cursor-pointer" onclick="event.stopPropagation(); window.open('https://amzn.to/4cmj1Ix','_blank'); return false;" />
+  <img src="htgr.jpg" class="grid-w20 cursor-pointer" onclick="event.stopPropagation(); window.open('https://amzn.to/4vJl6G8','_blank'); return false;" />
+  <img src="iwtytbr.jpg" class="grid-w20 cursor-pointer" onclick="event.stopPropagation(); window.open('https://amzn.to/4vEKAUW','_blank'); return false;" />
+  <img src="t4hww.jpg" class="grid-w20 cursor-pointer" onclick="event.stopPropagation(); window.open('https://amzn.to/3OaeMqg','_blank'); return false;" />
+  <img src="unscripted.jpg" class="grid-w20 cursor-pointer" onclick="event.stopPropagation(); window.open('https://amzn.to/48Uiv20','_blank'); return false;" />
 {{< /gallery >}}
 
 ## Dating & Relationships
 {{< gallery >}}
   <img src="therelationshiphandbook.png" class="grid-w20 cursor-pointer" onclick="event.stopPropagation(); window.open('https://amzn.to/4vJ9J0U','_blank'); return false;" />
+  <img src="cpa.jpg" class="grid-w20 cursor-pointer" onclick="event.stopPropagation(); window.open('https://amzn.to/3OP9MYc','_blank'); return false;" />
+  <img src="trq.jpg" class="grid-w20 cursor-pointer" onclick="event.stopPropagation(); window.open('https://amzn.to/3ORYlit','_blank'); return false;" />
+  <img src="scf.jpg" class="grid-w20 cursor-pointer" onclick="event.stopPropagation(); window.open('https://amzn.to/48eu8ki','_blank'); return false;" />
+  <img src="tg.jpg" class="grid-w20 cursor-pointer" onclick="event.stopPropagation(); window.open('https://amzn.to/3OLtjc2','_blank'); return false;" />
+  <img src="dstwsyb.jpg" class="grid-w20 cursor-pointer" onclick="event.stopPropagation(); window.open('https://amzn.to/41HIE0k','_blank'); return false;" />
+  <img src="tn.jpg" class="grid-w20 cursor-pointer" onclick="event.stopPropagation(); window.open('https://amzn.to/4ev3WFJ','_blank'); return false;" />
+  <img src="thetruth.jpg" class="grid-w20 cursor-pointer" onclick="event.stopPropagation(); window.open('https://amzn.to/48FFiP4','_blank'); return false;" />
+  <img src="models.jpg" class="grid-w20 cursor-pointer" onclick="event.stopPropagation(); window.open('https://amzn.to/4cXAQNd','_blank'); return false;" />
 {{< /gallery >}}
 
 ## Parenting
@@ -109,15 +153,24 @@ showTableOfContents: true
 
 ## History
 {{< gallery >}}
+<img src="u731t.jpg" class="grid-w20 cursor-pointer" onclick="event.stopPropagation(); window.open('https://amzn.to/4cmDxZq','_blank'); return false;" />
+<img src="night.jpg" class="grid-w20 cursor-pointer" onclick="event.stopPropagation(); window.open('https://amzn.to/42gc9pY','_blank'); return false;" />
+<img src="as.jpg" class="grid-w20 cursor-pointer" onclick="event.stopPropagation(); window.open('https://amzn.to/4cmjNVX','_blank'); return false;" />
 {{< /gallery >}}
 
 ## Dog Training
 {{< gallery >}}
   <img src="positivedogtraining.png" class="grid-w20 cursor-pointer" onclick="event.stopPropagation(); window.open('https://amzn.to/3Os0JfO','_blank'); return false;" />
+  <img src="stop.jpg" class="grid-w20 cursor-pointer" onclick="event.stopPropagation(); window.open('https://amzn.to/4cjN0AK','_blank'); return false;" />
+  <img src="tcc.jpg" class="grid-w20 cursor-pointer" onclick="event.stopPropagation(); window.open('https://amzn.to/4tkYnyi','_blank'); return false;" />
 {{< /gallery >}}
 
 ## Martial Arts
 {{< gallery >}}
+ <img src="jotb.jpg" class="grid-w20 cursor-pointer" onclick="event.stopPropagation(); window.open('https://amzn.to/4cpJXpi','_blank'); return false;" />
+ <img src="mtrg.jpg" class="grid-w20 cursor-pointer" onclick="event.stopPropagation(); window.open('https://amzn.to/4dSlbAI','_blank'); return false;" />
+ <img src="tpitc.jpg" class="grid-w20 cursor-pointer" onclick="event.stopPropagation(); window.open('https://amzn.to/42d0cS2','_blank'); return false;" />
+ <img src="rousey.jpg" class="grid-w20 cursor-pointer" onclick="event.stopPropagation(); window.open('https://amzn.to/4toY1a6','_blank'); return false;" />
 {{< /gallery >}}
 
 ## Audio Books
