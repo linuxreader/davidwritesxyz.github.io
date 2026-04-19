@@ -8,8 +8,8 @@ none = "none"
   weight = 20
 
 [[main]]
-  name = "Notes"
-  pageRef = "notes"
+  name = "Recommended"
+  pageRef = "recommended"
   weight = 35
 
 [[main]]

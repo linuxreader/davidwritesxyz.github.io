@@ -27,8 +27,26 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://www.davidwrites.xyz/articles/</loc>
+    <lastmod>2026-02-04T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.davidwrites.xyz/articles/drafts/remove-formatting-from-highlights/</loc>
+    <lastmod>2026-02-04T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://www.davidwrites.xyz/micro/remove-formatting-from-highlights/</loc>
     <lastmod>2026-02-04T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.davidwrites.xyz/articles/drafts/calibre-web-docker-nginx/</loc>
+    <lastmod>2026-02-03T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -45,8 +63,26 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://www.davidwrites.xyz/articles/automate-kvm-vms/</loc>
+    <lastmod>2026-01-22T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.davidwrites.xyz/articles/drafts/proxmox-ha-proxy-setup/</loc>
+    <lastmod>2026-01-17T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://www.davidwrites.xyz/micro/proxmox-pfsense-haproxy-setup/</loc>
     <lastmod>2026-01-17T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.davidwrites.xyz/articles/drafts/stop-using-ai/</loc>
+    <lastmod>2026-01-16T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -63,12 +99,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://www.davidwrites.xyz/articles/</loc>
-    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://www.davidwrites.xyz/articles/how-to-reduce-headaches-naturally/</loc>
     <lastmod>2026-01-01T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -77,6 +107,201 @@
   <url>
     <loc>https://www.davidwrites.xyz/articles/the-negative-effects-of-caffeine-addiction/</loc>
     <lastmod>2025-12-30T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.davidwrites.xyz/articles/drafts/add-plausible-to-hugo-site/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.davidwrites.xyz/articles/drafts/apache/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.davidwrites.xyz/articles/drafts/bare-metal-to-proxmox-vm/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.davidwrites.xyz/articles/drafts/blog-or-social-media/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.davidwrites.xyz/articles/drafts/blogging/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.davidwrites.xyz/articles/drafts/caffeine-and-weightloss/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.davidwrites.xyz/articles/drafts/caffeine/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.davidwrites.xyz/articles/drafts/calibre_server/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.davidwrites.xyz/articles/drafts/distrobox/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.davidwrites.xyz/articles/drafts/editing-foliate-highlights-with-vim/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.davidwrites.xyz/articles/drafts/emailserver/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.davidwrites.xyz/articles/drafts/gitea-setup/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.davidwrites.xyz/articles/drafts/gitguide/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.davidwrites.xyz/articles/drafts/how-porn-effects-your-brain/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.davidwrites.xyz/articles/drafts/hugo-container/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.davidwrites.xyz/articles/drafts/iphonemigrate/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.davidwrites.xyz/articles/drafts/it-for-the-paranoid/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.davidwrites.xyz/articles/drafts/lex-deville-seo/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.davidwrites.xyz/articles/drafts/libvirt-kvm-qemu/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.davidwrites.xyz/articles/drafts/libvirt/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.davidwrites.xyz/articles/drafts/migrate-nextcloud-to-podman/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.davidwrites.xyz/articles/drafts/obsidian-hugo-github-website-stack-ohg-1/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.davidwrites.xyz/articles/drafts/obsidian-site-setup/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.davidwrites.xyz/articles/drafts/pandoc/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.davidwrites.xyz/articles/drafts/proxmox_setup/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.davidwrites.xyz/articles/drafts/rsync/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.davidwrites.xyz/articles/drafts/serial-in-on-linux/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.davidwrites.xyz/articles/drafts/silverblue-1/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.davidwrites.xyz/articles/drafts/skaffold/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.davidwrites.xyz/articles/drafts/story-ideas/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.davidwrites.xyz/articles/drafts/things-i-learned-from-dickie-bush-and-nicolas-coles-writing-email-course/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.davidwrites.xyz/articles/drafts/tmuxbook/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.davidwrites.xyz/articles/drafts/tools-1/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.davidwrites.xyz/articles/drafts/tools/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.davidwrites.xyz/articles/drafts/vagrant-what-is-it-for/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.davidwrites.xyz/articles/drafts/vs_codium/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.davidwrites.xyz/articles/drafts/why-caffeine-is-terrible-for-you/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.davidwrites.xyz/articles/drafts/writing-off-the-cuff/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.davidwrites.xyz/articles/drafts/writing-on-twitter/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -256,12 +481,27 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://www.davidwrites.xyz/articles/drafts/19-biggest-lessons-from-reading-100-books/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.davidwrites.xyz/articles/drafts/4-ways-to-quit-caffeine/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://www.davidwrites.xyz/tech/files/advanced-file-management/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://www.davidwrites.xyz/tech/ansible/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.davidwrites.xyz/articles/drafts/ansible-and-podman/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -301,12 +541,12 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://www.davidwrites.xyz/notes/</loc>
+    <loc>https://www.davidwrites.xyz/tech/boot/boot-process-grub2-and-kernel/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://www.davidwrites.xyz/tech/boot/boot-process-grub2-and-kernel/</loc>
+    <loc>https://www.davidwrites.xyz/articles/drafts/calibre-web-with-docker-and-nginx/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -331,7 +571,17 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://www.davidwrites.xyz/articles/drafts/new-setup/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://www.davidwrites.xyz/tech/tools/new-setup/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.davidwrites.xyz/articles/drafts/consoling_in_to_mx80_from_linux/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -357,6 +607,11 @@
   </url>
   <url>
     <loc>https://www.davidwrites.xyz/tech/networking/ccna-notes/controllerbasednetworking/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.davidwrites.xyz/articles/drafts/convert-docker-compose-to-quadlets/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -406,12 +661,32 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://www.davidwrites.xyz/articles/drafts/how-to-build-a-website-with-hugo/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://www.davidwrites.xyz/tech/tools/how-to-build-a-website-with-hugo/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://www.davidwrites.xyz/articles/drafts/process-bookfusion-highlights/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.davidwrites.xyz/articles/drafts/how-to-set-up-hugo-relearn-theme/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://www.davidwrites.xyz/tech/tools/how-to-set-up-hugo-relearn-theme/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.davidwrites.xyz/articles/drafts/how-to-study-for-the-ccna-exam/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -446,6 +721,11 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://www.davidwrites.xyz/articles/drafts/juniper_cli_basics/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://www.davidwrites.xyz/tech/networking/juniper_cli_basics/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -461,6 +741,11 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://www.davidwrites.xyz/articles/drafts/learning-touch-typing/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://www.davidwrites.xyz/tech/desktop/learning-touch-typing/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -471,12 +756,32 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://www.davidwrites.xyz/articles/drafts/my-fedora-setup/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://www.davidwrites.xyz/tech/desktop/my-fedora-setup/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://www.davidwrites.xyz/tech/linux/desktop/my-fedora-setup/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.davidwrites.xyz/articles/drafts/nat-eliasons-seo-course/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.davidwrites.xyz/articles/drafts/network-devices-and-connections/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.davidwrites.xyz/articles/drafts/nextcloud-on-rhel-based-systems/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -506,6 +811,11 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://www.davidwrites.xyz/articles/drafts/podman-links/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://www.davidwrites.xyz/tech/containers/podman-links/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -521,6 +831,11 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://www.davidwrites.xyz/articles/drafts/podman-quadlets/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://www.davidwrites.xyz/tech/containers/podman-quadlets/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -532,6 +847,16 @@
   </url>
   <url>
     <loc>https://www.davidwrites.xyz/tech/podman/podman-quadlets/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.davidwrites.xyz/recommended/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.davidwrites.xyz/articles/drafts/rm-filesystem-from-partition/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -596,12 +921,22 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://www.davidwrites.xyz/articles/drafts/setting-up-a-self-hosted-nextcloud-server/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://www.davidwrites.xyz/tech/tools/setting-up-a-self-hosted-nextcloud-server/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://www.davidwrites.xyz/tech/bash/shell-scripting/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.davidwrites.xyz/articles/drafts/silverblue/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -671,6 +1006,11 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://www.davidwrites.xyz/articles/drafts/toggle_poe/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://www.davidwrites.xyz/tech/networking/toggle_poe/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -681,7 +1021,17 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://www.davidwrites.xyz/articles/drafts/using-vagrant-on-linux/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://www.davidwrites.xyz/tech/tools/using-vagrant-on-linux/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.davidwrites.xyz/articles/drafts/vimguide/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -706,6 +1056,11 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://www.davidwrites.xyz/articles/drafts/what-to-learn-after-ccna/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://www.davidwrites.xyz/tech/networking/ccna-notes/wirelessarchitectures/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -722,6 +1077,11 @@
   </url>
   <url>
     <loc>https://www.davidwrites.xyz/tech/networking/ccna-notes/wireless_security/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.davidwrites.xyz/articles/drafts/using-man-pages/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>

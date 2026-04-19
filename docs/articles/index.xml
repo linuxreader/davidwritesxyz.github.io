@@ -7,7 +7,57 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2026 </copyright>
-    <lastBuildDate>Thu, 01 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://www.davidwrites.xyz/articles/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 04 Feb 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://www.davidwrites.xyz/articles/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>How to Remove Formatting From Ebook Highlights With Vim</title>
+      <link>https://www.davidwrites.xyz/articles/drafts/remove-formatting-from-highlights/</link>
+      <pubDate>Wed, 04 Feb 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.davidwrites.xyz/articles/drafts/remove-formatting-from-highlights/</guid>
+      <description>Removing extra stuff from Bookfusion and Foliate exported highlights</description>
+      
+    </item>
+    
+    <item>
+      <title>Calibre Web with Docker and NGINX</title>
+      <link>https://www.davidwrites.xyz/articles/drafts/calibre-web-docker-nginx/</link>
+      <pubDate>Tue, 03 Feb 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.davidwrites.xyz/articles/drafts/calibre-web-docker-nginx/</guid>
+      <description>Setting up your own Calibre Web server using Docker and NGINX</description>
+      
+    </item>
+    
+    <item>
+      <title>Using Libvirt and Ansible to Automate KVM Virtual Machine Deployments</title>
+      <link>https://www.davidwrites.xyz/articles/automate-kvm-vms/</link>
+      <pubDate>Thu, 22 Jan 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.davidwrites.xyz/articles/automate-kvm-vms/</guid>
+      <description>How to build local KVM virtual machines using Ansible and Libvirt</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.davidwrites.xyz/articles/automate-kvm-vms/featured.png" />
+    </item>
+    
+    <item>
+      <title>Proxmox PfSense HaProxy Setup</title>
+      <link>https://www.davidwrites.xyz/articles/drafts/proxmox-ha-proxy-setup/</link>
+      <pubDate>Sat, 17 Jan 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.davidwrites.xyz/articles/drafts/proxmox-ha-proxy-setup/</guid>
+      <description>Access Proxmox PVE GUI through HaProxy on PfSense</description>
+      
+    </item>
+    
+    <item>
+      <title>Why I Stopped Using AI so Much</title>
+      <link>https://www.davidwrites.xyz/articles/drafts/stop-using-ai/</link>
+      <pubDate>Fri, 16 Jan 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.davidwrites.xyz/articles/drafts/stop-using-ai/</guid>
+      <description>Some benefits of not using AI</description>
+      
+    </item>
     
     <item>
       <title>How to Reduce Headaches Naturally</title>
@@ -16,7 +66,7 @@
       
       <guid>https://www.davidwrites.xyz/articles/how-to-reduce-headaches-naturally/</guid>
       <description>How to reduce headaches naturally by relaxing tense muscles.</description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.davidwrites.xyz/articles/how-to-reduce-headaches-naturally/featured.png" />
     </item>
     
     <item>
@@ -26,6 +76,666 @@
       
       <guid>https://www.davidwrites.xyz/articles/the-negative-effects-of-caffeine-addiction/</guid>
       <description>These are the negative effects of caffeine addiction.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.davidwrites.xyz/articles/the-negative-effects-of-caffeine-addiction/featured.png" />
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.davidwrites.xyz/articles/drafts/add-plausible-to-hugo-site/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.davidwrites.xyz/articles/drafts/add-plausible-to-hugo-site/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://plausible.io/&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;https://plausible.io/&lt;/a&gt;&#xA;&lt;a href=&#34;https://analytics.bookstackapp.com/bookstackapp.com&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;https://analytics.bookstackapp.com/bookstackapp.com&lt;/a&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.davidwrites.xyz/articles/drafts/apache/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.davidwrites.xyz/articles/drafts/apache/</guid>
+      <description>&lt;h4 class=&#34;relative group&#34;&gt;Rhel&#xA;    &lt;div id=&#34;rhel&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xA;    &#xA;    &lt;span&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#rhel&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&#xA;    &lt;/span&gt;&#xA;    &#xA;&lt;/h4&gt;&#xA;&lt;p&gt;Config root: /etc/httpd&#xA;Primary config file:  /etc/httpd/conf/httpd.conf&#xA;Module config: conf.modules.d&#xA;virtual host config: conf.d&#xA;Log: /var/log/httpd&#xA;User: apache&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.davidwrites.xyz/articles/drafts/bare-metal-to-proxmox-vm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.davidwrites.xyz/articles/drafts/bare-metal-to-proxmox-vm/</guid>
+      <description>&lt;p&gt;Create a vm in proxmox and copy the physical drive to the vm drive.&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Create New VM in proxmox&lt;/li&gt;&#xA;&lt;li&gt;In the OS tab, select &amp;ldquo;Do not use any media&amp;rdquo;&#xA;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;low&#34;&#xA;    alt=&#34;&#34;&#xA;    src=&#34;../../images/Pasted%20image%2020240806075409.png&#34;&#xA;    &gt;&lt;/figure&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Verify Kernel version&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.davidwrites.xyz/articles/drafts/blog-or-social-media/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.davidwrites.xyz/articles/drafts/blog-or-social-media/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;ve spent a lot of time tinkering with my website. This is a project that has been a huge time suck for me. I don&amp;rsquo;t expect amazing traffic on a personal blog. So I started wondering why I have been spending all of this time building a website.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.davidwrites.xyz/articles/drafts/blogging/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.davidwrites.xyz/articles/drafts/blogging/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.nateliason.com/blog/no-niche&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;https://www.nateliason.com/blog/no-niche&lt;/a&gt;&#xA;A business needs a niche because the product has to solve a certain problem. But with a blog, the problem you’re ultimately solving is attention and interest, and the most effective way to maintain someone’s interest is through being interesting and irreplaceable.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.davidwrites.xyz/articles/drafts/caffeine-and-weightloss/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.davidwrites.xyz/articles/drafts/caffeine-and-weightloss/</guid>
+      <description>&lt;p&gt;If caffeine caused weight loss, then 80% of americans would be skinny&lt;/p&gt;&#xA;&lt;p&gt;Key points&#xA;Caffeine ruins your sleep, which causes overeating&lt;/p&gt;&#xA;&lt;p&gt;Caffeine raises stress &lt;a href=&#34;https://pmc.ncbi.nlm.nih.gov/articles/PMC2249754/&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;hormones&lt;/a&gt;, causing &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/27345309/&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;overeating&lt;/a&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Increase stress hormones causes sugar to release into the blood stream. This leads to insulin resistance&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.sciencedirect.com/science/article/abs/pii/S0195666305001133?via%3Dihub&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;https://www.sciencedirect.com/science/article/abs/pii/S0195666305001133?via%3Dihub&lt;/a&gt;&#xA;&lt;a href=&#34;https://www.adrenal.com/blog/the-dangers-of-excess-cortisol-understanding-hypercortisolism-and-its-complications&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;https://www.adrenal.com/blog/the-dangers-of-excess-cortisol-understanding-hypercortisolism-and-its-complications&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Caffeine raises dopamine, causing pleasure cravings&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.davidwrites.xyz/articles/drafts/caffeine/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.davidwrites.xyz/articles/drafts/caffeine/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=jqcnfYfYYdY&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;https://www.youtube.com/watch?v=jqcnfYfYYdY&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=fsq-PHIJA3k&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;https://www.youtube.com/watch?v=fsq-PHIJA3k&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Cortisol on joint pain &lt;a href=&#34;https://pmc.ncbi.nlm.nih.gov/articles/PMC4263906/&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;https://pmc.ncbi.nlm.nih.gov/articles/PMC4263906/&lt;/a&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.davidwrites.xyz/articles/drafts/calibre_server/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.davidwrites.xyz/articles/drafts/calibre_server/</guid>
+      <description>&lt;p&gt;Install Calibre and Rsync&lt;/p&gt;&#xA;&lt;div class=&#34;highlight-wrapper&#34;&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;apt install -y calibre rsync&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;&#xA;&lt;p&gt;Make a directory for your library&lt;/p&gt;&#xA;&lt;div class=&#34;highlight-wrapper&#34;&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-sh&#34; data-lang=&#34;sh&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;mkdir /opt/calibre&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;&#xA;&lt;p&gt;Either upload your existing library using &lt;code&gt;rsync&lt;/code&gt;. For example to &lt;code&gt;/opt/calibre/&lt;/code&gt;.&lt;/p&gt;&#xA;&lt;div class=&#34;highlight-wrapper&#34;&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-sh&#34; data-lang=&#34;sh&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;cd&lt;/span&gt; ~/Documents&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;rsync -avuP your-library-dir root@example.org:/opt/calibre/&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;&#xA;&lt;p&gt;Add a new user to protect your server:&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.davidwrites.xyz/articles/drafts/distrobox/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.davidwrites.xyz/articles/drafts/distrobox/</guid>
+      <description>&lt;p&gt;Github: &lt;a href=&#34;https://github.com/89luca89/distrobox&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;https://github.com/89luca89/distrobox&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Run native containers that have access to the host file system&#xA;Creates an app launcher icon for the container&lt;/p&gt;&#xA;&lt;p&gt;Launch gui apps from other distros natively. Even without spinning up the container first&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.davidwrites.xyz/articles/drafts/editing-foliate-highlights-with-vim/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.davidwrites.xyz/articles/drafts/editing-foliate-highlights-with-vim/</guid>
+      <description>&lt;p&gt;Get rid of lines with color reference:&#xA;&lt;code&gt;:g/^**rgb/d&lt;/code&gt;&lt;/p&gt;&#xA;&lt;p&gt;get rid of the &lt;code&gt;&amp;gt; &lt;/code&gt; on each line:&#xA;&lt;code&gt;%s/&amp;gt; //g&lt;/code&gt;&lt;/p&gt;&#xA;&lt;p&gt;Get rid of dashed lines:&#xA;&lt;code&gt;:g/^---/d&lt;/code&gt;&lt;/p&gt;&#xA;&lt;p&gt;Get rid of consecutive empty lines:&#xA;&lt;code&gt;:%s/\(\n\)\{3,}/\r\r/g&lt;/code&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.davidwrites.xyz/articles/drafts/emailserver/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.davidwrites.xyz/articles/drafts/emailserver/</guid>
+      <description>&lt;p&gt;Make sure your VSP unblocks port 25&lt;/p&gt;&#xA;&lt;p&gt;Allow ports using your firewall&lt;/p&gt;&#xA;&lt;div class=&#34;highlight-wrapper&#34;&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;ufw allow 25/tcp&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;ufw allow 587/tcp&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;&#xA;&lt;p&gt;Install mailutils&lt;/p&gt;&#xA;&lt;div class=&#34;highlight-wrapper&#34;&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;apt install -y mailutils postfix&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;&#xA;&lt;p&gt;Select &amp;ldquo;internet site&amp;rdquo; in the gui.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.davidwrites.xyz/articles/drafts/gitea-setup/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.davidwrites.xyz/articles/drafts/gitea-setup/</guid>
+      <description>&lt;p&gt;Following this guide: &lt;a href=&#34;https://blog.while-true-do.io/podman-setup-gitea/&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;https://blog.while-true-do.io/podman-setup-gitea/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Create container network:&#xA;&lt;code&gt;sudo podman network create gitea-net&lt;/code&gt;&lt;/p&gt;&#xA;&lt;p&gt;Enable update timer for automatic updates:&#xA;&lt;code&gt;sudo systemctl enable --now podman-auto-update.timer&lt;/code&gt;&lt;/p&gt;&#xA;&#xA;&lt;h2 class=&#34;relative group&#34;&gt;Database setup&#xA;    &lt;div id=&#34;database-setup&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xA;    &#xA;    &lt;span&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#database-setup&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&#xA;    &lt;/span&gt;&#xA;    &#xA;&lt;/h2&gt;&#xA;&lt;p&gt;&lt;code&gt;sudo vim /etc/systemd/system/container-gitea-db.service&lt;/code&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.davidwrites.xyz/articles/drafts/gitguide/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.davidwrites.xyz/articles/drafts/gitguide/</guid>
+      <description>&lt;h1 class=&#34;relative group&#34;&gt;Commands&#xA;    &lt;div id=&#34;commands&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xA;    &#xA;    &lt;span&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#commands&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&#xA;    &lt;/span&gt;&#xA;    &#xA;&lt;/h1&gt;&#xA;&#xA;&lt;h2 class=&#34;relative group&#34;&gt;Version&#xA;    &lt;div id=&#34;version&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xA;    &#xA;    &lt;span&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#version&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&#xA;    &lt;/span&gt;&#xA;    &#xA;&lt;/h2&gt;&#xA;&lt;p&gt;$ git &amp;ndash;version&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.davidwrites.xyz/articles/drafts/how-porn-effects-your-brain/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.davidwrites.xyz/articles/drafts/how-porn-effects-your-brain/</guid>
+      <description>&lt;p&gt;Chonic overconsumption wires our brain so that immediate wants outweigh long term goals.&lt;/p&gt;&#xA;&lt;p&gt;Porn is viewed as a solution to boredom, to ease sexual tension, stress, or loneliness.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.davidwrites.xyz/articles/drafts/hugo-container/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.davidwrites.xyz/articles/drafts/hugo-container/</guid>
+      <description>&lt;div class=&#34;highlight-wrapper&#34;&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-text&#34; data-lang=&#34;text&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;FROM registry.fedoraproject.org/fedora:41 as base&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;FROM base as build&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;RUN dnf -y install hugo&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;COPY &amp;lt;your templates directory or w/e here&amp;gt; /blog&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;COPY content /blog/content&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;WORKDIR /blog&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;RUN hugo&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;FROM base&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;RUN dnf -y install httpd&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;COPY --from=build /blog/public /var/www/html&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;ENTRYPOINT [&amp;#34;httpd&amp;#34;]&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;CMD [&amp;#34;-D&amp;#34;, &amp;#34;FOREGROUND&amp;#34;]&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;&#xA;&lt;p&gt;oh if you change &lt;code&gt;registry.fedoraproject.org/fedora:41&lt;/code&gt; to &lt;code&gt;registry.access.redhat.com/ubi9/ubi:latest&lt;/code&gt; and install hugo by curling the release from github instead of a DNF install (I don&amp;rsquo;t think it&amp;rsquo;s in the RHEL repos), you can use RHEL in the container too&amp;hellip;&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.davidwrites.xyz/articles/drafts/iphonemigrate/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.davidwrites.xyz/articles/drafts/iphonemigrate/</guid>
+      <description>&lt;h2 class=&#34;relative group&#34;&gt;Convert .MOV to MP4&#xA;    &lt;div id=&#34;convert-mov-to-mp4&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xA;    &#xA;    &lt;span&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#convert-mov-to-mp4&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&#xA;    &lt;/span&gt;&#xA;    &#xA;&lt;/h2&gt;&#xA;&lt;p&gt;All .MOV files in  a folder&lt;/p&gt;&#xA;&lt;div class=&#34;highlight-wrapper&#34;&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-text&#34; data-lang=&#34;text&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;for f in *.MOV; do ffmpeg -i $f $f.mp4; done&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;&#xA;&lt;p&gt;More info at Techwalla &lt;a href=&#34;https://www.techwalla.com/articles/how-to-convert-mov-to-mp4-with-ffmpeg-on-linux&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;https://www.techwalla.com/articles/how-to-convert-mov-to-mp4-with-ffmpeg-on-linux&lt;/a&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.davidwrites.xyz/articles/drafts/it-for-the-paranoid/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.davidwrites.xyz/articles/drafts/it-for-the-paranoid/</guid>
+      <description>&lt;p&gt;Cellphones: Pixel 10 with graphene is&#xA;Chat: Zulip instead of Slack&#xA;Cloud: Nextcloud &amp;gt; MicroSoft OneDrive&#xA;HyperVsior: Proxmox &amp;gt; VMWare&#xA;Email: Proton &amp;gt; gmail&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.davidwrites.xyz/articles/drafts/lex-deville-seo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.davidwrites.xyz/articles/drafts/lex-deville-seo/</guid>
+      <description>&lt;h2 class=&#34;relative group&#34;&gt;Very Basics&#xA;    &lt;div id=&#34;very-basics&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xA;    &#xA;    &lt;span&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#very-basics&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&#xA;    &lt;/span&gt;&#xA;    &#xA;&lt;/h2&gt;&#xA;&#xA;&lt;h3 class=&#34;relative group&#34;&gt;Robot.txt and site index&#xA;    &lt;div id=&#34;robottxt-and-site-index&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xA;    &#xA;    &lt;span&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#robottxt-and-site-index&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&#xA;    &lt;/span&gt;&#xA;    &#xA;&lt;/h3&gt;&#xA;&lt;p&gt;Make sure robots.txt is enabled if you want search engines to crawl your site.&#xA;Also upload your site index to google search console so Google indexes your site faster.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.davidwrites.xyz/articles/drafts/libvirt-kvm-qemu/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.davidwrites.xyz/articles/drafts/libvirt-kvm-qemu/</guid>
+      <description>&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;libvirt is the most mature and proven virtualization stack in the world&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;proxmox is just a management layer on top of it&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;so is kubevirt&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;so are like a dozen other things&#xA;qemu is a general purpose linux virtualization swiss army knife CLI, the way most people use it most of the time is as an interface to KVM which is just built into the kernel&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.davidwrites.xyz/articles/drafts/libvirt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.davidwrites.xyz/articles/drafts/libvirt/</guid>
+      <description>&lt;p&gt;Commands to manage Libvirt:&lt;/p&gt;&#xA;&lt;p&gt;&lt;code&gt;virsh&lt;/code&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Manage VMs&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.davidwrites.xyz/articles/drafts/migrate-nextcloud-to-podman/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.davidwrites.xyz/articles/drafts/migrate-nextcloud-to-podman/</guid>
+      <description>&lt;p&gt;To migrate a standard nextcloud setup to Podman/Docker, you need to create the container setup and copy data from the old system to the new.&lt;/p&gt;&#xA;&lt;p&gt;I am going to start with a new Alma 10 VM for my setup.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.davidwrites.xyz/articles/drafts/obsidian-hugo-github-website-stack-ohg-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.davidwrites.xyz/articles/drafts/obsidian-hugo-github-website-stack-ohg-1/</guid>
+      <description>&lt;p&gt;First, you&amp;rsquo;ll need to create a github account. If you won&amp;rsquo;t be using a custom domain (You can add one later), make sure you name the account what you want your website to be. The domain will be {{ account-name.github.io }}&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.davidwrites.xyz/articles/drafts/obsidian-site-setup/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.davidwrites.xyz/articles/drafts/obsidian-site-setup/</guid>
+      <description>&lt;p&gt;Sync obsidian dirs to hugo dirs:&#xA;&lt;code&gt;rsync -av --delete source destination&lt;/code&gt;&#xA;&amp;ndash;delete flag deletes files in the destination directory if they do not exist in the source&lt;/p&gt;&#xA;&lt;div class=&#34;highlight-wrapper&#34;&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-text&#34; data-lang=&#34;text&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;#!/bin/bash&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;rsync -av --delete ~/Documents/content/booknotes ~/Documents/blog/content/&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;rsync -av --delete ~/Documents/content/&amp;#39;health and fitness&amp;#39; ~/Documents/blog/content/&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;rsync -av --delete ~/Documents/content/images ~/Documents/blog/content/&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;rsync -av --delete ~/Documents/content/linux ~/Documents/blog/content/&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;rsync -av --delete ~/Documents/content/networking ~/Documents/blog/content/&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;rsync -av --delete ~/Documents/content/now ~/Documents/blog/content/&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;rsync -av --delete ~/Documents/content/philosophy ~/Documents/blog/content/&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;rsync -av --delete ~/Documents/content/python ~/Documents/blog/content/&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;rsync -av --delete ~/Documents/content/Recipes ~/Documents/blog/content/&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;rsync -av --delete ~/Documents/content/Recommended ~/Documents/blog/content/&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;rsync -av --delete ~/Documents/content/tools ~/Documents/blog/content/&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;rsync -av --delete ~/Documents/content/writing ~/Documents/blog/content/&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;rsync -av --delete ~/Documents/content/_index.md ~/Documents/blog/content/&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;cd /home/david/Documents/blog &amp;amp;&amp;amp;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;hugo &amp;amp;&amp;amp;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;if ! nmcli connection show --active | grep -q &amp;#34;Primary&amp;#34;; &#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&#x9;then&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&#x9;&#x9;echo &amp;#34;Starting VPN...&amp;#34;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&#x9;&#x9;nmcli connection up id &amp;#34;Primary&amp;#34;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  sleep 5&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;fi&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;rsync -rtvzP ~/Documents/blog/docs/ {username}@{ip-address}:/var/www/public&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;&#xA;&#xA;&lt;h3 class=&#34;relative group&#34;&gt;Using inotify to monitor obsidian and run the update script whenever there are changes:&#xA;    &lt;div id=&#34;using-inotify-to-monitor-obsidian-and-run-the-update-script-whenever-there-are-changes&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xA;    &#xA;    &lt;span&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#using-inotify-to-monitor-obsidian-and-run-the-update-script-whenever-there-are-changes&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&#xA;    &lt;/span&gt;&#xA;    &#xA;&lt;/h3&gt;&#xA;&lt;p&gt;&lt;code&gt;sudo dnf -y install inotify-tools&lt;/code&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.davidwrites.xyz/articles/drafts/pandoc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.davidwrites.xyz/articles/drafts/pandoc/</guid>
+      <description>&lt;h1 class=&#34;relative group&#34;&gt;Pandoc&#xA;    &lt;div id=&#34;pandoc&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xA;    &#xA;    &lt;span&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#pandoc&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&#xA;    &lt;/span&gt;&#xA;    &#xA;&lt;/h1&gt;&#xA;&lt;p&gt;Used for converting file formats&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://ins3cure.com/pandoc-on-rhel-8/&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;https://ins3cure.com/pandoc-on-rhel-8/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Go to &lt;a href=&#34;https://github.com/jgm/pandoc/releases/latest&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;https://github.com/jgm/pandoc/releases/latest&lt;/a&gt;, download the latest tarball (currently pandoc-2.17.0.1-linux-64.tar.gz) and run:&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.davidwrites.xyz/articles/drafts/proxmox_setup/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.davidwrites.xyz/articles/drafts/proxmox_setup/</guid>
+      <description>&lt;p&gt;Add the following to the end of /etc/apt/sources.list&lt;/p&gt;&#xA;&lt;div class=&#34;highlight-wrapper&#34;&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-text&#34; data-lang=&#34;text&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;# not for production use&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;deb http://download.proxmox.com/debian/pve bullseye pve-no-subscription&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;&#xA;&lt;p&gt;You may need to replace this for your current version. See &lt;a href=&#34;https://pve.proxmox.com/wiki/Package_Repositories&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;https://pve.proxmox.com/wiki/Package_Repositories&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;This will download &amp;ldquo;unstable&amp;rdquo; updates for proxmox.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.davidwrites.xyz/articles/drafts/rsync/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.davidwrites.xyz/articles/drafts/rsync/</guid>
+      <description>&lt;h1 class=&#34;relative group&#34;&gt;Using Rsync to sync a folder between two hosts&#xA;    &lt;div id=&#34;using-rsync-to-sync-a-folder-between-two-hosts&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xA;    &#xA;    &lt;span&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#using-rsync-to-sync-a-folder-between-two-hosts&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&#xA;    &lt;/span&gt;&#xA;    &#xA;&lt;/h1&gt;&#xA;&lt;p&gt;I was using github to sync my notebook with my website. But that introduces some extra steps that rsync can easily eliminate.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.davidwrites.xyz/articles/drafts/serial-in-on-linux/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.davidwrites.xyz/articles/drafts/serial-in-on-linux/</guid>
+      <description>&lt;p&gt;Using GTKterm app&lt;/p&gt;&#xA;&lt;p&gt;Find out what port your serial cable is plugged into:&lt;/p&gt;&#xA;&lt;div class=&#34;highlight-wrapper&#34;&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;dthomas@lgfedora:~$ dmesg &lt;span class=&#34;p&#34;&gt;|&lt;/span&gt; grep tty&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;o&#34;&gt;[&lt;/span&gt;    0.119494&lt;span class=&#34;o&#34;&gt;]&lt;/span&gt; printk: console &lt;span class=&#34;o&#34;&gt;[&lt;/span&gt;tty0&lt;span class=&#34;o&#34;&gt;]&lt;/span&gt; enabled&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;o&#34;&gt;[&lt;/span&gt;    1.591268&lt;span class=&#34;o&#34;&gt;]&lt;/span&gt; serial8250: ttyS0 at I/O 0x3f8 &lt;span class=&#34;o&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;nv&#34;&gt;irq&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; 4, &lt;span class=&#34;nv&#34;&gt;base_baud&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; 115200&lt;span class=&#34;o&#34;&gt;)&lt;/span&gt; is a 16550A&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;o&#34;&gt;[&lt;/span&gt;    7.707751&lt;span class=&#34;o&#34;&gt;]&lt;/span&gt; systemd&lt;span class=&#34;o&#34;&gt;[&lt;/span&gt;1&lt;span class=&#34;o&#34;&gt;]&lt;/span&gt;: Created slice system-getty.slice - Slice /system/getty.&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;o&#34;&gt;[&lt;/span&gt;    7.708786&lt;span class=&#34;o&#34;&gt;]&lt;/span&gt; systemd&lt;span class=&#34;o&#34;&gt;[&lt;/span&gt;1&lt;span class=&#34;o&#34;&gt;]&lt;/span&gt;: Reached target getty.target - Login Prompts.&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;o&#34;&gt;[&lt;/span&gt;  424.829380&lt;span class=&#34;o&#34;&gt;]&lt;/span&gt; usb 3-6: FTDI USB Serial Device converter now attached to ttyUSB0&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;o&#34;&gt;[&lt;/span&gt;  498.255356&lt;span class=&#34;o&#34;&gt;]&lt;/span&gt; ftdi_sio ttyUSB0: FTDI USB Serial Device converter now disconnected from ttyUSB0&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;o&#34;&gt;[&lt;/span&gt;  499.952411&lt;span class=&#34;o&#34;&gt;]&lt;/span&gt; usb 3-4: FTDI USB Serial Device converter now attached to ttyUSB0&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;o&#34;&gt;[&lt;/span&gt; 1020.298236&lt;span class=&#34;o&#34;&gt;]&lt;/span&gt; ftdi_sio ttyUSB0: FTDI USB Serial Device converter now disconnected from ttyUSB0&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;o&#34;&gt;[&lt;/span&gt; 1022.774544&lt;span class=&#34;o&#34;&gt;]&lt;/span&gt; usb 3-6: FTDI USB Serial Device converter now attached to ttyUSB0&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;o&#34;&gt;[&lt;/span&gt; 1115.380773&lt;span class=&#34;o&#34;&gt;]&lt;/span&gt; ftdi_sio ttyUSB0: FTDI USB Serial Device converter now disconnected from ttyUSB0&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;o&#34;&gt;[&lt;/span&gt; 1117.430371&lt;span class=&#34;o&#34;&gt;]&lt;/span&gt; usb 3-4: FTDI USB Serial Device converter now attached to ttyUSB0&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;&#xA;&lt;p&gt;See last line that says &amp;ldquo;now attached&amp;rdquo;&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.davidwrites.xyz/articles/drafts/silverblue-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.davidwrites.xyz/articles/drafts/silverblue-1/</guid>
+      <description>&lt;p&gt;Automated setup &lt;a href=&#34;https://universal-blue.org/&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;https://universal-blue.org/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;You get all the benefits of using containers&#xA;Separates system level packages from applications.&lt;/p&gt;&#xA;&lt;p&gt;System Level&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Desktop, kernel?&lt;/li&gt;&#xA;&lt;li&gt;Layering&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Apps at system level because containers aren&amp;rsquo;t as developed yet&lt;/li&gt;&#xA;&lt;li&gt;Locks to the fedora version you are on&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&#xA;&lt;h2 class=&#34;relative group&#34;&gt;Layered package examples&#xA;    &lt;div id=&#34;layered-package-examples&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xA;    &#xA;    &lt;span&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#layered-package-examples&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&#xA;    &lt;/span&gt;&#xA;    &#xA;&lt;/h2&gt;&#xA;&lt;pre&gt;&lt;code&gt;- gnome shell extensions&#xA;- distrobox&#xA;&lt;/code&gt;&lt;/pre&gt;&#xA;&lt;p&gt;Uses rpm-ostree? &lt;a href=&#34;https://coreos.github.io/rpm-ostree/administrator-handbook/&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;https://coreos.github.io/rpm-ostree/administrator-handbook/&lt;/a&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.davidwrites.xyz/articles/drafts/skaffold/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.davidwrites.xyz/articles/drafts/skaffold/</guid>
+      <description>&lt;p&gt;Skaffold watches for code changes in a repo and builds, tests, and deployes and application in Kubernetes&lt;/p&gt;&#xA;&#xA;&lt;h3 class=&#34;relative group&#34;&gt;What questions are they asking? Headline melding.&#xA;    &lt;div id=&#34;what-questions-are-they-asking-headline-melding&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xA;    &#xA;    &lt;span&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#what-questions-are-they-asking-headline-melding&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&#xA;    &lt;/span&gt;&#xA;    &#xA;&lt;/h3&gt;&#xA;&lt;p&gt;How can I validate the structure of a container image?&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.davidwrites.xyz/articles/drafts/story-ideas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.davidwrites.xyz/articles/drafts/story-ideas/</guid>
+      <description>&lt;p&gt;An elite assasin from far away started to disagree with the ethics of his guild. If he leaves the guild they will kill him, so he stows away in a coffin to a new kingdom, where he tries to find a group that is virtuous, in staging a coup to help someone take over power, he finds that the new power is not as good as they seemed, and he end up rescuing a princess in the middle of the chaos. While trying to stay virtuous on their adventure, she sedates him with  tea often and rapes him in his sleep. This saps him of his powers and he slowly loses his skills as an assassin, and begins to cave into temptation.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.davidwrites.xyz/articles/drafts/things-i-learned-from-dickie-bush-and-nicolas-coles-writing-email-course/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.davidwrites.xyz/articles/drafts/things-i-learned-from-dickie-bush-and-nicolas-coles-writing-email-course/</guid>
+      <description>&lt;p&gt;I went through Dickie Bush and Nicolas Cole&amp;rsquo;s email course on writing online. This course was great overall. Short and concise and has given me the motivation, by providing good reasons, to commit to consistently writing online.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.davidwrites.xyz/articles/drafts/tmuxbook/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.davidwrites.xyz/articles/drafts/tmuxbook/</guid>
+      <description>&lt;p&gt;Links:&#xA;&lt;a href=&#34;https://git.jharmison.com/james/dotfiles/src/branch/master/.tmux.conf&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;https://git.jharmison.com/james/dotfiles/src/branch/master/.tmux.conf&lt;/a&gt;&#xA;&lt;a href=&#34;https://www.youtube.com/watch?v=nTqu6w2wc68&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;https://www.youtube.com/watch?v=nTqu6w2wc68&lt;/a&gt;&#xA;&lt;a href=&#34;https://www.youtube.com/watch?v=DzNmUNvnB04&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;https://www.youtube.com/watch?v=DzNmUNvnB04&lt;/a&gt;&#xA;&lt;a href=&#34;https://www.youtube.com/watch?v=Yl7NFenTgIo&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;https://www.youtube.com/watch?v=Yl7NFenTgIo&lt;/a&gt;&#xA;&lt;a href=&#34;https://github.com/alacritty/alacritty&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;https://github.com/alacritty/alacritty&lt;/a&gt;&#xA;&lt;a href=&#34;https://github.com/rothgar/awesome-tmux&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;https://github.com/rothgar/awesome-tmux&lt;/a&gt;&#xA;&lt;a href=&#34;https://www.youtube.com/watch?v=GH3kpsbbERo&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;https://www.youtube.com/watch?v=GH3kpsbbERo&lt;/a&gt;&#xA;&lt;a href=&#34;https://git.jharmison.com/james/dotfiles/src/branch/master/.config/alacritty/alacritty.toml#L41&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;https://git.jharmison.com/james/dotfiles/src/branch/master/.config/alacritty/alacritty.toml#L41&lt;/a&gt;&lt;/p&gt;&#xA;&#xA;&lt;h1 class=&#34;relative group&#34;&gt;tmux 2&#xA;    &lt;div id=&#34;tmux-2&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xA;    &#xA;    &lt;span&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#tmux-2&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&#xA;    &lt;/span&gt;&#xA;    &#xA;&lt;/h1&gt;&#xA;&#xA;&lt;h3 class=&#34;relative group&#34;&gt;Productive Mouse-Free Development&#xA;    &lt;div id=&#34;productive-mouse-free-development&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xA;    &#xA;    &lt;span&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#productive-mouse-free-development&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&#xA;    &lt;/span&gt;&#xA;    &#xA;&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;easily manage a text editor, a database console, and a local web server within a single environment.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.davidwrites.xyz/articles/drafts/tools-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.davidwrites.xyz/articles/drafts/tools-1/</guid>
+      <description>&lt;p&gt;%% Zoottelkeeper: Beginning of the autogenerated index file list  %%&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;[[tech/tools/_index|_index]]&lt;/li&gt;&#xA;&lt;li&gt;[[tech/tools/Add Plausible to Hugo Site|Add Plausible to Hugo Site]]&lt;/li&gt;&#xA;&lt;li&gt;[[Adding a Commenting System to a Hugo Site Hosted on Github Pages|Adding a Commenting System to a Hugo Site Hosted on Github Pages]]&lt;/li&gt;&#xA;&lt;li&gt;[[Apache|Apache]]&lt;/li&gt;&#xA;&lt;li&gt;[[tech/tools/Bare Metal to Proxmox VM|Bare Metal to Proxmox VM]]&lt;/li&gt;&#xA;&lt;li&gt;[[tech/tools/Calibre Web with Docker and NGINX|Calibre Web with Docker and NGINX]]&lt;/li&gt;&#xA;&lt;li&gt;[[Calibre_Server|Calibre_Server]]&lt;/li&gt;&#xA;&lt;li&gt;[[tech/tools/consoling_in_on_linux|consoling_in_on_linux]]&lt;/li&gt;&#xA;&lt;li&gt;[[distrobox|distrobox]]&lt;/li&gt;&#xA;&lt;li&gt;[[tech/tools/Editing Foliate Highlights with Vim|Editing Foliate Highlights with Vim]]&lt;/li&gt;&#xA;&lt;li&gt;[[tech/tools/emailserver|emailserver]]&lt;/li&gt;&#xA;&lt;li&gt;[[Gitea setup|Gitea setup]]&lt;/li&gt;&#xA;&lt;li&gt;[[gitguide|gitguide]]&lt;/li&gt;&#xA;&lt;li&gt;[[How to Build a website With Hugo|How to Build a website With Hugo]]&lt;/li&gt;&#xA;&lt;li&gt;[[How to Set Up Hugo Relearn Theme|How to Set Up Hugo Relearn Theme]]&lt;/li&gt;&#xA;&lt;li&gt;[[iphonemigrate|iphonemigrate]]&lt;/li&gt;&#xA;&lt;li&gt;[[tech/tools/LibVirt|LibVirt]]&lt;/li&gt;&#xA;&lt;li&gt;[[Nextcloud on RHEL Based Systems|Nextcloud on RHEL Based Systems]]&lt;/li&gt;&#xA;&lt;li&gt;[[Obsidian site setup|Obsidian site setup]]&lt;/li&gt;&#xA;&lt;li&gt;[[Obsidian, Hugo, Github Website Stack (OHG)|Obsidian, Hugo, Github Website Stack (OHG)]]&lt;/li&gt;&#xA;&lt;li&gt;[[pandoc|pandoc]]&lt;/li&gt;&#xA;&lt;li&gt;[[tech/tools/Process-bookfusion-highlights|Process-bookfusion-highlights]]&lt;/li&gt;&#xA;&lt;li&gt;[[projects|projects]]&lt;/li&gt;&#xA;&lt;li&gt;[[proxmox_setup|proxmox_setup]]&lt;/li&gt;&#xA;&lt;li&gt;[[rsync|rsync]]&lt;/li&gt;&#xA;&lt;li&gt;[[Serial-in-on-linux|Serial-in-on-linux]]&lt;/li&gt;&#xA;&lt;li&gt;[[Setting Up a Self-hosted NextCloud Server|Setting Up a Self-hosted NextCloud Server]]&lt;/li&gt;&#xA;&lt;li&gt;[[tech/tools/Silverblue|Silverblue]]&lt;/li&gt;&#xA;&lt;li&gt;[[Skaffold|Skaffold]]&lt;/li&gt;&#xA;&lt;li&gt;[[tmuxbook|tmuxbook]]&lt;/li&gt;&#xA;&lt;li&gt;[[tech/tools/Tools|Tools]]&lt;/li&gt;&#xA;&lt;li&gt;[[tech/tools/Using Man Pages|Using Man Pages]]&lt;/li&gt;&#xA;&lt;li&gt;[[Using Vagrant on Linux|Using Vagrant on Linux]]&lt;/li&gt;&#xA;&lt;li&gt;[[Vagrant, What is it for?|Vagrant, What is it for?]]&lt;/li&gt;&#xA;&lt;li&gt;[[vimguide|vimguide]]&lt;/li&gt;&#xA;&lt;li&gt;[[tech/tools/VM Creation Using Ansible|VM Creation Using Ansible]]&lt;/li&gt;&#xA;&lt;li&gt;[[VS_Codium|VS_Codium]]&#xA;%% Zoottelkeeper: End of the autogenerated index file list  %%&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.davidwrites.xyz/articles/drafts/tools/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.davidwrites.xyz/articles/drafts/tools/</guid>
+      <description>&lt;p&gt;%% Zoottelkeeper: Beginning of the autogenerated index file list  %%&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;[[Add Plausible to Hugo Site|Add Plausible to Hugo Site]]&lt;/li&gt;&#xA;&lt;li&gt;[[Adding a Commenting System to a Hugo Site Hosted on Github Pages|Adding a Commenting System to a Hugo Site Hosted on Github Pages]]&lt;/li&gt;&#xA;&lt;li&gt;[[Apache|Apache]]&lt;/li&gt;&#xA;&lt;li&gt;[[Bare Metal to Proxmox VM|Bare Metal to Proxmox VM]]&lt;/li&gt;&#xA;&lt;li&gt;[[Calibre Web with Docker and NGINX|Calibre Web with Docker and NGINX]]&lt;/li&gt;&#xA;&lt;li&gt;[[Calibre_Server|Calibre_Server]]&lt;/li&gt;&#xA;&lt;li&gt;[[consoling_in_on_linux|consoling_in_on_linux]]&lt;/li&gt;&#xA;&lt;li&gt;[[distrobox|distrobox]]&lt;/li&gt;&#xA;&lt;li&gt;[[Editing Foliate Highlights with Vim|Editing Foliate Highlights with Vim]]&lt;/li&gt;&#xA;&lt;li&gt;[[emailserver|emailserver]]&lt;/li&gt;&#xA;&lt;li&gt;[[Gitea setup|Gitea setup]]&lt;/li&gt;&#xA;&lt;li&gt;[[gitguide|gitguide]]&lt;/li&gt;&#xA;&lt;li&gt;[[How to Build a website With Hugo|How to Build a website With Hugo]]&lt;/li&gt;&#xA;&lt;li&gt;[[How to Set Up Hugo Relearn Theme|How to Set Up Hugo Relearn Theme]]&lt;/li&gt;&#xA;&lt;li&gt;[[iphonemigrate|iphonemigrate]]&lt;/li&gt;&#xA;&lt;li&gt;[[LibVirt|LibVirt]]&lt;/li&gt;&#xA;&lt;li&gt;[[Nextcloud on RHEL Based Systems|Nextcloud on RHEL Based Systems]]&lt;/li&gt;&#xA;&lt;li&gt;[[Obsidian site setup|Obsidian site setup]]&lt;/li&gt;&#xA;&lt;li&gt;[[Obsidian, Hugo, Github Website Stack (OHG)|Obsidian, Hugo, Github Website Stack (OHG)]]&lt;/li&gt;&#xA;&lt;li&gt;[[pandoc|pandoc]]&lt;/li&gt;&#xA;&lt;li&gt;[[Process-bookfusion-highlights|Process-bookfusion-highlights]]&lt;/li&gt;&#xA;&lt;li&gt;[[projects|projects]]&lt;/li&gt;&#xA;&lt;li&gt;[[proxmox_setup|proxmox_setup]]&lt;/li&gt;&#xA;&lt;li&gt;[[rsync|rsync]]&lt;/li&gt;&#xA;&lt;li&gt;[[Serial-in-on-linux|Serial-in-on-linux]]&lt;/li&gt;&#xA;&lt;li&gt;[[Setting Up a Self-hosted NextCloud Server|Setting Up a Self-hosted NextCloud Server]]&lt;/li&gt;&#xA;&lt;li&gt;[[Silverblue 1|Silverblue]]&lt;/li&gt;&#xA;&lt;li&gt;[[Skaffold|Skaffold]]&lt;/li&gt;&#xA;&lt;li&gt;[[tmuxbook|tmuxbook]]&lt;/li&gt;&#xA;&lt;li&gt;[[Using Man Pages|Using Man Pages]]&lt;/li&gt;&#xA;&lt;li&gt;[[Using Vagrant on Linux|Using Vagrant on Linux]]&lt;/li&gt;&#xA;&lt;li&gt;[[Vagrant, What is it for?|Vagrant, What is it for?]]&lt;/li&gt;&#xA;&lt;li&gt;[[vimguide|vimguide]]&lt;/li&gt;&#xA;&lt;li&gt;[[VM Creation Using Ansible|VM Creation Using Ansible]]&lt;/li&gt;&#xA;&lt;li&gt;[[VS_Codium|VS_Codium]]&#xA;%% Zoottelkeeper: End of the autogenerated index file list  %%&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.davidwrites.xyz/articles/drafts/vagrant-what-is-it-for/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.davidwrites.xyz/articles/drafts/vagrant-what-is-it-for/</guid>
+      <description>&lt;p&gt;We are sick of manually setting up virtual machines and configuring them. You can use Ansible to automate the configuration of a server. But what about setting up a server before it&amp;rsquo;s configured? Let&amp;rsquo;s stop doing that manually as well by using Vagrant.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.davidwrites.xyz/articles/drafts/vs_codium/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.davidwrites.xyz/articles/drafts/vs_codium/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://github.com/VSCodium&#34; title=&#34;https://github.com/VSCodium&#34; target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;https://github.com/VSCodium&lt;/a&gt; VScode but without the Microsoft Telemetry&lt;/p&gt;&#xA;&lt;p&gt;See section about migrating from VScod to VS codium&#xA;&lt;a href=&#34;https://github.com/VSCodium/vscodium/blob/a02839b466d8d01b8a61ea9611f0b74039538eae/DOCS.md#migrating-from-visual-studio-code-to-vscodium&#34; title=&#34;https://github.com/VSCodium/vscodium/blob/a02839b466d8d01b8a61ea9611f0b74039538eae/DOCS.md#migrating-from-visual-studio-code-to-vscodium&#34; target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;https://github.com/VSCodium/vscodium/blob/a02839b466d8d01b8a61ea9611f0b74039538eae/DOCS.md#migrating-from-visual-studio-code-to-vscodium&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;It pulls from this server rather than Microsoft&amp;rsquo;s: &lt;a href=&#34;https://open-vsx.org/&#34; title=&#34;https://open-vsx.org/&#34; target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;https://open-vsx.org/&lt;/a&gt;. And you can manually download the extensions from microsoft &lt;a href=&#34;https://marketplace.visualstudio.com/vscode&#34; title=&#34;https://marketplace.visualstudio.com/vscode&#34; target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;https://marketplace.visualstudio.com/vscode&lt;/a&gt; if they haven&amp;rsquo;t been added to &lt;a href=&#34;http://open-vsx.org/&#34; title=&#34;http://open-vsx.org/&#34; target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;open-vsx.org&lt;/a&gt; yet.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.davidwrites.xyz/articles/drafts/why-caffeine-is-terrible-for-you/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.davidwrites.xyz/articles/drafts/why-caffeine-is-terrible-for-you/</guid>
+      <description>&lt;p&gt;Caffeine is so bad for you that your body has to spread it out to every region including your brain so that you don&amp;rsquo;t die while your liver slowly detoxes it. It then blocks your adenosine receptors causing uncontrolled neuron firing in your brain. This causes an emergency mode in your body which triggers the pituitary gland to release ACTH.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.davidwrites.xyz/articles/drafts/writing-off-the-cuff/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.davidwrites.xyz/articles/drafts/writing-off-the-cuff/</guid>
+      <description>&lt;p&gt;My favorite and by far easiest method of writing is writing off the cuff. You get your thoughts down and spring new thoughts to life. You are finding out what you know without referencing materials.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.davidwrites.xyz/articles/drafts/writing-on-twitter/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.davidwrites.xyz/articles/drafts/writing-on-twitter/</guid>
+      <description>&lt;p&gt;Why is writing on Twitter worth it?&lt;/p&gt;&#xA;&lt;p&gt;If you write a post that resonates with people. it can go viral because of the Twitter flywheel.&lt;/p&gt;&#xA;&lt;p&gt;A blog has no loop or algorithm to help you gain traction&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>19 Biggest Lessons From Reading 100 Books</title>
+      <link>https://www.davidwrites.xyz/articles/drafts/19-biggest-lessons-from-reading-100-books/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.davidwrites.xyz/articles/drafts/19-biggest-lessons-from-reading-100-books/</guid>
+      <description>&lt;p&gt;I started reading non-fiction after hitting my rock bottom. I found people to look up to and saw that they were reading and learning constantly to better themselves. This inspired me to develop a reading and self improvement habit that I have continued for more than 10 years.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>4 Ways to Quit caffeine</title>
+      <link>https://www.davidwrites.xyz/articles/drafts/4-ways-to-quit-caffeine/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.davidwrites.xyz/articles/drafts/4-ways-to-quit-caffeine/</guid>
+      <description>&lt;p&gt;The cycle of caffeine addiction can be vicious. Just like any other drug.&lt;/p&gt;&#xA;&lt;p&gt;The cycle goes like this:&lt;/p&gt;&#xA;&lt;p&gt;Caffeine causes a variety of pains and withdrawal symptoms. &amp;gt; You use caffeine to relieve these pains and withdrawal symptoms. &amp;gt; Caffeine causes pains and withdrawal symptoms.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Ansible and Podman</title>
+      <link>https://www.davidwrites.xyz/articles/drafts/ansible-and-podman/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.davidwrites.xyz/articles/drafts/ansible-and-podman/</guid>
+      <description>&lt;p&gt;If you&amp;rsquo;re used to managing packages installed on VMs, it&amp;rsquo;s definitely a step up to run containers in podman via quadlet units&lt;/p&gt;&#xA;&lt;p&gt;ansible + podman is pretty close to k8s in terms of overall &amp;ldquo;how easy is this to manage&amp;rdquo;-ness, just not in terms of your RTO times or your overall scalability or resiliency&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Calibre Web with Docker and NGINX</title>
+      <link>https://www.davidwrites.xyz/articles/drafts/calibre-web-with-docker-and-nginx/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.davidwrites.xyz/articles/drafts/calibre-web-with-docker-and-nginx/</guid>
+      <description>&lt;p&gt;I couldn’t find a guide on how to set up Calibre web step-by-step as a Docker container. Especially not one that used Nginx as a reverse proxy.&lt;/p&gt;&#xA;&lt;p&gt;The good news is that it is really fast and simple. You’ll need a few tools to get this done:&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Configure Fedora Desktop using Ansible</title>
+      <link>https://www.davidwrites.xyz/articles/drafts/new-setup/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.davidwrites.xyz/articles/drafts/new-setup/</guid>
+      <description>&lt;div class=&#34;highlight-wrapper&#34;&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;sudo dnf -y install vim&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;### Make vim default sudoer editor&lt;/span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;echo&lt;/span&gt; &lt;span class=&#34;s2&#34;&gt;&amp;#34;Defaults editor=/usr/bin/vim&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;|&lt;/span&gt; sudo tee /etc/sudoers.d/99_custom_editor&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;### remove password prompts when using sudo&lt;/span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;sudo sed -i &lt;span class=&#34;s1&#34;&gt;&amp;#39;s/^#\s*%wheel\s\+ALL=(ALL)\s\+NOPASSWD: ALL/%wheel  ALL=(ALL) NOPASSWD: ALL/&amp;#39;&lt;/span&gt; /etc/sudoers&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;sudo sed -i &lt;span class=&#34;s1&#34;&gt;&amp;#39;s/^%wheel\s\+ALL=(ALL)\s\+ALL/# %wheel  ALL=(ALL) ALL/&amp;#39;&lt;/span&gt; /etc/sudoers&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;sudo dnf -y install https://mirrors.rpmfusion.org/free/fedora/rpmfusion-free-release-&lt;span class=&#34;k&#34;&gt;$(&lt;/span&gt;rpm -E %fedora&lt;span class=&#34;k&#34;&gt;)&lt;/span&gt;.noarch.rpm &lt;span class=&#34;se&#34;&gt;\&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    https://mirrors.rpmfusion.org/nonfree/fedora/rpmfusion-nonfree-release-&lt;span class=&#34;k&#34;&gt;$(&lt;/span&gt;rpm -E %fedora&lt;span class=&#34;k&#34;&gt;)&lt;/span&gt;.noarch.rpm&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;sudo dnf5 install &lt;span class=&#34;s1&#34;&gt;&amp;#39;dnf5-command(groupinstall)&amp;#39;&lt;/span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;sudo dnf -y groupinstall &lt;span class=&#34;se&#34;&gt;\&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;      &lt;span class=&#34;s2&#34;&gt;&amp;#34;Development Tools&amp;#34;&lt;/span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;/bin/bash -c &lt;span class=&#34;s2&#34;&gt;&amp;#34;&lt;/span&gt;&lt;span class=&#34;k&#34;&gt;$(&lt;/span&gt;curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh&lt;span class=&#34;k&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;&lt;/span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;nb&#34;&gt;echo&lt;/span&gt; &lt;span class=&#34;s1&#34;&gt;&amp;#39;eval &amp;#34;$(/home/linuxbrew/.linuxbrew/bin/brew shellenv)&amp;#34;&amp;#39;&lt;/span&gt; &amp;gt;&amp;gt; ~/.bash_profile&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;nb&#34;&gt;eval&lt;/span&gt; &lt;span class=&#34;s2&#34;&gt;&amp;#34;&lt;/span&gt;&lt;span class=&#34;k&#34;&gt;$(&lt;/span&gt;/home/linuxbrew/.linuxbrew/bin/brew shellenv&lt;span class=&#34;k&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;&lt;/span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;sudo dnf -y install ansible&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;&#xA;&lt;p&gt;ansible setup&#xA;&lt;code&gt;vim setup.yml&lt;/code&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Consoling in to MX80 from linux</title>
+      <link>https://www.davidwrites.xyz/articles/drafts/consoling_in_to_mx80_from_linux/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.davidwrites.xyz/articles/drafts/consoling_in_to_mx80_from_linux/</guid>
+      <description>&lt;p&gt;Plug console cable in&lt;/p&gt;&#xA;&lt;p&gt;find out what your serial line name is:&lt;/p&gt;&#xA;&lt;div class=&#34;highlight-wrapper&#34;&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;$ dmesg &lt;span class=&#34;p&#34;&gt;|&lt;/span&gt; grep -i FTDI&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;&#xA;&lt;p&gt;Open putty &amp;gt; change to serial &amp;gt; change the tty line name&lt;/p&gt;&#xA;&lt;p&gt;Make sure your serial settings are correct&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Convert Docker Compose to Quadlets</title>
+      <link>https://www.davidwrites.xyz/articles/drafts/convert-docker-compose-to-quadlets/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.davidwrites.xyz/articles/drafts/convert-docker-compose-to-quadlets/</guid>
+      <description>&lt;p&gt;In order to support compose, podman needs to expose it&amp;rsquo;s REST API service through a local UNIX socket. This supports Docker-compatible APIs and native Libpod APIs.&lt;/p&gt;&#xA;&lt;p&gt;Install required packages:&lt;/p&gt;&#xA;&lt;div class=&#34;highlight-wrapper&#34;&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-yaml&#34; data-lang=&#34;yaml&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;        &lt;/span&gt;- &lt;span class=&#34;l&#34;&gt;podlet&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;        &lt;/span&gt;- &lt;span class=&#34;l&#34;&gt;podman-compose&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;&#xA;&lt;p&gt;Enable podman-socket:&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>How to Build a website With Hugo</title>
+      <link>https://www.davidwrites.xyz/articles/drafts/how-to-build-a-website-with-hugo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.davidwrites.xyz/articles/drafts/how-to-build-a-website-with-hugo/</guid>
+      <description>&lt;p&gt;Word Press is great, but it is probably a lot more bloated then you need for a personal website. Enter Hugo, it has less server capacity and storage needs than Word Press. Hugo is a static site generator than takes markdown files and converts them to html.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>How to Process Bookfusion Highlights with Vim</title>
+      <link>https://www.davidwrites.xyz/articles/drafts/process-bookfusion-highlights/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.davidwrites.xyz/articles/drafts/process-bookfusion-highlights/</guid>
+      <description>&lt;p&gt;Here are my highlights pulled up in Vim:&lt;/p&gt;&#xA;&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;low&#34;&#xA;    alt=&#34;&#34;&#xA;    src=&#34;https://www.davidwrites.xyz/images/Pasted%20image%2020240414034031.png&#34;&#xA;    &gt;&lt;/figure&gt;&#xA;&lt;p&gt;As you can see, Bookfusion gives you a lot of extra information when you export highlights. First, let&amp;rsquo;s get rid of the lines that begin with &lt;code&gt;##&lt;/code&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>How to Set Up Hugo Relearn Theme</title>
+      <link>https://www.davidwrites.xyz/articles/drafts/how-to-set-up-hugo-relearn-theme/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.davidwrites.xyz/articles/drafts/how-to-set-up-hugo-relearn-theme/</guid>
+      <description>&lt;h1 class=&#34;relative group&#34;&gt;Hugo Setup&#xA;    &lt;div id=&#34;hugo-setup&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xA;    &#xA;    &lt;span&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#hugo-setup&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&#xA;    &lt;/span&gt;&#xA;    &#xA;&lt;/h1&gt;&#xA;&#xA;&lt;h2 class=&#34;relative group&#34;&gt;Adding a module as a theme&#xA;    &lt;div id=&#34;adding-a-module-as-a-theme&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xA;    &#xA;    &lt;span&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#adding-a-module-as-a-theme&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&#xA;    &lt;/span&gt;&#xA;    &#xA;&lt;/h2&gt;&#xA;&lt;p&gt;Make sure Go is installed&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>How to Study for the CCNA Exam</title>
+      <link>https://www.davidwrites.xyz/articles/drafts/how-to-study-for-the-ccna-exam/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.davidwrites.xyz/articles/drafts/how-to-study-for-the-ccna-exam/</guid>
+      <description>&lt;figure&gt;&lt;img&#xA;    class=&#34;my-0 rounded-md&#34;&#xA;    loading=&#34;lazy&#34;&#xA;    decoding=&#34;async&#34;&#xA;    fetchpriority=&#34;low&#34;&#xA;    alt=&#34;CCNA Study Calendar&#34;&#xA;    src=&#34;https://www.davidwrites.xyz/images/CCNA.png&#34;&#xA;    &gt;&lt;/figure&gt;&#xA;&lt;p&gt;It took me a whopping 2 years to finish my CCNA! I kept giving up and quitting my studies for months at a time. Why? Because I couldn&amp;rsquo;t remember the massive amount of content covered in the CCNA. It felt hopeless. I could have done it in 6 month (or faster) if I knew how to study.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Juniper CLI Basics</title>
+      <link>https://www.davidwrites.xyz/articles/drafts/juniper_cli_basics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.davidwrites.xyz/articles/drafts/juniper_cli_basics/</guid>
+      <description>&lt;h2 class=&#34;relative group&#34;&gt;Connection Methods&#xA;    &lt;div id=&#34;connection-methods&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xA;    &#xA;    &lt;span&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#connection-methods&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&#xA;    &lt;/span&gt;&#xA;    &#xA;&lt;/h2&gt;&#xA;&#xA;&lt;h4 class=&#34;relative group&#34;&gt;Factory default login:&#xA;    &lt;div id=&#34;factory-default-login&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xA;    &#xA;    &lt;span&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#factory-default-login&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&#xA;    &lt;/span&gt;&#xA;    &#xA;&lt;/h4&gt;&#xA;&lt;p&gt;User: root&lt;br&gt;&#xA;No password&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Learning Touch Typing</title>
+      <link>https://www.davidwrites.xyz/articles/drafts/learning-touch-typing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.davidwrites.xyz/articles/drafts/learning-touch-typing/</guid>
+      <description>&lt;p&gt;Using &lt;a href=&#34;https://monkeytype.com/&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;Monkey Type&lt;/a&gt; to get my first speedtest results:&lt;/p&gt;&#xA;&lt;p&gt;02/24/2025&#xA;55 WPM&#xA;Learning to type with:&#xA;&lt;a href=&#34;https://www.typing.com/&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;https://www.typing.com/&lt;/a&gt;&#xA;&lt;a href=&#34;https://www.typingclub.com/&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;https://www.typingclub.com/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Going to be practicing on these sites:&#xA;&lt;a href=&#34;https://10fastfingers.com/&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;https://10fastfingers.com/&lt;/a&gt;&#xA;&lt;a href=&#34;https://www.keybr.com/&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;https://www.keybr.com/&lt;/a&gt;&#xA;&lt;a href=&#34;https://play.typeracer.com/&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;https://play.typeracer.com/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;try ctrl+backspace to delete entire word&lt;/p&gt;&#xA;&lt;p&gt;Day 1 (1 hour)&#xA;Typing club&#xA;Lessons 1-41&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>My Fedora Setup</title>
+      <link>https://www.davidwrites.xyz/articles/drafts/my-fedora-setup/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.davidwrites.xyz/articles/drafts/my-fedora-setup/</guid>
+      <description>&lt;p&gt;When you first download Fedora Workstation, it&amp;rsquo;s going to be a little hard to figure out how to make it usable. Especially if you&amp;rsquo;ve never tinkered with Linux before.&lt;/p&gt;&#xA;&lt;p&gt;This is because Fedora with Gnome desktop is a blank canvas. The point is to let you customize it to your needs. When I first install Fedora, I pull my justfile to install most of the programs I use:&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Nat Eliason&#39;s SEO course</title>
+      <link>https://www.davidwrites.xyz/articles/drafts/nat-eliasons-seo-course/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.davidwrites.xyz/articles/drafts/nat-eliasons-seo-course/</guid>
+      <description>&lt;h2 class=&#34;relative group&#34;&gt;Things I learned from Nat Eliason&amp;rsquo;s SEO Course&#xA;    &lt;div id=&#34;things-i-learned-from-nat-eliasons-seo-course&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xA;    &#xA;    &lt;span&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#things-i-learned-from-nat-eliasons-seo-course&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&#xA;    &lt;/span&gt;&#xA;    &#xA;&lt;/h2&gt;&#xA;&lt;p&gt;Leveling up&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Start with an easy keyword&lt;/li&gt;&#xA;&lt;li&gt;Over time, adjust article for harder and harder keywords&lt;/li&gt;&#xA;&lt;li&gt;Long tail keywords with low competition&lt;/li&gt;&#xA;&lt;li&gt;Can change meta title for google to the harder keyword later&lt;/li&gt;&#xA;&lt;li&gt;Can only change the meta title unless there is something the content is missing that the broader keyword asks for.&lt;/li&gt;&#xA;&lt;li&gt;At first, pick something under 5,000 searches&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;You don&amp;rsquo;t need to spend time building backlinks.&#xA;You can rank for keywords that aren&amp;rsquo;t even in your articles. You don&amp;rsquo;t need to focus on keyword density. Focus on intent.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Networking Devices and Connections</title>
+      <link>https://www.davidwrites.xyz/articles/drafts/network-devices-and-connections/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.davidwrites.xyz/articles/drafts/network-devices-and-connections/</guid>
+      <description>&lt;h2 class=&#34;relative group&#34;&gt;Hostname&#xA;    &lt;div id=&#34;hostname&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xA;    &#xA;    &lt;span&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#hostname&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&#xA;    &lt;/span&gt;&#xA;    &#xA;&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&amp;ldquo;-&amp;rdquo;, &amp;ldquo;_ &amp;ldquo;, and &amp;ldquo;. &amp;quot; characters are allowed.&lt;/li&gt;&#xA;&lt;li&gt;Up to 253 characters.&lt;/li&gt;&#xA;&lt;li&gt;Stored in &lt;em&gt;/etc/hostname&lt;/em&gt;.&lt;/li&gt;&#xA;&lt;li&gt;Can be viewed with several different commands, such as &lt;code&gt;hostname&lt;/code&gt;, &lt;code&gt;hostnamectl&lt;/code&gt;, &lt;code&gt;uname&lt;/code&gt;, and &lt;code&gt;nmcli&lt;/code&gt;, as well as by displaying the content of the &lt;em&gt;/etc/hostname&lt;/em&gt; file.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;View the hostname:&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Nextcloud on RHEL Based Systems</title>
+      <link>https://www.davidwrites.xyz/articles/drafts/nextcloud-on-rhel-based-systems/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.davidwrites.xyz/articles/drafts/nextcloud-on-rhel-based-systems/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m going to show you how to set up your own, self-hosted Nextcloud server using Alma Linux 9 and Apache.&lt;/p&gt;&#xA;&#xA;&lt;h3 class=&#34;relative group&#34;&gt;What is Nextcloud?&#xA;    &lt;div id=&#34;what-is-nextcloud&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xA;    &#xA;    &lt;span&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#what-is-nextcloud&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&#xA;    &lt;/span&gt;&#xA;    &#xA;&lt;/h3&gt;&#xA;&lt;p&gt;Nextcloud is so many things. It offers so many features and options, it deserves a bulleted list:&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Podman Links</title>
+      <link>https://www.davidwrites.xyz/articles/drafts/podman-links/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.davidwrites.xyz/articles/drafts/podman-links/</guid>
+      <description>&lt;p&gt;podman desktop tutorial&#xA;&lt;a href=&#34;https://www.youtube.com/watch?v=YXfA5O5Mr18&amp;amp;t=216s&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;https://www.youtube.com/watch?v=YXfA5O5Mr18&amp;t=216s&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Connecting to remote machine&lt;/p&gt;&#xA;&lt;div class=&#34;highlight-wrapper&#34;&gt;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code class=&#34;language-Just&#34; data-lang=&#34;Just&#34;&gt;&#xA;It&amp;#39;s still experimental though, and buried in the menus (Settings -&amp;gt; Preferences -&amp;gt; Podman Extension -&amp;gt; Remote (a toggle button). But the GUI seemed to throw js errors until after I had podman remote properly setup on the cli as follows, so only turn it on after the cli works!&#xA;&#xA;First, you will need to have your ssh keys already setup correctly to ssh in passwordlessly, and I have read that the ed25519 ssh key algorithm is preferred (YMMV). There are many generate and ssh-copy-id tutorials on the internet.&#xA;&#xA;But then you still have to add the remote connection at the command line, and not in the GUI. E.g.&#xA;&#xA;`podman --remote system connection add &amp;lt;&amp;lt;NICKNAMEYOURREMOTEMACHINEHERE&amp;gt;&amp;gt; --identity ~/.ssh/id_ed25519 ssh://&amp;lt;&amp;lt;YOURREMOTEUSERNAMEHERE&amp;gt;&amp;gt;@&amp;lt;&amp;lt;YOURIPHERE&amp;gt;&amp;gt;/run/user/&amp;lt;&amp;lt;YOURUIDHERE&amp;gt;&amp;gt;/podman/podman.sock`&#xA;&#xA;You should test it at the command-line with something like:&#xA;&#xA;podman -c REMOTEMACHINENICKNAME ps&#xA;&#xA;Once I sorted through the various connection errors (I initially had the wrong uid &amp;amp; had to upgrade my remote podman to version 4) and got it to work at the cli, I turned it on in the GUI and it worked.&#xA;&#xA;I can say the Podman Desktop GUI makes it easier to admin remote podman containers. But there are a few issues I can already see with it, such as it does not not yet visually distinguish between a remote and a local container. Again, it is very early stage...&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&#xA;&lt;p&gt;ctop to view metrics&#xA;So, to work with podman there are some quick steps to set the socket enabled and be transparent with docker-ctop:&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Podman Quadlets</title>
+      <link>https://www.davidwrites.xyz/articles/drafts/podman-quadlets/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.davidwrites.xyz/articles/drafts/podman-quadlets/</guid>
+      <description>&lt;p&gt;Rootless container quadlet files go under /etc/containers/systemd/users/${UID}/ and the user session will activate the quadlet.&lt;/p&gt;&#xA;&lt;p&gt;If you put it under etc/containers/systemd/users/ then all user sessions will activate the quadlet&lt;/p&gt;&#xA;&lt;p&gt;When starting a container unit, systemd may time out due to the time it takes to pull a container. Use the TimeoutStartSec Service option to extend the default 90 second timeout or pre-pill the image.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Remove a filesystem from a partition</title>
+      <link>https://www.davidwrites.xyz/articles/drafts/rm-filesystem-from-partition/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.davidwrites.xyz/articles/drafts/rm-filesystem-from-partition/</guid>
+      <description>&lt;h2 class=&#34;relative group&#34;&gt;Remove a filesystem from a partition&#xA;    &lt;div id=&#34;remove-a-filesystem-from-a-partition&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xA;    &#xA;    &lt;span&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#remove-a-filesystem-from-a-partition&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&#xA;    &lt;/span&gt;&#xA;    &#xA;&lt;/h2&gt;&#xA;&lt;p&gt;To delete a filesystem, partition, raid and disk labels from the disk. Use &lt;code&gt;wipefs -a /dev/sdb1&lt;/code&gt; May also use &lt;code&gt;wipefs -a /dev/sdb?&lt;/code&gt; to delete sub partitions? (I need to verify this)&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Self hosting a Nextcloud Server</title>
+      <link>https://www.davidwrites.xyz/articles/drafts/setting-up-a-self-hosted-nextcloud-server/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.davidwrites.xyz/articles/drafts/setting-up-a-self-hosted-nextcloud-server/</guid>
+      <description>&lt;p&gt;This is a step-by-step guide to setting up Nextcloud on a Debian server. You will need a server hosted by a VPS like Vultr. And a Domain hosted by a DNS provider such as Cloudflare&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Silverblue</title>
+      <link>https://www.davidwrites.xyz/articles/drafts/silverblue/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.davidwrites.xyz/articles/drafts/silverblue/</guid>
+      <description>&lt;p&gt;Automated setup &lt;a href=&#34;https://universal-blue.org/&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;https://universal-blue.org/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;You get all the benefits of using containers&#xA;Separates system level packages from applications.&lt;/p&gt;&#xA;&lt;p&gt;System Level&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Desktop, kernel?&lt;/li&gt;&#xA;&lt;li&gt;Layering&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Apps at system level because containers aren&amp;rsquo;t as developed yet&lt;/li&gt;&#xA;&lt;li&gt;Locks to the fedora version you are on&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&#xA;&lt;h2 class=&#34;relative group&#34;&gt;Layered package examples&#xA;    &lt;div id=&#34;layered-package-examples&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xA;    &#xA;    &lt;span&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#layered-package-examples&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&#xA;    &lt;/span&gt;&#xA;    &#xA;&lt;/h2&gt;&#xA;&lt;pre&gt;&lt;code&gt;- gnome shell extensions&#xA;- distrobox&#xA;&lt;/code&gt;&lt;/pre&gt;&#xA;&lt;p&gt;Uses rpm-ostree? &lt;a href=&#34;https://coreos.github.io/rpm-ostree/administrator-handbook/&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;https://coreos.github.io/rpm-ostree/administrator-handbook/&lt;/a&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Toggle PoE on a Juniper Switch</title>
+      <link>https://www.davidwrites.xyz/articles/drafts/toggle_poe/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.davidwrites.xyz/articles/drafts/toggle_poe/</guid>
+      <description>&lt;div class=&#34;highlight-wrapper&#34;&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;Configure&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;set&lt;/span&gt; poe interface ge-0/0/0 disable&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;commit&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;rollback &lt;span class=&#34;m&#34;&gt;1&lt;/span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;commit&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Using Vagrant on Linux</title>
+      <link>https://www.davidwrites.xyz/articles/drafts/using-vagrant-on-linux/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.davidwrites.xyz/articles/drafts/using-vagrant-on-linux/</guid>
+      <description>&lt;p&gt;Vagrant is software that lets you set up multiple, pre-configured virtual machines in a flash. I am going to show you how to do this using Linux and Virtual Box. But you can do this on MacOS and Windows as well.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Vim Guide</title>
+      <link>https://www.davidwrites.xyz/articles/drafts/vimguide/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.davidwrites.xyz/articles/drafts/vimguide/</guid>
+      <description>&lt;p&gt;Vim (Vi Improved)&lt;/p&gt;&#xA;&lt;p&gt;&lt;code&gt;Vim&lt;/code&gt; stands for vi (Improved) just like its name it stands for an improved version of the &lt;code&gt;vi&lt;/code&gt; text editor command.&lt;/p&gt;&#xA;&lt;p&gt;Lightweight&lt;/p&gt;&#xA;&lt;p&gt;Start Vim&lt;/p&gt;&#xA;&lt;div class=&#34;highlight-wrapper&#34;&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;vim&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;&#xA;&#xA;&lt;h2 class=&#34;relative group&#34;&gt;Vim Search Patterns&#xA;    &lt;div id=&#34;vim-search-patterns&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xA;    &#xA;    &lt;span&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#vim-search-patterns&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&#xA;    &lt;/span&gt;&#xA;    &#xA;&lt;/h2&gt;&#xA;&#xA;&lt;h3 class=&#34;relative group&#34;&gt;Moving the Cursor&#xA;    &lt;div id=&#34;moving-the-cursor&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xA;    &#xA;    &lt;span&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#moving-the-cursor&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&#xA;    &lt;/span&gt;&#xA;    &#xA;&lt;/h3&gt;&#xA;&lt;p&gt;h or left arrow - move left one character&#xA;k or up arrow - move up one line&#xA;j or down arrow - move down one line&#xA;l or right arrow - will move you right one character&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>What to Learn After CCNA</title>
+      <link>https://www.davidwrites.xyz/articles/drafts/what-to-learn-after-ccna/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.davidwrites.xyz/articles/drafts/what-to-learn-after-ccna/</guid>
+      <description>&lt;p&gt;It&amp;rsquo;s easy to get overwhelmed with options after &lt;a href=&#34;Resources%20for%20Passing%20CCNA.md&#34; &gt;completing&lt;/a&gt; your CCNA. What do you learn next? If you are trying to get a job as a Network Engineer, you will want to check this out.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>You Need to Learn Man Pages</title>
+      <link>https://www.davidwrites.xyz/articles/drafts/using-man-pages/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.davidwrites.xyz/articles/drafts/using-man-pages/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=RzAkjX_9B7E&amp;amp;t=295s&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;https://www.youtube.com/watch?v=RzAkjX_9B7E&amp;t=295s&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Man (manual) pages are the built in help system for Linux. They contain documentation for most commands.&lt;/p&gt;&#xA;&lt;p&gt;Run the &lt;code&gt;man&lt;/code&gt; command on a command to get to it&amp;rsquo;s man page.&#xA;&lt;code&gt;man man&lt;/code&gt;&lt;/p&gt;</description>
       
     </item>
     
