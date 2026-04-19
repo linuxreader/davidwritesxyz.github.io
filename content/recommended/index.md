@@ -35,7 +35,6 @@ showTableOfContents: true
   <img src="sytycw.jpg" class="grid-w20 cursor-pointer" onclick="event.stopPropagation(); window.open('https://amzn.to/4mGjybB','_blank'); return false;" />
   <img src="cw1.jpg" class="grid-w20 cursor-pointer" onclick="event.stopPropagation(); window.open('https://amzn.to/4tTwtcB','_blank'); return false;" />
   <img src="htlafcb.jpg" class="grid-w20 cursor-pointer" onclick="event.stopPropagation(); window.open('https://amzn.to/4cHzA0y','_blank'); return false;" />
-  <img src="htlafcb.jpg" class="grid-w20 cursor-pointer" onclick="event.stopPropagation(); window.open('https://amzn.to/4cHzA0y','_blank'); return false;" />
   <img src="c.jpg" class="grid-w20 cursor-pointer" onclick="event.stopPropagation(); window.open('https://amzn.to/42ikQA8','_blank'); return false;" />
   <img src="sa.jpg" class="grid-w20 cursor-pointer" onclick="event.stopPropagation(); window.open('https://amzn.to/4vFwhPM','_blank'); return false;" />
   <img src="tp.jpg" class="grid-w20 cursor-pointer" onclick="event.stopPropagation(); window.open('https://amzn.to/4cAb0yi','_blank'); return false;" />
