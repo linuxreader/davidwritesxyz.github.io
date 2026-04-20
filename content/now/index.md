@@ -6,13 +6,19 @@ date: 2026-03-28
 ---
 What I am up to [Now](https://nownownow.com/about).
 
-After getting RHCE certified, I was planning on focusing solely on containers. But I realized there is still a lot more to grasp if I want to do Ansible the right way. So right now I am delving a bit into containers, and looking more into Ansible best practices.
+## Career
+I am currently deep diving container technology. I am studying for the RedHat certified specialist in containers exam. Also working on self healing infrastructure using Ansible to automatically deploy VMs if they don't exist. 
 
-Also going for a jog every morning to warm up for the day. Building up to 20 minutes per day. 
+## Health
+My current exercise routine is a morning jog. I am also working on weaning down my caffeine intake due to a miriad of reasons. 
 
-My caffeine levels have gotten a bit out of control. So I started tapering by 5mg per day. 
+## Fun
+Currently spend most of my fun time just hanging out with the family at home. Playing a little Starcraft 2 here and there. 
 
-### What I am reading
+## What I am reading
+
+I am alternating between fiction and non fiction. Here is my current read: 
+
 {{< gallery >}}
-  <img src="norwegianwood.png" class="grid-w20" />
+  <img src="pia.jpg" class="grid-w20 cursor-pointer" onclick="event.stopPropagation(); window.open('https://amzn.to/4mFNPYc','_blank'); return false;" />
 {{< /gallery >}}

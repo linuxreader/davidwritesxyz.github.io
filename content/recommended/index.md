@@ -143,12 +143,23 @@ showTableOfContents: true
 ## Parenting
 {{< gallery >}}
   <img src="goodinside.png" class="grid-w20 cursor-pointer" onclick="event.stopPropagation(); window.open('https://amzn.to/4mD7bwZ','_blank'); return false;" />
-  <img src="123magic.png" class="grid-w20 cursor-pointer" onclick="event.stopPropagation(); window.open('https://amzn.to/41DuBJ7','_blank'); return false;" />
+  <img src="pp.jpg" class="grid-w20 cursor-pointer" onclick="event.stopPropagation(); window.open('https://amzn.to/4cmTiQe','_blank'); return false;" />
+<img src="123magic.png" class="grid-w20 cursor-pointer" onclick="event.stopPropagation(); window.open('https://amzn.to/41DuBJ7','_blank'); return false;" />
+
 {{< /gallery >}}
 
 ## Philosophy & Religion
 {{< gallery >}}
   <img src="meditations.png" class="grid-w20 cursor-pointer" onclick="event.stopPropagation(); window.open('https://amzn.to/4dQR38S','_blank'); return false;" />
+  <img src="ltacn.jpg" class="grid-w20 cursor-pointer" onclick="event.stopPropagation(); window.open('https://amzn.to/4dTz2GY','_blank'); return false;" />
+  <img src="te.jpg" class="grid-w20 cursor-pointer" onclick="event.stopPropagation(); window.open('https://amzn.to/42h8BDV','_blank'); return false;" />
+  <img src="wu.jpg" class="grid-w20 cursor-pointer" onclick="event.stopPropagation(); window.open('https://amzn.to/3OAP3az','_blank'); return false;" />
+  <img src="teof.jpg" class="grid-w20 cursor-pointer" onclick="event.stopPropagation(); window.open('https://amzn.to/4mKZFAq','_blank'); return false;" />
+  <img src="lying.jpg" class="grid-w20 cursor-pointer" onclick="event.stopPropagation(); window.open('https://amzn.to/4czPtpD','_blank'); return false;" />
+  <img src="tml.jpg" class="grid-w20 cursor-pointer" onclick="event.stopPropagation(); window.open('https://amzn.to/48ZJppg','_blank'); return false;" />
+  <img src="iatfot.jpg" class="grid-w20 cursor-pointer" onclick="event.stopPropagation(); window.open('https://amzn.to/4tZLDx7','_blank'); return false;" />
+  <img src="fw.jpg" class="grid-w20 cursor-pointer" onclick="event.stopPropagation(); window.open('https://amzn.to/4cTgkOC','_blank'); return false;" />
+  <img src="agttgl.jpg" class="grid-w20 cursor-pointer" onclick="event.stopPropagation(); window.open('https://amzn.to/4vEj3D1','_blank'); return false;" />
 {{< /gallery >}}
 
 ## History
@@ -175,5 +186,9 @@ showTableOfContents: true
 
 ## Audio Books
 {{< gallery >}}
+ <img src="breath.jpg" class="grid-w20 cursor-pointer" onclick="event.stopPropagation(); window.open('https://amzn.to/4sKg8WU','_blank'); return false;" />
+ <img src="yaabamm.jpg" class="grid-w20 cursor-pointer" onclick="event.stopPropagation(); window.open('https://amzn.to/4tomAUH','_blank'); return false;" />
+ <img src="al.jpg" class="grid-w20 cursor-pointer" onclick="event.stopPropagation(); window.open('https://amzn.to/4ttd3vA','_blank'); return false;" />
+ <img src="ofi.jpg" class="grid-w20 cursor-pointer" onclick="event.stopPropagation(); window.open('https://amzn.to/4cVmZry','_blank'); return false;" />
 {{< /gallery >}}
 

@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Writing on David Writes</title>
-    <link>https://www.davidwrites.xyz/categories/writing/</link>
+    <link>http://localhost:1313/categories/writing/</link>
     <description>Recent content in Writing on David Writes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2026 </copyright>
-    <atom:link href="https://www.davidwrites.xyz/categories/writing/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/writing/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Nat Eliason&#39;s SEO course</title>
-      <link>https://www.davidwrites.xyz/articles/drafts/nat-eliasons-seo-course/</link>
+      <link>http://localhost:1313/articles/drafts/nat-eliasons-seo-course/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.davidwrites.xyz/articles/drafts/nat-eliasons-seo-course/</guid>
+      <guid>http://localhost:1313/articles/drafts/nat-eliasons-seo-course/</guid>
       <description>&lt;h2 class=&#34;relative group&#34;&gt;Things I learned from Nat Eliason&amp;rsquo;s SEO Course&#xA;    &lt;div id=&#34;things-i-learned-from-nat-eliasons-seo-course&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xA;    &#xA;    &lt;span&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#things-i-learned-from-nat-eliasons-seo-course&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&#xA;    &lt;/span&gt;&#xA;    &#xA;&lt;/h2&gt;&#xA;&lt;p&gt;Leveling up&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Start with an easy keyword&lt;/li&gt;&#xA;&lt;li&gt;Over time, adjust article for harder and harder keywords&lt;/li&gt;&#xA;&lt;li&gt;Long tail keywords with low competition&lt;/li&gt;&#xA;&lt;li&gt;Can change meta title for google to the harder keyword later&lt;/li&gt;&#xA;&lt;li&gt;Can only change the meta title unless there is something the content is missing that the broader keyword asks for.&lt;/li&gt;&#xA;&lt;li&gt;At first, pick something under 5,000 searches&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;You don&amp;rsquo;t need to spend time building backlinks.&#xA;You can rank for keywords that aren&amp;rsquo;t even in your articles. You don&amp;rsquo;t need to focus on keyword density. Focus on intent.&lt;/p&gt;</description>
       
     </item>
