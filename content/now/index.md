@@ -20,5 +20,5 @@ Currently spend most of my fun time just hanging out with the family at home. Pl
 I am alternating between fiction and non fiction. Here is my current read: 
 
 {{< gallery >}}
-  <img src="pia.jpg" class="grid-w20 cursor-pointer" onclick="event.stopPropagation(); window.open('https://amzn.to/4mFNPYc','_blank'); return false;" />
+  <img src="pfd.jpg" class="grid-w25 cursor-pointer" onclick="event.stopPropagation(); window.open('https://amzn.to/4u0Qaze','_blank'); return false;" />
 {{< /gallery >}}

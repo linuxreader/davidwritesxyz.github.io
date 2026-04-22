@@ -49,6 +49,7 @@ showTableOfContents: true
   <img src="cocg.jpg" class="grid-w20 cursor-pointer" onclick="event.stopPropagation(); window.open('https://amzn.to/4ctTBYc','_blank'); return false;" />
   <img src="rhcsa.jpg" class="grid-w20 cursor-pointer" onclick="event.stopPropagation(); window.open('https://amzn.to/4ctN1SV','_blank'); return false;" />
   <img src="rhce8.jpg" class="grid-w20 cursor-pointer" onclick="event.stopPropagation(); window.open('https://amzn.to/4tWA49U','_blank'); return false;" />
+   <img src="pia.jpg" class="grid-w20 cursor-pointer" onclick="event.stopPropagation(); window.open('https://amzn.to/4mFNPYc','_blank'); return false;" />
 {{< /gallery >}}
 
 ## Personal Development
