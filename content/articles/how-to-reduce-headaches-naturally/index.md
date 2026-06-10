@@ -7,7 +7,7 @@ tags: ["articles"]
 summary: "How to reduce headaches naturally by relaxing tense muscles."
 ---
 
-![](featured.png)
+![](headache.png)
 
 Muscle tension can cause an insane amount of symptoms in the head and neck region:  
 

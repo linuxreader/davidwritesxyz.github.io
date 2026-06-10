@@ -5,7 +5,7 @@ date: 2026-01-22
 tags: ["articles"]
 draft: false
 ---
-![](featured.png)
+![](automate-kvm.png)
 When I started studying for RHCE, I was spending tons of time manually creating and destroying virtual machines. 
 
 I thought.. 

@@ -9,8 +9,8 @@ cascade:
   showAuthor: false
   invertPagination: true
   showSummary: true
-  showLikes: true
-  showViews: true
+  showLikes: false
+  showViews: false
   sharingLinks: false
   cardView: false
 ---

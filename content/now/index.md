@@ -3,6 +3,8 @@ title: Now
 description: "David's Now page"
 draft: false
 date: 2026-03-28
+showViews: false
+showLikes: false
 ---
 What I am up to [Now](https://nownownow.com/about).
 

@@ -3,8 +3,26 @@ title: "Recommended Reading"
 description: "Recommended Reading"
 showDate: false
 showTableOfContents: true
+showViews: false
+showLikes: false
 ---
 
+<div style="display:flex; gap:1rem; align-items:flex-start;">
+  <img src="thewillpowerinstinct/willpowerinstinct.png" style="width:13%; height:auto;" />
+  <div>
+    <h3 class="mb-1">
+    <a href="/notes/thewillpowerinstinct" class="hover:underline">
+     The Willpower Instinct
+    </a>
+    </h3>
+    <div class="text-lg">
+    ★★★★★
+    </div>
+    <p>
+    I picked up a bunch of new habits in the past couple months since reading this. Positive habits are self-perpetuating. So are negative ones.
+    </p>
+  </div>
+</div>
 ## Fiction
 {{< gallery >}}
   <img src="infinitywar.png" class="grid-w20 cursor-pointer" onclick="event.stopPropagation(); window.open('https://amzn.to/3OovmTj','_blank'); return false;" />
