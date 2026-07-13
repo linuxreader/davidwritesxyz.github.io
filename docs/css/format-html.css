@@ -5,47 +5,47 @@
   /* my-custom-variant: japan-tan (washi paper + sumi ink + indigo/vermillion accents) */
   --PRIMARY-color: rgba( 58, 90, 128, 1 ); /* ai-iro indigo — brand primary color */
   --SECONDARY-color: rgba( 178, 60, 46, 1 ); /* shu-iro vermillion — brand secondary color */
-  --MAIN-TOPBAR-BORDER-color: rgb( 199, 178, 145 ); /* border color between topbar and content */
+  --MAIN-TOPBAR-BORDER-color: rgb( 220, 204, 175 ); /* border color between topbar and content */
   --MAIN-LINK-color: rgb( 58, 90, 128 ); /* link color of content */
   --MAIN-LINK-HOVER-color: rgb( 178, 60, 46 ); /* hoverd link color of content */
-  --MAIN-BG-color: rgb( 230, 216, 189 ); /* washi paper tan — background color of content */
+  --MAIN-BG-color: rgb( 245, 235, 214 ); /* washi paper tan — background color of content */
   --MAIN-TEXT-color: rgba( 58, 48, 38, 1 ); /* sumi ink — text color of content and h1 titles */
-  --MAIN-TITLES-TEXT-color: rgba( 34, 27, 21, 1 ); /* deep sumi ink — text color of h2-h6 titles and transparent box titles */
+  --MAIN-TITLES-TEXT-color: rgba( 34, 27, 21, 1 ); /* sumi ink — text color of h2-h6 titles and transparent box titles */
   --CODE-theme: relearn-light; /* name of the chroma stylesheet file */
   --CODE-BLOCK-color: rgba( 58, 48, 38, 1 ); /* fallback text color of block code */
-  --CODE-BLOCK-BG-color: rgb( 214, 196, 165 ); /* fallback background color of block code */
-  --CODE-BLOCK-BORDER-color: rgb( 190, 168, 133 ); /* border color of block code */
+  --CODE-BLOCK-BG-color: rgb( 232, 218, 190 ); /* fallback background color of block code */
+  --CODE-BLOCK-BORDER-color: rgb( 213, 195, 163 ); /* border color of block code */
   --CODE-INLINE-color: rgb( 120, 45, 33 ); /* shu-iro inline code text */
-  --CODE-INLINE-BG-color: rgb( 214, 196, 165 ); /* background color of inline code */
-  --CODE-INLINE-BORDER-color: rgb( 190, 168, 133 ); /* border color of inline code */
+  --CODE-INLINE-BG-color: rgb( 232, 218, 190 ); /* background color of inline code */
+  --CODE-INLINE-BORDER-color: rgb( 213, 195, 163 ); /* border color of inline code */
   --BROWSER-theme: light; /* name of the theme for browser scrollbars of the main section */
   --MERMAID-theme: neutral; /* name of the default Mermaid theme for this variant */
   --OPENAPI-theme: light; /* name of the default OpenAPI theme for this variant */
   --OPENAPI-CODE-theme: github; /* name of the default OpenAPI code theme for this variant */
-  --MENU-BORDER-color: rgb( 199, 178, 145 ); /* border color between menu and content */
-  --MENU-TOPBAR-BORDER-color: rgb( 199, 178, 145 ); /* border color of vertical line between menu and topbar */
-  --MENU-TOPBAR-SEPARATOR-color: rgb( 199, 178, 145 ); /* separator color of vertical line between menu and topbar */
+  --MENU-BORDER-color: rgb( 220, 204, 175 ); /* border color between menu and content */
+  --MENU-TOPBAR-BORDER-color: rgb( 220, 204, 175 ); /* border color of vertical line between menu and topbar */
+  --MENU-TOPBAR-SEPARATOR-color: rgb( 220, 204, 175 ); /* separator color of vertical line between menu and topbar */
   --MENU-HEADER-color: rgb( 34, 27, 21 ); /* color of menu header */
-  --MENU-HEADER-BG-color: rgb( 208, 188, 154 ); /* background color of menu header */
+  --MENU-HEADER-BG-color: rgb( 227, 212, 184 ); /* background color of menu header */
   --MENU-HEADER-BORDER-color: transparent; /* border color between menu header and menu */
-  --MENU-HEADER-SEPARATOR-color: rgb( 190, 168, 133 ); /* separator color between menu header and menu */
+  --MENU-HEADER-SEPARATOR-color: rgb( 213, 195, 163 ); /* separator color between menu header and menu */
   --MENU-HOME-LINK-color: rgba( 58, 48, 38, 1 ); /* home button color if configured */
   --MENU-HOME-LINK-HOVER-color: rgb( 178, 60, 46 ); /* hoverd home button color if configured */
   --MENU-SEARCH-color: rgb( 58, 90, 128 ); /* text and icon color of search box */
-  --MENU-SEARCH-BG-color: rgb( 220, 203, 172 ); /* background color of search box */
-  --MENU-SEARCH-BORDER-color: rgb( 190, 168, 133 ); /* border color of search box */
-  --MENU-SECTIONS-BG-color: rgb( 221, 205, 175 ); /* background of the menu */
+  --MENU-SEARCH-BG-color: rgb( 240, 231, 212 ); /* background color of search box */
+  --MENU-SEARCH-BORDER-color: rgb( 213, 195, 163 ); /* border color of search box */
+  --MENU-SECTIONS-BG-color: rgb( 240, 229, 206 ); /* background of the menu */
   --MENU-SECTIONS-ACTIVE-BG-color: transparent; /* background color of the active menu section */
   --MENU-SECTIONS-LINK-color: rgba( 58, 48, 38, .8 ); /* link color of menu topics */
   --MENU-SECTIONS-LINK-HOVER-color: rgb( 178, 60, 46 ); /* hoverd link color of menu topics */
   --MENU-SECTION-ACTIVE-CATEGORY-color: rgb( 58, 90, 128 ); /* text color of the displayed menu topic */
-  --MENU-SECTION-ACTIVE-CATEGORY-BG-color: rgb( 230, 216, 189 ); /* background color of the displayed menu topic */
-  --MENU-SECTION-SEPARATOR-color: rgb( 190, 168, 133 ); /* separator color between menu sections and menu footer */
+  --MENU-SECTION-ACTIVE-CATEGORY-BG-color: rgb( 245, 235, 214 ); /* background color of the displayed menu topic */
+  --MENU-SECTION-SEPARATOR-color: rgb( 213, 195, 163 ); /* separator color between menu sections and menu footer */
   --MENU-VISITED-color: rgb( 120, 90, 60 ); /* icon color of visited menu topics if configured */
   --BOX-CAPTION-color: rgba( 34, 27, 21, 1 ); /* text color of colored box titles */
-  --BOX-BG-color: rgba( 222, 206, 176, 1 ); /* background color of colored boxes */
+  --BOX-BG-color: rgba( 240, 229, 206, 1 ); /* background color of colored boxes */
   --BOX-TEXT-color: rgba( 58, 48, 38, 1 ); /* text color of colored box content */
-  --BOX-GREY-color: rgb( 204, 187, 156 ); /* background color of grey boxes */
+  --BOX-GREY-color: rgb( 224, 210, 184 ); /* background color of grey boxes */
 }
 
 /* Generated using: hugo gen chromastyles chroma-relearn-light --style monokailight */
