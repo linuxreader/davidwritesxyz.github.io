@@ -1,0 +1,27 @@
+[[main]]
+none = "none"
+
+[[main]]
+  name = "Articles"
+  pageRef = "articles"
+  identifier = "TmCySnU7d5"
+  weight = 20
+
+[[main]]
+  name = "Notes"
+  pageRef = "booknotes"
+  weight = 35
+
+[[main]]
+  name = "Now"
+  pageRef = "Now"
+  identifier = "76cUaCSiy6"
+  weight = 50
+
+[[main]]
+  name = "Contact"
+  pageRef = "contact"
+  weight = 60
+
+[[footer]]
+none = "none"

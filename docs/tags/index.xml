@@ -1,23 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on David Writes</title>
-    <link>https://www.davidwrites.xyz/tags/</link>
-    <description>Recent content in Tags on David Writes</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <copyright>© 2026 </copyright>
-    <lastBuildDate>Thu, 22 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://www.davidwrites.xyz/tags/index.xml" rel="self" type="application/rss+xml" />
-    
+    <title>Tags</title>
+    <link>https://www.davidwrites.xyz.com/tags/</link>
+    <description></description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 15 Oct 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://www.davidwrites.xyz.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Articles</title>
-      <link>https://www.davidwrites.xyz/tags/articles/</link>
-      <pubDate>Thu, 22 Jan 2026 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.davidwrites.xyz/tags/articles/</guid>
+      <title>Tag :: Non-Fiction</title>
+      <link>https://www.davidwrites.xyz.com/tags/non-fiction/</link>
+      <pubDate>Wed, 15 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.davidwrites.xyz.com/tags/non-fiction/</guid>
       <description></description>
-      
     </item>
-    
   </channel>
 </rss>

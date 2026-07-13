@@ -1,0 +1,121 @@
+baseURL: 'https://www.davidwrites.xyz.com/'
+languageCode: 'en-us'
+theme: ["hugo-theme-relearn-9.0.3"]
+publishDir: "docs"
+
+params:
+  #linktitle: 'David Writes'
+  imagesDir: "content/images"
+  lightbox: false
+  alwaysopen: false
+  editURL: ""
+  author.name: "David Thomas"
+  hideAuthorDate: true
+  showVisitedLinks: true
+  search.disable: false
+  disableSearchHiddenPages: false
+  disableSeoHiddenPages: false
+  disableTagHiddenPages: false
+  disableAssetsBusting: false
+  disableGeneratorVersion: false
+  disableInlineCopyToClipBoard: false
+  disableShortcutsTitle: false
+  disableLandingPageButton: true
+  disableLanguageSwitchingButton: false
+  disableMarkdownButton: false
+  #disableBreadcrumb: true
+  disableToc: false
+  disableNextPrev: false
+  ordersectionsby: "weight"
+  themeVariant:
+    - peace
+  titleSeparator: "::"
+  highlightWrap: true
+  collapsibleMenu: true
+  disableExplicitIndexURLs: true
+  externalLinkTarget: "_blank"
+  custom_css: 
+    - css/custom.css
+
+ignoreLogs: 
+  - "warning-goldmark-raw-html"
+
+outputs:
+  home:
+  - html
+  - rss
+  - markdown
+  page:
+  - html
+  - markdown
+  section:
+  - html
+  - rss
+  - markdown
+
+markup:
+  highlight:
+    guessSyntax: false
+    style: "github-dark"
+
+  goldmark:
+    renderer:
+      unsafe: true
+
+
+#menu.shortcuts:
+ # name: "<i class='fas fa-solid fa-circle-info'></i> About"
+  #url: "about/"
+  #weight: 9
+
+#[[menu.shortcuts]]
+#name: "<i class='fab fa-fw fa-github'></i> GitHub"
+#identifier: "ds"
+#url: "https://github.com/linuxreader"
+#weight: 10
+
+#menu.shortcuts:
+ # name: "<i class='fas fa-fw fa-play'></i> YouTube"
+  #url: "https://www.youtube.com/@linuxreader"
+  #weight: 11
+menu:
+  shortcuts:
+  - name: "<i class='fas fa-fw fa-envelope'></i> Contact"
+    url: contact/
+    weight: 1
+  - name: "<i class='fas fa-fw fa-book'></i> Book Notes"
+    url: booknotes/
+    weight: 2
+  - name: "<i class='fas fa-fw fa-clock'></i> Now"
+    url: now/
+    weight: 3
+  - name: "<i class='fab fa-fw fa-github'></i> GitHub"
+    url: "https://github.com/linuxreader"
+    weight: 4
+  - name: "<i class='fab fa-fw fa-linkedin'></i> LinkedIn"
+    url: "https://linkedin.com/in/linuxreader/"
+    weight: 5
+
+
+
+#[[menu.shortcuts]]
+#name: "<i class='fas fa-fw fa-file'></i> Book Notes"
+#url: "booknotes/"
+#weight: 13
+
+#[[menu.shortcuts]]
+#name: "<i class='fab fa-fw fa-github'></i> GitHub"
+#identifier: "ds"
+#url: "https://github.com/linuxreader"
+#weight: 14
+
+#[[menu.shortcuts]]
+#name: "<i class='fab fa-fw fa-linkedin'></i> LinkedIn"
+#identifier: "LinkedIn"
+#url: "https://linkedin.com/in/linuxreader/"
+#weight: 15
+
+#[services]
+#  [services.googleAnalytics]
+#  ID: 'G-23N4FSG0HM'
+
