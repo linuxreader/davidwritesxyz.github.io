@@ -19,7 +19,7 @@ params:
   disableAssetsBusting: false
   disableGeneratorVersion: false
   disableInlineCopyToClipBoard: false
-  disableShortcutsTitle: false
+  disableShortcutsTitle: true
   disableLandingPageButton: true
   disableLanguageSwitchingButton: false
   disableMarkdownButton: false
@@ -36,6 +36,14 @@ params:
   externalLinkTarget: "_blank"
   custom_css: 
     - css/custom.css
+  sidebarmenus:
+    - identifier: shortcuts
+      type: menu
+    - type: divider
+    - identifier: main
+      type: page
+      disableTitle: false
+
 
 ignoreLogs: 
   - "warning-goldmark-raw-html"
@@ -89,13 +97,6 @@ menu:
   - name: "<i class='fas fa-fw fa-clock'></i> Now"
     url: now/
     weight: 3
-  - name: "<i class='fab fa-fw fa-github'></i> GitHub"
-    url: "https://github.com/linuxreader"
-    weight: 4
-  - name: "<i class='fab fa-fw fa-linkedin'></i> LinkedIn"
-    url: "https://linkedin.com/in/linuxreader/"
-    weight: 5
-
 
 
 #[[menu.shortcuts]]
