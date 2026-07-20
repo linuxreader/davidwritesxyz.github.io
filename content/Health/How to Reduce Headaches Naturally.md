@@ -37,7 +37,7 @@ Avoid anything that feels weird or gives you "bad pain". And as always, consult 
 ## Tight muscles and their symptoms
 ### Scalenes
 
-  <img src="scalenes.png" class="grid-w50" />
+![](/images/scalenes.png)
 
 **Symptoms of tight scalene muscles**  
 {{< icon "check" >}} Numbness  
@@ -63,7 +63,7 @@ Massage the muscles in the front and side of the neck, being careful to avoid pu
 
 ### Sternocleidomastoid 
 
-  <img src="Sternocleidomastoid.png" class="grid-w50" />
+![](/images/Sternocleidomastoid.png)
 
 
 **Symptoms of tight sternocleidomastoid muscles**  
@@ -90,7 +90,7 @@ This can also cause a referred spasm in the muscle that surrounds the eye. Leadi
 Pinch and rub the big muscle you feel on the front of your neck when you turn your head. And work on your breathing and posture. 
 ### Trapezius
 
-  <img src="trapezius.png" class="grid-w50" />
+![](/images/trapezius.png)
 
 
 **Symptoms of tight trapezius muscles**  
@@ -110,7 +110,7 @@ Purposefully let your shoulders drop down multiple times during the day. This ar
 
 ### Splenius cervicis
 
-  <img src="spleniuscervicis.png" class="grid-w50" />
+![](/images/spleniuscervicis.png)
 
 
 **Symptoms of tight splenius cervicis muscles**  
@@ -132,7 +132,7 @@ Fix underlying posture issues and [learn to relax](https://www.health.harvard.ed
 
 ### Suboccipital
 
-  <img src="suboccipital.png" class="grid-w50" />
+![](/images/suboccipital.png)
 
 
 **Symptoms of tight suboccipital muscles**  
@@ -151,7 +151,7 @@ Fix underlying posture issues and [learn to relax](https://www.health.harvard.ed
 Work on your posture and try to learn healthy ways to cope with stress. Use your fingers to rub this area throughout the day.
 ### Temporalis
 
-  <img src="temporalis.png" class="grid-w50" />
+![](/images/temporalis.png)
 
 
 
