@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recipes :: Category</title>
+    <link>https://www.davidwrites.xyz.com/categories/recipes/</link>
+    <description></description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://www.davidwrites.xyz.com/categories/recipes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Creamy Jalepeno Sauce</title>
+      <link>https://www.davidwrites.xyz.com/recipes/creamy-jalepeno-sauce/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.davidwrites.xyz.com/recipes/creamy-jalepeno-sauce/</guid>
+      <description>Creamy Jalepeno Sauce</description>
+    </item>
+    <item>
+      <title>Easy Mango Salsa Quinoa Bowl</title>
+      <link>https://www.davidwrites.xyz.com/recipes/easy-mango-salsa-quinoa-bowl/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.davidwrites.xyz.com/recipes/easy-mango-salsa-quinoa-bowl/</guid>
+      <description>Easy Mango Salsa Quinoa Bowl</description>
+    </item>
+    <item>
+      <title>Marry Me Tofu</title>
+      <link>https://www.davidwrites.xyz.com/recipes/marry_me_tofu/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.davidwrites.xyz.com/recipes/marry_me_tofu/</guid>
+      <description>Marry Me Tofu</description>
+    </item>
+    <item>
+      <title>Seitan</title>
+      <link>https://www.davidwrites.xyz.com/recipes/seitan/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.davidwrites.xyz.com/recipes/seitan/</guid>
+      <description>Seitan</description>
+    </item>
+    <item>
+      <title>Tempeh Bacon</title>
+      <link>https://www.davidwrites.xyz.com/recipes/tempeh-bacon/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.davidwrites.xyz.com/recipes/tempeh-bacon/</guid>
+      <description>Tempeh Bacon</description>
+    </item>
+    <item>
+      <title>Tofu scramble</title>
+      <link>https://www.davidwrites.xyz.com/recipes/tofu-scramble/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.davidwrites.xyz.com/recipes/tofu-scramble/</guid>
+      <description>Tofu scramble</description>
+    </item>
+    <item>
+      <title>Vegan raising canes</title>
+      <link>https://www.davidwrites.xyz.com/recipes/vegan-raising-canes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.davidwrites.xyz.com/recipes/vegan-raising-canes/</guid>
+      <description>Vegan raising canes</description>
+    </item>
+    <item>
+      <title>Vegan Tofu Quesadilla</title>
+      <link>https://www.davidwrites.xyz.com/recipes/vegan-tofu-quesadilla/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.davidwrites.xyz.com/recipes/vegan-tofu-quesadilla/</guid>
+      <description>Vegan Tofu Quesadilla</description>
+    </item>
+  </channel>
+</rss>

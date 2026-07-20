@@ -1,11 +1,66 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://www.davidwrites.xyz.com/health/</loc>
+    <lastmod>2026-01-16T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>https://www.davidwrites.xyz.com/fitness/</loc>
+  </url>
+  <url>
+    <loc>https://www.davidwrites.xyz.com/parenting/</loc>
+  </url>
+  <url>
+    <loc>https://www.davidwrites.xyz.com/poetry/</loc>
+  </url>
+  <url>
+    <loc>https://www.davidwrites.xyz.com/productivity/</loc>
+  </url>
+  <url>
+    <loc>https://www.davidwrites.xyz.com/projects/</loc>
+  </url>
+  <url>
+    <loc>https://www.davidwrites.xyz.com/recipes/</loc>
+  </url>
+  <url>
+    <loc>https://www.davidwrites.xyz.com/relationships/</loc>
+  </url>
+  <url>
+    <loc>https://www.davidwrites.xyz.com/short-stories/</loc>
+  </url>
+  <url>
+    <loc>https://www.davidwrites.xyz.com/writing/</loc>
+  </url>
+  <url>
     <loc>https://www.davidwrites.xyz.com/booknotes/100m-offers/</loc>
     <lastmod>2026-02-09T00:00:00+00:00</lastmod>
   </url>
   <url>
+    <loc>https://www.davidwrites.xyz.com/health/stop-using-ai/</loc>
+    <lastmod>2026-01-16T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>https://www.davidwrites.xyz.com/tags/articles/</loc>
+    <lastmod>2025-12-30T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>https://www.davidwrites.xyz.com/categories/</loc>
+    <lastmod>2025-12-30T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>https://www.davidwrites.xyz.com/categories/health/</loc>
+    <lastmod>2025-12-30T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>https://www.davidwrites.xyz.com/tags/</loc>
+    <lastmod>2025-12-30T00:00:00+00:00</lastmod>
+  </url>
+  <url>
     <loc>https://www.davidwrites.xyz.com/booknotes/theeasywaytoquitcaffeine/</loc>
+    <lastmod>2025-12-30T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>https://www.davidwrites.xyz.com/health/the-negative-effects-of-caffeine-addiction/</loc>
     <lastmod>2025-12-30T00:00:00+00:00</lastmod>
   </url>
   <url>
@@ -18,10 +73,6 @@
   </url>
   <url>
     <loc>https://www.davidwrites.xyz.com/tags/non-fiction/</loc>
-    <lastmod>2025-10-15T00:00:00+00:00</lastmod>
-  </url>
-  <url>
-    <loc>https://www.davidwrites.xyz.com/tags/</loc>
     <lastmod>2025-10-15T00:00:00+00:00</lastmod>
   </url>
   <url>
@@ -97,18 +148,63 @@
     <lastmod>2022-05-16T00:00:00+00:00</lastmod>
   </url>
   <url>
+    <loc>https://www.davidwrites.xyz.com/health/19-biggest-lessons-from-reading-100-books/</loc>
+  </url>
+  <url>
+    <loc>https://www.davidwrites.xyz.com/health/4-ways-to-quit-caffeine/</loc>
+  </url>
+  <url>
+    <loc>https://www.davidwrites.xyz.com/health/7-steps-to-get-back-on-a-nofap-streak-immediately/</loc>
+  </url>
+  <url>
     <loc>https://www.davidwrites.xyz.com/booknotes/bookgraveyard/</loc>
   </url>
   <url>
     <loc>https://www.davidwrites.xyz.com/booknotes/books-ive-read/</loc>
   </url>
   <url>
-    <loc>https://www.davidwrites.xyz.com/categories/</loc>
+    <loc>https://www.davidwrites.xyz.com/recipes/creamy-jalepeno-sauce/</loc>
+  </url>
+  <url>
+    <loc>https://www.davidwrites.xyz.com/recipes/easy-mango-salsa-quinoa-bowl/</loc>
   </url>
   <url>
     <loc>https://www.davidwrites.xyz.com/booknotes/fiction/</loc>
   </url>
   <url>
+    <loc>https://www.davidwrites.xyz.com/health/how-to-reduce-headaches-naturally/</loc>
+  </url>
+  <url>
+    <loc>https://www.davidwrites.xyz.com/recipes/marry_me_tofu/</loc>
+  </url>
+  <url>
+    <loc>https://www.davidwrites.xyz.com/health/my-journey-with-addiction/</loc>
+  </url>
+  <url>
+    <loc>https://www.davidwrites.xyz.com/writing/nat-eliasons-seo-course/</loc>
+  </url>
+  <url>
+    <loc>https://www.davidwrites.xyz.com/categories/recipes/</loc>
+  </url>
+  <url>
+    <loc>https://www.davidwrites.xyz.com/recipes/seitan/</loc>
+  </url>
+  <url>
+    <loc>https://www.davidwrites.xyz.com/recipes/tempeh-bacon/</loc>
+  </url>
+  <url>
     <loc>https://www.davidwrites.xyz.com/booknotes/the-truth/</loc>
+  </url>
+  <url>
+    <loc>https://www.davidwrites.xyz.com/recipes/tofu-scramble/</loc>
+  </url>
+  <url>
+    <loc>https://www.davidwrites.xyz.com/recipes/vegan-raising-canes/</loc>
+  </url>
+  <url>
+    <loc>https://www.davidwrites.xyz.com/recipes/vegan-tofu-quesadilla/</loc>
+  </url>
+  <url>
+    <loc>https://www.davidwrites.xyz.com/categories/writing/</loc>
   </url>
 </urlset>
