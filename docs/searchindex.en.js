@@ -33,8 +33,8 @@ var relearn_searchindex = [
   },
   {
     "breadcrumb": "David Writes",
-    "content": "",
-    "description": "",
+    "content": "How to Deal With Short Term Discomfort\rWhy having a vision is the key to dealing with short term discomfort.",
+    "description": "How to Deal With Short Term Discomfort\rWhy having a vision is the key to dealing with short term discomfort.",
     "tags": [],
     "title": "Productivity",
     "uri": "/productivity/"
@@ -380,6 +380,14 @@ var relearn_searchindex = [
     "tags": [],
     "title": "Fiction Notes",
     "uri": "/booknotes/fiction/"
+  },
+  {
+    "breadcrumb": "David Writes \u003e Productivity",
+    "content": "You will never outpace your vision for the future. Create things mentally before you create them physically.\nEngage your thinking about what is possible for you. This makes your vision for the future compelling enough to act on.\nVision creates the emotional connection and passion needed to act on your goals.\nShort term discomfort then just becomes the reps needed to establish your vision.\nJust like lifting weights at the gym.",
+    "description": "Why having a vision is the key to dealing with short term discomfort.",
+    "tags": [],
+    "title": "How to Deal With Short Term Discomfort",
+    "uri": "/productivity/how-to-deal-with-short-term-discomfort/"
   },
   {
     "breadcrumb": "David Writes \u003e Health",

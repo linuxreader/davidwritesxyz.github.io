@@ -3,9 +3,16 @@
   <channel>
     <title>Productivity</title>
     <link>https://www.davidwrites.xyz.com/productivity/</link>
-    <description></description>
+    <description>How to Deal With Short Term Discomfort&#xD;Why having a vision is the key to dealing with short term discomfort.</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <atom:link href="https://www.davidwrites.xyz.com/productivity/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to Deal With Short Term Discomfort</title>
+      <link>https://www.davidwrites.xyz.com/productivity/how-to-deal-with-short-term-discomfort/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.davidwrites.xyz.com/productivity/how-to-deal-with-short-term-discomfort/</guid>
+      <description>Why having a vision is the key to dealing with short term discomfort.</description>
+    </item>
   </channel>
 </rss>
