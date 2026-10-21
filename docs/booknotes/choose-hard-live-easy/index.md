@@ -91,7 +91,7 @@ Where you suffer or thrive from decisions. You live in the skin you sew. Where a
 ### 3\. **Pastuality**
 The past moments that influence your current behavior. How we interpret the past can serve or sabotage us.
 
-The sands of the past lie dormant until you revive them to either server or sabotage you.
+The sands of the past lie dormant until you revive them to either serve or sabotage you.
 
 Rear view mirrors are for glances, not gazes.
 
@@ -654,6 +654,27 @@ Discomfort isn’t just inevitable but the crucible where resilience, growth, an
 **The Trap:** This is where fear lives.
 
 **The Reality:** This is the domain of the General. Most people die within a 50-mile radius of where they were born, governed by the same Easy defaults, because they never issued a Frontier Command. Committed, long-term operations: the decision to become an Olympian, a millionaire, or a person of longevity
+## Command Promotion
+To take command of power, you must elevate from skirmishes. Start launching campaigns and conquering fronteirs. 
+
+#### Campaign decisions
+Decisions that fundementally change your life and often grant you a new identity.
+
+Examples:
+- Mission to chase grandkids at 100
+- Financial freedom by 35
+
+#### Frontier decisions
+Periodic plot twists that give your life new plot twists and story arcs. 
+
+#### Ask the hard choice
+Is this a HARD choice? If I do what I'm doing now for 90 days, what is the eventuality?
+
+Carpe Momentum. Seize your power. Remember, every man dies, not every man lives. Choose Hard, or have it choose you. Your Choice. Your move. Your life.
+
+## SITREP
+## Are you winning or losing?
+
 
 
 ## Books mentioned
