@@ -398,6 +398,14 @@ var relearn_searchindex = [
     "uri": "/health/how-to-reduce-headaches-naturally/"
   },
   {
+    "breadcrumb": "David Writes",
+    "content": "",
+    "description": "",
+    "tags": [],
+    "title": "Images",
+    "uri": "/images/"
+  },
+  {
     "breadcrumb": "David Writes \u003e Recipes",
     "content": "https://theeburgerdude.com/marry-me-tofu/\nTwo blocks super firm tofu\nMarinade: 1/4C mayo 1/4C soy sauce 1/4C Nooch 1t Onion Powder 1t Garlic powder 1t smoked paprika 2T hot sauce 2T water 1t vinegar\nDredge in flour\nSauce: 1/2C Raw Cashews (cover in boiling water for 10 minutes) 1C unsweetened plant mylk\n2T Vegan butter 5 Cloves minced garlic 1T Italian seasoning 1t calabrian chiles (or red pepper flakes) 2C vegan chick’n broth 1T Dijon mustard (Edmond Fallot preferred over grey poupon) 1/2C Vegan follow your heart parmesan 1/3C Sun dried tomatoes Salt and pepper to taste\nFettuccine",
     "description": "Marry Me Tofu",
