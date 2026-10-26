@@ -163,21 +163,11 @@ var relearn_searchindex = [
   },
   {
     "breadcrumb": "David Writes \u003e book notes",
-    "content": "Just as good as Starrett’s other books. I would argue better if you really want to narrow down your focus to essential movement patterns. Could have been better and Kelly sometimes uses weird analogy’s that don’t make sense. Like the potato chip thing in his videos. Definitely one to keep coming back to to make sure you are doing these 10 things to keep you moving.\nSummary and Highlights",
-    "description": "Built to Move 9/10",
-    "tags": [
-      "Non-Fiction"
-    ],
-    "title": "Built to Move",
-    "uri": "/booknotes/built-to-move/"
-  },
-  {
-    "breadcrumb": "David Writes \u003e Tags",
-    "content": "",
-    "description": "",
+    "content": "★★★★☆ Just as good as Starrett's other books. Better if you really want to narrow down your focus to essential movement patterns. Kelly sometimes uses weird analogy's that don't make sense. Like the potato chip thing in his videos. Make sure you are doing these 10 things to keep you moving nicely. My Notes There are a lot of exercises and mobility prescriptions to help improve your movement in the book. I left them out of my notes for brevity.\nSit on the floor for 30 minutes per day.\nBreath to maximize CO Tolerance. CO2 prompts hemoglobin to release O2. The more CO2 you can tolerate (the longer and slower your exhales, the more oxygen you’ll be able to utilize.\nDo butt squeezes throughout the day. 15 minutes a day can improve hip extension and glute strength.\nWalkers sleep better, have better brain function, raise pain tolerance, have less stress, and enhanced creativity.\nShoulders are the key to a pain-free neck. Strengthening isometrics - not stretching the neck - is how you make your neck feel better.\nEat lots of fruits and vegetables.\nSquatting engages end range tissue which saves that tissue from disuse related thinning and stress.\nContrast therapy is when you cycle between hot and cold to deliver more oxygen and nutrients to muscles and other tissues. Which leads to better recovery.\nPractice balance with a slack line, balance board, bosu ball, balance beam, or Slack Block. Get creative.\nCreate a movement rich environment. Spend less time sitting. Get out of your chair every 30 minutes.\n7 to 9 hours of sleep. Lack of sleep increases pain and pain sensitivity, can cause weight gain, and inflammation. Go to sleep and wake up at the same time every day. No technology before bed. Be careful with caffeine. Exercise and move lots. Don’t drink alcohol. Drop body temp before bed. Bedroom should be dark and quiet.\nBooks mentioned John Ratey - Spark: The revolutionary New Science of Exercise and the Brain Michael Easter - The Comfort Crisis",
+    "description": "Built to Move Summary and Notes",
     "tags": [],
-    "title": "Tag :: Non-Fiction",
-    "uri": "/tags/non-fiction/"
+    "title": "Built to Move Summary and Notes",
+    "uri": "/booknotes/built-to-move/"
   },
   {
     "breadcrumb": "David Writes \u003e book notes",
@@ -202,6 +192,14 @@ var relearn_searchindex = [
     "tags": [],
     "title": "The Willpower Instinct Summary and Notes",
     "uri": "/booknotes/thewillpowerinstinct/"
+  },
+  {
+    "breadcrumb": "David Writes \u003e Tags",
+    "content": "",
+    "description": "",
+    "tags": [],
+    "title": "Tag :: Non-Fiction",
+    "uri": "/tags/non-fiction/"
   },
   {
     "breadcrumb": "David Writes \u003e book notes",
