@@ -2,8 +2,6 @@
 
 The Importance of Calorie Tracking in Effective Weight Loss
 
-
-
 I just wanted to talk about why tracking calories makes dieting easier. When you track calories, you have very fine-grain control over your energy requirements. So, say you maintain weight at 3,000 calories and you eat 3,000 calories per day. Your weight will stay the same, and depending on your level of fitness, you may grow muscle as a beginner and lose fat. You may just maintain muscle but gain strength. 
 
 While you're dieting, your body can lose about two pounds of fat per week. Anything more than that, and your body is going to struggle to hold on to muscle mass. This becomes a problem when you lose weight too fast because you're doing fasting or you're not tracking your calories, and you're just not eating anything. If you're losing five pounds a week or something, this is going to take a toll on you mentally. It's going to eat into your recovery, which is going to make you feel terrible. You're not going to have energy, and you really won't know how much you need to eat to lose weight. It's just guesswork. You might even eat too much and gain weight, or you just won't see progress.

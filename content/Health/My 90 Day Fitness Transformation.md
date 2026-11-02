@@ -92,3 +92,4 @@ Week 4 (9/7-9/13):
 Weight: 196 > 193.8
 Average calories: 2,948
 
+

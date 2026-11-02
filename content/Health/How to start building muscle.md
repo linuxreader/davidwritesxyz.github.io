@@ -1,3 +1,8 @@
+---
+title: Getting Started with Building Muscle
+description: Very basics of building muscle
+---
+
 If I were you, I'd build up a base with the most basic compound movements and ignore everything else for a while. Basic compounds are as follows:
 
 1. Squat; Bodyweight squats may be easiest to start with before moving to barbell squats or some other weighted version.

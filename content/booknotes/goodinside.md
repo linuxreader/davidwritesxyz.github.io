@@ -2,7 +2,6 @@
 title: 'Good Inside Summary and Notes'
 date: 2025-02-22
 description: "Good Inside Summary and Notes"
-summary: "Good Inside Summary and Notes"
 draft: false
 ---
 <div style="display:flex; gap:1rem; align-items:flex-start;">

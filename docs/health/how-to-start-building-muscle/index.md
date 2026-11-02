@@ -1,4 +1,4 @@
-# 
+# Getting Started with Building Muscle
 
 If I were you, I'd build up a base with the most basic compound movements and ignore everything else for a while. Basic compounds are as follows:
 
