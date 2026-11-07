@@ -29,6 +29,8 @@ showDate: false
 [![](/images/nlmg.jpg?classes=inline,border&width=100px&lightbox=false)](https://amzn.to/43mbzYy)
 [![](/images/fotr.jpg?classes=inline,border&width=100px&lightbox=false)](https://amzn.to/4ycln5t)
 [![](/images/wubc.jpg?classes=inline,border&width=100px&lightbox=false)](https://amzn.to/4z2GuYy)
+[![](/images/ts.png?classes=inline,border&width=100px&lightbox=false)](https://a.co/d/04wViyJq)
+[![](/images/tomats.png?classes=inline,border&width=100px&lightbox=false)](https://a.co/d/0amefQr7)
 
 ## Writing
 
